@@ -118,5 +118,13 @@
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 16,
+    "name": "Bijoy tv",
+    "category": "NOWSHIN ",
+    "url": "https://sm-monirul.top/toffee/play/bijoytv.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s",
+    "status": "Online"
   }
 ]
