@@ -1,9 +1,9 @@
-name: 🔄 NowshinTV Premium 24/7 Scanner
+name: 🔄 NowshinTV Premium 24/7 Auto Scanner
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর পর নিখুঁত অটো-চেক
-  workflow_dispatch: 
+    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর পর অটো-চেক (শর্ত ১, ২, ৩, ৮)
+  workflow_dispatch:
 
 jobs:
   check-streams:
@@ -26,30 +26,37 @@ jobs:
         const fs = require('fs');
         const axios = require('axios');
 
-        // ৩ বার নিখুঁত যাচাই লজিক (ভুল করে লাইভ চ্যানেল বন্ধ হবে না)
-        async function verifyUrl(url) {
-          const cleanUrl = url.split('|')[0].trim();
-          const userAgents = [
-            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-            'Mozilla/5.0 (Linux; Android 10; Televizo) Player/1.0',
-            'VLC/3.0.18 LibVLC/3.0.18'
-          ];
+        // সব ধরনের জটিল লিংক, রেফারার ও ইউজার এজেন্ট হ্যান্ডলিং (শর্ত ১৯)
+        function parseUrlAndHeaders(rawUrl) {
+          const parts = rawUrl.split('|');
+          const cleanUrl = parts[0].trim();
+          const headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' };
           
+          if (parts.length > 1) {
+            const queryParts = parts[1].split('&');
+            queryParts.forEach(p => {
+              const kv = p.split('=');
+              if (kv.length === 2) {
+                const key = kv[0].trim().toLowerCase();
+                const value = decodeURIComponent(kv[1].trim());
+                if (key === 'referer') headers['Referer'] = value;
+                if (key === 'user-agent') headers['User-Agent'] = value;
+              }
+            });
+          }
+          return { cleanUrl, headers };
+        }
+
+        // ৩ বার রি-ট্রাই লজিক যেন ভালো চ্যানেল ভুল করে বন্ধ না হয় (শর্ত ৪, ৫, ৯, ১১)
+        async function verifyUrl(rawUrl) {
+          const { cleanUrl, headers } = parseUrlAndHeaders(rawUrl);
           for (let i = 0; i < 3; i++) {
             try {
-              const res = await axios.get(cleanUrl, { 
-                timeout: 8000,
-                headers: { 
-                  'User-Agent': userAgents[i % userAgents.length],
-                  'Accept': '*/*'
-                }
-              });
+              const res = await axios.get(cleanUrl, { timeout: 7000, headers });
               if (res.status === 200 || res.status === 206) return true;
             } catch (e) {
-              if (e.response && [200, 206, 401, 403].includes(e.response.status)) {
-                return true; // টোকেন বা সিকিউরড লিংক সচল ধরা হবে
-              }
-              if (i < 2) await new Promise(r => setTimeout(r, 2000)); // ফেল করলে ২ সেকেন্ড ব্রেক দিয়ে আবার চেষ্টা
+              if (e.response && [200, 206, 401, 403].includes(e.response.status)) return true;
+              if (i < 2) await new Promise(r => setTimeout(r, 2000));
             }
           }
           return false;
@@ -70,21 +77,16 @@ jobs:
             if (line.startsWith('#EXTINF:')) {
               currentExt = line;
             } else if (line.startsWith('http')) {
-              const infoLine = currentExt ? currentExt : `#EXTINF:-1,Channel`;
-              console.log(`🔍 Verifying Stream: ${line}`);
-              
+              const infoLine = currentExt || `#EXTINF:-1,Channel`;
               const isLive = await verifyUrl(line);
 
+              let cleanInfo = infoLine.replace(" (OFFLINE)", "");
               if (isLive) {
-                // চ্যানেল সচল থাকলে স্বাভাবিকভাবে মেইন প্লেলিস্টে থাকবে
-                let cleanInfo = infoLine.replace(" (OFFLINE)", "");
+                // চ্যানেল চালু থাকলে স্বাভাবিকভাবে অ্যাড হবে (শর্ত ৩)
                 updatedM3u += cleanInfo + '\n' + line + '\n';
-                console.log(`🟢 [ONLINE] -> Stream is perfectly running.`);
               } else {
-                // চ্যানেল বন্ধ হলে প্লেলিস্টে থাকবে কিন্তু (OFFLINE) ট্যাগ হবে যা Televizo ফিল্টার করে বাদ দেবে
-                let cleanInfo = infoLine.replace(" (OFFLINE)", "");
+                // বন্ধ থাকলে (OFFLINE) ট্যাগ বসবে যা Televizo থেকে হাইড হয়ে যাবে (শর্ত ২)
                 updatedM3u += `${cleanInfo} (OFFLINE)\n${line}\n`;
-                console.log(`🔴 [OFFLINE] -> Stream is dead or down.`);
               }
               currentExt = null;
             }
