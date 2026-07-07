@@ -190,5 +190,13 @@
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
     "logo": "https://www.jagobd.com/wp-content/uploads/2021/11/globaltv.jpg",
     "status": "Online"
+  },
+  {
+    "serial": 25,
+    "name": "Channel S",
+    "category": "NOWSHIN ",
+    "url": "https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Oxh0bROtymSkxymLlZ4G8Un2IjEHIFc5AC91H5WWwA&s",
+    "status": "Online"
   }
 ]
