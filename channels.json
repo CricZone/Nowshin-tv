@@ -62,5 +62,13 @@
     "url": "http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8?token=400bcae797249d11b14d2d2d7c79f420be526c6c-ddb0dcf96098de24e09d7f9a9476072e-1776169971-1776166371&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s",
     "status": "Offline"
+  },
+  {
+    "serial": 9,
+    "name": "Deepto Tv",
+    "category": "NOWSHIN",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10",
+    "status": "Online"
   }
 ]
