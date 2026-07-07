@@ -45,3 +45,5 @@ http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="Channel 1" tvg-logo="https://static.wikitide.net/avidwiki/c/ca/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="NOWSHIN ",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Chanbel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s" group-title="NOWSHIN ",Chanbel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
