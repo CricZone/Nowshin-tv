@@ -206,5 +206,13 @@
     "url": "http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 27,
+    "name": "Jago News ",
+    "category": "NOWSHIN ",
+    "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png",
+    "status": "Online"
   }
 ]
