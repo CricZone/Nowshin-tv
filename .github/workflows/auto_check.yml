@@ -1,0 +1,81 @@
+name: 🔄 NowshinTV 24/7 Auto Scanner
+
+on:
+  schedule:
+    - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পরপর আপনার ফোন বন্ধ থাকলেও অটোমেটিক রান হবে
+  workflow_dispatch: # ইচ্ছা হলে গিটহাব থেকেও ম্যানুয়ালি রান করা যাবে
+
+jobs:
+  check-channels:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-node-version: '20'
+
+    - name: Install Dependencies
+      run: npm install axios
+
+    - name: Run Stream Validation Scanner
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        cat << 'EOF' > scanner.js
+        const fs = require('fs');
+        const axios = require('axios');
+
+        async function verifyUrl(url) {
+          const cleanUrl = url.split('|')[0].trim();
+          for (let i = 0; i < 3; i++) {
+            try {
+              const res = await axios.get(cleanUrl, { 
+                timeout: 5000,
+                headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' }
+              });
+              if (res.status === 200) return true;
+            } catch (e) {
+              if (e.response && (e.response.status === 200 || e.response.status === 403)) return true; // Handling no-cors variants safely
+              await new Promise(r => setTimeout(r, 1000));
+            }
+          }
+          return false;
+        }
+
+        async function start() {
+          if (!fs.existsSync('playlist.m3u')) return;
+          const content = fs.readFileSync('playlist.m3u', 'utf8');
+          const lines = content.split('\n');
+          let updatedM3u = "#EXTM3U\n";
+          let currentExt = null;
+
+          for (let line of lines) {
+            line = line.trim();
+            if (line.startsWith('#EXTINF:')) {
+              currentExt = line;
+            } else if (line.startsWith('http') && currentExt) {
+              const isLive = await verifyUrl(line);
+              if (isLive) {
+                updatedM3u += currentExt + '\n' + line + '\n';
+              } else {
+                console.log(`[OFFLINE REMOVED] -> ${line}`);
+              }
+              currentExt = null;
+            }
+          }
+          fs.writeFileSync('playlist.m3u', updatedM3u);
+        }
+        start();
+        EOF
+        node scanner.js
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "NowshinTV-Bot"
+        git config --global user.email "bot@nowshintv.com"
+        git add playlist.m3u
+        git diff-index --quiet HEAD || git commit -m "⚡ Automated 24/7 Playlist Sync [Clean Dead Links]"
+        git push
