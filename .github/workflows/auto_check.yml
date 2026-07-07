@@ -1,12 +1,12 @@
-name: 🔄 NowshinTV 24/7 Auto Scanner
+name: 🔄 NowshinTV Premium 24/7 Scanner
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর পর চেক করবে (ইনস্ট্যান্টের কাছাকাছি স্পিড পেতে)
+    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর পর নিখুঁত অটো-চেক
   workflow_dispatch: 
 
 jobs:
-  check-channels:
+  check-streams:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Repository
@@ -20,31 +20,36 @@ jobs:
     - name: Install Dependencies
       run: npm install axios
 
-    - name: Run Stream Validation Scanner
+    - name: Run Deep Stream Validation
       run: |
         cat << 'EOF' > scanner.js
         const fs = require('fs');
         const axios = require('axios');
 
+        // ৩ বার নিখুঁত যাচাই লজিক (ভুল করে লাইভ চ্যানেল বন্ধ হবে না)
         async function verifyUrl(url) {
           const cleanUrl = url.split('|')[0].trim();
+          const userAgents = [
+            'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Mozilla/5.0 (Linux; Android 10; Televizo) Player/1.0',
+            'VLC/3.0.18 LibVLC/3.0.18'
+          ];
+          
           for (let i = 0; i < 3; i++) {
             try {
-              // HEAD রিকোয়েস্ট বেশি নিরাপদ এবং ফাস্ট, ব্লক হওয়ার চান্স কম
-              const res = await axios.head(cleanUrl, { 
-                timeout: 7000,
-                headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) IPTV' }
+              const res = await axios.get(cleanUrl, { 
+                timeout: 8000,
+                headers: { 
+                  'User-Agent': userAgents[i % userAgents.length],
+                  'Accept': '*/*'
+                }
               });
-              if (res.status >= 200 && res.status < 400) return true;
+              if (res.status === 200 || res.status === 206) return true;
             } catch (e) {
-              // কিছু সার্ভার HEAD ব্লক করলে GET দিয়ে শেষ চেষ্টা করবে
-              try {
-                const resGet = await axios.get(cleanUrl, { timeout: 5000, headers: { 'User-Agent': 'Mozilla/5.0' } });
-                if (resGet.status === 200) return true;
-              } catch (err) {
-                if (err.response && (err.response.status === 200 || err.response.status === 403 || err.response.status === 401)) return true;
+              if (e.response && [200, 206, 401, 403].includes(e.response.status)) {
+                return true; // টোকেন বা সিকিউরড লিংক সচল ধরা হবে
               }
-              await new Promise(r => setTimeout(r, 1500));
+              if (i < 2) await new Promise(r => setTimeout(r, 2000)); // ফেল করলে ২ সেকেন্ড ব্রেক দিয়ে আবার চেষ্টা
             }
           }
           return false;
@@ -60,27 +65,26 @@ jobs:
 
           for (let line of lines) {
             line = line.trim();
-            if (!line) continue;
+            if (!line || line === '#EXTM3U') continue;
 
             if (line.startsWith('#EXTINF:')) {
               currentExt = line;
             } else if (line.startsWith('http')) {
-              // যদি আগের লাইনে #EXTINF না থাকে (শুধু লিংক থাকে)
               const infoLine = currentExt ? currentExt : `#EXTINF:-1,Channel`;
+              console.log(`🔍 Verifying Stream: ${line}`);
               
-              console.log(`Checking: ${line}...`);
               const isLive = await verifyUrl(line);
 
               if (isLive) {
-                // চ্যানেল লাইভ থাকলে যেভাবে আছে সেভাবেই থাকবে (যদি আগে ডিজেবল করা থাকে, সেটা কেটে যাবে)
+                // চ্যানেল সচল থাকলে স্বাভাবিকভাবে মেইন প্লেলিস্টে থাকবে
                 let cleanInfo = infoLine.replace(" (OFFLINE)", "");
                 updatedM3u += cleanInfo + '\n' + line + '\n';
-                console.log(`[🟢 ONLINE] -> Active`);
+                console.log(`🟢 [ONLINE] -> Stream is perfectly running.`);
               } else {
-                // 🛑 চ্যানেল বন্ধ হলে ডিলিট হবে না! নামের পাশে (OFFLINE) লেখা উঠবে যেন প্লেয়ারে না চলে
+                // চ্যানেল বন্ধ হলে প্লেলিস্টে থাকবে কিন্তু (OFFLINE) ট্যাগ হবে যা Televizo ফিল্টার করে বাদ দেবে
                 let cleanInfo = infoLine.replace(" (OFFLINE)", "");
                 updatedM3u += `${cleanInfo} (OFFLINE)\n${line}\n`;
-                console.log(`[🔴 OFFLINE] -> Tagged as Offline`);
+                console.log(`🔴 [OFFLINE] -> Stream is dead or down.`);
               }
               currentExt = null;
             }
@@ -91,10 +95,10 @@ jobs:
         EOF
         node scanner.js
 
-    - name: Commit and Push Changes
+    - name: Commit and Push Updates
       run: |
         git config --global user.name "NowshinTV-Bot"
         git config --global user.email "bot@nowshintv.com"
         git add playlist.m3u
-        git diff-index --quiet HEAD || git commit -m "⚡ Smart Playlist Sync [Toggle Online/Offline]"
+        git diff-index --quiet HEAD || git commit -m "🔄 [Bot Sync] 24/7 Automation Sync Completed"
         git push
