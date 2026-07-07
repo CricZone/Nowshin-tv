@@ -6,5 +6,13 @@
     "url": "http://180.94.28.28:8097//BTV/index.fmp4.m3u8",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x95285",
     "status": "Offline"
+  },
+  {
+    "serial": 2,
+    "name": "Btc",
+    "category": "Niw",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285",
+    "status": "Online"
   }
 ]
