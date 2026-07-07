@@ -110,5 +110,13 @@
     "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s",
     "status": "Online"
+  },
+  {
+    "serial": 15,
+    "name": "Ntv",
+    "category": "NOWSHIN ",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10",
+    "status": "Online"
   }
 ]
