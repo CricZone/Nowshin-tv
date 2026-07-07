@@ -70,5 +70,13 @@
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 10,
+    "name": "Rtv",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e522f823b1f98-97e413b19434555ee18530e886a6762f-1776169971-1776166371&remote=no_check_ip",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
+    "status": "Offline"
   }
 ]
