@@ -166,5 +166,13 @@
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 22,
+    "name": "Duranto tv",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
+    "status": "Offline"
   }
 ]
