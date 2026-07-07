@@ -230,5 +230,13 @@
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s",
     "status": "Online"
+  },
+  {
+    "serial": 30,
+    "name": "Atn News",
+    "category": "NOWSHIN ",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s",
+    "status": "Online"
   }
 ]
