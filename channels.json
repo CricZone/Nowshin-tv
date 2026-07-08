@@ -382,5 +382,13 @@
     "url": "http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtmoCQuf84CkcQjeXJ5YeTsYXxRxbPmi3ZgXM4PfGWg&s",
     "status": "Offline"
+  },
+  {
+    "serial": 49,
+    "name": "A sports ",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d2397f4f804786e912-e28e29b2b0adcb34dcc735b4cad51009-1776169972-1776166372&remote=no_check_ip",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwxQ0A7D8kg4cxjQN7jNmbhXrXRr4iPkknsQKTaE7fw&s",
+    "status": "Offline"
   }
 ]
