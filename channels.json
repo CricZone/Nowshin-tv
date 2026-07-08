@@ -502,5 +502,13 @@
     "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 64,
+    "name": "Sangeet Bhujpuri",
+    "category": "NOWSHIN ",
+    "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
+    "status": "Online"
   }
 ]
