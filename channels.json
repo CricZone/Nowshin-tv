@@ -358,5 +358,13 @@
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrukafE-fFtP2zGCxL7XghqcfIQks3c_Ef4FU9S5l4c4IU144IX6L&s",
     "status": "Online"
+  },
+  {
+    "serial": 46,
+    "name": "Sun Bangla",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10",
+    "status": "Offline"
   }
 ]
