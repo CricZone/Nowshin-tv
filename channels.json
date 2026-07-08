@@ -374,5 +374,13 @@
     "url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IjKpig0cDFeHhQ8bA-Djdj0h1rBqpXzk-Lv0xCJz6Q&s",
     "status": "Online"
+  },
+  {
+    "serial": 48,
+    "name": "Ptv",
+    "category": "NOWSHIN ",
+    "url": "http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtmoCQuf84CkcQjeXJ5YeTsYXxRxbPmi3ZgXM4PfGWg&s",
+    "status": "Offline"
   }
 ]
