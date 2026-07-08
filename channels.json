@@ -310,5 +310,13 @@
     "url": "http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=1da1361f5596113df8a71926e1d7831369938f93-dc2b512c88af04d4ed4ff9087e498efa-1776169972-1776166372&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvS9lT69noSPvr5LdsJ373Qh3ugjYYK0mHHXcaI4wSB3s3bMFu-WCB8bUAfwsHx9oWnSsAypY2DkEXc8mYQH7vtbxXp2RI5Vjoj6_edDR&s=10",
     "status": "Offline"
+  },
+  {
+    "serial": 40,
+    "name": "Zee Bangla ",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qy4MhEPTa0jDGNe1KUvNxbdLa2rd6I-xao4AdnO4KQ&s",
+    "status": "Offline"
   }
 ]
