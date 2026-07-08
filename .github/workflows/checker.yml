@@ -1,172 +1,105 @@
-name: 15-Min Auto Channel Checker Bot
+Name: 15-Min Auto Channel Checker Bot
 on:
-  schedule:
+  Schedule:
     - cron: '*/15 * * * *'
-  workflow_dispatch:
+  Workflow_dispatch:
 
-jobs:
-  check-channels:
-    runs-on: ubuntu-latest
-    steps:
+Jobs:
+  Check-channels:
+    Runs-on: ubuntu-latest
+    Steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        Uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+        Uses: actions/setup-node@v4
+        With:
+          Node-version: 20
 
       - name: Run Checker Script
-        run: |
-          node -e '
-          const fs = require("fs");
-          const https = require("https");
-          const http = require("http");
+        Run: |
+          Node -e '
+          Const fs = require("fs");
+          Const https = require("https");
+          Const http = require("http");
 
-          // স্ট্রিমের ভেতরের কন্টেন্ট নিখুঁতভাবে যাচাই করার ফাংশন
-          async function checkStreamContent(url) {
-            let cleanUrl = url.split("|")[0].trim();
-            let headers = { 
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+          Async function checkUrl(url) {
+            Let cleanUrl = url.split("|")[0].trim();
+            Let headers = { 
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
               "Accept": "*/*"
             };
             
-            if (url.includes("|")) {
-              let parts = url.split("|")[1].split("&");
-              parts.forEach(p => {
-                if (p.includes("=")) {
-                  let kv = p.split("=");
-                  let key = kv[0].trim().toLowerCase();
-                  let val = kv[1].trim();
-                  if(key === "referer") headers["Referer"] = val;
-                  if(key === "user-agent") headers["User-Agent"] = val;
+            If (url.includes("|")) {
+              Let parts = url.split("|")[1].split("&");
+              Parts.forEach(p => {
+                Let kv = p.split("=");
+                If(kv[0] && kv[1]) {
+                  If(kv[0].toLowerCase() === "referer") headers["Referer"] = kv[1];
+                  If(kv[0].toLowerCase() === "user-agent") headers["User-Agent"] = kv[1];
                 }
               });
             }
 
-            return new Promise((resolve) => {
-              try {
-                const client = cleanUrl.startsWith("https") ? https : http;
-                
-                // কন্টেন্ট ভ্যালিডেশনের জন্য GET রিকোয়েস্ট (টাইমআউট ৮ সেকেন্ড করা হলো যেন স্লো স্ট্রিমও মিস না হয়)
-                const options = { method: "GET", headers: headers, timeout: 8000 };
-
-                const req = client.request(cleanUrl, options, (res) => {
-                  let statusCode = res.statusCode;
-                  
-                  // যদি সফল কোড না আসে (যেমন ৪MD, ৪MD, ৫MD এরর) তবে সরাসরি ডেড বা অফলাইন
-                  if (statusCode < 200 || statusCode >= 400) {
-                    resolve(false);
-                    return;
-                  }
-
-                  let body = "";
-                  res.setEncoding("utf8");
-                  
-                  // পুরো ফাইল ডাউনলোড করার দরকার নেই, প্রথম ২ কিলোবাইট ডেটা পেলেই আসল চেনা যাবে
-                  res.on("data", (chunk) => {
-                    body += chunk;
-                    if (body.length > 2048) {
-                      req.destroy(); // ডেটা পাওয়া গেছে, কানেকশন ক্লোজ করো সময় বাঁচাতে
-                    }
-                  });
-
-                  res.on("end", () => {
-                    let content = body.toUpperCase();
-                    // টোফি বা ফেক লিঙ্কের ভেতরের টেক্সট চেক: অবশ্যই আসল m3u8 এর ফরম্যাট থাকতে হবে
-                    if (content.includes("#EXTM3U") || content.includes("#EXT-X") || content.includes("M3U8") || content.includes("CHUNK") || content.includes("TS")) {
-                      if (content.includes("UNAUTHORIZED") || content.includes("EXPIRED") || content.includes("DENIED") || content.includes("ERROR")) {
-                        resolve(false); // কোড ২০০ হলেও ভেতরে এরর মেসেজ থাকলে অফলাইন
-                      } else {
-                        resolve(true);  // ১০০% জেনুইন লাইভ স্ট্রিম
-                      }
-                    } else {
-                      // যদি রেসপন্স টেক্সট বা HTML পেইজ হয় (যা বন্ধ লিঙ্কে সাধারণত আসে)
-                      resolve(false);
-                    }
-                  });
-                });
-
-                req.on("error", () => resolve(false));
-                req.on("timeout", () => { req.destroy(); resolve(false); });
-                req.end();
-              } catch (e) {
-                resolve(false);
-              }
+            Return new Promise((resolve) => {
+              Const client = cleanUrl.startsWith("https") ? https : http;
+              // Toffee বা dynamic লিঙ্ক ভেরিফিকেশনের জন্য GET মেথড ব্যবহার করা হলো
+              Const req = client.request(cleanUrl, { method: "GET", headers: headers, timeout: 7000 }, (res) => {
+                If (res.statusCode >= 200 && res.statusCode < 400) resolve(true);
+                Else resolve(false);
+              });
+              Req.on("error", () => resolve(false));
+              Req.on("timeout", () => { req.destroy(); resolve(false); });
+              Req.end();
             });
           }
 
-          async function start() {
-            if (!fs.existsSync("channels.json")) {
-              console.log("channels.json file not found!");
-              return;
-            }
-            
-            let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
-            let changed = false;
-            let recoveredChannels = [];
+          Async function start() {
+            If (!fs.existsSync("channels.json")) return;
+            Let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
+            Let changed = false;
 
-            console.log(`Checking ${channels.length} channels sequentially...`);
-
-            for (let ch of channels) {
-              let isLive = await checkStreamContent(ch.url);
-              let newStatus = isLive ? "Online" : "Offline";
-              
-              if (ch.status !== newStatus) {
-                console.log(`[STATUS CHANGED] ${ch.name}: ${ch.status || "Unknown"} -> ${newStatus}`);
-                if (ch.status === "Offline" && newStatus === "Online") {
-                  recoveredChannels.push(ch.name); // কোন কোন চ্যানেল অটো ঠিক হলো তার ট্র্যাক রাখা
-                }
-                ch.status = newStatus;
-                changed = true;
+            For (let ch of channels) {
+              Let isLive = await checkUrl(ch.url);
+              Let newStatus = isLive ? "Online" : "Offline";
+              If (ch.status !== newStatus) {
+                Ch.status = newStatus;
+                Changed = true;
               }
             }
 
-            // যদি কোনো পরিবর্তন হয় অথবা প্লেলিস্ট ফাইলটি না থাকে
-            if (changed || !fs.existsSync("playlist.m3u")) {
-              fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
+            If (changed) {
+              Fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
               
-              let m3u = "#EXTM3U\n";
-              
-              // ৫ নং শর্ত: ইউজারদের জন্য নোটিশ চ্যানেল (প্লেলিস্টের একদম উপরে থাকবে)
-              let timeString = new Date().toLocaleString("en-US", {timeZone: "Asia/Dhaka"});
-              let noticeText = "⚡ Auto-Synced: System is 100% OK";
-              if (recoveredChannels.length > 0) {
-                noticeText = `🟢 Fixed: ${recoveredChannels.join(", ")} Updated!`;
-              }
-              m3u += `#EXTINF:-1 tvg-id=\"Notice\" tvg-name=\"System Notice\" tvg-logo=\"https://i.postimg.cc/P5Ygkv9Z/sync-notice.png\" group-title=\"SYSTEM INFO\",${noticeText} (${timeString.split(",")[1].trim()})\nhttp://0.0.0.0/notice.mp4\n\n`;
-              
-              // মেইন চ্যানেলগুলো লুপ করে প্লেলিস্টে বসানো
-              channels.forEach(ch => {
-                if (ch.status === "Online") { 
-                  let cleanUrl = ch.url.split("|")[0].trim();
-                  let extra = "";
-                  if (ch.url.includes("|")) {
-                    let parts = ch.url.split("|")[1].split("&");
-                    parts.forEach(p => {
-                      if (p.includes("=")) {
-                        let kv = p.split("=");
-                        if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
-                        if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
-                      }
+              // dynamic M3U Playlist জেনারেশন (শুধু অনলাইন চ্যানেল থাকবে Televizo এর জন্য)
+              Let m3u = "#EXTM3U\n";
+              Channels.forEach(ch => {
+                If (ch.status === "Online") {
+                  Let cleanUrl = ch.url.split("|")[0].trim();
+                  Let extra = "";
+                  If (ch.url.includes("|")) {
+                    Let parts = ch.url.split("|")[1].split("&");
+                    Parts.forEach(p => {
+                      Let kv = p.split("=");
+                      If(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
+                      If(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
                     });
                   }
-                  m3u += `#EXTINF:-1 tvg-id=\"${ch.serial}\" tvg-name=\"${ch.name}\" tvg-logo=\"${ch.logo}\" group-title=\"${ch.category}\",${ch.name}\n${cleanUrl}${extra}\n`;
+                  M3u += `#EXTINF:-1 tvg-id=\"${ch.serial}\" tvg-name=\"${ch.name}\" tvg-logo=\"${ch.logo}\" group-title=\"${ch.category}\",${ch.name}\n${cleanUrl}${extra}\n`;
                 }
               });
-              
-              fs.writeFileSync("playlist.m3u", m3u);
-              console.log("Database & Playlist updated with advanced content validation.");
+              Fs.writeFileSync("playlist.m3u", m3u);
+              Console.log("Database & Dynamic Playlist updated successfully via Bot.");
             } else {
-              console.log("All channels verified. No fake or broken links detected.");
+              Console.log("No status variance detected.");
             }
           }
-          start();
+          Start();
           '
 
       - name: Commit and Push Changes
-        run: |
-          git config --global user.name "NowshinTV Bot"
-          git config --global user.email "bot@nowshintv.com"
-          git add channels.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Updated Channel Status & Playlist" && git push)
+        Run: |
+          Git config --global user.name "NowshinTV Bot"
+          Git config --global user.email "bot@nowshintv.com"
+          Git add channels.json playlist.m3u
+          Git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Sync Channel States & M3U Playlist" && git push)
