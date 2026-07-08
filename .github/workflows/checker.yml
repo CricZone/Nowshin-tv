@@ -1,3 +1,21 @@
+name: 15-Min Auto Channel Checker Bot
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-channels:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
       - name: Run Advanced Stream Checker Script
         run: |
           node -e '
@@ -28,7 +46,6 @@
                 const parsedUrl = new URL(cleanUrl);
                 const client = parsedUrl.protocol === "https:" ? https : http;
                 
-                // এখানে HEAD রিকোয়েস্ট ব্যবহার করা হয়েছে, যা ভিডিও ডাউনলোড না করে শুধু লিংক সচল কি না চেক করে
                 const options = {
                   method: "HEAD",
                   headers: headers,
@@ -36,11 +53,9 @@
                 };
 
                 const req = client.request(cleanUrl, options, (res) => {
-                  // যদি স্ট্রিমিং সার্ভার ২০০ বা ৩০০ রেঞ্জের রেসপন্স দেয় (Redirect সহ)
                   if (res.statusCode >= 200 && res.statusCode < 400) {
                     resolve(true);
                   } else {
-                    // কিছু কিছু স্ট্রিমিং সার্ভার HEAD রিকোয়েস্ট ব্লক করে, তাদের জন্য ব্যাকআপ GET
                     if (res.statusCode === 405 || res.statusCode === 404) {
                       options.method = "GET";
                       const getReq = client.request(cleanUrl, options, (getRes) => {
@@ -75,7 +90,7 @@
             }
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             
-            console.log("Starting Verification for " + channels.length + " channels...");
+            print("Starting Verification for " + channels.length + " channels...");
             
             for (let ch of channels) {
               let isLive = await checkUrl(ch.url);
@@ -111,3 +126,10 @@
           }
           start();
           '
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "NowshinTV Bot"
+          git config --global user.email "bot@nowshintv.com"
+          git add channels.json playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Updated Channel Status & Playlist [Skip CI]" && git push)
