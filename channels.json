@@ -454,5 +454,13 @@
     "url": "http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
     "status": "Offline"
+  },
+  {
+    "serial": 58,
+    "name": "Discovery ",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
+    "status": "Offline"
   }
 ]
