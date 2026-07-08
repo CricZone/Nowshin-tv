@@ -1,4 +1,4 @@
-Name: 15-Min Auto Channel Checker Bot
+name: 15-Min Auto Channel Checker Bot
 on:
   schedule:
     - cron: '*/15 * * * *'
@@ -24,121 +24,69 @@ jobs:
           const http = require("http");
 
           async function checkUrl(url) {
+            // Referer বা User-Agent স্প্লিট করা
             let cleanUrl = url.split("|")[0].trim();
-            let headers = { 
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-              "Accept": "*/*"
-            };
+            let headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" };
             
             if (url.includes("|")) {
               let parts = url.split("|")[1].split("&");
               parts.forEach(p => {
-                if (p.includes("=")) {
-                  let kv = p.split("=");
-                  let key = kv[0].trim().toLowerCase();
-                  let val = kv[1].trim();
-                  if(key === "referer") headers["Referer"] = val;
-                  if(key === "user-agent") headers["User-Agent"] = val;
-                }
+                let kv = p.split("=");
+                if(kv[0].toLowerCase() === "referer") headers["Referer"] = kv[1];
+                if(kv[0].toLowerCase() === "user-agent") headers["User-Agent"] = kv[1];
               });
             }
 
             return new Promise((resolve) => {
-              try {
-                const client = cleanUrl.startsWith("https") ? https : http;
-                
-                // এখানে সরাসরি GET রিকোয়েস্ট করা হচ্ছে নিখুঁত রেজাল্টের জন্য
-                const options = { 
-                  method: "GET", 
-                  headers: headers, 
-                  timeout: 6000 
-                };
-
-                const req = client.request(cleanUrl, options, (res) => {
-                  let statusCode = res.statusCode;
-                  let contentType = (res.headers["content-type"] || "").toLowerCase();
-
-                  // ১. যদি স্ট্যাটাস কোড ২০০ এর ঘরে হয় (Success)
-                  if (statusCode >= 200 && statusCode < 300) {
-                    // যদি আপনার দেওয়া মতন m3u9 বা ভুলভাল পেজ আসে (যা সাধারণত html ফরম্যাটে হয়), তবে অফলাইন করবে।
-                    // আসল m3u8 লিঙ্কের content-type এ mpegurl, apple, বা video লেখা থাকে।
-                    if (contentType.includes("mpegurl") || contentType.includes("apple") || contentType.includes("video") || contentType.includes("application/octet-stream")) {
-                      resolve(true);
-                    } else if (contentType.includes("html") || contentType.includes("text/plain")) {
-                      // যদি লিঙ্ক সফল হয় কিন্তু ভেতরে কোনো এরর পেজ বা HTML ওয়েবসাইট দেখায়
-                      resolve(false);
-                    } else {
-                      // সেফটি সাইড: কন্টেন্ট টাইপ না মিললেও সাধারণত ২০০ কোড আসলে অনলাইন ধরা হয়
-                      resolve(true);
-                    }
-                  } 
-                  // ২. যদি রিডাইরেক্ট করে (৩০০ এর ঘর)
-                  else if (statusCode >= 300 && statusCode < 400) {
-                    resolve(true); 
-                  } 
-                  // ৩. যদি ৪০০ বা ৫০০ এর ঘরের যেকোনো এরর আসে (যেমন ৪MD, ৪MD-m3u9 এর ৪MD, ৪MD Forbidden ইত্যাদি)
-                  else {
-                    resolve(false);
-                  }
-                });
-
-                req.on("error", () => resolve(false));
-                req.on("timeout", () => { req.destroy(); resolve(false); });
-                req.end();
-              } catch (e) {
-                resolve(false);
-              }
+              const client = cleanUrl.startsWith("https") ? https : http;
+              const req = client.request(cleanUrl, { method: "GET", headers: headers, timeout: 5000 }, (res) => {
+                if (res.statusCode >= 200 && res.statusCode < 400) resolve(true);
+                else resolve(false);
+              });
+              req.on("error", () => resolve(false));
+              req.on("timeout", () => { req.destroy(); resolve(false); });
+              req.end();
             });
           }
 
           async function start() {
-            if (!fs.existsSync("channels.json")) {
-              console.log("channels.json file not found!");
-              return;
-            }
-            
+            if (!fs.existsSync("channels.json")) return;
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             let changed = false;
-
-            console.log(`Checking ${channels.length} channels...`);
 
             for (let ch of channels) {
               let isLive = await checkUrl(ch.url);
               let newStatus = isLive ? "Online" : "Offline";
-              
               if (ch.status !== newStatus) {
-                console.log(`Status Changed -> ${ch.name}: ${ch.status || "Unknown"} to ${newStatus}`);
                 ch.status = newStatus;
                 changed = true;
               }
             }
 
-            if (changed || !fs.existsSync("playlist.m3u")) {
+            if (changed) {
               fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
               
+              // M3U Playlist জেনারেট করা
               let m3u = "#EXTM3U\n";
               channels.forEach(ch => {
-                if (ch.status === "Online") { 
+                if (ch.status === "Online") {
                   let cleanUrl = ch.url.split("|")[0].trim();
                   let extra = "";
                   if (ch.url.includes("|")) {
                     let parts = ch.url.split("|")[1].split("&");
                     parts.forEach(p => {
-                      if (p.includes("=")) {
-                        let kv = p.split("=");
-                        if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
-                        if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
-                      }
+                      let kv = p.split("=");
+                      if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
+                      if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
                     });
                   }
                   m3u += `#EXTINF:-1 tvg-id=\"${ch.serial}\" tvg-name=\"${ch.name}\" tvg-logo=\"${ch.logo}\" group-title=\"${ch.category}\",${ch.name}\n${cleanUrl}${extra}\n`;
                 }
               });
-              
               fs.writeFileSync("playlist.m3u", m3u);
-              console.log("Database & Playlist updated successfully.");
+              console.log("Database & Playlist Auto-Updated Successfully.");
             } else {
-              console.log("No status changes detected. Playlist is up-to-date.");
+              console.log("No changes detected in channel status.");
             }
           }
           start();
