@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Fifa World Cup 2026™" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026™
+#EXTINF:-1 tvg-id="1" tvg-name="Fifa World Cup 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026
 https://dalvikcmpsr.ahmedtahsindipto.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Fifa World Cup 2026ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ¢
+#EXTINF:-1 tvg-id="2" tvg-name="Fifa World Cup 2026ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="4" tvg-name="Fifa World Cup 2026Ã¢ÂÂ¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026Ã¢ÂÂ¢
+#EXTINF:-1 tvg-id="4" tvg-name="Fifa World Cup 2026ÃÂ¢ÃÂÃÂ¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026ÃÂ¢ÃÂÃÂ¢
 https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460&nocache=1782781156501
 #EXTINF:-1 tvg-id="5" tvg-name="Peace Tv" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg" group-title="NOWSHIN",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
@@ -95,5 +95,5 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="Sangeet Bhujpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN ",Sangeet Bhujpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="Fifa World Cup 2026â¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026â¢
+#EXTINF:-1 tvg-id="69" tvg-name="Fifa World Cup 2026Ã¢ÂÂ¢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10" group-title="NOWSHIN ",Fifa World Cup 2026Ã¢ÂÂ¢
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
