@@ -1,4 +1,4 @@
-name: 15-Min Auto Channel Checker Bot
+Name: 15-Min Auto Channel Checker Bot
 on:
   schedule:
     - cron: '*/15 * * * *'
@@ -24,69 +24,114 @@ jobs:
           const http = require("http");
 
           async function checkUrl(url) {
-            // Referer বা User-Agent স্প্লিট করা
+            // URL এবং Headers আলাদা করা
             let cleanUrl = url.split("|")[0].trim();
-            let headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" };
+            let headers = { 
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+              "Accept": "*/*"
+            };
             
             if (url.includes("|")) {
               let parts = url.split("|")[1].split("&");
               parts.forEach(p => {
                 let kv = p.split("=");
-                if(kv[0].toLowerCase() === "referer") headers["Referer"] = kv[1];
-                if(kv[0].toLowerCase() === "user-agent") headers["User-Agent"] = kv[1];
+                if (kv[0] && kv[1]) {
+                  let key = kv[0].trim().toLowerCase();
+                  let val = kv[1].trim();
+                  if(key === "referer") headers["Referer"] = val;
+                  if(key === "user-agent" || key === "user-agent") headers["User-Agent"] = val;
+                }
               });
             }
 
             return new Promise((resolve) => {
-              const client = cleanUrl.startsWith("https") ? https : http;
-              const req = client.request(cleanUrl, { method: "GET", headers: headers, timeout: 5000 }, (res) => {
-                if (res.statusCode >= 200 && res.statusCode < 400) resolve(true);
-                else resolve(false);
-              });
-              req.on("error", () => resolve(false));
-              req.on("timeout", () => { req.destroy(); resolve(false); });
-              req.end();
+              try {
+                const client = cleanUrl.startsWith("https") ? https : http;
+                
+                // HEAD রিকোয়েস্ট দ্রুত কাজ করে, ব্যর্থ হলে GET ট্রাই করবে
+                const options = { 
+                  method: "HEAD", 
+                  headers: headers, 
+                  timeout: 7000 
+                };
+
+                const req = client.request(cleanUrl, options, (res) => {
+                  // ৪-৫ শত সিরিজের এরর (যেমন 404, 500) ছাড়া বাকি সব (2xx, 3xx, এমনকি কিছু ক্ষেত্রে 403) কেও আমরা অনলাইন হিসেবে ধরে নিব সেফটির জন্য
+                  if (res.statusCode >= 200 && res.statusCode < 400) {
+                    resolve(true);
+                  } else if (res.statusCode === 403 || res.statusCode === 401) {
+                    // টোকেন বা প্রটেক্টেড লিঙ্ক অনেক সময় HEAD এ 403 দেয়, তাই GET দিয়ে আরেকবার শেষ চেষ্টা
+                    options.method = "GET";
+                    const getReq = client.request(cleanUrl, options, (getRes) => {
+                      if (getRes.statusCode >= 200 && getRes.statusCode < 405) resolve(true);
+                      else resolve(false);
+                    });
+                    getReq.on("error", () => resolve(false));
+                    getReq.end();
+                  } else {
+                    resolve(false);
+                  }
+                });
+
+                req.on("error", () => resolve(false));
+                req.on("timeout", () => { req.destroy(); resolve(false); });
+                req.end();
+              } catch (e) {
+                resolve(false);
+              }
             });
           }
 
           async function start() {
-            if (!fs.existsSync("channels.json")) return;
+            if (!fs.existsSync("channels.json")) {
+              console.log("channels.json file not found!");
+              return;
+            }
+            
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             let changed = false;
+
+            console.log(`Checking ${channels.length} channels...`);
 
             for (let ch of channels) {
               let isLive = await checkUrl(ch.url);
               let newStatus = isLive ? "Online" : "Offline";
+              
               if (ch.status !== newStatus) {
+                console.log(`Status Changed -> ${ch.name}: ${ch.status || "Unknown"} to ${newStatus}`);
                 ch.status = newStatus;
                 changed = true;
               }
             }
 
-            if (changed) {
+            // সবসময় প্লেলিস্ট জেনারেট করা নিরাপদ, তবে ডাটাবেজ আপডেট হলে রাইট করবে
+            if (changed || !fs.existsSync("playlist.m3u")) {
               fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
               
-              // M3U Playlist জেনারেট করা
+              // M3U Playlist তৈরি (শুধুমাত্র অনলাইন চ্যানেলগুলো থাকবে)
               let m3u = "#EXTM3U\n";
               channels.forEach(ch => {
-                if (ch.status === "Online") {
+                if (ch.status === "Online" || !ch.status) { // নতুন বা অনলাইন চ্যানেল অ্যাড হবে
                   let cleanUrl = ch.url.split("|")[0].trim();
                   let extra = "";
                   if (ch.url.includes("|")) {
                     let parts = ch.url.split("|")[1].split("&");
                     parts.forEach(p => {
                       let kv = p.split("=");
-                      if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
-                      if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
+                      if(kv[0] && kv[1]) {
+                        if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
+                        if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
+                      }
                     });
                   }
                   m3u += `#EXTINF:-1 tvg-id=\"${ch.serial}\" tvg-name=\"${ch.name}\" tvg-logo=\"${ch.logo}\" group-title=\"${ch.category}\",${ch.name}\n${cleanUrl}${extra}\n`;
                 }
               });
+              
               fs.writeFileSync("playlist.m3u", m3u);
-              console.log("Database & Playlist Auto-Updated Successfully.");
+              console.log("Database & Playlist updated successfully.");
             } else {
-              console.log("No changes detected in channel status.");
+              console.log("No status changes detected. Playlist is up-to-date.");
             }
           }
           start();
