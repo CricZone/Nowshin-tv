@@ -23,36 +23,63 @@ jobs:
           const https = require("https");
           const http = require("http");
 
-          // নির্দিষ্ট সময় অপেক্ষা করার জন্য Helper ফাংশন
-          const delay = ms => new Promise(res => setTimeout(res, ms));
-
-          async function fetchStatus(cleanUrl, headers) {
-            return new Promise((resolve) => {
-              try {
-                const client = cleanUrl.startsWith("https") ? https : http;
+          // ৩ বার রিট্রাই করার লজিকসহ নিখুঁত ইউআরএল চেকার
+          async function fetchWithRetry(url, headers, retries = 3) {
+            for (let i = 0; i < retries; i++) {
+              let isLive = await new Promise((resolve) => {
+                const client = url.startsWith("https") ? https : http;
                 const options = { 
                   method: "GET", 
                   headers: headers, 
-                  timeout: 7000 // রেসপন্স পাওয়ার জন্য পর্যাপ্ত ৭ সেকেন্ড সময়
+                  timeout: 7000 // একটু বেশি সময় দেওয়া হলো নেটওয়ার্ক স্লোর জন্য
                 };
 
-                const req = client.request(cleanUrl, options, (res) => {
-                  let code = res.statusCode;
-                  // ২০০ বা ৩০০ এর ঘরের স্ট্যাটাস কোড (সফল বা রিডাইরেক্ট) আসলে চ্যানেল অনলাইন
-                  if (code >= 200 && code < 400) {
-                    resolve(true);
-                  } else {
-                    resolve(false);
-                  }
+                const req = client.request(url, options, (res) => {
+                  let chunks = [];
+                  
+                  // শুধু রেসপন্স কোড দেখলেই হবে না, ডেটা চেক করতে হবে
+                  res.on("data", (chunk) => {
+                    chunks.push(chunk);
+                    // প্রথম ৪ কিলোবাইট ডেটা পেলেই আমরা রিড করা বন্ধ করব (পুরো ভিডিও ডাউনলোড দরকার নেই)
+                    if (Buffer.concat(chunks).length > 4096) {
+                      req.destroy();
+                    }
+                  });
+
+                  res.on("end", () => {
+                    let buffer = Buffer.concat(chunks);
+                    let content = buffer.toString("utf8").trim();
+                    let statusCode = res.statusCode;
+
+                    if (statusCode >= 200 && statusCode < 300) {
+                      // তোফি বা এই ধরণের প্লে-লিস্টের প্রথম লাইনে অবশ্যই #EXTM3U বা m3u8 এর ট্যাগ থাকতে হবে
+                      if (content.includes("#EXTM3U") || content.includes("#EXT-X-") || content.includes("application/vnd.apple.mpegurl") || res.headers["content-type"]?.includes("mpegurl")) {
+                        resolve(true);
+                      } else {
+                        // স্ট্যাটাস ২০০ হলেও যদি ভেতরে আসল ম্যাসাজ না থাকে (ভুল পেজ)
+                        resolve(false);
+                      }
+                    } else if (statusCode >= 300 && statusCode < 400) {
+                      // রিডাইরেক্ট ট্র্যাকিং
+                      resolve(true);
+                    } else {
+                      resolve(false);
+                    }
+                  });
                 });
 
                 req.on("error", () => resolve(false));
                 req.on("timeout", () => { req.destroy(); resolve(false); });
                 req.end();
-              } catch (e) {
-                resolve(false);
+              });
+
+              if (isLive) return true;
+              if (i < retries - 1) {
+                console.log(`Retrying... Attempt ${i + 2} of ${retries}`);
+                await new Promise(r => setTimeout(r, 2000)); // ২ সেকেন্ড বিরতি
               }
-            });
+            }
+            return false;
           }
 
           async function checkUrl(url) {
@@ -75,51 +102,41 @@ jobs:
               });
             }
 
-            // ১ম বার চেষ্টা
-            let isLive = await fetchStatus(cleanUrl, headers);
-            
-            // পয়েন্ট ৫ ও ৯-এর জন্য সমাধান: যদি ১ম বার অফলাইন দেখায়, ভুল এড়াতে ৩ সেকেন্ড পর ২য় বার রি-চেক করবে
-            if (!isLive) {
-              await delay(3000);
-              isLive = await fetchStatus(cleanUrl, headers);
-            }
-
-            return isLive;
+            return await fetchWithRetry(cleanUrl, headers);
           }
 
           async function start() {
             if (!fs.existsSync("channels.json")) {
-              console.log("Error: channels.json file not found!");
+              console.log("channels.json found না!");
               return;
             }
             
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             let changed = false;
+            let onlineCount = 0;
 
-            console.log(`[NOWSHIN-TV] Starting Auto-Sync Engine... Total channels: ${channels.length}`);
-            console.log("----------------------------------------------------------------------");
+            console.log(`Checking ${channels.length} channels carefully...`);
 
             for (let ch of channels) {
+              console.log(`Checking: ${ch.name}`);
               let isLive = await checkUrl(ch.url);
               let newStatus = isLive ? "Online" : "Offline";
               
+              if (isLive) onlineCount++;
+
               if (ch.status !== newStatus) {
-                // পয়েন্ট ৬: লাইভ কনসোলে কোন চ্যানেলটি সিঙ্ক হচ্ছে তা স্পষ্ট দেখাবে
-                console.log(`[AUTO-SYNC] >> ${ch.name} পরিবর্তিত হয়েছে: ${ch.status || "Offline"} -> ${newStatus}`);
+                console.log(`[STATUS CHANGED] ${ch.name}: ${ch.status || "Offline"} -> ${newStatus}`);
                 ch.status = newStatus;
                 changed = true;
-              } else {
-                console.log(`[STABLE] ${ch.name} ইজ অলরেডি: ${ch.status}`);
               }
             }
 
-            // যদি কোনো চ্যানেলের স্ট্যাটাস পরিবর্তন হয় অথবা মূল m3u ফাইলটি মিসিং থাকে
+            // প্লেলিস্ট এবং ডাটাবেজ আপডেট
             if (changed || !fs.existsSync("playlist.m3u")) {
               fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
               
               let m3u = "#EXTM3U\n";
               channels.forEach(ch => {
-                // পয়েন্ট ২ ও ৩: শুধুমাত্র সচল চ্যানেলগুলোই প্লেলিস্টে থাকবে এবং Televizo-তে শো করবে
                 if (ch.status === "Online") { 
                   let cleanUrl = ch.url.split("|")[0].trim();
                   let extra = "";
@@ -138,12 +155,20 @@ jobs:
               });
               
               fs.writeFileSync("playlist.m3u", m3u);
-              console.log("----------------------------------------------------------------------");
-              console.log("[SUCCESS] Database and playlist.m3u compiled & synced perfectly.");
-            } else {
-              console.log("----------------------------------------------------------------------");
-              console.log("[NO CHANGES] All channels are steady. No sync required.");
+              console.log("Database and M3U Playlist synced successfully.");
             }
+
+            // শর্ত ৬: README.md আপডেট করার ট্র্যাকার (বাংলাদেশ সময় অনুযায়ী)
+            let bdtTime = new Date(new Date().getTime() + (6 * 60 * 60 * 1000)).toISOString().replace("T", " ").substring(0, 19);
+            let readmeContent = `## 🤖 NowshinTV Auto-Sync Tracker\n\n`;
+            readmeContent += `| Status | Count |\n| --- | --- |\n`;
+            readmeContent += `| **Total Channels** | ${channels.length} |\n`;
+            readmeContent += `| **🟢 Online** | ${onlineCount} |\n`;
+            readmeContent += `| **🔴 Offline (Removed from Playlist)** | ${channels.length - onlineCount} |\n\n`;
+            readmeContent += `> **Last Auto-Sync:** ${bdtTime} (BST/BD Time)\n\n`;
+            readmeContent += `*বটটি প্রতি ১৫ মিনিট পর পর স্বয়ংক্রিয়ভাবে যাচাই বাছাই করে অচল চ্যানেল রিমুভ এবং সচল চ্যানেল অ্যাড করে।*`;
+            
+            fs.writeFileSync("README.md", readmeContent);
           }
           start();
           '
@@ -152,5 +177,5 @@ jobs:
         run: |
           git config --global user.name "NowshinTV Bot"
           git config --global user.email "bot@nowshintv.com"
-          git add channels.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Synced Channel Status & Playlist [Skip CI]" && git push)
+          git add channels.json playlist.m3u README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Synced Status, Playlist & Tracker" && git push)
