@@ -81,3 +81,5 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fqu6rxobd50d5/SS_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN3800008CX&ads.ssai_vendor=SSSLIVE&pb_type=pb-fqu6rxobd50d5_cloudfront
 #EXTINF:-1 tvg-id="60" tvg-name="Sangeet Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="NOWSHIN ",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="Music India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="NOWSHIN ",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
