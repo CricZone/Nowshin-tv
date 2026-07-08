@@ -430,5 +430,13 @@
     "url": "http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s",
     "status": "Offline"
+  },
+  {
+    "serial": 55,
+    "name": "Zee Cinema",
+    "category": "NOWSHIN",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10",
+    "status": "Online"
   }
 ]
