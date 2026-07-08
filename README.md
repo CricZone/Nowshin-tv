@@ -18,6 +18,9 @@
 
 | 📅 Date & Time Info | 🕌 Bogra Prayer & Ramadhan Timings |
 | :--- | :--- |
+| **Time:** `01:50:28 AM` <br> **Day:** Thursday <br> **English:** 09 July, 2026 <br> **Bangla:** চলতি বাংলা মাস, ১৪৩৩ <br> **Arabic:** 24 Muḥarram, 1448 | **Sehri:** `03:42` <br> **Sunrise:** `05:20` <br> **Iftari / Sunset:** `18:56` <br> **Prayer Times:** <br> Fajr: 03:52 \| Dhuhr: 12:08 <br> Asr: 15:31 \| Maghrib: 18:56 \| Isha: 20:24 |
+
+--- | :--- |
 | **Time:** `01:02:31 PM` <br> **Day:** Wednesday <br> **English:** 08 July, 2026 <br> **Bangla:** চলতি বাংলা মাস, ১৪৩৩ <br> **Arabic:** 23 Muḥarram, 1448 | **Sehri:** `03:41` <br> **Sunrise:** `05:19` <br> **Iftari / Sunset:** `18:56` <br> **Prayer Times:** <br> Fajr: 03:51 \| Dhuhr: 12:08 <br> Asr: 15:31 \| Maghrib: 18:56 \| Isha: 20:24 |
 
 --- | :--- |
