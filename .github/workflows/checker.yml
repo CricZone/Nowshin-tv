@@ -90,7 +90,7 @@ jobs:
             }
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             
-            print("Starting Verification for " + channels.length + " channels...");
+            console.log("Starting Verification for " + channels.length + " channels...");
             
             for (let ch of channels) {
               let isLive = await checkUrl(ch.url);
