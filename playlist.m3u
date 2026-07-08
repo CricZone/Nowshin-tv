@@ -55,3 +55,5 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10" group-title="NOWSHIN ",News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="Star news " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s" group-title="NOWSHIN",Star news 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
