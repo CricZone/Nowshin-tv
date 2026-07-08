@@ -334,5 +334,13 @@
     "url": "http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10",
     "status": "Offline"
+  },
+  {
+    "serial": 43,
+    "name": "Colours Bangla Cinema",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10",
+    "status": "Offline"
   }
 ]
