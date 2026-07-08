@@ -23,70 +23,126 @@ jobs:
           const https = require("https");
           const http = require("http");
 
+          // নির্দিষ্ট সময় অপেক্ষা করার জন্য Helper ফাংশন
+          const delay = ms => new Promise(res => setTimeout(res, ms));
+
+          async function fetchStatus(cleanUrl, headers) {
+            return new Promise((resolve) => {
+              try {
+                const client = cleanUrl.startsWith("https") ? https : http;
+                const options = { 
+                  method: "GET", 
+                  headers: headers, 
+                  timeout: 7000 // রেসপন্স পাওয়ার জন্য পর্যাপ্ত ৭ সেকেন্ড সময়
+                };
+
+                const req = client.request(cleanUrl, options, (res) => {
+                  let code = res.statusCode;
+                  // ২০০ বা ৩০০ এর ঘরের স্ট্যাটাস কোড (সফল বা রিডাইরেক্ট) আসলে চ্যানেল অনলাইন
+                  if (code >= 200 && code < 400) {
+                    resolve(true);
+                  } else {
+                    resolve(false);
+                  }
+                });
+
+                req.on("error", () => resolve(false));
+                req.on("timeout", () => { req.destroy(); resolve(false); });
+                req.end();
+              } catch (e) {
+                resolve(false);
+              }
+            });
+          }
+
           async function checkUrl(url) {
-            // Referer বা User-Agent স্প্লিট করা
             let cleanUrl = url.split("|")[0].trim();
-            let headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" };
+            let headers = { 
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "Accept": "*/*"
+            };
             
             if (url.includes("|")) {
               let parts = url.split("|")[1].split("&");
               parts.forEach(p => {
-                let kv = p.split("=");
-                if(kv[0].toLowerCase() === "referer") headers["Referer"] = kv[1];
-                if(kv[0].toLowerCase() === "user-agent") headers["User-Agent"] = kv[1];
+                if (p.includes("=")) {
+                  let kv = p.split("=");
+                  let key = kv[0].trim().toLowerCase();
+                  let val = kv[1].trim();
+                  if(key === "referer") headers["Referer"] = val;
+                  if(key === "user-agent") headers["User-Agent"] = val;
+                }
               });
             }
 
-            return new Promise((resolve) => {
-              const client = cleanUrl.startsWith("https") ? https : http;
-              const req = client.request(cleanUrl, { method: "GET", headers: headers, timeout: 5000 }, (res) => {
-                if (res.statusCode >= 200 && res.statusCode < 400) resolve(true);
-                else resolve(false);
-              });
-              req.on("error", () => resolve(false));
-              req.on("timeout", () => { req.destroy(); resolve(false); });
-              req.end();
-            });
+            // ১ম বার চেষ্টা
+            let isLive = await fetchStatus(cleanUrl, headers);
+            
+            // পয়েন্ট ৫ ও ৯-এর জন্য সমাধান: যদি ১ম বার অফলাইন দেখায়, ভুল এড়াতে ৩ সেকেন্ড পর ২য় বার রি-চেক করবে
+            if (!isLive) {
+              await delay(3000);
+              isLive = await fetchStatus(cleanUrl, headers);
+            }
+
+            return isLive;
           }
 
           async function start() {
-            if (!fs.existsSync("channels.json")) return;
+            if (!fs.existsSync("channels.json")) {
+              console.log("Error: channels.json file not found!");
+              return;
+            }
+            
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             let changed = false;
+
+            console.log(`[NOWSHIN-TV] Starting Auto-Sync Engine... Total channels: ${channels.length}`);
+            console.log("----------------------------------------------------------------------");
 
             for (let ch of channels) {
               let isLive = await checkUrl(ch.url);
               let newStatus = isLive ? "Online" : "Offline";
+              
               if (ch.status !== newStatus) {
+                // পয়েন্ট ৬: লাইভ কনসোলে কোন চ্যানেলটি সিঙ্ক হচ্ছে তা স্পষ্ট দেখাবে
+                console.log(`[AUTO-SYNC] >> ${ch.name} পরিবর্তিত হয়েছে: ${ch.status || "Offline"} -> ${newStatus}`);
                 ch.status = newStatus;
                 changed = true;
+              } else {
+                console.log(`[STABLE] ${ch.name} ইজ অলরেডি: ${ch.status}`);
               }
             }
 
-            if (changed) {
+            // যদি কোনো চ্যানেলের স্ট্যাটাস পরিবর্তন হয় অথবা মূল m3u ফাইলটি মিসিং থাকে
+            if (changed || !fs.existsSync("playlist.m3u")) {
               fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
               
-              // M3U Playlist জেনারেট করা
               let m3u = "#EXTM3U\n";
               channels.forEach(ch => {
-                if (ch.status === "Online") {
+                // পয়েন্ট ২ ও ৩: শুধুমাত্র সচল চ্যানেলগুলোই প্লেলিস্টে থাকবে এবং Televizo-তে শো করবে
+                if (ch.status === "Online") { 
                   let cleanUrl = ch.url.split("|")[0].trim();
                   let extra = "";
                   if (ch.url.includes("|")) {
                     let parts = ch.url.split("|")[1].split("&");
                     parts.forEach(p => {
-                      let kv = p.split("=");
-                      if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
-                      if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
+                      if (p.includes("=")) {
+                        let kv = p.split("=");
+                        if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
+                        if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
+                      }
                     });
                   }
                   m3u += `#EXTINF:-1 tvg-id=\"${ch.serial}\" tvg-name=\"${ch.name}\" tvg-logo=\"${ch.logo}\" group-title=\"${ch.category}\",${ch.name}\n${cleanUrl}${extra}\n`;
                 }
               });
+              
               fs.writeFileSync("playlist.m3u", m3u);
-              console.log("Database & Playlist Auto-Updated Successfully.");
+              console.log("----------------------------------------------------------------------");
+              console.log("[SUCCESS] Database and playlist.m3u compiled & synced perfectly.");
             } else {
-              console.log("No changes detected in channel status.");
+              console.log("----------------------------------------------------------------------");
+              console.log("[NO CHANGES] All channels are steady. No sync required.");
             }
           }
           start();
@@ -97,4 +153,4 @@ jobs:
           git config --global user.name "NowshinTV Bot"
           git config --global user.email "bot@nowshintv.com"
           git add channels.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Updated Channel Status & Playlist" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Synced Channel Status & Playlist [Skip CI]" && git push)
