@@ -489,6 +489,14 @@
   },
   {
     "serial": 62,
+    "name": "8xm Music",
+    "category": "NOWSHIN ",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10",
+    "status": "Online"
+  },
+  {
+    "serial": 63,
     "name": "9xm Music",
     "category": "NOWSHIN ",
     "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
