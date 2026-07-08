@@ -318,5 +318,13 @@
     "url": "http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qy4MhEPTa0jDGNe1KUvNxbdLa2rd6I-xao4AdnO4KQ&s",
     "status": "Offline"
+  },
+  {
+    "serial": 41,
+    "name": "Star Jalsha",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
+    "status": "Offline"
   }
 ]
