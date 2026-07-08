@@ -342,5 +342,13 @@
     "url": "http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10",
     "status": "Offline"
+  },
+  {
+    "serial": 44,
+    "name": "Jalsha Movies",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
+    "status": "Offline"
   }
 ]
