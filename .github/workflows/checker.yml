@@ -24,7 +24,6 @@ jobs:
           const http = require("http");
 
           async function checkUrl(url) {
-            // URL এবং Headers আলাদা করা
             let cleanUrl = url.split("|")[0].trim();
             let headers = { 
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -34,12 +33,12 @@ jobs:
             if (url.includes("|")) {
               let parts = url.split("|")[1].split("&");
               parts.forEach(p => {
-                let kv = p.split("=");
-                if (kv[0] && kv[1]) {
+                if (p.includes("=")) {
+                  let kv = p.split("=");
                   let key = kv[0].trim().toLowerCase();
                   let val = kv[1].trim();
                   if(key === "referer") headers["Referer"] = val;
-                  if(key === "user-agent" || key === "user-agent") headers["User-Agent"] = val;
+                  if(key === "user-agent") headers["User-Agent"] = val;
                 }
               });
             }
@@ -48,27 +47,37 @@ jobs:
               try {
                 const client = cleanUrl.startsWith("https") ? https : http;
                 
-                // HEAD রিকোয়েস্ট দ্রুত কাজ করে, ব্যর্থ হলে GET ট্রাই করবে
+                // এখানে সরাসরি GET রিকোয়েস্ট করা হচ্ছে নিখুঁত রেজাল্টের জন্য
                 const options = { 
-                  method: "HEAD", 
+                  method: "GET", 
                   headers: headers, 
-                  timeout: 7000 
+                  timeout: 6000 
                 };
 
                 const req = client.request(cleanUrl, options, (res) => {
-                  // ৪-৫ শত সিরিজের এরর (যেমন 404, 500) ছাড়া বাকি সব (2xx, 3xx, এমনকি কিছু ক্ষেত্রে 403) কেও আমরা অনলাইন হিসেবে ধরে নিব সেফটির জন্য
-                  if (res.statusCode >= 200 && res.statusCode < 400) {
-                    resolve(true);
-                  } else if (res.statusCode === 403 || res.statusCode === 401) {
-                    // টোকেন বা প্রটেক্টেড লিঙ্ক অনেক সময় HEAD এ 403 দেয়, তাই GET দিয়ে আরেকবার শেষ চেষ্টা
-                    options.method = "GET";
-                    const getReq = client.request(cleanUrl, options, (getRes) => {
-                      if (getRes.statusCode >= 200 && getRes.statusCode < 405) resolve(true);
-                      else resolve(false);
-                    });
-                    getReq.on("error", () => resolve(false));
-                    getReq.end();
-                  } else {
+                  let statusCode = res.statusCode;
+                  let contentType = (res.headers["content-type"] || "").toLowerCase();
+
+                  // ১. যদি স্ট্যাটাস কোড ২০০ এর ঘরে হয় (Success)
+                  if (statusCode >= 200 && statusCode < 300) {
+                    // যদি আপনার দেওয়া মতন m3u9 বা ভুলভাল পেজ আসে (যা সাধারণত html ফরম্যাটে হয়), তবে অফলাইন করবে।
+                    // আসল m3u8 লিঙ্কের content-type এ mpegurl, apple, বা video লেখা থাকে।
+                    if (contentType.includes("mpegurl") || contentType.includes("apple") || contentType.includes("video") || contentType.includes("application/octet-stream")) {
+                      resolve(true);
+                    } else if (contentType.includes("html") || contentType.includes("text/plain")) {
+                      // যদি লিঙ্ক সফল হয় কিন্তু ভেতরে কোনো এরর পেজ বা HTML ওয়েবসাইট দেখায়
+                      resolve(false);
+                    } else {
+                      // সেফটি সাইড: কন্টেন্ট টাইপ না মিললেও সাধারণত ২০০ কোড আসলে অনলাইন ধরা হয়
+                      resolve(true);
+                    }
+                  } 
+                  // ২. যদি রিডাইরেক্ট করে (৩০০ এর ঘর)
+                  else if (statusCode >= 300 && statusCode < 400) {
+                    resolve(true); 
+                  } 
+                  // ৩. যদি ৪০০ বা ৫০০ এর ঘরের যেকোনো এরর আসে (যেমন ৪MD, ৪MD-m3u9 এর ৪MD, ৪MD Forbidden ইত্যাদি)
+                  else {
                     resolve(false);
                   }
                 });
@@ -104,21 +113,19 @@ jobs:
               }
             }
 
-            // সবসময় প্লেলিস্ট জেনারেট করা নিরাপদ, তবে ডাটাবেজ আপডেট হলে রাইট করবে
             if (changed || !fs.existsSync("playlist.m3u")) {
               fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
               
-              // M3U Playlist তৈরি (শুধুমাত্র অনলাইন চ্যানেলগুলো থাকবে)
               let m3u = "#EXTM3U\n";
               channels.forEach(ch => {
-                if (ch.status === "Online" || !ch.status) { // নতুন বা অনলাইন চ্যানেল অ্যাড হবে
+                if (ch.status === "Online") { 
                   let cleanUrl = ch.url.split("|")[0].trim();
                   let extra = "";
                   if (ch.url.includes("|")) {
                     let parts = ch.url.split("|")[1].split("&");
                     parts.forEach(p => {
-                      let kv = p.split("=");
-                      if(kv[0] && kv[1]) {
+                      if (p.includes("=")) {
+                        let kv = p.split("=");
                         if(kv[0].toLowerCase() === "referer") extra += `|Referer=${kv[1]}`;
                         if(kv[0].toLowerCase() === "user-agent") extra += `|User-Agent=${kv[1]}`;
                       }
