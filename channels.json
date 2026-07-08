@@ -21,7 +21,7 @@
     "category": "NOWSHIN",
     "url": "http://180.94.28.28:8097//BTV/index.fmp4.m3u8",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x95285",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 4,
@@ -61,7 +61,7 @@
     "category": "NOWSHIN",
     "url": "http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8?token=400bcae797249d11b14d2d2d7c79f420be526c6c-ddb0dcf96098de24e09d7f9a9476072e-1776169971-1776166371&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 9,
@@ -77,7 +77,7 @@
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e522f823b1f98-97e413b19434555ee18530e886a6762f-1776169971-1776166371&remote=no_check_ip",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 11,
@@ -93,7 +93,7 @@
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 13,
@@ -173,7 +173,7 @@
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 23,
@@ -269,7 +269,7 @@
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKFWkrt1PztZw3Pnovasolpu5fyP5Is59gVP0o1uMxA&s=10",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 35,
