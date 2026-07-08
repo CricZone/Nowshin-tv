@@ -478,5 +478,13 @@
     "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 61,
+    "name": "Music India",
+    "category": "NOWSHIN ",
+    "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
+    "status": "Online"
   }
 ]
