@@ -262,5 +262,13 @@
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 34,
+    "name": "Somoy tv",
+    "category": "NOWSHIN ",
+    "url": "http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371&remote=no_check_ip",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKFWkrt1PztZw3Pnovasolpu5fyP5Is59gVP0o1uMxA&s=10",
+    "status": "Offline"
   }
 ]
