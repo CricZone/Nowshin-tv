@@ -366,5 +366,13 @@
     "url": "http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10",
     "status": "Offline"
+  },
+  {
+    "serial": 47,
+    "name": "Enter Ten Bangla ",
+    "category": "NOWSHIN ",
+    "url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IjKpig0cDFeHhQ8bA-Djdj0h1rBqpXzk-Lv0xCJz6Q&s",
+    "status": "Online"
   }
 ]
