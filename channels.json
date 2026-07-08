@@ -406,5 +406,13 @@
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLUecNnvvHft6LAnelKrE-L17HTLWzoaRso6DAx4637pa2Jb0XgbX1YrnVwKmWkdM0Z9FejU3Cmkh76d_EmS8d-z2-95dpbM-wcbvnFT3nlg&s=10",
     "status": "Online"
+  },
+  {
+    "serial": 52,
+    "name": "Tom & Jery",
+    "category": "NOWSHIN ",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10",
+    "status": "Online"
   }
 ]
