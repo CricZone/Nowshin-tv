@@ -46,32 +46,21 @@ jobs:
                 const parsedUrl = new URL(cleanUrl);
                 const client = parsedUrl.protocol === "https:" ? https : http;
                 
+                // টাইমআউট ২০ সেকেন্ড করা হলো গিটহাবের স্লো সার্ভারের জন্য
                 const options = {
-                  method: "HEAD",
+                  method: "GET",
                   headers: headers,
-                  timeout: 8000
+                  timeout: 20000 
                 };
 
                 const req = client.request(cleanUrl, options, (res) => {
-                  if (res.statusCode >= 200 && res.statusCode < 400) {
+                  // স্ট্রিমিং সার্ভার ২০০, ৩০০ বা ৪MD (যেমন টোকেন এরর বা রিজিয়ন লক হলেও সচল রাখা) রেঞ্জ দিলে অনলাইন ধরবে
+                  if (res.statusCode >= 200 && res.statusCode < 500) {
                     resolve(true);
                   } else {
-                    if (res.statusCode === 405 || res.statusCode === 404) {
-                      options.method = "GET";
-                      const getReq = client.request(cleanUrl, options, (getRes) => {
-                        if (getRes.statusCode >= 200 && getRes.statusCode < 400) {
-                          resolve(true);
-                        } else {
-                          resolve(false);
-                        }
-                        getReq.destroy();
-                      });
-                      getReq.on("error", () => resolve(false));
-                      getReq.end();
-                    } else {
-                      resolve(false);
-                    }
+                    resolve(false);
                   }
+                  req.destroy();
                 });
 
                 req.on("error", () => resolve(false));
@@ -90,13 +79,27 @@ jobs:
             }
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             
-            console.log("Starting Verification for " + channels.length + " channels...");
+            console.log("Checking " + channels.length + " channels...");
             
             for (let ch of channels) {
               let isLive = await checkUrl(ch.url);
-              let newStatus = isLive ? "Online" : "Offline";
-              console.log(`Channel [${ch.name}] calculated status: ${newStatus}`);
-              ch.status = newStatus;
+              
+              // ফেল কাউন্টার লজিক: হুট করে অফলাইন করবে না
+              if (!ch.fail_count) ch.fail_count = 0;
+
+              if (isLive) {
+                ch.status = "Online";
+                ch.fail_count = 0; // অনলাইন পেলে কাউন্টার রিসেট
+              } else {
+                ch.fail_count++;
+                // পর পর ৩ বার (৪৫ মিনিট) অফলাইন থাকলেই কেবল অফলাইন স্ট্যাটাস দেবে
+                if (ch.fail_count >= 3) {
+                  ch.status = "Offline";
+                } else {
+                  ch.status = "Online"; // সাময়িক ডাউন হলে অনলাইনই রাখবে
+                }
+              }
+              console.log(`Channel [${ch.name}] - Status: ${ch.status} (Fail Count: ${ch.fail_count})`);
             }
 
             channels.sort((a,b) => a.serial - b.serial);
@@ -122,7 +125,7 @@ jobs:
               }
             });
             fs.writeFileSync("playlist.m3u", m3u);
-            console.log("Database & Playlist Sync Processing Finished.");
+            console.log("Database & Playlist Updated Safely.");
           }
           start();
           '
@@ -132,4 +135,4 @@ jobs:
           git config --global user.name "NowshinTV Bot"
           git config --global user.email "bot@nowshintv.com"
           git add channels.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Updated Channel Status & Playlist [Skip CI]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Smart Sync [Skip CI]" && git push)
