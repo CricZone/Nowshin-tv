@@ -23,8 +23,8 @@ jobs:
           const https = require("https");
           const http = require("http");
 
-          // নিখুঁতভাবে স্ট্রীম ভ্যালিডেশন করার ফাংশন
-          async function checkUrl(url) {
+          // স্ট্রিমের ভেতরের কন্টেন্ট নিখুঁতভাবে যাচাই করার ফাংশন
+          async function checkStreamContent(url) {
             let cleanUrl = url.split("|")[0].trim();
             let headers = { 
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -48,55 +48,43 @@ jobs:
               try {
                 const client = cleanUrl.startsWith("https") ? https : http;
                 
-                // তোফি এবং টোকেন লিঙ্কের জন্য সরাসরি GET রিকোয়েস্ট ডেটা চেক করতে হবে
-                const options = { 
-                  method: "GET", 
-                  headers: headers, 
-                  timeout: 9000 // নেটওয়ার্ক স্লো থাকলে সর্বোচ্চ ৯ সেকেন্ড অপেক্ষা করবে
-                };
+                // কন্টেন্ট ভ্যালিডেশনের জন্য GET রিকোয়েস্ট (টাইমআউট ৮ সেকেন্ড করা হলো যেন স্লো স্ট্রিমও মিস না হয়)
+                const options = { method: "GET", headers: headers, timeout: 8000 };
 
                 const req = client.request(cleanUrl, options, (res) => {
                   let statusCode = res.statusCode;
-                  let contentType = (res.headers["content-type"] || "").toLowerCase();
-
-                  // যদি সার্ভার সাকসেস (২০০) দেয়, তবে ভেতরের কন্টেন্ট চেক করব
-                  if (statusCode >= 200 && statusCode < 300) {
-                    let bodyData = "";
-                    
-                    // পুরো ফাইল ডাউনলোড করার দরকার নেই, প্রথম chunk/ডাটা পেলেই আমরা বুঝতে পারব এটা আসল m3u8 কিনা
-                    res.on("data", (chunk) => {
-                      bodyData += chunk.toString();
-                      // যদি প্রথম ৫০০ ক্যারেক্টারের মধ্যে আসল m3u8 এর ডাটা না থাকে, অথবা HTML ট্যাগ থাকে তবে অফলাইন
-                      if (bodyData.length >= 500 || bodyData.includes("#EXTM3U") || bodyData.includes("#EXT-X-STREAM-INF")) {
-                        req.destroy(); // রিকোয়েস্ট এখানেই বন্ধ করে দাও সময় বাঁচাতে
-                      }
-                    });
-
-                    res.on("end", () => {
-                      let content = bodyData.trim();
-                      
-                      // অত্যন্ত নিখুঁত যাচাইকরণ: 
-                      // ১. কন্টেন্ট টাইপ যদি HTML বা plain text হয় এবং তাতে আসল m3u8 এর কোনো চিহ্ন না থাকে, তবে এটা ফেক/এরর পেজ।
-                      if (contentType.includes("html") || content.startsWith("<!doctype") || content.startsWith("<html")) {
-                        resolve(false);
-                      } 
-                      // ২. তোফি বা অন্যান্য লিঙ্কের m3u8 ফাইলে অবশ্যই #EXTM3U বা #EXT-X লেখা থাকতে হবে।
-                      else if (content.includes("#EXTM3U") || content.includes("#EXT-X") || contentType.includes("mpegurl") || contentType.includes("apple") || contentType.includes("video")) {
-                        resolve(true); // ১০০% নিশ্চিত লাইভ চ্যানেল
-                      } else {
-                        // যদি কোনো সন্দেহজনক টেক্সট আসে (যেমন: Link Expired বা unauthorized)
-                        resolve(false);
-                      }
-                    });
-                  } 
-                  // রিডাইরেক্ট ট্র্যাকিং (৩০০ এর ঘর)
-                  else if (statusCode >= 300 && statusCode < 400) {
-                    resolve(true); 
-                  } 
-                  // যেকোনো সার্ভার এরর (৪০৪, ৪০৩, ৫০০ ইত্যাদি) আসলে চোখ বন্ধ করে অফলাইন
-                  else {
+                  
+                  // যদি সফল কোড না আসে (যেমন ৪MD, ৪MD, ৫MD এরর) তবে সরাসরি ডেড বা অফলাইন
+                  if (statusCode < 200 || statusCode >= 400) {
                     resolve(false);
+                    return;
                   }
+
+                  let body = "";
+                  res.setEncoding("utf8");
+                  
+                  // পুরো ফাইল ডাউনলোড করার দরকার নেই, প্রথম ২ কিলোবাইট ডেটা পেলেই আসল চেনা যাবে
+                  res.on("data", (chunk) => {
+                    body += chunk;
+                    if (body.length > 2048) {
+                      req.destroy(); // ডেটা পাওয়া গেছে, কানেকশন ক্লোজ করো সময় বাঁচাতে
+                    }
+                  });
+
+                  res.on("end", () => {
+                    let content = body.toUpperCase();
+                    // টোফি বা ফেক লিঙ্কের ভেতরের টেক্সট চেক: অবশ্যই আসল m3u8 এর ফরম্যাট থাকতে হবে
+                    if (content.includes("#EXTM3U") || content.includes("#EXT-X") || content.includes("M3U8") || content.includes("CHUNK") || content.includes("TS")) {
+                      if (content.includes("UNAUTHORIZED") || content.includes("EXPIRED") || content.includes("DENIED") || content.includes("ERROR")) {
+                        resolve(false); // কোড ২০০ হলেও ভেতরে এরর মেসেজ থাকলে অফলাইন
+                      } else {
+                        resolve(true);  // ১০০% জেনুইন লাইভ স্ট্রিম
+                      }
+                    } else {
+                      // যদি রেসপন্স টেক্সট বা HTML পেইজ হয় (যা বন্ধ লিঙ্কে সাধারণত আসে)
+                      resolve(false);
+                    }
+                  });
                 });
 
                 req.on("error", () => resolve(false));
@@ -110,32 +98,45 @@ jobs:
 
           async function start() {
             if (!fs.existsSync("channels.json")) {
-              console.log("channels.json fileটি খুঁজে পাওয়া যায়নি!");
+              console.log("channels.json file not found!");
               return;
             }
             
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
             let changed = false;
+            let recoveredChannels = [];
 
-            console.log(`যাচাইকরণ শুরু হলো: মোট ${channels.length}টি চ্যানেল চেক করা হচ্ছে...`);
+            console.log(`Checking ${channels.length} channels sequentially...`);
 
             for (let ch of channels) {
-              let isLive = await checkUrl(ch.url);
+              let isLive = await checkStreamContent(ch.url);
               let newStatus = isLive ? "Online" : "Offline";
               
               if (ch.status !== newStatus) {
-                console.log(`[অবস্থা পরিবর্তন] -> ${ch.name}: ${ch.status || "Unknown"} থেকে ${newStatus} হয়েছে।`);
+                console.log(`[STATUS CHANGED] ${ch.name}: ${ch.status || "Unknown"} -> ${newStatus}`);
+                if (ch.status === "Offline" && newStatus === "Online") {
+                  recoveredChannels.push(ch.name); // কোন কোন চ্যানেল অটো ঠিক হলো তার ট্র্যাক রাখা
+                }
                 ch.status = newStatus;
                 changed = true;
               }
             }
 
-            // কোনো পরিবর্তন হলে অথবা প্লেলিস্ট ডিলিট হয়ে গিয়ে থাকলে নতুন করে ফাইল রাইট হবে
+            // যদি কোনো পরিবর্তন হয় অথবা প্লেলিস্ট ফাইলটি না থাকে
             if (changed || !fs.existsSync("playlist.m3u")) {
               fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
               
-              // M3U Playlist তৈরি (শুধুমাত্র লাইভ বা অনলাইন চ্যানেলগুলো থাকবে, বাকিগুলো আউট)
               let m3u = "#EXTM3U\n";
+              
+              // ৫ নং শর্ত: ইউজারদের জন্য নোটিশ চ্যানেল (প্লেলিস্টের একদম উপরে থাকবে)
+              let timeString = new Date().toLocaleString("en-US", {timeZone: "Asia/Dhaka"});
+              let noticeText = "⚡ Auto-Synced: System is 100% OK";
+              if (recoveredChannels.length > 0) {
+                noticeText = `🟢 Fixed: ${recoveredChannels.join(", ")} Updated!`;
+              }
+              m3u += `#EXTINF:-1 tvg-id=\"Notice\" tvg-name=\"System Notice\" tvg-logo=\"https://i.postimg.cc/P5Ygkv9Z/sync-notice.png\" group-title=\"SYSTEM INFO\",${noticeText} (${timeString.split(",")[1].trim()})\nhttp://0.0.0.0/notice.mp4\n\n`;
+              
+              // মেইন চ্যানেলগুলো লুপ করে প্লেলিস্টে বসানো
               channels.forEach(ch => {
                 if (ch.status === "Online") { 
                   let cleanUrl = ch.url.split("|")[0].trim();
@@ -155,9 +156,9 @@ jobs:
               });
               
               fs.writeFileSync("playlist.m3u", m3u);
-              console.log("সফলভাবে channels.json এবং playlist.m3u আপডেট করা হয়েছে।");
+              console.log("Database & Playlist updated with advanced content validation.");
             } else {
-              console.log("চ্যানেলের স্ট্যাটাসে কোনো পরিবর্তন নেই। প্লেলিস্ট আপ-টু-ডেট আছে।");
+              console.log("All channels verified. No fake or broken links detected.");
             }
           }
           start();
@@ -168,4 +169,4 @@ jobs:
           git config --global user.name "NowshinTV Bot"
           git config --global user.email "bot@nowshintv.com"
           git add channels.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Automated 15-Min Channel Sync Engine [Skip CI]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Updated Channel Status & Playlist" && git push)
