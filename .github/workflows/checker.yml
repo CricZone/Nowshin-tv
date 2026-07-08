@@ -1,21 +1,3 @@
-name: 15-Min Auto Channel Checker Bot
-on:
-  schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
-
-jobs:
-  check-channels:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
       - name: Run Advanced Stream Checker Script
         run: |
           node -e '
@@ -26,7 +8,7 @@ jobs:
 
           function checkUrl(url) {
             let cleanUrl = url.split("|")[0].trim();
-            let headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" };
+            let headers = { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" };
             
             if (url.includes("|")) {
               let parts = url.split("|")[1].split("&");
@@ -46,26 +28,34 @@ jobs:
                 const parsedUrl = new URL(cleanUrl);
                 const client = parsedUrl.protocol === "https:" ? https : http;
                 
+                // এখানে HEAD রিকোয়েস্ট ব্যবহার করা হয়েছে, যা ভিডিও ডাউনলোড না করে শুধু লিংক সচল কি না চেক করে
                 const options = {
-                  method: "GET",
+                  method: "HEAD",
                   headers: headers,
-                  timeout: 6000
+                  timeout: 8000
                 };
 
                 const req = client.request(cleanUrl, options, (res) => {
-                  // স্ট্রিমিং সার্ভার যদি ২০০ বা ৩০০ রেঞ্জ দেয়, তবে আমরা ভেতরের ডেটা রিড করার ট্রাই করব
+                  // যদি স্ট্রিমিং সার্ভার ২০০ বা ৩০০ রেঞ্জের রেসপন্স দেয় (Redirect সহ)
                   if (res.statusCode >= 200 && res.statusCode < 400) {
-                    let chunkCount = 0;
-                    res.on("data", () => {
-                      chunkCount++;
-                      if(chunkCount > 0) {
-                        resolve(true); // স্ট্রিম সাকসেসফুলি ডেটা দিচ্ছে
-                        req.destroy();
-                      }
-                    });
-                    res.on("end", () => { resolve(true); });
+                    resolve(true);
                   } else {
-                    resolve(false);
+                    // কিছু কিছু স্ট্রিমিং সার্ভার HEAD রিকোয়েস্ট ব্লক করে, তাদের জন্য ব্যাকআপ GET
+                    if (res.statusCode === 405 || res.statusCode === 404) {
+                      options.method = "GET";
+                      const getReq = client.request(cleanUrl, options, (getRes) => {
+                        if (getRes.statusCode >= 200 && getRes.statusCode < 400) {
+                          resolve(true);
+                        } else {
+                          resolve(false);
+                        }
+                        getReq.destroy();
+                      });
+                      getReq.on("error", () => resolve(false));
+                      getReq.end();
+                    } else {
+                      resolve(false);
+                    }
                   }
                 });
 
@@ -84,21 +74,16 @@ jobs:
               return;
             }
             let channels = JSON.parse(fs.readFileSync("channels.json", "utf8"));
-            let changed = false;
-
-            console.log("Starting Off-line Verification for " + channels.length + " channels...");
+            
+            console.log("Starting Verification for " + channels.length + " channels...");
             
             for (let ch of channels) {
               let isLive = await checkUrl(ch.url);
               let newStatus = isLive ? "Online" : "Offline";
-              if (ch.status !== newStatus) {
-                console.log(`Channel [${ch.name}] status changed: ${ch.status} -> ${newStatus}`);
-                ch.status = newStatus;
-                changed = true;
-              }
+              console.log(`Channel [${ch.name}] calculated status: ${newStatus}`);
+              ch.status = newStatus;
             }
 
-            // সবসময় বা স্ট্যাটাস চেঞ্জ হলে প্লেলিস্ট জেনারেট করা নিশ্চিত করা
             channels.sort((a,b) => a.serial - b.serial);
             fs.writeFileSync("channels.json", JSON.stringify(channels, null, 2));
             
@@ -126,10 +111,3 @@ jobs:
           }
           start();
           '
-
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "NowshinTV Bot"
-          git config --global user.email "bot@nowshintv.com"
-          git add channels.json playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Bot: Updated Channel Status & Playlist [Skip CI]" && git push)
