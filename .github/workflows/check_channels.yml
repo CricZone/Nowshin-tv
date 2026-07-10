@@ -2,7 +2,7 @@ name: 15-Min Stream Engine Auto Sync Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # 🟢 পয়েন্ট ৮: নিখুঁত প্রতি ১৫ মিনিট পর পর ব্যাকগ্রাউন্ডে অটো রান হবে
+    - cron: '*/15 * * * *'  # প্রতি ১৫ মিনিট পর পর ব্যাকগ্রাউন্ডে অটো রান হবে
   workflow_dispatch:      # প্যানেল থেকে ইনস্ট্যান্ট বাটন প্রেস করলেও রান হবে
 
 jobs:
@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # লেটেস্ট ভার্সনে আপগ্রেড করা হয়েছে
 
       - name: Setup Node.js Engine
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4  # লেটেস্ট ভার্সনে আপগ্রেড করা হয়েছে
         with:
-          node-node-version: '18'
+          node-version: '20'  # এখানে ভুল ইনপুট ফিক্স করা হয়েছে
 
       - name: Execute Live Link Verifier Bot Script
         run: |
@@ -25,7 +25,6 @@ jobs:
           const http = require('http');
 
           async function checkUrl(fullUrl) {
-            // 🟢 পয়েন্ট ১৯: টোকেন বা পাইপ রেফারার বিশিষ্ট জটিল লিংক স্প্লিট হ্যান্ডেল
             let cleanUrl = fullUrl.split('|')[0].trim();
             let hasReferer = fullUrl.includes('|referer=');
             let hasUA = fullUrl.includes('&User-Agent=');
@@ -33,7 +32,7 @@ jobs:
             let headers = {};
             if(hasReferer) headers['Referer'] = fullUrl.split('|referer=')[1].split('&')[0];
             if(hasUA) headers['User-Agent'] = fullUrl.split('&User-Agent=')[1];
-            else headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36';
+            else headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36';
 
             return new Promise((resolve) => {
               const client = cleanUrl.startsWith('https') ? https : http;
@@ -58,7 +57,6 @@ jobs:
             let channels = JSON.parse(fs.readFileSync('database.json', 'utf8'));
             console.log('Total Loaded Target Channels:', channels.length);
 
-            // সব চ্যানেল এক এক করে ব্যাকগ্রাউন্ডে চেক হবে ইউজারকে ডিস্টার্ব না করে
             for (let i = 0; i < channels.length; i++) {
               let ch = channels[i];
               console.log('Checking Stream Security for:', ch.name);
@@ -71,10 +69,8 @@ jobs:
               }
             }
 
-            // ডাটাবেজ আপডেট
             fs.writeFileSync('database.json', JSON.stringify(channels, null, 2));
 
-            // 🟢 পয়েন্ট ২, ৩, ৫: Televizo এর জন্য M3U প্লেলিস্ট তৈরি করা (শুধু অনলাইনগুলো জেনো লাইভ থাকে)
             let m3uContent = '#EXTM3U\n';
             channels.forEach(ch => {
               if (ch.status === 'Online') {
