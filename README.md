@@ -1,91 +1,337 @@
-<!-- README Header -->
 <div align="center">
 
-# Welcome to My GitHub Space! 👋
+# 🤖 CRICZONE
 
-<!-- ২) বট গার্ড অ্যানিমেশন ও ওয়ার্নিং -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdtcm9wY2dtbDN0N3N5cm9pY3g2MmR5NTh5bndwYmF3Ym95eW93diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3og0IUia0Y8fjaRUVy/giphy.gif" width="150" alt="Bot Guard">
+### 🚀 Professional IPTV • M3U8 • Streaming Automation Platform
 
-### ⚠️ SECURITY NOTICE FROM THE GUARD ⚠️
-> **"Halt! Copying code without permission or credit is strictly prohibited. Violators will be tracked and flagged. Treat my open-source work with respect!"**
+<img src="YOUR_BOT_BANNER_URL" width="100%" alt="Security Bot Banner">
 
----
+<br>
 
-<!-- ৩) ও ৪) ডাইনামিক টাইম, ডেট এবং বগুড়ার নামাজের সময় -->
-<!-- নোট: গিটহাব রিডমিতে লাইভ ঘড়ি বা প্রতিদিনের নামাজের সময় অটো-আপডেট করতে একটি GitHub Action Workflow (Python Script) ব্যাকএন্ডে চালাতে হয়। নিচে তার একটি সুন্দর প্লেসহোল্ডার দেওয়া হলো যা স্ক্রিপ্টের মাধ্যমে প্রতিদিন অটো-রাইট হবে। -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+CricZone;Professional+IPTV+Automation;Automatic+M3U8+Management;Playback+Verification+System;Live+Channel+Monitoring;GitHub+Actions+Automation;Developed+by+Hasan+Mahmud" />
 
-## ⏰ Live Dashboard (Bangladesh Standard Time)
+<br><br>
 
-| 📅 Date & Time Info | 🕌 Bogra Prayer & Ramadhan Timings |
-| :--- | :--- |
-| **Time:** `02:00:58 AM` <br> **Day:** Friday <br> **English:** 10 July, 2026 <br> **Bangla:** চলতি বাংলা মাস, ১৪৩৩ <br> **Arabic:** 25 Muḥarram, 1448 | **Sehri:** `03:42` <br> **Sunrise:** `05:20` <br> **Iftari / Sunset:** `18:56` <br> **Prayer Times:** <br> Fajr: 03:52 \| Dhuhr: 12:08 <br> Asr: 15:31 \| Maghrib: 18:56 \| Isha: 20:23 |
-
---- | :--- |
-| **Time:** `01:50:28 AM` <br> **Day:** Thursday <br> **English:** 09 July, 2026 <br> **Bangla:** চলতি বাংলা মাস, ১৪৩৩ <br> **Arabic:** 24 Muḥarram, 1448 | **Sehri:** `03:42` <br> **Sunrise:** `05:20` <br> **Iftari / Sunset:** `18:56` <br> **Prayer Times:** <br> Fajr: 03:52 \| Dhuhr: 12:08 <br> Asr: 15:31 \| Maghrib: 18:56 \| Isha: 20:24 |
-
---- | :--- |
-| **Time:** `01:02:31 PM` <br> **Day:** Wednesday <br> **English:** 08 July, 2026 <br> **Bangla:** চলতি বাংলা মাস, ১৪৩৩ <br> **Arabic:** 23 Muḥarram, 1448 | **Sehri:** `03:41` <br> **Sunrise:** `05:19` <br> **Iftari / Sunset:** `18:56` <br> **Prayer Times:** <br> Fajr: 03:51 \| Dhuhr: 12:08 <br> Asr: 15:31 \| Maghrib: 18:56 \| Isha: 20:24 |
-
---- | :--- |
-| **Time:** `HH:MM:SS AM/PM` <br> **Day:** Wednesday <br> **English:** 8 July, 2026 <br> **Bangla:** ২৪ আষাঢ়, ১৪৩৩ <br> **Arabic:** ২৩ মহররম, ১৪৪৮ | **Sehri:** `03:45 AM` <br> **Sunrise:** `05:20 AM` <br> **Iftari / Sunset:** `06:50 PM` <br> **Prayer Times:** <br>  Fajr: 3:55 AM \| Dhuhr: 12:15 PM <br> Asr: 4:30 PM \| Maghrib: 6:52 PM \| Isha: 8:15 PM |
-
-> *💡 Note: The section above updates automatically every day using a custom GitHub Action script synced with Bogra coordinates.*
+![](https://img.shields.io/badge/Platform-IPTV-blue?style=for-the-badge)
+![](https://img.shields.io/badge/M3U8-Supported-success?style=for-the-badge)
+![](https://img.shields.io/badge/GitHub-Actions-black?style=for-the-badge)
+![](https://img.shields.io/badge/Automation-Enabled-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ---
 
-<!-- ৫) ভিজিটর কাউন্টার এবং কান্ট্রি ফ্ল্যাগ ট্র্যাকার -->
-## 📊 Profile Analytics
+# 🛡️ SECURITY BOT ACTIVE
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/CricZone/count.svg" alt="Visitor Counter" />
-</p>
+## ⚠️ WARNING
 
-### 🌍 Top Visitors by Country
-<p align="center">
-  <img src="https://github-profile-visitor-counter.glitch.me/graphtest?username=CricZone&bg_color=0d1117&text_color=ffffff&area_color=007acc" alt="Visitor Map/Graph" />
-</p>
+### This repository is actively monitored.
 
----
+🚫 Unauthorized copying, redistribution, modification or selling of this project is strongly discouraged.
 
-<!-- ৬) ডেভেলপার পরিচয় -->
-## 👨‍💻 Developer Profile
+🤖 Security Bot continuously monitors repository integrity.
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://github.com/CricZone.png" width="150" style="border-radius: 50%;" alt="Hasan Mahmud"><br>
-      <b>Hasan Mahmud</b>
-    </td>
-    <td>
-      <h3>Nice to meet you! I'm Hasan.</h3>
-      <p>I am a passionate Developer focused on creating automation scripts, media streaming solutions, and custom tools.</p>
-      <ul>
-        <li>📺 <b>TV Channel Name:</b> <a href="#">Nowshin Tv</a></li>
-        <li>🌐 <b>GitHub:</b> <a href="https://github.com/CricZone">github.com/CricZone</a></li>
-        <li>📍 <b>Based in:</b> Bogra, Bangladesh</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+⭐ If this repository helps you, please support the developer by giving it a Star.
 
 ---
 
-<!-- ৭) m3u8/auto script সম্পর্কে লেখা -->
-## 🛠️ IPTV & Automation Scripts (`.m3u8` / Auto-generation)
+</div>
 
-This repository heavily focuses on automated media scraping and live streaming maintenance. Here is a quick breakdown of what goes on behind the scenes:
+# 👨‍💻 Developer Information
 
-*   **🔄 Auto-Updating M3U8 Playlists:** I have built custom workflows that scan, verify, and update live TV stream links (`.m3u8`) automatically. No more dead links or broken streams.
-*   **🤖 Cron-Job Automation:** Using GitHub Actions, the scripts run at set intervals (every hour/day) to pull fresh tokens and stream headers, ensuring **Nowshin Tv** and other streams remain online 24/7.
-*   **⚡ Optimized Performance:** The scripts filter out laggy servers, giving you the fastest and closest CDN links for smooth playback on VLC, IPTV players, or web players.
-
-### 🚀 How to use my auto-links:
-1. Copy the raw link of the generated `.m3u8` file from my repository.
-2. Paste it into your favorite IPTV player (VLC, MX Player, OTT Navigator).
-3. Enjoy uninterrupted live streaming!
+| Information | Details |
+|-------------|---------|
+| 👤 Developer | **Hasan Mahmud** |
+| 📺 TV Channel | **Nowshin TV** |
+| 💻 GitHub | https://github.com/CricZone |
+| 🚀 Project | IPTV Automation Platform |
+| 🌍 Country | Bangladesh |
 
 ---
 
-<p align="center">⭐️ Thanks for visiting! If you find my automation scripts helpful, don't forget to star my repositories! ⭐️</p>
+# 📺 About CricZone
+
+**CricZone** is a professional IPTV automation project built to simplify playlist management, channel monitoring and streaming maintenance.
+
+The goal is to provide a reliable automation system capable of:
+
+- ✅ Automatic M3U Playlist Generation
+- ✅ Automatic M3U8 Playlist Generation
+- ✅ Live Playback Verification
+- ✅ Online/Offline Monitoring
+- ✅ GitHub Actions Automation
+- ✅ Automatic Database Update
+- ✅ Automatic Playlist Rebuild
+- ✅ Streaming Optimization
+- ✅ Professional IPTV Management
+
+---
+
+# 🌟 Project Highlights
+
+✔ Professional IPTV Automation
+
+✔ Automatic Channel Monitoring
+
+✔ Smart Playback Checker
+
+✔ GitHub Actions Integration
+
+✔ High-Speed Processing
+
+✔ Automatic Playlist Generator
+
+✔ Live Stream Validation
+
+✔ JSON Database Management
+
+✔ Scalable Architecture
+
+✔ Continuous Development
+
+---
+
+<div align="center">
+
+# 🏆 GitHub Statistics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CricZone&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CricZone&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=CricZone&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏅 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=CricZone&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Contribution Graph
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CricZone&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=CricZone&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚙️ Technology Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,js,github,git,json,linux,vscode,bash,npm"/>
+
+</div>
+
+---
+
+# 🚀 Core Technologies
+
+| Technology | Purpose |
+|------------|---------|
+| 🟢 Node.js | IPTV Automation |
+| 🟡 JavaScript | Core Development |
+| 🔵 GitHub Actions | Automatic Channel Checker |
+| 📄 JSON | Database Management |
+| 📺 M3U / M3U8 | Playlist System |
+| 🌐 HTTP / HTTPS | Streaming Requests |
+| ⚡ Git | Version Control |
+| 🐧 Linux | GitHub Runner |
+
+---
+
+# 💎 Automation Features
+
+✅ Automatic Channel Status Checker
+
+✅ Smart Playback Validation
+
+✅ Automatic Playlist Generator
+
+✅ Live M3U8 Monitoring
+
+✅ JSON Database Sync
+
+✅ Parallel Channel Processing
+
+✅ Retry System
+
+✅ Redirect Support
+
+✅ Referer Support
+
+✅ Cookie Support
+
+✅ Authorization Header Support
+
+✅ Playback Verification
+
+✅ Segment Verification
+
+✅ Auto Playlist Rebuild
+
+✅ GitHub Actions Automation
+
+---
+
+# 🎯 Mission
+
+Our goal is to build one of the most reliable **IPTV Automation Platforms** using modern technologies.
+
+We focus on:
+
+- ⚡ Speed
+- 🛡️ Stability
+- 🚀 Automation
+- 📺 Streaming
+- 🤖 Smart Monitoring
+- 🔥 Continuous Improvement
+
+---
+
+---
+
+# 📂 Project Structure
+
+```text
+📦 CricZone
+│
+├── 📂 .github
+│   └── 📂 workflows
+│       └── channel-checker.yml
+│
+├── 📂 assets
+│   ├── logo
+│   ├── banner
+│   └── icons
+│
+├── 📂 scripts
+│   ├── checker.js
+│   ├── parser.js
+│   ├── generator.js
+│   └── helper.js
+│
+├── 📜 channels.json
+├── 📜 playlist.m3u
+├── 📜 README.md
+└── 📜 LICENSE
+```
+
+---
+
+# 🤖 GitHub Automation System
+
+The repository automatically performs the following tasks using **GitHub Actions**:
+
+- ✅ Automatic Channel Monitoring
+- ✅ Live Playback Verification
+- ✅ Online / Offline Status Detection
+- ✅ Automatic Playlist Generation
+- ✅ Automatic JSON Database Update
+- ✅ Redirect Handling
+- ✅ Retry Mechanism
+- ✅ Smart Header Support
+- ✅ Scheduled Execution
+- ✅ Automatic Git Commit & Push
+
+Everything runs automatically without manual intervention.
+
+---
+
+# 📡 IPTV & M3U8 Automation
+
+This project is designed to simplify IPTV playlist management.
+
+### Supported Features
+
+- 📺 Live IPTV Streams
+- 📡 M3U Playlist
+- 🎬 M3U8 Playlist
+- 🔄 Auto Playlist Generation
+- 🧠 Smart Playback Verification
+- 📶 Online / Offline Monitoring
+- 🚀 High-Speed Processing
+- ⚡ Automatic Updates
+
+---
+
+# 🛡️ Security
+
+> **Security Notice**
+
+This repository is developed with significant time and effort.
+
+Please respect the author's work.
+
+Unauthorized copying, selling, or redistribution of this repository is discouraged.
+
+If this project helps you, please:
+
+⭐ Star this repository
+
+🍴 Fork it
+
+❤️ Share it
+
+---
+
+# ❤️ Support the Project
+
+If you enjoy this project, you can support it by:
+
+- ⭐ Starring the repository
+- 🍴 Forking the repository
+- 📢 Sharing it with others
+- 💡 Suggesting improvements
+- 🐞 Reporting bugs
+
+Every contribution is appreciated.
+
+---
+
+# 📞 Contact
+
+## 👨‍💻 Developer
+
+**Hasan Mahmud**
+
+📺 **Nowshin TV**
+
+🌐 GitHub:
+
+https://github.com/CricZone
+
+---
+
+<div align="center">
+
+# 🚀 CricZone
+
+### Professional IPTV • M3U8 • Streaming Automation
+
+Developed with ❤️ by **Hasan Mahmud**
+
+**Nowshin TV**
+
+⭐ **Thanks for visiting my profile!**
 
 </div>
