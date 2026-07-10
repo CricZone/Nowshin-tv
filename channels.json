@@ -14,7 +14,7 @@
     "category": "NOWSHIN ",
     "url": "http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10",
-    "status": "Online",
+    "status": "Offline",
     "fail_count": 0
   },
   {
@@ -247,7 +247,7 @@
     "category": "NOWSHIN ",
     "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10",
-    "status": "Online",
+    "status": "Offline",
     "fail_count": 0
   },
   {
@@ -274,7 +274,7 @@
     "category": "NOWSHIN ",
     "url": "http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
-    "status": "Online",
+    "status": "Offline",
     "fail_count": 0
   },
   {
@@ -597,7 +597,7 @@
     "category": "NOWSHIN ",
     "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
-    "status": "Online",
+    "status": "Offline",
     "fail_count": 0
   },
   {
@@ -615,7 +615,7 @@
     "category": "NOWSHIN ",
     "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
-    "status": "Online",
+    "status": "Offline",
     "fail_count": 0
   },
   {
