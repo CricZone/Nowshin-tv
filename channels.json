@@ -7,8 +7,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10",
     "status": "Online (Slow)",
     "fail_count": 0,
-    "failCount": 0,
-    "successCount": 1
+    "failCount": 1,
+    "successCount": 0
   },
   {
     "serial": 2,
@@ -16,10 +16,10 @@
     "category": "NOWSHIN ",
     "url": "http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10",
-    "status": "Offline",
+    "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 3,
@@ -29,7 +29,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -38,10 +38,10 @@
     "category": "NOWSHIN ",
     "url": "https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460&nocache=1782781156501",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtmydxsxgqeIU0yfBahcApeAGX-sEe7yj8Ljb9FwVO4Q&s=10",
-    "status": "Online (Slow)",
+    "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 5,
@@ -52,7 +52,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 6,
@@ -62,7 +62,7 @@
     "logo": "https://i.postimg.cc/jdK93HTJ/images-5-10.jpg",
     "status": "Online",
     "fail_count": 0,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -73,7 +73,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJABMpPtIxMSIYhA3IQF9DtyksTElz78A5n12xVMIhrQ&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -82,9 +82,9 @@
     "category": "NOWSHIN",
     "url": "http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x95285",
-    "status": "Offline",
+    "status": "Online (Slow)",
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 9,
@@ -94,7 +94,7 @@
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -105,7 +105,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -117,7 +117,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 12,
@@ -127,7 +127,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -138,7 +138,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -149,7 +149,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -160,7 +160,7 @@
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -172,7 +172,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 17,
@@ -182,7 +182,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -193,8 +193,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10",
     "status": "Online (Slow)",
     "fail_count": 0,
-    "failCount": 0,
-    "successCount": 1
+    "failCount": 1,
+    "successCount": 0
   },
   {
     "serial": 19,
@@ -202,10 +202,10 @@
     "category": "NOWSHIN ",
     "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s",
-    "status": "Online (Slow)",
+    "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 20,
@@ -215,7 +215,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -226,7 +226,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s",
     "status": "Online",
     "fail_count": 0,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -235,10 +235,10 @@
     "category": "NOWSHIN ",
     "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10",
-    "status": "Online (Fast)",
+    "status": "Online (Slow)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 23,
@@ -249,7 +249,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 24,
@@ -259,7 +259,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qtC8l_4JQWS7uILk-zpR6PVDRhzooPl-BO9rbUj0OA&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -271,7 +271,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 26,
@@ -281,7 +281,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -292,7 +292,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -301,10 +301,10 @@
     "category": "NOWSHIN ",
     "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10",
-    "status": "Offline",
+    "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 29,
@@ -315,7 +315,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 30,
@@ -326,7 +326,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 31,
@@ -334,10 +334,10 @@
     "category": "NOWSHIN ",
     "url": "http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
-    "status": "Offline",
+    "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 32,
@@ -348,7 +348,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 33,
@@ -357,7 +357,7 @@
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s",
     "status": "Online",
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -368,7 +368,7 @@
     "logo": "https://static.wikitide.net/avidwiki/c/ca/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -379,7 +379,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -390,7 +390,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -401,7 +401,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -412,7 +412,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -423,7 +423,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -434,7 +434,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGKFWkrt1PztZw3Pnovasolpu5fyP5Is59gVP0o1uMxA&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -445,7 +445,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -456,7 +456,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -467,7 +467,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10",
     "status": "Online",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -478,7 +478,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10",
     "status": "Online",
     "fail_count": 0,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -489,7 +489,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmvS9lT69noSPvr5LdsJ373Qh3ugjYYK0mHHXcaI4wSB3s3bMFu-WCB8bUAfwsHx9oWnSsAypY2DkEXc8mYQH7vtbxXp2RI5Vjoj6_edDR&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -500,7 +500,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qy4MhEPTa0jDGNe1KUvNxbdLa2rd6I-xao4AdnO4KQ&s",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -511,7 +511,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -522,7 +522,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -533,7 +533,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -544,7 +544,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -555,8 +555,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWrukafE-fFtP2zGCxL7XghqcfIQks3c_Ef4FU9S5l4c4IU144IX6L&s",
     "status": "Online (Slow)",
     "fail_count": 0,
-    "failCount": 0,
-    "successCount": 1
+    "failCount": 1,
+    "successCount": 0
   },
   {
     "serial": 52,
@@ -566,7 +566,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -578,7 +578,7 @@
     "status": "Online (Slow)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 54,
@@ -588,7 +588,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQtmoCQuf84CkcQjeXJ5YeTsYXxRxbPmi3ZgXM4PfGWg&s",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -599,7 +599,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwxQ0A7D8kg4cxjQN7jNmbhXrXRr4iPkknsQKTaE7fw&s",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -611,7 +611,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 57,
@@ -622,7 +622,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 58,
@@ -633,7 +633,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 59,
@@ -643,7 +643,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10",
     "status": "Online",
     "fail_count": 0,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -654,7 +654,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -665,8 +665,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10",
     "status": "Online (Slow)",
     "fail_count": 0,
-    "failCount": 0,
-    "successCount": 1
+    "failCount": 1,
+    "successCount": 0
   },
   {
     "serial": 62,
@@ -677,7 +677,7 @@
     "status": "Online (Slow)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 63,
@@ -687,7 +687,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -698,7 +698,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -709,7 +709,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
     "status": "Offline",
     "fail_count": 10,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -720,7 +720,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
     "status": "Online",
     "fail_count": 0,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   },
   {
@@ -729,10 +729,10 @@
     "category": "NOWSHIN ",
     "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
-    "status": "Offline",
+    "status": "Online (Slow)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 68,
@@ -743,7 +743,7 @@
     "status": "Online (Fast)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 69,
@@ -751,10 +751,10 @@
     "category": "NOWSHIN ",
     "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
-    "status": "Offline",
+    "status": "Online (Slow)",
     "fail_count": 0,
     "failCount": 0,
-    "successCount": 1
+    "successCount": 2
   },
   {
     "serial": 70,
@@ -764,7 +764,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
     "status": "Online",
     "fail_count": 0,
-    "failCount": 1,
+    "failCount": 2,
     "successCount": 0
   }
 ]
