@@ -66,10 +66,9 @@
     "serial": 8,
     "name": "BTV",
     "category": "NOWSHIN",
-    "url": "http://180.94.28.28:8097//BTV/index.fmp4.m3u8",
+    "url": "http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x95285",
-    "status": "Offline",
-    "fail_count": 10
+    "status": "Offline"
   },
   {
     "serial": 9,
