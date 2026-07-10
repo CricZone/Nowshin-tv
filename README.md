@@ -4,7 +4,7 @@
 
 ### 🚀 Professional IPTV • M3U8 • Streaming Automation Platform
 
-<img src="YOUR_BOT_BANNER_URL" width="100%" alt="Security Bot Banner">
+<img src="https://i.postimg.cc/MHscP0D3/banner.png" width="100%" alt="Security Bot Banner">
 
 <br>
 
