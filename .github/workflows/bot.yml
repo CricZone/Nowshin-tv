@@ -1,0 +1,23 @@
+name: NowshinTV Bot
+on:
+  schedule:
+    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর পর চলবে
+  workflow_dispatch: # ম্যানুয়ালি চালানোর জন্য
+
+jobs:
+  check-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: uses/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run checker
+        run: python checker.py
