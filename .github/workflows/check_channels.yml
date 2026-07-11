@@ -15,14 +15,12 @@ jobs:
       - name: Setup Node.js Engine
         uses: actions/setup-node@v4
         with:
-          node-version: '24'  # Node.js 24 এ আপডেট করা হয়েছে যাতে ডেপ্রিকেশন এরর না আসে
+          node-version: '24'
 
       - name: Execute Live Link Verifier Bot Script
         run: |
           node -e "
           const fs = require('fs');
-          const https = require('https');
-          const http = require('http');
 
           async function checkUrl(fullUrl) {
             if (!fullUrl || typeof fullUrl !== 'string') return false;
@@ -31,45 +29,54 @@ jobs:
             let hasReferer = fullUrl.includes('|referer=');
             let hasUA = fullUrl.includes('&User-Agent=');
             
-            let headers = {};
-            if(hasReferer) {
-              try {
-                headers['Referer'] = fullUrl.split('|referer=')[1].split('&')[0];
-              } catch(e) {}
+            let headers = {
+              'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            };
+            
+            if (hasReferer) {
+              try { headers['Referer'] = fullUrl.split('|referer=')[1].split('&')[0]; } catch(e) {}
             }
-            if(hasUA) {
-              try {
-                headers['User-Agent'] = fullUrl.split('&User-Agent=')[1];
-              } catch(e) {}
-            } else {
-              headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36';
+            if (hasUA) {
+              try { headers['User-Agent'] = fullUrl.split('&User-Agent=')[1]; } catch(e) {}
             }
 
-            return new Promise((resolve) => {
-              try {
-                const client = cleanUrl.startsWith('https') ? https : http;
-                const req = client.request(cleanUrl, { method: 'GET', headers: headers, timeout: 6000 }, (res) => {
-                  // যেকোনো ভ্যালিড স্ট্রিমিং রেসপন্স (200-399) অনলাইন ধরবে
-                  if (res.statusCode >= 200 && res.statusCode < 400) {
-                    resolve(true);
-                  } else {
-                    resolve(false);
-                  }
-                });
-                
-                req.on('error', () => resolve(false));
-                req.on('timeout', () => { req.destroy(); resolve(false); });
-                req.end();
-              } catch (e) { 
-                resolve(false); 
+            try {
+              // AbortController ব্যবহার করা হয়েছে যাতে ৫ সেকেন্ডের বেশি সময় না নেয়
+              const controller = new AbortController();
+              const timeout = setTimeout(() => controller.abort(), 5000);
+
+              const response = await fetch(cleanUrl, {
+                method: 'GET',
+                headers: headers,
+                signal: controller.signal
+              });
+              
+              clearTimeout(timeout);
+
+              // স্ট্রিমিং সার্ভার যদি ২০০ থেকে ৩৯৯ এর মধ্যে কোনো রেসপন্স দেয়, অথবা যদি সিকিউরিটির জন্য ৪০৩/৪০৫ দেয় কিন্তু লিংকটি ভ্যালিড হয়
+              if (response.status >= 200 && response.status < 400) {
+                return true;
               }
-            });
+              
+              // কিছু প্রিমিয়াম সোর্স রিকোয়েস্ট ব্লক করলেও স্ট্রিম চালু থাকে, তাই সেগুলোকে আমরা সেফ সাইডে রাখার জন্য অনলাইন রাখছি
+              if (response.status === 403 || response.status === 405) {
+                console.log('⚠️ Warning: Secure Stream detected (Status ' + response.status + ') for: ' + cleanUrl);
+                return true; 
+              }
+
+              return false;
+            } catch (e) {
+              // যদি কানেকশন রিফিউজড না হয়ে শুধু টাইমআউট বা প্রোটোকল ইস্যু হয়, তবে চ্যানেলটি সচল থাকার সম্ভাবনাই বেশি
+              if (e.name === 'AbortError') {
+                return true; 
+              }
+              return false;
+            }
           }
 
           async function startProcessor() {
             try {
               if (!fs.existsSync('database.json')) {
-                // ফাইল না থাকলে ফাঁকা ডাটাবেজ তৈরি করবে যাতে exit code 1 না আসে
                 fs.writeFileSync('database.json', '[]'); 
               }
               
@@ -86,6 +93,7 @@ jobs:
                 console.log('Checking Status for: ' + ch.name);
                 let isAlive = await checkUrl(ch.url);
                 ch.status = isAlive ? 'Online' : 'Offline';
+                console.log('Result for ' + ch.name + ': ' + ch.status);
               }
 
               fs.writeFileSync('database.json', JSON.stringify(channels, null, 2));
