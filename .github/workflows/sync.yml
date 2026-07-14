@@ -1,0 +1,27 @@
+name: NowshinTV Auto Link Checker Bot
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-node-version: '20'
+
+      - name: Run Link Sync Bot
+        run: node bot.js
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "NowshinTV Bot"
+          git config --global user.email "bot@nowshintv.com"
+          git add playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync: Updated channels status via system cron" && git push)
