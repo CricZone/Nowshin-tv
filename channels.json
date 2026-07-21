@@ -1,1 +1,522 @@
-[]
+[
+  {
+    "serial": 1,
+    "name": "Peace Tv",
+    "category": "NOWSHIN",
+    "logo": "https://i.postimg.cc/jdK93HTJ/images-5-10.jpg",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 3,
+    "name": "Islamic tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJABMpPtIxMSIYhA3IQF9DtyksTElz78A5n12xVMIhrQ&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 4,
+    "name": "Sonsad Tv",
+    "category": "NOWSHIN",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 5,
+    "name": "Bangla Vision Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 6,
+    "name": "Boishakhi Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s",
+    "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
+    "status": "Online"
+  },
+  {
+    "serial": 7,
+    "name": "Chaanel i",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 8,
+    "name": "Gazi Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 9,
+    "name": "Deepto Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 10,
+    "name": "Rtv",
+    "category": "NOWSHIN",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 11,
+    "name": "Green Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCTL-zvZjMuPT3__MjCLFRpfvrUti-drH9_4HxUNYiQ&s",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 12,
+    "name": "Nagorik Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
+    "url": "http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 13,
+    "name": "Ekushey Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10",
+    "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 14,
+    "name": "My Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s",
+    "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
+    "status": "Online"
+  },
+  {
+    "serial": 15,
+    "name": "Ntv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 16,
+    "name": "Bijoy tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s",
+    "url": "https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 17,
+    "name": "Asian Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10",
+    "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 18,
+    "name": "Ananda Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s",
+    "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
+    "status": "Online"
+  },
+  {
+    "serial": 19,
+    "name": "Massranga tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qtC8l_4JQWS7uILk-zpR6PVDRhzooPl-BO9rbUj0OA&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 20,
+    "name": "Mohona tv",
+    "category": "NOWSHIN",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x95285",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 21,
+    "name": "Channel 9 tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 22,
+    "name": "Duranto Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
+    "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 23,
+    "name": "Movie Bangla Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10",
+    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 24,
+    "name": "G Series",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10",
+    "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 25,
+    "name": "Movie",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTgLK5F6Tedh_SdoltPFlXLWw5Q6OWOF12Dr0TWNTtQ&s=10",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 26,
+    "name": "Desh tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 27,
+    "name": "Channel 1",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 28,
+    "name": "Jago News Tv",
+    "category": "NOWSHIN",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png",
+    "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 30,
+    "name": "T Sports",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
+    "url": "http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 32,
+    "name": "Atn News",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 33,
+    "name": "Independent News",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 34,
+    "name": "Ekttor Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 35,
+    "name": "Channel 24",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 36,
+    "name": "Somay News",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgMCRlVk9D1e3Kij5trRSnUGjhVDEIbHC3ZRByPyYeqQ&s",
+    "url": "http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
+    "status": "Online"
+  },
+  {
+    "serial": 37,
+    "name": "News 24",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 38,
+    "name": "Star News",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 39,
+    "name": "DBC News",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 40,
+    "name": "Jamuna News",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 41,
+    "name": "Ekhon tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 42,
+    "name": "Star Jalsha HD",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
+    "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 43,
+    "name": "Zee Bangla",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10",
+    "url": "http://103.159.180.34:5001/live/625.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 44,
+    "name": "Colours Bangla",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10",
+    "url": "http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108781",
+    "status": "Online"
+  },
+  {
+    "serial": 45,
+    "name": "Colors bangla Cinema",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10",
+    "url": "https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 46,
+    "name": "Star Jalsha HD",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
+    "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 47,
+    "name": "Sony Aath",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s",
+    "url": "https://live.shamim-iptv.workers.dev/SONYATTH.m3u8",
+    "status": "Offline"
+  },
+  {
+    "serial": 48,
+    "name": "Jalsha Movies",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
+    "url": "https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8",
+    "status": "Offline"
+  },
+  {
+    "serial": 49,
+    "name": "Bangla Plues",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s",
+    "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 50,
+    "name": "Sananda tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 51,
+    "name": "Sananda tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10",
+    "url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 52,
+    "name": "Sun Bangla",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10",
+    "url": "http://103.159.180.34:5001/live/1669.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 53,
+    "name": "Gopal bhar tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjpnQz16rrhxIYlsttjetqvt0MynhaxY6z5X4ohR0wg&s=10",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 54,
+    "name": "Rangeen tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTTMD3W4KIdN9RyHDCBJp4g5ZbmzW6f-LKYDdrAf9tw&s=10",
+    "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 55,
+    "name": "Tom & Jery",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 56,
+    "name": "Khusboo bangla",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10",
+    "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 57,
+    "name": "ZB Cartoon",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 58,
+    "name": "Star Plus",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s",
+    "url": "http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip",
+    "status": "Offline"
+  },
+  {
+    "serial": 59,
+    "name": "Zee Cinema",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10",
+    "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 60,
+    "name": "South Station Tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10",
+    "url": "https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fqu6rxobd50d5/SS_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN3800008CX&ads.ssai_vendor=SSSLIVE&pb_type=pb-fqu6rxobd50d5_cloudfront",
+    "status": "Online"
+  },
+  {
+    "serial": 61,
+    "name": "Sony Max HD",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
+    "url": "http://live.balajibroadband.com:3500/live/476.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 62,
+    "name": "Discovery",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
+    "url": "https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 63,
+    "name": "National Geography",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
+    "url": "http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 64,
+    "name": "Sangeet Bangla tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
+    "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 65,
+    "name": "Music India tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
+    "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 66,
+    "name": "9XM Music tv",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
+    "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 67,
+    "name": "8XM Music",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 68,
+    "name": "Songeet Bhojpuri",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
+    "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
+    "status": "Online"
+  }
+]
