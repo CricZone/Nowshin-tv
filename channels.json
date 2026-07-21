@@ -85,7 +85,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
     "url": "http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 13,
@@ -165,7 +165,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
     "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 23,
@@ -221,7 +221,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
     "url": "http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 32,
@@ -309,7 +309,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
     "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 43,
@@ -341,7 +341,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
     "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 47,
@@ -349,7 +349,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s",
     "url": "https://live.shamim-iptv.workers.dev/SONYATTH.m3u8",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "serial": 48,
@@ -477,7 +477,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
     "url": "http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 64,
