@@ -3,8 +3,6 @@ name: 15-Min Background Channel Health Check Bot
 on:
   schedule:
     - cron: '*/15 * * * *'
-  repository_dispatch:
-    types: [update-playlist]
   workflow_dispatch:
 
 jobs:
