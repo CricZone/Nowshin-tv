@@ -1,6 +1,14 @@
 [
   {
-    "serial": 8,
+    "serial": 1,
+    "name": "Chek",
+    "category": "Now",
+    "logo": "",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 9,
     "name": "Peace Tv",
     "category": "NOWSHIN",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
@@ -11,7 +19,7 @@
     "successCount": 0
   },
   {
-    "serial": 9,
+    "serial": 10,
     "name": "Islamic Tv",
     "category": "NOWSHIN",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
@@ -22,7 +30,7 @@
     "successCount": 0
   },
   {
-    "serial": 10,
+    "serial": 11,
     "name": "BTV",
     "category": "NOWSHIN",
     "url": "http://114.130.57.233:8080/BTV/video.m3u8?token=SkQuhAXZxgBan1",
@@ -32,7 +40,7 @@
     "successCount": 2
   },
   {
-    "serial": 11,
+    "serial": 12,
     "name": "Sangsad Tv",
     "category": "NOWSHIN",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
@@ -43,7 +51,7 @@
     "successCount": 0
   },
   {
-    "serial": 12,
+    "serial": 13,
     "name": "Bangla Vision ",
     "category": "NOWSHIN",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
@@ -54,7 +62,7 @@
     "successCount": 0
   },
   {
-    "serial": 13,
+    "serial": 14,
     "name": "Boishakhi Tv",
     "category": "NOWSHIN",
     "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
@@ -65,7 +73,7 @@
     "successCount": 2
   },
   {
-    "serial": 14,
+    "serial": 15,
     "name": "Channel I",
     "category": "NOWSHIN",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
@@ -76,7 +84,7 @@
     "successCount": 0
   },
   {
-    "serial": 15,
+    "serial": 16,
     "name": "Gazi Tv",
     "category": "NOWSHIN",
     "url": "http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8?token=400bcae797249d11b14d2d2d7c79f420be526c6c-ddb0dcf96098de24e09d7f9a9476072e-1776169971-1776166371&remote=no_check_ip",
@@ -87,7 +95,7 @@
     "successCount": 0
   },
   {
-    "serial": 16,
+    "serial": 17,
     "name": "Deepto Tv",
     "category": "NOWSHIN",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
@@ -98,7 +106,7 @@
     "successCount": 0
   },
   {
-    "serial": 17,
+    "serial": 18,
     "name": "Rtv",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//RTV/index.fmp4.m3u8?token=3e67857b3a30b349cfcee04c568e522f823b1f98-97e413b19434555ee18530e886a6762f-1776169971-1776166371&remote=no_check_ip",
@@ -109,7 +117,7 @@
     "successCount": 0
   },
   {
-    "serial": 18,
+    "serial": 19,
     "name": "Green Tv",
     "category": "NOWSHIN ",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
@@ -120,7 +128,7 @@
     "successCount": 2
   },
   {
-    "serial": 19,
+    "serial": 20,
     "name": "Nagorik Tv",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8",
@@ -131,7 +139,7 @@
     "successCount": 0
   },
   {
-    "serial": 20,
+    "serial": 21,
     "name": "Ekushey Tv",
     "category": "NOWSHIN ",
     "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
@@ -142,7 +150,7 @@
     "successCount": 0
   },
   {
-    "serial": 21,
+    "serial": 22,
     "name": "My tv",
     "category": "NOWSHIN ",
     "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
@@ -153,7 +161,7 @@
     "successCount": 2
   },
   {
-    "serial": 22,
+    "serial": 23,
     "name": "Ntv",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
@@ -164,7 +172,7 @@
     "successCount": 0
   },
   {
-    "serial": 23,
+    "serial": 24,
     "name": "Bijoy tv",
     "category": "NOWSHIN ",
     "url": "https://sm-monirul.top/toffee/play/bijoytv.m3u8",
@@ -175,7 +183,7 @@
     "successCount": 0
   },
   {
-    "serial": 24,
+    "serial": 25,
     "name": "Asian tv",
     "category": "NOWSHIN ",
     "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
@@ -186,7 +194,7 @@
     "successCount": 2
   },
   {
-    "serial": 25,
+    "serial": 26,
     "name": "Anando tv",
     "category": "NOWSHIN ",
     "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
@@ -197,7 +205,7 @@
     "successCount": 2
   },
   {
-    "serial": 26,
+    "serial": 27,
     "name": "Maasranga tv",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
@@ -208,7 +216,7 @@
     "successCount": 0
   },
   {
-    "serial": 27,
+    "serial": 28,
     "name": "Mohona tv",
     "category": "NOWSHIN ",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
@@ -219,7 +227,7 @@
     "successCount": 2
   },
   {
-    "serial": 28,
+    "serial": 29,
     "name": "Channel 9",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
@@ -230,7 +238,7 @@
     "successCount": 0
   },
   {
-    "serial": 29,
+    "serial": 30,
     "name": "Duranto tv",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
@@ -241,7 +249,7 @@
     "successCount": 0
   },
   {
-    "serial": 30,
+    "serial": 31,
     "name": "Movie Bangla ",
     "category": "NOWSHIN ",
     "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
@@ -252,7 +260,7 @@
     "successCount": 2
   },
   {
-    "serial": 31,
+    "serial": 32,
     "name": "Global tv",
     "category": "NOWSHIN ",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8",
@@ -263,7 +271,7 @@
     "successCount": 2
   },
   {
-    "serial": 32,
+    "serial": 33,
     "name": "Channel S",
     "category": "NOWSHIN ",
     "url": "https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8",
@@ -274,7 +282,7 @@
     "successCount": 2
   },
   {
-    "serial": 33,
+    "serial": 34,
     "name": "T sports ",
     "category": "NOWSHIN ",
     "url": "http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1",
@@ -285,7 +293,7 @@
     "successCount": 2
   },
   {
-    "serial": 34,
+    "serial": 35,
     "name": "Jago News ",
     "category": "NOWSHIN ",
     "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8",
@@ -296,7 +304,7 @@
     "successCount": 2
   },
   {
-    "serial": 35,
+    "serial": 36,
     "name": "Desh Tv",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
@@ -306,7 +314,7 @@
     "successCount": 0
   },
   {
-    "serial": 36,
+    "serial": 37,
     "name": "Channel 1",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
@@ -317,7 +325,7 @@
     "successCount": 0
   },
   {
-    "serial": 37,
+    "serial": 38,
     "name": "Chanbel 24",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
@@ -328,7 +336,7 @@
     "successCount": 0
   },
   {
-    "serial": 38,
+    "serial": 39,
     "name": "Atn News",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
@@ -339,7 +347,7 @@
     "successCount": 0
   },
   {
-    "serial": 39,
+    "serial": 40,
     "name": "Independent News",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
@@ -350,7 +358,7 @@
     "successCount": 0
   },
   {
-    "serial": 40,
+    "serial": 41,
     "name": "Ekattor tv",
     "category": "NOWSHIN",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
@@ -361,7 +369,7 @@
     "successCount": 0
   },
   {
-    "serial": 41,
+    "serial": 42,
     "name": "News 24",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
@@ -372,7 +380,7 @@
     "successCount": 0
   },
   {
-    "serial": 42,
+    "serial": 43,
     "name": "Somoy tv",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//Somoy-TV/index.fmp4.m3u8?token=4fde3d8957e50f434586227e0235025478768f0e-ed9e7afca3040a69f8179bfff33845e0-1776169971-1776166371&remote=no_check_ip",
@@ -383,7 +391,7 @@
     "successCount": 0
   },
   {
-    "serial": 43,
+    "serial": 44,
     "name": "Star news ",
     "category": "NOWSHIN",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8",
@@ -394,7 +402,7 @@
     "successCount": 0
   },
   {
-    "serial": 44,
+    "serial": 45,
     "name": "DBC news",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
@@ -405,7 +413,7 @@
     "successCount": 0
   },
   {
-    "serial": 45,
+    "serial": 46,
     "name": "Jamuna tv",
     "category": "NOWSHIN ",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
@@ -416,7 +424,7 @@
     "successCount": 0
   },
   {
-    "serial": 46,
+    "serial": 47,
     "name": "Ekhon tv",
     "category": "NOWSHIN ",
     "url": "https://sm-monirul.top/toffee/play/ekhon_tv.m3u8",
@@ -427,7 +435,7 @@
     "successCount": 0
   },
   {
-    "serial": 47,
+    "serial": 48,
     "name": "Sony Aath",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//SONY-AATH/index.fmp4.m3u8?token=1da1361f5596113df8a71926e1d7831369938f93-dc2b512c88af04d4ed4ff9087e498efa-1776169972-1776166372&remote=no_check_ip",
@@ -438,7 +446,7 @@
     "successCount": 0
   },
   {
-    "serial": 48,
+    "serial": 49,
     "name": "Zee Bangla ",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip",
@@ -449,7 +457,7 @@
     "successCount": 0
   },
   {
-    "serial": 49,
+    "serial": 50,
     "name": "Star Jalsha",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8",
@@ -460,7 +468,7 @@
     "successCount": 0
   },
   {
-    "serial": 50,
+    "serial": 51,
     "name": "Colours Bangla",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8?token=429a387b63ac8a32c732fefb835365ad92425ccc-92e5b67b31a4719886a661390e8c1554-1776169972-1776166372&remote=no_check_ip",
@@ -471,7 +479,7 @@
     "successCount": 0
   },
   {
-    "serial": 51,
+    "serial": 52,
     "name": "Colours Bangla Cinema",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.fmp4.m3u8",
@@ -482,7 +490,7 @@
     "successCount": 0
   },
   {
-    "serial": 52,
+    "serial": 53,
     "name": "Jalsha Movies",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8?token=db2538fdd0d868b1f01d342ee7929f62a5083d97-7601b35e404354f1cb113317091539cf-1776169971-1776166371&remote=no_check_ip",
@@ -493,7 +501,7 @@
     "successCount": 0
   },
   {
-    "serial": 53,
+    "serial": 54,
     "name": "Zee Bangla Sonar ",
     "category": "NOWSHIN ",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8",
@@ -504,7 +512,7 @@
     "successCount": 0
   },
   {
-    "serial": 54,
+    "serial": 55,
     "name": "Sun Bangla",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//SUN-BANGLA/index.fmp4.m3u8?token=ddf83cdff5d2a3215579fa2d1303886e18ab6d5c-749917c00731c4d6f44b52a2cfc14557-1776169972-1776166372&remote=no_check_ip",
@@ -515,7 +523,7 @@
     "successCount": 0
   },
   {
-    "serial": 55,
+    "serial": 56,
     "name": "Enter Ten Bangla ",
     "category": "NOWSHIN ",
     "url": "https://live-bangla.akamaized.net/liveabr/playlist.m3u8",
@@ -526,7 +534,7 @@
     "successCount": 2
   },
   {
-    "serial": 56,
+    "serial": 57,
     "name": "Ptv",
     "category": "NOWSHIN ",
     "url": "http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8",
@@ -537,7 +545,7 @@
     "successCount": 0
   },
   {
-    "serial": 57,
+    "serial": 58,
     "name": "A sports ",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//A-Sports/index.fmp4.m3u8?token=665a0082a282ee8c3bca72d2397f4f804786e912-e28e29b2b0adcb34dcc735b4cad51009-1776169972-1776166372&remote=no_check_ip",
@@ -548,7 +556,7 @@
     "successCount": 0
   },
   {
-    "serial": 58,
+    "serial": 59,
     "name": "Gopal Bhar ",
     "category": "NOWSHIN ",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
@@ -559,7 +567,7 @@
     "successCount": 2
   },
   {
-    "serial": 59,
+    "serial": 60,
     "name": "Wow kids",
     "category": "NOWSHIN ",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
@@ -570,7 +578,7 @@
     "successCount": 2
   },
   {
-    "serial": 60,
+    "serial": 61,
     "name": "Tom & Jery",
     "category": "NOWSHIN ",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
@@ -581,7 +589,7 @@
     "successCount": 2
   },
   {
-    "serial": 61,
+    "serial": 62,
     "name": "Khusbo Bangla",
     "category": "NOWSHIN ",
     "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
@@ -592,7 +600,7 @@
     "successCount": 0
   },
   {
-    "serial": 62,
+    "serial": 63,
     "name": "Star Plues",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip",
@@ -603,7 +611,7 @@
     "successCount": 0
   },
   {
-    "serial": 63,
+    "serial": 64,
     "name": "Zee Cinema",
     "category": "NOWSHIN",
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
@@ -614,7 +622,7 @@
     "successCount": 0
   },
   {
-    "serial": 64,
+    "serial": 65,
     "name": "South Station ",
     "category": "NOWSHIN ",
     "url": "https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fqu6rxobd50d5/SS_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN3800008CX&ads.ssai_vendor=SSSLIVE&pb_type=pb-fqu6rxobd50d5_cloudfront",
@@ -625,7 +633,7 @@
     "successCount": 2
   },
   {
-    "serial": 65,
+    "serial": 66,
     "name": "Sony Max",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//SONY-MAX/index.fmp4.m3u8?token=3cb50ef3d94ad1661590b7d21df6f5f56856da25-0e28ff981157c82e879c35fbff082361-1776169972-1776166372&remote=no_check_ip",
@@ -636,7 +644,7 @@
     "successCount": 0
   },
   {
-    "serial": 66,
+    "serial": 67,
     "name": "Discovery ",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8",
@@ -647,7 +655,7 @@
     "successCount": 0
   },
   {
-    "serial": 67,
+    "serial": 68,
     "name": "National Geographic",
     "category": "NOWSHIN ",
     "url": "http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8",
@@ -658,7 +666,7 @@
     "successCount": 0
   },
   {
-    "serial": 68,
+    "serial": 69,
     "name": "Sangeet Bangla",
     "category": "NOWSHIN ",
     "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
@@ -669,7 +677,7 @@
     "successCount": 0
   },
   {
-    "serial": 69,
+    "serial": 70,
     "name": "Music India",
     "category": "NOWSHIN ",
     "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
@@ -680,7 +688,7 @@
     "successCount": 2
   },
   {
-    "serial": 70,
+    "serial": 71,
     "name": "8xm Music",
     "category": "NOWSHIN ",
     "url": "https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8",
@@ -691,7 +699,7 @@
     "successCount": 2
   },
   {
-    "serial": 71,
+    "serial": 72,
     "name": "9xm Music",
     "category": "NOWSHIN ",
     "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
@@ -702,7 +710,7 @@
     "successCount": 2
   },
   {
-    "serial": 72,
+    "serial": 73,
     "name": "Sangeet Bhujpuri",
     "category": "NOWSHIN ",
     "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
