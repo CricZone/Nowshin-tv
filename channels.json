@@ -336,14 +336,6 @@
     "status": "Online"
   },
   {
-    "serial": 47,
-    "name": "Star Jalsha HD",
-    "category": "NOWSHIN",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
-    "url": "http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8",
-    "status": "Offline"
-  },
-  {
     "serial": 48,
     "name": "Sony Aath",
     "category": "NOWSHIN",
