@@ -1,80 +1,54 @@
 const fs = require('fs');
-const https = require('https');
+const axios = require('axios');
 
-const FILE_NAME = 'playlist.m3u';
-
-function parseM3U(data) {
-    const lines = data.split('\n');
-    const channels = [];
-    let current = null;
-
-    lines.forEach(line => {
-        line = line.trim();
-        if (line.startsWith('#EXTINF:')) {
-            current = {};
-            const nameMatch = line.match(/,(.+)$/);
-            current.name = nameMatch ? nameMatch[1].trim() : "Unknown";
-            
-            const logoMatch = line.match(/tvg-logo="([^"]+)"/);
-            current.logo = logoMatch ? logoMatch[1] : "";
-
-            const groupMatch = line.match(/group-title="([^"]+)"/);
-            current.category = groupMatch ? groupMatch[1] : "General";
-
-            const serialMatch = line.match(/tvg-id="([^"]+)"/);
-            current.serial = serialMatch ? serialMatch[1] : "0";
-        } else if (line && !line.startsWith('#')) {
-            if (current) {
-                current.url = line;
-                channels.push(current);
-                current = null;
-            }
-        }
+async function checkUrl(url) {
+  const cleanUrl = url.split('|')[0];
+  try {
+    const response = await axios.get(cleanUrl, {
+      timeout: 7000,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+      }
     });
-    return channels;
+    return response.status >= 200 && response.status < 400;
+  } catch (error) {
+    return false;
+  }
 }
 
-function checkUrl(url) {
-    return new Promise((resolve) => {
-        // Advanced link structural tokenization stripping parameters
-        const cleanUrl = url.split('|')[0].trim();
-        if(!cleanUrl.startsWith('http')) return resolve(false);
+async function runBot() {
+  console.log("Starting NowshinTV background channel validation...");
+  
+  if (!fs.existsSync('./channels.json')) {
+    console.error("channels.json file not found!");
+    return;
+  }
 
-        const req = https.request(cleanUrl, { method: 'HEAD', timeout: 8000 }, (res) => {
-            if (res.statusCode >= 200 && res.statusCode < 400) {
-                resolve(true);
-            } else {
-                resolve(false);
-            }
-        });
+  const rawData = fs.readFileSync('./channels.json', 'utf8');
+  let channels = JSON.parse(rawData);
 
-        req.on('error', () => resolve(false));
-        req.on('timeout', () => { req.destroy(); resolve(false); });
-        req.end();
-    });
-}
+  for (let ch of channels) {
+    const isLive = await checkUrl(ch.url);
+    ch.status = isLive ? "Online" : "Offline";
+    console.log(`Verified ${ch.name} -> ${ch.status}`);
+  }
 
-async function startBot() {
-    if (!fs.existsSync(FILE_NAME)) return;
-    const rawData = fs.readFileSync(FILE_NAME, 'utf8');
-    const channels = parseM3U(rawData);
-    
-    console.log(`Starting execution over ${channels.length} channels...`);
+  // Sort channels by serial
+  channels.sort((a, b) => Number(a.serial) - Number(b.serial));
 
-    for (let ch of channels) {
-        console.log(`Checking live integrity for: ${ch.name}`);
-        const isAlive = await checkUrl(ch.url);
-        // Requirement 2 & 3: Dead link turns off instantly, live link registers instantly
-        ch.status = isAlive ? "Online" : "Offline";
+  // Write back to channels.json
+  fs.writeFileSync('./channels.json', JSON.stringify(channels, null, 2), 'utf8');
+
+  // Build playlist.m3u containing only Online active streams
+  let m3uContent = "#EXTM3U\n\n";
+  for (let ch of channels) {
+    if (ch.status === "Online") {
+      m3uContent += `#EXTINF:-1 tvg-id="${ch.serial}" tvg-name="${ch.name}" tvg-logo="${ch.logo}" group-title="${ch.category}",${ch.name}\n${ch.url}\n\n`;
     }
+  }
 
-    let m3uOutput = "#EXTM3U\n";
-    channels.forEach(ch => {
-        m3uOutput += `#EXTINF:-1 tvg-id="${ch.serial}" tvg-logo="${ch.logo}" group-title="${ch.category}" status="${ch.status}",${ch.name}\n${ch.url}\n`;
-    });
-
-    fs.writeFileSync(FILE_NAME, m3uOutput, 'utf8');
-    console.log("Database compilation sync completed successfully.");
+  fs.writeFileSync('./playlist.m3u', m3uContent, 'utf8');
+  console.log("Validation complete. channels.json and playlist.m3u updated.");
 }
 
-startBot();
+runBot();
