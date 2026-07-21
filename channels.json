@@ -381,7 +381,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10",
     "url": "http://103.159.180.34:5001/live/1669.m3u8",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "serial": 54,
@@ -389,7 +389,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjpnQz16rrhxIYlsttjetqvt0MynhaxY6z5X4ohR0wg&s=10",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
-    "status": "Offline"
+    "status": "Online"
   },
   {
     "serial": 55,
