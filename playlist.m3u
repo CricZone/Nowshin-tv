@@ -120,9 +120,6 @@ https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s" group-title="NOWSHIN",Sony Aath
 https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="NOWSHIN",Jalsha Movies
-https://s2.itcnbd.live/server-3/stream/cGxheWVyLnBocD9zdHJlYW09MTk.m3u8
-
 #EXTINF:-1 tvg-id="52" tvg-name="Bangla Plues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s" group-title="NOWSHIN",Bangla Plues
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
