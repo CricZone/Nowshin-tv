@@ -1,0 +1,20 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # প্রতিদিন স্বয়ংক্রিয়ভাবে রান হবে
+  workflow_dispatch: # ম্যানুয়ালি রান করার সুবিধা
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Script or Update File
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # সিক্রেটটি এনভায়রনমেন্ট ভেরিয়েবলে পাস করা হচ্ছে
+        run: |
+          # এখানে আপনার স্ক্রিপ্ট চলবে যা নিরাপদে টোকেন ব্যবহার করে কাজ করবে
+          python update_channels.py
