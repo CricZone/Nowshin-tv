@@ -1,49 +1,45 @@
 const fs = require('fs');
 const axios = require('axios');
 
-// একটি নির্দিষ্ট URL চেক করার ফাংশন (Retry লজিকসহ)
+/**
+ * URL ভেরিফাই করার ফাংশন (টাইমআউট ২০ সেকেন্ড এবং রিডাইরেক্ট ফলোসহ)
+ */
 async function checkUrl(url, retries = 2) {
   const cleanUrl = url.split('|')[0].trim();
-  
+
   for (let i = 0; i <= retries; i++) {
     try {
       const response = await axios({
         method: 'get',
         url: cleanUrl,
-        timeout: 10000, // টাইমআউট বাড়িয়ে ১০ সেকেন্ড করা হলো
+        timeout: 20000, // ৪. টাইমআউট ২০ সেকেন্ড করা হলো
+        maxRedirects: 10, // ৫. Max Redirects ১০ করা হলো
         headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-          'Accept': '*/*',
-          'Range': 'bytes=0-1024'
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/122.0.0.0 Safari/537.36',
+          'Accept': '*/*'
         },
         validateStatus: (status) => status >= 200 && status < 400
       });
-      return true; // সফল হলে true রিটার্ন করবে
+      return true;
     } catch (error) {
-      // যদি ৪৩ বা ৪০৫ হয়, তবে সাথে সাথে অনলাইন ধরে নেব
+      // যদি ৪০৩ বা ৪০৫ রেসপন্স দেয়, সেক্ষেত্রে সংকেত সক্রিয় থাকলে অনলাইন ধরা হবে
       if (error.response && (error.response.status === 403 || error.response.status === 405)) {
         return true;
       }
-      
-      // যদি শেষ চেষ্টাটিও ফেইল করে, তবে লুপ শেষ করে নিচের দিকে যাবে
+
       if (i === retries) {
-        // নেটওয়ার্ক পুরোপুরি অফলাইন থাকলে axios-এর error.code 'ENOTFOUND' বা 'ETIMEDOUT' হতে পারে
-        if (error.code === 'ENOTFOUND' || error.code === 'EAI_AGAIN') {
-          console.log(`[Network Error] No internet connection detected for ${cleanUrl}`);
-        }
         return false;
       }
-      
-      // পরবর্তী চেষ্টার আগে ১ সেকেন্ড অপেক্ষা করবে
-      await new Promise(resolve => setTimeout(resolve, 1000));
+
+      await new Promise(resolve => setTimeout(resolve, 1500));
     }
   }
   return false;
 }
 
 async function runBot() {
-  console.log("Starting NowshinTV background channel validation...");
-  
+  console.log("Starting NowshinTV Advanced Channel Health Check Bot...");
+
   if (!fs.existsSync('./channels.json')) {
     console.error("channels.json file not found!");
     return;
@@ -54,7 +50,7 @@ async function runBot() {
   try {
     channels = JSON.parse(rawData);
   } catch (e) {
-    console.error("Error parsing channels.json. File might be corrupted.");
+    console.error("Error parsing channels.json file!");
     return;
   }
 
@@ -62,31 +58,49 @@ async function runBot() {
 
   for (let ch of channels) {
     const isLive = await checkUrl(ch.url);
-    
-    // যদি আপনার নিজের ইন্টারনেট অফ থাকে, তবে হুট করে সব চ্যানেল অফলাইন হওয়া থেকে বাঁচাতে এই শর্ত দিতে পারেন:
-    // কিন্তু যদি ইন্টারনেট থাকে এবং শুধু ওই চ্যানেল অফলাইন হয়, তবেই অফলাইন হবে।
+
+    // ১ & ৩. failCount ও successCount হ্যান্ডলিং এবং টানা চেকিং লজিক
+    ch.failCount = ch.failCount || 0;
+    ch.successCount = ch.successCount || 0;
+
     if (isLive) {
-      ch.status = "Online";
-      onlineCount++;
+      ch.successCount++;
+      ch.failCount = 0;
+
+      // টানা ২ বার সফল হলে Online
+      if (ch.successCount >= 2) {
+        ch.status = "Online";
+      }
+
+      if (ch.status === "Online") {
+        onlineCount++;
+      }
     } else {
-      // আগের স্ট্যাটাস অনলাইন থাকলে একবারে অফলাইন না করে একটি সুযোগ দিতে পারেন, 
-      // অথবা সরাসরি অফলাইন করতে পারেন। এখানে স্বাভাবিক নিয়ম রাখা হলো:
-      ch.status = "Offline";
+      ch.failCount++;
+      ch.successCount = 0;
+
+      // টানা ৪ বার ফেল করলে Offline
+      if (ch.failCount >= 4) {
+        ch.status = "Offline";
+      }
     }
-    console.log(`Verified ${ch.name} -> ${ch.status}`);
+
+    console.log(`Verified ${ch.name} -> Status: ${ch.status} (Success: ${ch.successCount}, Fail: ${ch.failCount})`);
   }
 
-  // সুরক্ষা: যদি এমন হয় যে ইন্টারনেট চলে যাওয়ার কারণে সব চ্যানেল অফলাইন হয়ে গেছে (onlineCount === 0),
-  // তবে ফাইল ওভাররাইট বা খালি করা থেকে বটকে রক্ষা করার জন্য এটি ব্যবহার করতে পারেন:
+  // নেটওয়ার্ক ফেইলিওর সেফটি
   if (onlineCount === 0 && channels.length > 0) {
-    console.log("[Warning] All channels detected as offline. Possible internet disconnection. Skipping file updates to protect data.");
+    console.log("[Warning] Critical network/internet failure detected. Skipping file writes to protect channels.");
     return;
   }
 
+  // সিরিয়াল নম্বর অনুযায়ী সাজানো
   channels.sort((a, b) => Number(a.serial) - Number(b.serial));
 
+  // channels.json আপডেট
   fs.writeFileSync('./channels.json', JSON.stringify(channels, null, 2), 'utf8');
 
+  // playlist.m3u প্লেলিস্ট তৈরি
   let m3uContent = "#EXTM3U\n\n";
   for (let ch of channels) {
     if (ch.status === "Online") {
