@@ -12,8 +12,8 @@ async function checkUrl(url, retries = 2) {
       const response = await axios({
         method: 'get',
         url: cleanUrl,
-        timeout: 20000, // ৪. টাইমআউট ২০ সেকেন্ড করা হলো
-        maxRedirects: 10, // ৫. Max Redirects ১০ করা হলো
+        timeout: 20000,
+        maxRedirects: 10,
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/122.0.0.0 Safari/537.36',
           'Accept': '*/*'
@@ -22,7 +22,6 @@ async function checkUrl(url, retries = 2) {
       });
       return true;
     } catch (error) {
-      // যদি ৪০৩ বা ৪০৫ রেসপন্স দেয়, সেক্ষেত্রে সংকেত সক্রিয় থাকলে অনলাইন ধরা হবে
       if (error.response && (error.response.status === 403 || error.response.status === 405)) {
         return true;
       }
@@ -38,7 +37,7 @@ async function checkUrl(url, retries = 2) {
 }
 
 async function runBot() {
-  console.log("Starting NowshinTV Advanced Channel Health Check Bot...");
+  console.log("Starting NowshinTV Safe Health Check Bot...");
 
   if (!fs.existsSync('./channels.json')) {
     console.error("channels.json file not found!");
@@ -59,39 +58,25 @@ async function runBot() {
   for (let ch of channels) {
     const isLive = await checkUrl(ch.url);
 
-    // ১ & ৩. failCount ও successCount হ্যান্ডলিং এবং টানা চেকিং লজিক
     ch.failCount = ch.failCount || 0;
     ch.successCount = ch.successCount || 0;
 
     if (isLive) {
       ch.successCount++;
       ch.failCount = 0;
-
-      // টানা ২ বার সফল হলে Online
-      if (ch.successCount >= 2) {
-        ch.status = "Online";
-      }
-
-      if (ch.status === "Online") {
-        onlineCount++;
-      }
     } else {
       ch.failCount++;
       ch.successCount = 0;
-
-      // টানা ৪ বার ফেল করলে Offline
-      if (ch.failCount >= 4) {
-        ch.status = "Offline";
-      }
     }
 
-    console.log(`Verified ${ch.name} -> Status: ${ch.status} (Success: ${ch.successCount}, Fail: ${ch.failCount})`);
-  }
+    // গুরুত্বপূর্ণ পরিবর্তন:
+    // বট চ্যানেলকে স্বয়ংক্রিয়ভাবে 'Online' বা 'Offline' ফোর্সবিক্রেডিট করবে না।
+    // চ্যানেল পূর্বে যে স্ট্যাটাসে (Online/Offline) ছিল, সেটিই স্থায়ীভাবে থাকবে।
+    if (ch.status === "Online") {
+      onlineCount++;
+    }
 
-  // নেটওয়ার্ক ফেইলিওর সেফটি
-  if (onlineCount === 0 && channels.length > 0) {
-    console.log("[Warning] Critical network/internet failure detected. Skipping file writes to protect channels.");
-    return;
+    console.log(`Checked ${ch.name} -> Maintained Status: ${ch.status} (Live Check: ${isLive ? 'PASS' : 'FAIL'})`);
   }
 
   // সিরিয়াল নম্বর অনুযায়ী সাজানো
@@ -100,7 +85,7 @@ async function runBot() {
   // channels.json আপডেট
   fs.writeFileSync('./channels.json', JSON.stringify(channels, null, 2), 'utf8');
 
-  // playlist.m3u প্লেলিস্ট তৈরি
+  // শুধুমাত্র পূর্বে Online নির্ধারিত থাকা চ্যানেলগুলি নিয়েই প্লেলিস্ট তৈরি হবে
   let m3uContent = "#EXTM3U\n\n";
   for (let ch of channels) {
     if (ch.status === "Online") {
@@ -109,7 +94,7 @@ async function runBot() {
   }
 
   fs.writeFileSync('./playlist.m3u', m3uContent, 'utf8');
-  console.log("Validation complete. channels.json and playlist.m3u updated.");
+  console.log("Validation complete. Channels status preserved successfully.");
 }
 
 runBot();
