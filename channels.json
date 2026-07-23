@@ -96,7 +96,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
     "url": "http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8",
     "status": "Offline",
-    "failCount": 13,
+    "failCount": 14,
     "successCount": 0
   },
   {
@@ -196,7 +196,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
     "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
     "status": "Offline",
-    "failCount": 13,
+    "failCount": 14,
     "successCount": 0
   },
   {
@@ -205,7 +205,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nz_HCc83lOYNX9vJzASwu0sKiUw0nUMr13kvK2zLqA&s=10",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 25,
@@ -213,7 +215,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQut1HSjM_dlasdupGnVgcwkNv8Lr_xiPmvTHQYUyNbBg&s",
     "url": "https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 26,
@@ -231,7 +235,9 @@
     "category": "NOWSHIN",
     "logo": "https://yt3.googleusercontent.com/SI5MlFyc4HNhXu-NO9wrFXhssF3y5FAYfo9gGdnt72dUqV-NxPGPkxltLLa1btgv8O0cEB7l6jE=s900-c-k-c0x00ffffff-no-rj",
     "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 28,
@@ -289,7 +295,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
     "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 36,
@@ -447,7 +455,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
     "url": "http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63524",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 55,
@@ -466,7 +476,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8",
     "status": "Offline",
-    "failCount": 13,
+    "failCount": 14,
     "successCount": 0
   },
   {
@@ -515,7 +525,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s",
     "url": "https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 62,
@@ -554,7 +566,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s",
     "url": "http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip",
     "status": "Offline",
-    "failCount": 13,
+    "failCount": 14,
     "successCount": 0
   },
   {
@@ -563,7 +575,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10",
     "url": "https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS_1/tracks-v1a1/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 67,
@@ -571,7 +585,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10",
     "url": "https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS2/tracks-v1a2/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 68,
@@ -589,7 +605,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10",
     "url": "http://103.151.60.204:881/A-Sports/tracks-v1a1/mono.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 70,
@@ -597,7 +615,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10",
     "url": "http://27.124.71.27/T-Sports/tracks-v1a1/mono.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 71,
@@ -635,7 +655,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
     "url": "https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 75,
@@ -643,7 +665,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
     "url": "http://202.70.146.135:8000/play/a05o/77951493.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 76,
