@@ -10,16 +10,6 @@
     "successCount": 8
   },
   {
-    "serial": 4,
-    "name": "Islamic tv",
-    "category": "NOWSHIN",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJABMpPtIxMSIYhA3IQF9DtyksTElz78A5n12xVMIhrQ&s=10",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
-    "successCount": 0
-  },
-  {
     "serial": 5,
     "name": "Sonsad Tv",
     "category": "NOWSHIN",
