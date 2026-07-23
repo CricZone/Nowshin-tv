@@ -425,7 +425,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10",
     "url": "http://goldenpro.xyz/JLKRGUF/PR9A725/76179",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 52,
@@ -453,7 +455,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
     "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/693958",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 56,
@@ -651,7 +655,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s",
     "url": "https://book4u.top/worker/index.php?path=api/762cf859a8/playlist.m3u8|&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 76,
@@ -659,7 +665,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10",
     "url": "https://book4u.top/worker/index.php?path=api/45dc1e0f41/playlist.m3u8|&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 77,
@@ -667,7 +675,9 @@
     "category": "NOWSHIN",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
     "url": "https://book4u.top/worker/index.php?path=api/d74ec2f219/playlist.m3u8|&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 78,
@@ -675,7 +685,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s",
     "url": "http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 79,
