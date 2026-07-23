@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 /**
- * URL ভেরিফাই করার ফাংশন (টাইমআউট ২০ সেকেন্ড এবং রিডাইরেক্ট ফলোসহ)
+ * URL ভেরিফাই করার ফাংশন
  */
 async function checkUrl(url, retries = 2) {
   const cleanUrl = url.split('|')[0].trim();
@@ -37,7 +37,7 @@ async function checkUrl(url, retries = 2) {
 }
 
 async function runBot() {
-  console.log("Starting NowshinTV Auto-Recovery Channel Bot...");
+  console.log("Starting NowshinTV Safe Channel Bot...");
 
   if (!fs.existsSync('./channels.json')) {
     console.error("channels.json file not found!");
@@ -53,37 +53,25 @@ async function runBot() {
     return;
   }
 
-  let updatedAnyChannel = false;
-
   for (let ch of channels) {
     ch.failCount = ch.failCount || 0;
     ch.successCount = ch.successCount || 0;
 
-    // ১. যদি চ্যানেল ইতোমধ্যে Online থাকে, বট কখনোই একে Offline করবে না।
+    // ১. মূল সুরক্ষা: চ্যানেল যদি আগে থেকেই Online থাকে, বট কখনোই সেটাকে অফলাইন করবে না!
     if (ch.status === "Online") {
-      console.log(`[Skipped/Protected] ${ch.name} is Online. Bot will not change its status.`);
+      console.log(`[Protected] ${ch.name} is Online. Bot will not change its status.`);
       continue;
     }
 
-    // ২. শুধুমাত্র Offline চ্যানেলগুলোর জন্য রিকভারি চেক চলবে
+    // ২. শুধুমাত্র Offline চ্যানেলগুলোর ক্ষেত্রে চেক করবে যে এটা চালু হয়েছে কিনা
     const isLive = await checkUrl(ch.url);
 
     if (isLive) {
-      ch.successCount++;
+      ch.status = "Online"; // চালু হলে সাথে সাথে অনলাইন করবে
       ch.failCount = 0;
-
-      // টানা ২ বার সফল হলে Offline থেকে Online হবে
-      if (ch.successCount >= 2) {
-        ch.status = "Online";
-        updatedAnyChannel = true;
-        console.log(`[RECOVERED] 🎉 ${ch.name} came back live and is now Online!`);
-      } else {
-        console.log(`[Checking Offline] ${ch.name} -> Success (${ch.successCount}/2)`);
-      }
+      console.log(`[RECOVERED] 🎉 ${ch.name} is now Online!`);
     } else {
-      ch.failCount++;
-      ch.successCount = 0;
-      console.log(`[Still Offline] ${ch.name} -> Retrying later.`);
+      console.log(`[Still Offline] ${ch.name}`);
     }
   }
 
@@ -103,7 +91,7 @@ async function runBot() {
   }
 
   fs.writeFileSync('./playlist.m3u', m3uContent, 'utf8');
-  console.log("Validation complete. Only recovered channels were brought Online.");
+  console.log("Validation complete.");
 }
 
 runBot();
