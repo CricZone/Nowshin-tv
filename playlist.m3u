@@ -120,6 +120,9 @@ https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10" group-title="NOWSHIN",Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
 
+#EXTINF:-1 tvg-id="51" tvg-name="Colours Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10" group-title="NOWSHIN",Colours Bangla
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108781
+
 #EXTINF:-1 tvg-id="52" tvg-name="Colors bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10" group-title="NOWSHIN",Colors bangla Cinema
 https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 
