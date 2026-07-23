@@ -147,63 +147,66 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="Rangeen tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTTMD3W4KIdN9RyHDCBJp4g5ZbmzW6f-LKYDdrAf9tw&s=10" group-title="NOWSHIN",Rangeen tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="62" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10" group-title="NOWSHIN",Sonic
+#EXTINF:-1 tvg-id="62" tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10" group-title="NOWSHIN",Nick
+https://madanitv.assadikb.workers.dev/live.php?id=1341&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+
+#EXTINF:-1 tvg-id="63" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10" group-title="NOWSHIN",Sonic
 https://madanitv.assadikb.workers.dev/live.php?id=1345&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
-#EXTINF:-1 tvg-id="63" tvg-name="Discovery kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s" group-title="NOWSHIN",Discovery kids
+#EXTINF:-1 tvg-id="64" tvg-name="Discovery kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s" group-title="NOWSHIN",Discovery kids
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 
-#EXTINF:-1 tvg-id="64" tvg-name="Tom & Jery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10" group-title="NOWSHIN",Tom & Jery
+#EXTINF:-1 tvg-id="65" tvg-name="Tom & Jery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10" group-title="NOWSHIN",Tom & Jery
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="65" tvg-name="Khusboo bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10" group-title="NOWSHIN",Khusboo bangla
+#EXTINF:-1 tvg-id="66" tvg-name="Khusboo bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10" group-title="NOWSHIN",Khusboo bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-1 tvg-id="66" tvg-name="ZB Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10" group-title="NOWSHIN",ZB Cartoon
+#EXTINF:-1 tvg-id="67" tvg-name="ZB Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10" group-title="NOWSHIN",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 
-#EXTINF:-1 tvg-id="68" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="NOWSHIN",Star Sports 1
+#EXTINF:-1 tvg-id="69" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="NOWSHIN",Star Sports 1
 https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS_1/tracks-v1a1/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
-#EXTINF:-1 tvg-id="69" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="NOWSHIN",Star Sports 2
+#EXTINF:-1 tvg-id="70" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="NOWSHIN",Star Sports 2
 https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS2/tracks-v1a2/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
-#EXTINF:-1 tvg-id="70" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="NOWSHIN",Ptv 
+#EXTINF:-1 tvg-id="71" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="NOWSHIN",Ptv 
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="71" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="NOWSHIN",A Sports 
+#EXTINF:-1 tvg-id="72" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="NOWSHIN",A Sports 
 http://103.151.60.204:881/A-Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="72" tvg-name="M Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10" group-title="NOWSHIN",M Sports
+#EXTINF:-1 tvg-id="73" tvg-name="M Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10" group-title="NOWSHIN",M Sports
 http://27.124.71.27/T-Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-name="Zee Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10" group-title="NOWSHIN",Zee Cinema
+#EXTINF:-1 tvg-id="74" tvg-name="Zee Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10" group-title="NOWSHIN",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
-#EXTINF:-1 tvg-id="74" tvg-name="South Station Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10" group-title="NOWSHIN",South Station Tv
+#EXTINF:-1 tvg-id="75" tvg-name="South Station Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10" group-title="NOWSHIN",South Station Tv
 https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fqu6rxobd50d5/SS_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN3800008CX&ads.ssai_vendor=SSSLIVE&pb_type=pb-fqu6rxobd50d5_cloudfront
 
-#EXTINF:-1 tvg-id="75" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10" group-title="NOWSHIN",Sony Max HD
+#EXTINF:-1 tvg-id="76" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10" group-title="NOWSHIN",Sony Max HD
 http://live.balajibroadband.com:3500/live/476.m3u8
 
-#EXTINF:-1 tvg-id="76" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="NOWSHIN",Discovery
+#EXTINF:-1 tvg-id="77" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="NOWSHIN",Discovery
 https://madanitv.assadikb.workers.dev/live.php?id=573&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
-#EXTINF:-1 tvg-id="77" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="NOWSHIN",National Geography
+#EXTINF:-1 tvg-id="78" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="NOWSHIN",National Geography
 http://202.70.146.135:8000/play/a05o/77951493.m3u8
 
-#EXTINF:-1 tvg-id="78" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="NOWSHIN",Sangeet Bangla tv
+#EXTINF:-1 tvg-id="79" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="NOWSHIN",Sangeet Bangla tv
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="79" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="NOWSHIN",Music India tv
+#EXTINF:-1 tvg-id="80" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="NOWSHIN",Music India tv
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
-#EXTINF:-1 tvg-id="80" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="NOWSHIN",9XM Music tv
+#EXTINF:-1 tvg-id="81" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="NOWSHIN",9XM Music tv
 http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:-1 tvg-id="81" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="NOWSHIN",8XM Music
+#EXTINF:-1 tvg-id="82" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="NOWSHIN",8XM Music
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 
-#EXTINF:-1 tvg-id="82" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Songeet Bhojpuri
+#EXTINF:-1 tvg-id="83" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
