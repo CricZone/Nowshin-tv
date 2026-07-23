@@ -596,10 +596,8 @@
     "name": "National Geography",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
-    "url": "http://180.94.28.28:8097//NAT-GEO-BANGLA/index.fmp4.m3u8",
-    "status": "Offline",
-    "failCount": 13,
-    "successCount": 0
+    "url": "http://202.70.146.135:8000/play/a05o/38930139.m3u8",
+    "status": "Online"
   },
   {
     "serial": 70,
