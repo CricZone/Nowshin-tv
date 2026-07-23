@@ -404,10 +404,8 @@
     "name": "Star Jalsha HD",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
-    "url": "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 8
+    "url": "https://sm-monirul.top/sm/proxy.php?id=starjalsha&e=.m3u8",
+    "status": "Online"
   },
   {
     "serial": 50,
