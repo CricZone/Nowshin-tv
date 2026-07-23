@@ -37,7 +37,7 @@ async function checkUrl(url, retries = 2) {
 }
 
 async function runBot() {
-  console.log("Starting NowshinTV Smart Channel Validation & Recovery Bot...");
+  console.log("Starting NowshinTV Auto-Recovery Channel Bot...");
 
   if (!fs.existsSync('./channels.json')) {
     console.error("channels.json file not found!");
@@ -57,45 +57,34 @@ async function runBot() {
     ch.failCount = ch.failCount || 0;
     ch.successCount = ch.successCount || 0;
 
+    // 🔒 সুরক্ষা: চ্যানেল যদি আগেই Online থাকে, বট সেটা কখনোই হাত দেবে না/অফলাইন করবে না!
+    if (ch.status === "Online") {
+      console.log(`[PROTECTED] ✅ ${ch.name} is Online. Bot will keep it Online.`);
+      continue;
+    }
+
+    // 🔄 শুধুমাত্র Offline চ্যানেলগুলোর জন্য রিকভারি চেক চলবে
     const isLive = await checkUrl(ch.url);
 
     if (isLive) {
-      ch.successCount++;
+      ch.status = "Online"; // তৎক্ষণাৎ অনলাইন করবে
+      ch.successCount = (ch.successCount || 0) + 1;
       ch.failCount = 0;
-
-      // যদি অফলাইন থাকে এবং টানা ২ বার সফল হয় -> অনলাইন করবে
-      if (ch.status === "Offline" && ch.successCount >= 2) {
-        ch.status = "Online";
-        console.log(`[RECOVERED] 🎉 ${ch.name} is back live -> Status changed to ONLINE`);
-      } else if (ch.status === "Online") {
-        console.log(`[ACTIVE] ✅ ${ch.name} is working properly.`);
-      } else {
-        console.log(`[RECOVERING] ⏳ ${ch.name} responded (${ch.successCount}/2 verification steps)`);
-      }
-
+      console.log(`[RECOVERED] 🎉 ${ch.name} is live again! Status updated to ONLINE.`);
     } else {
-      ch.failCount++;
+      ch.failCount = (ch.failCount || 0) + 1;
       ch.successCount = 0;
-
-      // যদি অনলাইন থাকে এবং টানা ২ বার ফেল করে -> অফলাইন করবে
-      if (ch.status === "Online" && ch.failCount >= 2) {
-        ch.status = "Offline";
-        console.log(`[DOWN] ❌ ${ch.name} stopped working -> Status changed to OFFLINE`);
-      } else if (ch.status === "Offline") {
-        console.log(`[INACTIVE] 🛑 ${ch.name} is still offline.`);
-      } else {
-        console.log(`[WARNING] ⚠️ ${ch.name} failed once (${ch.failCount}/2). Re-checking in next run...`);
-      }
+      console.log(`[STILL OFFLINE] 🛑 ${ch.name} is down.`);
     }
   }
 
-  // সিরিয়াল অনুযায়ী সাজানো
+  // সিরিয়াল নম্বর অনুযায়ী সাজানো
   channels.sort((a, b) => Number(a.serial) - Number(b.serial));
 
-  // channels.json সেভ করা
+  // channels.json সেভ
   fs.writeFileSync('./channels.json', JSON.stringify(channels, null, 2), 'utf8');
 
-  // playlist.m3u তৈরি করা (শুধুমাত্র সত্যি Online চ্যানেল যাবে)
+  // playlist.m3u প্লেলিস্ট আপডেট করা
   let m3uContent = "#EXTM3U\n\n";
   for (let ch of channels) {
     if (ch.status === "Online") {
@@ -105,7 +94,7 @@ async function runBot() {
   }
 
   fs.writeFileSync('./playlist.m3u', m3uContent, 'utf8');
-  console.log("Validation complete! playlist.m3u updated with active working channels only.");
+  console.log("Validation complete! Offline channels recovered & playlist updated.");
 }
 
 runBot();
