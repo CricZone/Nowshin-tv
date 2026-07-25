@@ -39,9 +39,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Bijoy tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s" group-title="NOWSHIN",Bijoy tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="19" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="NOWSHIN",Asian Tv
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
-
 #EXTINF:-1 tvg-id="20" tvg-name="Ananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s" group-title="NOWSHIN",Ananda Tv
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
@@ -80,9 +77,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="Jago News Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="NOWSHIN",Jago News Tv
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="35" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10" group-title="NOWSHIN",T Sports
-https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="37" tvg-name="Atn News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s" group-title="NOWSHIN",Atn News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
@@ -128,9 +122,6 @@ https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8
 
 #EXTINF:-1 tvg-id="54" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s" group-title="NOWSHIN",Sony Aath
 https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="NOWSHIN",Jalsha Movies
-http://proxpanel.cc/h1wqD6CY/byxHYgX/693958
 
 #EXTINF:-1 tvg-id="56" tvg-name="Bangla Plues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s" group-title="NOWSHIN",Bangla Plues
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
@@ -191,9 +182,6 @@ https://book4u.top/worker/index.php?path=api/45dc1e0f41/playlist.m3u8|&key=BDStr
 
 #EXTINF:-1 tvg-id="77" tvg-name="Sony ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="NOWSHIN",Sony ten 5
 https://book4u.top/worker/index.php?path=api/d74ec2f219/playlist.m3u8|&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-
-#EXTINF:-1 tvg-id="78" tvg-name="Sony Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s" group-title="NOWSHIN",Sony Entertainment
-http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
 
 #EXTINF:-1 tvg-id="79" tvg-name="Zee Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10" group-title="NOWSHIN",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
