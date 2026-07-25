@@ -465,9 +465,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s",
     "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
-    "status": "Offline",
-    "failCount": 0,
-    "successCount": 8
+    "status": "Online"
   },
   {
     "serial": 57,
