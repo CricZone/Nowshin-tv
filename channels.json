@@ -455,7 +455,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
     "url": "http://proxpanel.cc/h1wqD6CY/byxHYgX/693958",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0
   },
@@ -465,7 +465,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s",
     "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 57,
