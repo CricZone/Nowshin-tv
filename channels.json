@@ -7,7 +7,7 @@
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 6,
@@ -15,7 +15,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10",
     "url": "https://live.shamim-iptv.workers.dev/BTV.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 7,
@@ -23,8 +25,8 @@
     "category": "NOWSHIN",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -33,8 +35,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -43,8 +45,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s",
     "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -53,8 +55,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -64,8 +66,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8",
     "status": "Online",
-    "failCount": 1,
-    "successCount": 0
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 12,
@@ -73,8 +75,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -84,8 +86,8 @@
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
     "status": "Online",
-    "failCount": 1,
-    "successCount": 0
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 14,
@@ -94,7 +96,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCTL-zvZjMuPT3__MjCLFRpfvrUti-drH9_4HxUNYiQ&s",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 8
   },
   {
@@ -104,7 +106,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
     "url": "http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8",
     "status": "Offline",
-    "failCount": 17,
+    "failCount": 18,
     "successCount": 0
   },
   {
@@ -115,7 +117,7 @@
     "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 17,
@@ -123,8 +125,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s",
     "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -133,8 +135,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -145,7 +147,7 @@
     "url": "https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 20,
@@ -154,7 +156,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10",
     "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
     "status": "Offline",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 8
   },
   {
@@ -163,8 +165,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s",
     "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -173,8 +175,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qtC8l_4JQWS7uILk-zpR6PVDRhzooPl-BO9rbUj0OA&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -184,8 +186,8 @@
     "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x95285",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8",
     "status": "Online",
-    "failCount": 1,
-    "successCount": 0
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 24,
@@ -193,8 +195,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -204,7 +206,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
     "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
     "status": "Offline",
-    "failCount": 17,
+    "failCount": 18,
     "successCount": 0
   },
   {
@@ -215,7 +217,7 @@
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 0
+    "successCount": 1
   },
   {
     "serial": 27,
@@ -225,7 +227,7 @@
     "url": "https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 0
+    "successCount": 1
   },
   {
     "serial": 28,
@@ -235,7 +237,7 @@
     "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 29,
@@ -245,7 +247,7 @@
     "url": "https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 0
+    "successCount": 1
   },
   {
     "serial": 30,
@@ -255,7 +257,7 @@
     "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 31,
@@ -265,7 +267,7 @@
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 32,
@@ -273,8 +275,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -283,8 +285,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -295,7 +297,7 @@
     "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 36,
@@ -305,7 +307,7 @@
     "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 0
+    "successCount": 1
   },
   {
     "serial": 38,
@@ -313,8 +315,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -323,7 +325,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10",
     "url": "http://103.114.11.37:8081/Atn-Bangla/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 40,
@@ -331,8 +335,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -341,8 +345,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -351,8 +355,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -361,8 +365,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -371,8 +375,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -381,8 +385,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -391,8 +395,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -401,8 +405,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-    "status": "Online",
-    "failCount": 8,
+    "status": "Offline",
+    "failCount": 9,
     "successCount": 0
   },
   {
@@ -412,8 +416,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8",
     "status": "Online",
-    "failCount": 1,
-    "successCount": 0
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 50,
@@ -423,7 +427,7 @@
     "url": "https://live.shamim-iptv.workers.dev/STARJOLSHAHD.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 52,
@@ -431,7 +435,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10",
     "url": "https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 53,
@@ -439,7 +445,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10",
     "url": "https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 54,
@@ -449,7 +457,7 @@
     "url": "https://live.shamim-iptv.workers.dev/coloursbanglachinema.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 56,
@@ -458,7 +466,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s",
     "url": "https://live.shamim-iptv.workers.dev/SONYATTH.m3u8",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 8
   },
   {
@@ -467,7 +475,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
     "url": "https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 58,
@@ -477,7 +487,7 @@
     "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 0
+    "successCount": 1
   },
   {
     "serial": 59,
@@ -486,7 +496,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8",
     "status": "Offline",
-    "failCount": 17,
+    "failCount": 18,
     "successCount": 0
   },
   {
@@ -497,7 +507,7 @@
     "url": "http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 61,
@@ -507,7 +517,7 @@
     "url": "http://103.159.180.34:5001/live/1669.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 62,
@@ -517,7 +527,7 @@
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 63,
@@ -527,7 +537,7 @@
     "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 64,
@@ -536,7 +546,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10",
     "url": "https://madanitv.assadikb.workers.dev/live.php?id=1341&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -546,7 +556,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10",
     "url": "https://madanitv.assadikb.workers.dev/live.php?id=1345&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -556,7 +566,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s",
     "url": "https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -566,7 +576,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10",
     "url": "https://book4u.top/worker/index.php?path=api/d2586d604e/playlist.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -577,7 +587,7 @@
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 69,
@@ -587,7 +597,7 @@
     "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 70,
@@ -597,7 +607,7 @@
     "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 3
+    "successCount": 4
   },
   {
     "serial": 71,
@@ -605,7 +615,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s",
     "url": "http://103.114.11.37:8081/StarPlus/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 72,
@@ -614,7 +626,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10",
     "url": "https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS_1/tracks-v1a1/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -624,7 +636,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10",
     "url": "https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS2/tracks-v1a2/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -635,7 +647,7 @@
     "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 0
+    "successCount": 1
   },
   {
     "serial": 75,
@@ -645,7 +657,7 @@
     "url": "http://103.151.60.204:881/A-Sports/tracks-v1a1/mono.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 0
+    "successCount": 1
   },
   {
     "serial": 76,
@@ -654,7 +666,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10",
     "url": "http://27.124.71.27/T-Sports/tracks-v1a1/mono.m3u8",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -663,7 +675,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s",
     "url": "http://103.114.11.37:8081/Sony-sports-1/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 78,
@@ -671,7 +685,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10",
     "url": "http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 79,
@@ -680,7 +696,7 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
     "url": "https://book4u.top/worker/index.php?path=api/d74ec2f219/playlist.m3u8|&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -690,7 +706,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s",
     "url": "http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8",
     "status": "Offline",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -701,7 +717,7 @@
     "url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 82,
@@ -709,7 +725,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRuN7s143640vyGppEmUhZ44E4lm0YyBr51yEJJdt&s",
     "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 83,
@@ -719,7 +737,7 @@
     "url": "https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fqu6rxobd50d5/SS_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN3800008CX&ads.ssai_vendor=SSSLIVE&pb_type=pb-fqu6rxobd50d5_cloudfront",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 84,
@@ -729,7 +747,7 @@
     "url": "http://live.balajibroadband.com:3500/live/476.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 85,
@@ -738,7 +756,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
     "url": "https://madanitv.assadikb.workers.dev/live.php?id=573&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -748,7 +766,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
     "url": "http://202.70.146.135:8000/play/a05o/77951493.m3u8",
     "status": "Online",
-    "failCount": 0,
+    "failCount": 1,
     "successCount": 0
   },
   {
@@ -758,8 +776,8 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
     "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
     "status": "Online",
-    "failCount": 1,
-    "successCount": 0
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 88,
@@ -769,7 +787,7 @@
     "url": "http://103.175.73.12:8080/live/158/158_0.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 89,
@@ -779,7 +797,7 @@
     "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 90,
@@ -789,7 +807,7 @@
     "url": "https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8",
     "status": "Online",
     "failCount": 0,
-    "successCount": 8
+    "successCount": 9
   },
   {
     "serial": 91,
@@ -798,7 +816,7 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
     "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
     "status": "Online",
-    "failCount": 1,
-    "successCount": 0
+    "failCount": 0,
+    "successCount": 1
   }
 ]
