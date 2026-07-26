@@ -604,10 +604,8 @@
     "name": "Star Plus",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s",
-    "url": "http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8?token=54ec691e0faaa50f8c844bf9ef53f00028fff31b-9c4b112ad338d4e1a26fceeae11ff1e0-1776169972-1776166372&remote=no_check_ip",
-    "status": "Offline",
-    "failCount": 17,
-    "successCount": 0
+    "url": "http://103.114.11.37:8081/StarPlus/index.m3u8?token=dsfsdfsdfsdf",
+    "status": "Online"
   },
   {
     "serial": 72,
