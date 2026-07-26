@@ -4,7 +4,7 @@ const axios = require('axios');
 /**
  * URL ভেরিফাই করার ফাংশন
  */
-async function checkUrl(url, retries = 2) {
+async function checkUrl(url, retries = 1) {
   const cleanUrl = url.split('|')[0].trim();
 
   for (let i = 0; i <= retries; i++) {
@@ -12,16 +12,24 @@ async function checkUrl(url, retries = 2) {
       const response = await axios({
         method: 'get',
         url: cleanUrl,
-        timeout: 20000,
-        maxRedirects: 10,
+        timeout: 10000,
+        maxRedirects: 5,
+        responseType: 'stream', // পুরো ভিডিও ডাউনলোড না করে শুধু স্ট্রিম রেসপন্স চেক করার জন্য
         headers: {
           'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/122.0.0.0 Safari/537.36',
           'Accept': '*/*'
         },
         validateStatus: (status) => status >= 200 && status < 400
       });
+
+      // স্ট্রিম কানেকশন পাওয়ার পর পরই ডেটা পড়া বাতিল করা যাতে মেমোরি খালি থাকে
+      if (response.data && typeof response.data.destroy === 'function') {
+        response.data.destroy();
+      }
+
       return true;
     } catch (error) {
+      // ৪০৩ বা ৪০৫ রেসপন্স অনেক সময় টোকেন/ইউজার-এজেন্ট সুরক্ষার কারণে আসে, যা ব্রাউজার/টিভিতে কাজ করতে পারে
       if (error.response && (error.response.status === 403 || error.response.status === 405)) {
         return true;
       }
@@ -30,14 +38,14 @@ async function checkUrl(url, retries = 2) {
         return false;
       }
 
-      await new Promise(resolve => setTimeout(resolve, 1500));
+      await new Promise(resolve => setTimeout(resolve, 1000));
     }
   }
   return false;
 }
 
 async function runBot() {
-  console.log("Starting NowshinTV Safe Channel Bot...");
+  console.log("Starting NowshinTV Health Check Bot...");
 
   if (!fs.existsSync('./channels.json')) {
     console.error("channels.json file not found!");
@@ -57,21 +65,32 @@ async function runBot() {
     ch.failCount = ch.failCount || 0;
     ch.successCount = ch.successCount || 0;
 
-    // ১. মূল সুরক্ষা: চ্যানেল যদি আগে থেকেই Online থাকে, বট কখনোই সেটাকে অফলাইন করবে না!
-    if (ch.status === "Online") {
-      console.log(`[Protected] ${ch.name} is Online. Bot will not change its status.`);
-      continue;
-    }
-
-    // ২. শুধুমাত্র Offline চ্যানেলগুলোর ক্ষেত্রে চেক করবে যে এটা চালু হয়েছে কিনা
+    // সব চ্যানেল লাইভ আছে কিনা যাচাই করা হচ্ছে
     const isLive = await checkUrl(ch.url);
 
     if (isLive) {
-      ch.status = "Online"; // চালু হলে সাথে সাথে অনলাইন করবে
+      if (ch.status !== "Online") {
+        console.log(`[RECOVERED] 🎉 ${ch.name} is now Online!`);
+      } else {
+        console.log(`[ONLINE] ${ch.name} is working.`);
+      }
+      ch.status = "Online";
       ch.failCount = 0;
-      console.log(`[RECOVERED] 🎉 ${ch.name} is now Online!`);
+      ch.successCount += 1;
     } else {
-      console.log(`[Still Offline] ${ch.name}`);
+      ch.failCount += 1;
+      
+      // পরপর ২ বার ফেল করলে চ্যানেলটি অফলাইন মার্ক করা হবে (যাতে সাময়িক নেটওয়ার্ক সমস্যায় ভুল অফলাইন না হয়)
+      if (ch.failCount >= 2 || ch.status === "Offline") {
+        if (ch.status === "Online") {
+          console.log(`[OFFLINE] ❌ ${ch.name} is down and set to Offline.`);
+        } else {
+          console.log(`[STILL OFFLINE] ❌ ${ch.name}`);
+        }
+        ch.status = "Offline";
+      } else {
+        console.log(`[WARNING] ⚠️ ${ch.name} failed 1 check. Retrying next cycle.`);
+      }
     }
   }
 
@@ -81,7 +100,7 @@ async function runBot() {
   // channels.json আপডেট
   fs.writeFileSync('./channels.json', JSON.stringify(channels, null, 2), 'utf8');
 
-  // playlist.m3u প্লেলিস্ট আপডেট করা
+  // শুধুমাত্র চালু (Online) চ্যানেলগুলো নিয়ে playlist.m3u তৈরি করা
   let m3uContent = "#EXTM3U\n\n";
   for (let ch of channels) {
     if (ch.status === "Online") {
