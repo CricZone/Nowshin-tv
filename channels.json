@@ -711,6 +711,14 @@
   },
   {
     "serial": 82,
+    "name": "Zee Action ",
+    "category": "NOWSHIN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRuN7s143640vyGppEmUhZ44E4lm0YyBr51yEJJdt&s",
+    "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 83,
     "name": "South Station Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10",
@@ -720,7 +728,7 @@
     "successCount": 8
   },
   {
-    "serial": 83,
+    "serial": 84,
     "name": "Sony Max HD",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
@@ -730,7 +738,7 @@
     "successCount": 8
   },
   {
-    "serial": 84,
+    "serial": 85,
     "name": "Discovery",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
@@ -740,7 +748,7 @@
     "successCount": 0
   },
   {
-    "serial": 85,
+    "serial": 86,
     "name": "National Geography",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
@@ -750,7 +758,7 @@
     "successCount": 0
   },
   {
-    "serial": 86,
+    "serial": 87,
     "name": "Sangeet Bangla tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
@@ -760,7 +768,7 @@
     "successCount": 0
   },
   {
-    "serial": 87,
+    "serial": 88,
     "name": "Music India tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
@@ -770,7 +778,7 @@
     "successCount": 8
   },
   {
-    "serial": 88,
+    "serial": 89,
     "name": "9XM Music tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
@@ -780,7 +788,7 @@
     "successCount": 8
   },
   {
-    "serial": 89,
+    "serial": 90,
     "name": "8XM Music",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10",
@@ -790,7 +798,7 @@
     "successCount": 8
   },
   {
-    "serial": 90,
+    "serial": 91,
     "name": "Songeet Bhojpuri",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
