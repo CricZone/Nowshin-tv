@@ -178,7 +178,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 http://103.114.11.37:8081/StarPlus/index.m3u8?token=dsfsdfsdfsdf
 
 #EXTINF:-1 tvg-id="72" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="NOWSHIN",Star Sports 1
-https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS_1/tracks-v1a1/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsfsdfsdfsdf
 
 #EXTINF:-1 tvg-id="73" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="NOWSHIN",Star Sports 2
 https://cast-2.torongoplus-pro.workers.dev/STAR_SPORTS2/tracks-v1a2/mono.m3u8|referer=https://nowshintv/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
