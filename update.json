@@ -1,9 +1,6 @@
 {
+  "version_code": 1,
   "version_name": "1.1",
-  "version_code": 2,
-  "title": "New Update Available",
-  "changelog": "১. ১-১০০ সূক্ষ্ম ভলিউম কন্ট্রোল।\n২. অটোমেটিক ইন-অ্যাপ আপডেট ডায়ালগ।\n৩. পারফরম্যান্স উন্নত করা হয়েছে।",
-  "download_url": "https://t.me/Crux_Officals/9",
-  "force_update": true,
-  "updated_at": "2026-07-28T23:33:56.473Z"
+  "update_message": "নতুন ফিচার যুক্ত করা হয়েছে:\n১. নতুন ১০টি চ্যানেল যোগ করা হয়েছে।\n২. প্লেয়ারের গতি বাড়ানো হয়েছে।",
+  "update_url": "https://github.com/CricZone/Nowshin-tv/releases/download/v1.1/app-release.apk"
 }
