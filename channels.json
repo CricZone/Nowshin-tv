@@ -105,8 +105,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
     "url": "http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8",
-    "status": "Offline",
-    "failCount": 18,
+    "status": "Online",
+    "failCount": 0,
     "successCount": 0
   },
   {
@@ -205,8 +205,8 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
     "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
-    "status": "Offline",
-    "failCount": 18,
+    "status": "Online",
+    "failCount": 0,
     "successCount": 0
   },
   {
