@@ -1,6 +1,14 @@
 [
   {
-    "serial": 4,
+    "serial": 1,
+    "name": "BANGLS",
+    "category": "Live Events",
+    "logo": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
+    "url": "https://go.skym3u.top/live/3b1f0d3d404f707f17131a4f090c1a1c2a311010171717305c44575827451a225e5a160031242b0d071d2c30701c0a1301310270405554457c031c2c5706703d041b034e0c0b4317377e544c4350416805001c5b601e41.m3u8",
+    "status": "Online"
+  },
+  {
+    "serial": 5,
     "name": "Peace Tv",
     "category": "NOWSHIN",
     "logo": "https://i.postimg.cc/jdK93HTJ/images-5-10.jpg",
@@ -10,7 +18,7 @@
     "successCount": 9
   },
   {
-    "serial": 7,
+    "serial": 8,
     "name": "Btv News",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10",
@@ -20,7 +28,7 @@
     "successCount": 1
   },
   {
-    "serial": 8,
+    "serial": 9,
     "name": "Sonsad Tv",
     "category": "NOWSHIN",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285",
@@ -30,7 +38,7 @@
     "successCount": 0
   },
   {
-    "serial": 9,
+    "serial": 10,
     "name": "Bangla Vision Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10",
@@ -40,7 +48,7 @@
     "successCount": 0
   },
   {
-    "serial": 10,
+    "serial": 11,
     "name": "Boishakhi Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s",
@@ -50,7 +58,7 @@
     "successCount": 0
   },
   {
-    "serial": 11,
+    "serial": 12,
     "name": "Chaanel i",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10",
@@ -60,7 +68,7 @@
     "successCount": 0
   },
   {
-    "serial": 12,
+    "serial": 13,
     "name": "Gazi Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s",
@@ -70,7 +78,7 @@
     "successCount": 1
   },
   {
-    "serial": 13,
+    "serial": 14,
     "name": "Deepto Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10",
@@ -80,7 +88,7 @@
     "successCount": 0
   },
   {
-    "serial": 14,
+    "serial": 15,
     "name": "Rtv",
     "category": "NOWSHIN",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
@@ -90,7 +98,7 @@
     "successCount": 1
   },
   {
-    "serial": 15,
+    "serial": 16,
     "name": "Green Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCTL-zvZjMuPT3__MjCLFRpfvrUti-drH9_4HxUNYiQ&s",
@@ -100,7 +108,7 @@
     "successCount": 8
   },
   {
-    "serial": 16,
+    "serial": 17,
     "name": "Nagorik Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
@@ -110,7 +118,7 @@
     "successCount": 0
   },
   {
-    "serial": 17,
+    "serial": 18,
     "name": "Ekushey Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10",
@@ -120,7 +128,7 @@
     "successCount": 9
   },
   {
-    "serial": 18,
+    "serial": 19,
     "name": "My Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s",
@@ -130,7 +138,7 @@
     "successCount": 0
   },
   {
-    "serial": 19,
+    "serial": 20,
     "name": "Ntv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10",
@@ -140,7 +148,7 @@
     "successCount": 0
   },
   {
-    "serial": 20,
+    "serial": 21,
     "name": "Bijoy tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s",
@@ -150,7 +158,7 @@
     "successCount": 9
   },
   {
-    "serial": 21,
+    "serial": 22,
     "name": "Asian Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10",
@@ -160,7 +168,7 @@
     "successCount": 0
   },
   {
-    "serial": 22,
+    "serial": 23,
     "name": "Ananda Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s",
@@ -170,7 +178,7 @@
     "successCount": 0
   },
   {
-    "serial": 23,
+    "serial": 24,
     "name": "Massranga tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qtC8l_4JQWS7uILk-zpR6PVDRhzooPl-BO9rbUj0OA&s=10",
@@ -180,7 +188,7 @@
     "successCount": 0
   },
   {
-    "serial": 24,
+    "serial": 25,
     "name": "Mohona tv",
     "category": "NOWSHIN",
     "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x95285",
@@ -190,7 +198,7 @@
     "successCount": 1
   },
   {
-    "serial": 25,
+    "serial": 26,
     "name": "Channel 9 tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10",
@@ -200,7 +208,7 @@
     "successCount": 0
   },
   {
-    "serial": 26,
+    "serial": 27,
     "name": "Duranto Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
@@ -210,7 +218,7 @@
     "successCount": 0
   },
   {
-    "serial": 27,
+    "serial": 28,
     "name": "Sa tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nz_HCc83lOYNX9vJzASwu0sKiUw0nUMr13kvK2zLqA&s=10",
@@ -220,7 +228,7 @@
     "successCount": 1
   },
   {
-    "serial": 28,
+    "serial": 29,
     "name": "Bangla tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQut1HSjM_dlasdupGnVgcwkNv8Lr_xiPmvTHQYUyNbBg&s",
@@ -230,7 +238,7 @@
     "successCount": 1
   },
   {
-    "serial": 29,
+    "serial": 30,
     "name": "Movie Bangla Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10",
@@ -240,7 +248,7 @@
     "successCount": 9
   },
   {
-    "serial": 30,
+    "serial": 31,
     "name": "Srk tv",
     "category": "NOWSHIN",
     "logo": "https://yt3.googleusercontent.com/SI5MlFyc4HNhXu-NO9wrFXhssF3y5FAYfo9gGdnt72dUqV-NxPGPkxltLLa1btgv8O0cEB7l6jE=s900-c-k-c0x00ffffff-no-rj",
@@ -250,7 +258,7 @@
     "successCount": 1
   },
   {
-    "serial": 31,
+    "serial": 32,
     "name": "G Series",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10",
@@ -260,7 +268,7 @@
     "successCount": 9
   },
   {
-    "serial": 32,
+    "serial": 33,
     "name": "Movie",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTgLK5F6Tedh_SdoltPFlXLWw5Q6OWOF12Dr0TWNTtQ&s=10",
@@ -270,7 +278,7 @@
     "successCount": 9
   },
   {
-    "serial": 33,
+    "serial": 34,
     "name": "Desh tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s",
@@ -280,7 +288,7 @@
     "successCount": 0
   },
   {
-    "serial": 34,
+    "serial": 35,
     "name": "Channel 1",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10",
@@ -290,7 +298,7 @@
     "successCount": 0
   },
   {
-    "serial": 35,
+    "serial": 36,
     "name": "Jago News Tv",
     "category": "NOWSHIN",
     "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png",
@@ -300,7 +308,7 @@
     "successCount": 9
   },
   {
-    "serial": 37,
+    "serial": 38,
     "name": "T Sports",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
@@ -310,7 +318,7 @@
     "successCount": 1
   },
   {
-    "serial": 39,
+    "serial": 40,
     "name": "Atn News",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s",
@@ -320,7 +328,7 @@
     "successCount": 0
   },
   {
-    "serial": 40,
+    "serial": 41,
     "name": "Atn Bangla",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10",
@@ -330,7 +338,7 @@
     "successCount": 1
   },
   {
-    "serial": 41,
+    "serial": 42,
     "name": "Independent News",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10",
@@ -340,7 +348,7 @@
     "successCount": 0
   },
   {
-    "serial": 42,
+    "serial": 43,
     "name": "Ekttor Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10",
@@ -350,7 +358,7 @@
     "successCount": 0
   },
   {
-    "serial": 43,
+    "serial": 44,
     "name": "Channel 24",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s",
@@ -360,7 +368,7 @@
     "successCount": 0
   },
   {
-    "serial": 45,
+    "serial": 46,
     "name": "News 24",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10",
@@ -370,7 +378,7 @@
     "successCount": 0
   },
   {
-    "serial": 46,
+    "serial": 47,
     "name": "Star News",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s",
@@ -380,7 +388,7 @@
     "successCount": 0
   },
   {
-    "serial": 47,
+    "serial": 48,
     "name": "DBC News",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10",
@@ -390,7 +398,7 @@
     "successCount": 0
   },
   {
-    "serial": 48,
+    "serial": 49,
     "name": "Somoy News",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10",
@@ -400,7 +408,7 @@
     "successCount": 0
   },
   {
-    "serial": 49,
+    "serial": 50,
     "name": "Jamuna News",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10",
@@ -410,7 +418,7 @@
     "successCount": 0
   },
   {
-    "serial": 50,
+    "serial": 51,
     "name": "Ekhon tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10",
@@ -420,7 +428,7 @@
     "successCount": 1
   },
   {
-    "serial": 51,
+    "serial": 52,
     "name": "Star Jalsha HD",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
@@ -428,7 +436,7 @@
     "status": "Online"
   },
   {
-    "serial": 53,
+    "serial": 54,
     "name": "Zee Bangla",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10",
@@ -438,7 +446,7 @@
     "successCount": 0
   },
   {
-    "serial": 54,
+    "serial": 55,
     "name": "Colours Bangla",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10",
@@ -448,7 +456,7 @@
     "successCount": 1
   },
   {
-    "serial": 55,
+    "serial": 56,
     "name": "Colors bangla Cinema",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10",
@@ -458,7 +466,7 @@
     "successCount": 9
   },
   {
-    "serial": 57,
+    "serial": 58,
     "name": "Sony Aath",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s",
@@ -468,7 +476,7 @@
     "successCount": 8
   },
   {
-    "serial": 58,
+    "serial": 59,
     "name": "Jalsha Movies",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10",
@@ -478,7 +486,7 @@
     "successCount": 1
   },
   {
-    "serial": 59,
+    "serial": 60,
     "name": "Bangla Plues",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s",
@@ -488,7 +496,7 @@
     "successCount": 1
   },
   {
-    "serial": 60,
+    "serial": 61,
     "name": "Sananda tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10",
@@ -498,7 +506,7 @@
     "successCount": 0
   },
   {
-    "serial": 61,
+    "serial": 62,
     "name": "Sananda tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10",
@@ -508,7 +516,7 @@
     "successCount": 9
   },
   {
-    "serial": 62,
+    "serial": 63,
     "name": "Sun Bangla",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10",
@@ -518,7 +526,7 @@
     "successCount": 9
   },
   {
-    "serial": 63,
+    "serial": 64,
     "name": "Gopal bhar tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjpnQz16rrhxIYlsttjetqvt0MynhaxY6z5X4ohR0wg&s=10",
@@ -528,7 +536,7 @@
     "successCount": 9
   },
   {
-    "serial": 64,
+    "serial": 65,
     "name": "Rangeen tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTTMD3W4KIdN9RyHDCBJp4g5ZbmzW6f-LKYDdrAf9tw&s=10",
@@ -538,7 +546,7 @@
     "successCount": 9
   },
   {
-    "serial": 65,
+    "serial": 66,
     "name": "Nick",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10",
@@ -548,7 +556,7 @@
     "successCount": 0
   },
   {
-    "serial": 66,
+    "serial": 67,
     "name": "Sonic",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10",
@@ -558,7 +566,7 @@
     "successCount": 0
   },
   {
-    "serial": 67,
+    "serial": 68,
     "name": "Discovery kids",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s",
@@ -568,7 +576,7 @@
     "successCount": 0
   },
   {
-    "serial": 68,
+    "serial": 69,
     "name": "Pago ",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10",
@@ -578,7 +586,7 @@
     "successCount": 0
   },
   {
-    "serial": 69,
+    "serial": 70,
     "name": "Tom & Jery",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10",
@@ -588,7 +596,7 @@
     "successCount": 9
   },
   {
-    "serial": 70,
+    "serial": 71,
     "name": "Khusboo bangla",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10",
@@ -598,7 +606,7 @@
     "successCount": 9
   },
   {
-    "serial": 71,
+    "serial": 72,
     "name": "ZB Cartoon",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10",
@@ -608,7 +616,7 @@
     "successCount": 4
   },
   {
-    "serial": 72,
+    "serial": 73,
     "name": "Star Plus",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s",
@@ -618,7 +626,7 @@
     "successCount": 1
   },
   {
-    "serial": 73,
+    "serial": 74,
     "name": "Star Sports 1",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10",
@@ -628,7 +636,7 @@
     "successCount": 0
   },
   {
-    "serial": 74,
+    "serial": 75,
     "name": "Star Sports 2",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10",
@@ -638,7 +646,7 @@
     "successCount": 0
   },
   {
-    "serial": 75,
+    "serial": 76,
     "name": "Ptv ",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10",
@@ -648,7 +656,7 @@
     "successCount": 1
   },
   {
-    "serial": 76,
+    "serial": 77,
     "name": "A Sports ",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10",
@@ -658,7 +666,7 @@
     "successCount": 1
   },
   {
-    "serial": 77,
+    "serial": 78,
     "name": "M Sports",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10",
@@ -668,7 +676,7 @@
     "successCount": 0
   },
   {
-    "serial": 78,
+    "serial": 79,
     "name": "Sony ten 1",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s",
@@ -678,7 +686,7 @@
     "successCount": 1
   },
   {
-    "serial": 79,
+    "serial": 80,
     "name": "Sony ten  2",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10",
@@ -688,7 +696,7 @@
     "successCount": 1
   },
   {
-    "serial": 80,
+    "serial": 81,
     "name": "Sony ten 5",
     "category": "NOWSHIN",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
@@ -698,7 +706,7 @@
     "successCount": 0
   },
   {
-    "serial": 81,
+    "serial": 82,
     "name": "Sony Entertainment",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s",
@@ -708,7 +716,7 @@
     "successCount": 0
   },
   {
-    "serial": 82,
+    "serial": 83,
     "name": "Zee Cinema",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10",
@@ -718,7 +726,7 @@
     "successCount": 9
   },
   {
-    "serial": 83,
+    "serial": 84,
     "name": "Zee Action ",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRuN7s143640vyGppEmUhZ44E4lm0YyBr51yEJJdt&s",
@@ -728,7 +736,7 @@
     "successCount": 1
   },
   {
-    "serial": 84,
+    "serial": 85,
     "name": "South Station Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10",
@@ -738,7 +746,7 @@
     "successCount": 9
   },
   {
-    "serial": 85,
+    "serial": 86,
     "name": "Sony Max HD",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
@@ -748,7 +756,7 @@
     "successCount": 9
   },
   {
-    "serial": 86,
+    "serial": 87,
     "name": "Discovery",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10",
@@ -758,7 +766,7 @@
     "successCount": 0
   },
   {
-    "serial": 87,
+    "serial": 88,
     "name": "National Geography",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
@@ -768,7 +776,7 @@
     "successCount": 0
   },
   {
-    "serial": 88,
+    "serial": 89,
     "name": "Sangeet Bangla tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
@@ -778,7 +786,7 @@
     "successCount": 1
   },
   {
-    "serial": 89,
+    "serial": 90,
     "name": "Music India tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
@@ -788,7 +796,7 @@
     "successCount": 9
   },
   {
-    "serial": 90,
+    "serial": 91,
     "name": "9XM Music tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
@@ -798,7 +806,7 @@
     "successCount": 9
   },
   {
-    "serial": 91,
+    "serial": 92,
     "name": "8XM Music",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10",
@@ -808,7 +816,7 @@
     "successCount": 9
   },
   {
-    "serial": 92,
+    "serial": 93,
     "name": "Songeet Bhojpuri",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
