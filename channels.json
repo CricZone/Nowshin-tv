@@ -425,7 +425,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
     "url": "http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908657&extension=m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 53,
@@ -433,7 +435,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10",
     "url": "https://live.shamim-iptv.workers.dev/ZEEBANGLAHD.m3u8",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 54,
