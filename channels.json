@@ -435,7 +435,9 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10",
     "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=/zee_bangla&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 54,
