@@ -757,9 +757,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
     "url": "http://live.balajibroadband.com:3500/live/476.m3u8",
-    "status": "Offline",
-    "failCount": 0,
-    "successCount": 9
+    "status": "Online"
   },
   {
     "serial": 89,
