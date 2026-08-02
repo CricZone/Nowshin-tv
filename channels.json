@@ -155,7 +155,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10",
     "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0
   },
@@ -205,7 +205,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10",
     "url": "http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0
   },
@@ -305,7 +305,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10",
     "url": "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 1
   },
@@ -625,7 +625,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10",
     "url": "http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0
   },
@@ -635,7 +635,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10",
     "url": "http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0
   },
@@ -645,7 +645,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10",
     "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 1
   },
@@ -675,7 +675,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s",
     "url": "http://103.114.11.37:8081/Sony-sports-1/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 1
   },
@@ -685,7 +685,7 @@
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10",
     "url": "http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=dsfsdfsdfsdf",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 1
   },
