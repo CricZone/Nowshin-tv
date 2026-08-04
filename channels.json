@@ -799,13 +799,13 @@
     "category": "NOWSHIN",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
-    "url": "https://raw.githubusercontent.com/CricZone/Bdstream/refs/heads/main/NAT-GEO.m3u8",
+    "url": "http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155772&extension=m3u8",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Offline"
   },
   {
     "serial": 92,
