@@ -867,11 +867,11 @@
   },
   {
     "serial": 97,
-    "name": "Chekk",
+    "name": "Drm",
     "category": "NOWSHIN",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
-    "url": "http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908657&extension=m3u8",
+    "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd?|drmScheme=clearkey&drmLicense=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
