@@ -1,10 +1,28 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="7" tvg-name="Peace Tv" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg" group-title="NOWSHIN",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
+#EXTINF:-1 tvg-id="10" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="NOWSHIN",Btv News
+https://live.shamim-iptv.workers.dev/BTV.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="NOWSHIN",Sonsad Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="Bangla Vision Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10" group-title="NOWSHIN",Bangla Vision Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="Boishakhi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s" group-title="NOWSHIN",Boishakhi Tv
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
+
+#EXTINF:-1 tvg-id="14" tvg-name="Chaanel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10" group-title="NOWSHIN",Chaanel i
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
 #EXTINF:-1 tvg-id="15" tvg-name="Gazi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s" group-title="NOWSHIN",Gazi Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="Deepto Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10" group-title="NOWSHIN",Deepto Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="Rtv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285" group-title="NOWSHIN",Rtv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
@@ -18,14 +36,29 @@ http://103.151.61.12/Nagorik_TV/tracks-v1a1/mono.m3u8?token=bdstramhub
 #EXTINF:-1 tvg-id="20" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10" group-title="NOWSHIN",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+#EXTINF:-1 tvg-id="21" tvg-name="My Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s" group-title="NOWSHIN",My Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
+
+#EXTINF:-1 tvg-id="22" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="NOWSHIN",Ntv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
 #EXTINF:-1 tvg-id="23" tvg-name="Bijoy tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s" group-title="NOWSHIN",Bijoy tv
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="24" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="NOWSHIN",Asian Tv
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
+#EXTINF:-1 tvg-id="25" tvg-name="Ananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s" group-title="NOWSHIN",Ananda Tv
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
+
+#EXTINF:-1 tvg-id="26" tvg-name="Massranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qtC8l_4JQWS7uILk-zpR6PVDRhzooPl-BO9rbUj0OA&s=10" group-title="NOWSHIN",Massranga tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
 #EXTINF:-1 tvg-id="27" tvg-name="Mohona tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x95285" group-title="NOWSHIN",Mohona tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="Channel 9 tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10" group-title="NOWSHIN",Channel 9 tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-name="Duranto Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCMnbILGk1p-heKYIGJdg-sQkDO4vzl7l31RninRUW6g&s=10" group-title="NOWSHIN",Duranto Tv
 http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
@@ -48,14 +81,47 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="35" tvg-name="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTgLK5F6Tedh_SdoltPFlXLWw5Q6OWOF12Dr0TWNTtQ&s=10" group-title="NOWSHIN",Movie
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="36" tvg-name="Desh tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s" group-title="NOWSHIN",Desh tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+
+#EXTINF:-1 tvg-id="37" tvg-name="Channel 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10" group-title="NOWSHIN",Channel 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
 #EXTINF:-1 tvg-id="38" tvg-name="Jago News Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="NOWSHIN",Jago News Tv
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10" group-title="NOWSHIN",T Sports
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 
+#EXTINF:-1 tvg-id="42" tvg-name="Atn News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s" group-title="NOWSHIN",Atn News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
 #EXTINF:-1 tvg-id="43" tvg-name="Atn Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10" group-title="NOWSHIN",Atn Bangla
 http://103.114.11.37:8081/Atn-Bangla/index.m3u8?token=dsfsdfsdfsdf
+
+#EXTINF:-1 tvg-id="44" tvg-name="Independent News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10" group-title="NOWSHIN",Independent News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-id="45" tvg-name="Ekttor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10" group-title="NOWSHIN",Ekttor Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-id="46" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s" group-title="NOWSHIN",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10" group-title="NOWSHIN",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-id="49" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s" group-title="NOWSHIN",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="DBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10" group-title="NOWSHIN",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-id="51" tvg-name="Somoy News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10" group-title="NOWSHIN",Somoy News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="Jamuna News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10" group-title="NOWSHIN",Jamuna News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 tvg-id="53" tvg-name="Ekhon tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10" group-title="NOWSHIN",Ekhon tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
@@ -108,6 +174,9 @@ https://madanitv.assadikb.workers.dev/live.php?id=1345&extension=.m3u8&key=BDStr
 #EXTINF:-1 tvg-id="71" tvg-name="Discovery kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s" group-title="NOWSHIN",Discovery kids
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 
+#EXTINF:-1 tvg-id="72" tvg-name="Pago " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10" group-title="NOWSHIN",Pago 
+https://book4u.top/worker/index.php?path=api/d2586d604e/playlist.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+
 #EXTINF:-1 tvg-id="73" tvg-name="Tom & Jery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10" group-title="NOWSHIN",Tom & Jery
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
@@ -117,11 +186,32 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="ZB Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10" group-title="NOWSHIN",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 
+#EXTINF:-1 tvg-id="76" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="NOWSHIN",Star Plus
+http://103.114.11.37:8081/StarPlus/index.m3u8?token=dsfsdfsdfsdf
+
 #EXTINF:-1 tvg-id="77" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="NOWSHIN",Star Sports 1
 http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="78" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="NOWSHIN",Star Sports 2
+http://103.151.61.12/STAR_SPORTS_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="NOWSHIN",Ptv 
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="80" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="NOWSHIN",A Sports 
+http://103.151.60.204:881/A-Sports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="81" tvg-name="M Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10" group-title="NOWSHIN",M Sports
 http://27.124.71.27/T-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="82" tvg-name="Sony ten 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s" group-title="NOWSHIN",Sony ten 1
+http://103.114.11.37:8081/Sony-sports-1/index.m3u8?token=dsfsdfsdfsdf
+
+#EXTINF:-1 tvg-id="83" tvg-name="Sony ten  2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10" group-title="NOWSHIN",Sony ten  2
+http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=dsfsdfsdfsdf
+
+#EXTINF:-1 tvg-id="84" tvg-name="Sony ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="NOWSHIN",Sony ten 5
+https://book4u.top/worker/index.php?path=api/d74ec2f219/playlist.m3u8|&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
 #EXTINF:-1 tvg-id="85" tvg-name="Sony Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s" group-title="NOWSHIN",Sony Entertainment
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
@@ -142,7 +232,7 @@ http://live.balajibroadband.com:3500/live/476.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=573&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 
 #EXTINF:-1 tvg-id="91" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="NOWSHIN",National Geography
-http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=155772&extension=m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/155772 NAT-GEO.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="NOWSHIN",Sangeet Bangla tv
 https://cdn-4.pishow.tv/live/1143/master.m3u8
