@@ -13,11 +13,15 @@
     "serial": 10,
     "name": "Btv News",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10",
-    "url": "https://live.shamim-iptv.workers.dev/BTV.m3u8",
-    "status": "Offline",
-    "failCount": 0,
-    "successCount": 1
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 11,
