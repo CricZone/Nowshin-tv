@@ -151,11 +151,15 @@
     "serial": 23,
     "name": "Bijoy tv",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s",
-    "url": "https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 9
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/BIJOY_TV.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 24,
