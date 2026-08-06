@@ -51,11 +51,15 @@
     "serial": 13,
     "name": "Boishakhi Tv",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s",
     "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
-    "status": "Offline",
-    "failCount": 9,
-    "successCount": 0
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Offline"
   },
   {
     "serial": 14,
