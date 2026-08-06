@@ -153,11 +153,15 @@
     "serial": 22,
     "name": "Ntv",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
-    "status": "Offline",
-    "failCount": 9,
-    "successCount": 0
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 23,
