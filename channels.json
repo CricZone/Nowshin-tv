@@ -441,11 +441,15 @@
     "serial": 52,
     "name": "Jamuna News",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
-    "status": "Offline",
-    "failCount": 9,
-    "successCount": 0
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/JAMUNA_TV.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 53,
