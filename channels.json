@@ -403,11 +403,15 @@
     "serial": 51,
     "name": "Somoy News",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
-    "status": "Offline",
-    "failCount": 9,
-    "successCount": 0
+    "url": "http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 52,
