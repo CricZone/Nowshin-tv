@@ -811,6 +811,20 @@
   },
   {
     "serial": 89,
+    "name": "Clours HD",
+    "category": "NOWSHIN",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnB6lt5uxfg5c4LYbdNch_7pK72yHcyPK2conGmd5BA&s=10",
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/COLORS_HD.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
+  },
+  {
+    "serial": 90,
     "name": "B4U Movies",
     "category": "NOWSHIN",
     "epg_id": "",
@@ -824,7 +838,7 @@
     "status": "Online"
   },
   {
-    "serial": 90,
+    "serial": 91,
     "name": "Zee Cinema",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10",
@@ -834,7 +848,7 @@
     "successCount": 9
   },
   {
-    "serial": 91,
+    "serial": 92,
     "name": "Zee Action ",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRuN7s143640vyGppEmUhZ44E4lm0YyBr51yEJJdt&s",
@@ -844,7 +858,7 @@
     "successCount": 1
   },
   {
-    "serial": 92,
+    "serial": 93,
     "name": "South Station Tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10",
@@ -854,7 +868,7 @@
     "successCount": 9
   },
   {
-    "serial": 93,
+    "serial": 94,
     "name": "Sony Max HD",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10",
@@ -864,7 +878,7 @@
     "successCount": 0
   },
   {
-    "serial": 94,
+    "serial": 95,
     "name": "Discovery",
     "category": "NOWSHIN",
     "epg_id": "",
@@ -880,7 +894,7 @@
     "successCount": 0
   },
   {
-    "serial": 95,
+    "serial": 96,
     "name": "National Geography",
     "category": "NOWSHIN",
     "epg_id": "",
@@ -896,7 +910,7 @@
     "successCount": 0
   },
   {
-    "serial": 96,
+    "serial": 97,
     "name": "MoviesNow HD",
     "category": "NOWSHIN",
     "epg_id": "",
@@ -912,7 +926,7 @@
     "successCount": 0
   },
   {
-    "serial": 97,
+    "serial": 98,
     "name": "Sangeet Bangla tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
@@ -922,7 +936,7 @@
     "successCount": 1
   },
   {
-    "serial": 98,
+    "serial": 99,
     "name": "Music India tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
@@ -932,7 +946,7 @@
     "successCount": 9
   },
   {
-    "serial": 99,
+    "serial": 100,
     "name": "9XM Music tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
@@ -942,7 +956,7 @@
     "successCount": 9
   },
   {
-    "serial": 100,
+    "serial": 101,
     "name": "8XM Music",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10",
@@ -952,7 +966,7 @@
     "successCount": 9
   },
   {
-    "serial": 101,
+    "serial": 102,
     "name": "Songeet Bhojpuri",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
@@ -962,7 +976,7 @@
     "successCount": 1
   },
   {
-    "serial": 102,
+    "serial": 103,
     "name": "Drmc",
     "category": "NOWSHIN",
     "epg_id": "",
