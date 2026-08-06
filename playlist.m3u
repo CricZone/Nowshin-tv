@@ -40,7 +40,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="22" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="NOWSHIN",Ntv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
 
 #EXTINF:-1 tvg-id="23" tvg-name="Bijoy tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s" group-title="NOWSHIN",Bijoy tv
 https://bdstream.bdstreamhubiptv.workers.dev/BIJOY_TV.m3u8
