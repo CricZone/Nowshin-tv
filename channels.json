@@ -283,11 +283,15 @@
     "serial": 37,
     "name": "Channel 1",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-    "status": "Offline",
-    "failCount": 9,
-    "successCount": 0
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 38,
