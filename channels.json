@@ -935,11 +935,15 @@
     "serial": 85,
     "name": "Ptv ",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10",
-    "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
-    "status": "Offline",
-    "failCount": 0,
-    "successCount": 1
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/PTV.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 86,
