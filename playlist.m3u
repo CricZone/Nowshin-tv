@@ -246,30 +246,33 @@ https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="95" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10" group-title="NOWSHIN",Sony Max HD
 http://live.balajibroadband.com:3500/live/476.m3u8
 
-#EXTINF:-1 tvg-id="96" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="NOWSHIN",Discovery
+#EXTINF:-1 tvg-id="96" tvg-name="Star Gold Select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAVuswg-HXXdJXWIctxLVyPz4oUQW967Ihya1FUwzvC1D-SXIlEFg8zQ&s" group-title="NOWSHIN",Star Gold Select
+https://bdstream.bdstreamhubiptv.workers.dev/GOLOD_SELECT.m3u8
+
+#EXTINF:-1 tvg-id="97" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="NOWSHIN",Discovery
 https://bdstream.bdstreamhubiptv.workers.dev/DISCOVER.m3u8
 
-#EXTINF:-1 tvg-id="97" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="NOWSHIN",National Geography
+#EXTINF:-1 tvg-id="98" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="NOWSHIN",National Geography
 https://bdstream.bdstreamhubiptv.workers.dev/155772 NAT-GEO.m3u8
 
-#EXTINF:-1 tvg-id="98" tvg-name="MoviesNow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcB1cudTC4GPZVQWuDnYrm2Bi110L6IVRPC4rm2HWLU6OQC_OOQlFVgA&s" group-title="NOWSHIN",MoviesNow HD
+#EXTINF:-1 tvg-id="99" tvg-name="MoviesNow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcB1cudTC4GPZVQWuDnYrm2Bi110L6IVRPC4rm2HWLU6OQC_OOQlFVgA&s" group-title="NOWSHIN",MoviesNow HD
 https://bdstream.bdstreamhubiptv.workers.dev/MoviewsNow.m3u8
 
-#EXTINF:-1 tvg-id="99" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="NOWSHIN",Sangeet Bangla tv
+#EXTINF:-1 tvg-id="100" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="NOWSHIN",Sangeet Bangla tv
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="NOWSHIN",Music India tv
+#EXTINF:-1 tvg-id="101" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="NOWSHIN",Music India tv
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="NOWSHIN",9XM Music tv
+#EXTINF:-1 tvg-id="102" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="NOWSHIN",9XM Music tv
 http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="NOWSHIN",8XM Music
+#EXTINF:-1 tvg-id="103" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="NOWSHIN",8XM Music
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Songeet Bhojpuri
+#EXTINF:-1 tvg-id="104" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-name="Drmc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Drmc
+#EXTINF:-1 tvg-id="105" tvg-name="Drmc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Drmc
 http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908657&extension=m3u8
 
