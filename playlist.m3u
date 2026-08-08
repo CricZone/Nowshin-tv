@@ -300,6 +300,3 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 #EXTINF:-1 tvg-id="114" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
-#EXTINF:-1 tvg-id="115" tvg-name="Drmc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Drmc
-http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908657&extension=m3u8
-
