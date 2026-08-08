@@ -339,9 +339,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 35,
@@ -691,9 +689,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 65,
@@ -803,9 +799,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 75,
@@ -1195,6 +1189,20 @@
   },
   {
     "serial": 104,
+    "name": "Sony BBC Earth",
+    "category": "NOWSHIN",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3ZcMMhI5x4KJKUQC5ZUy1iFqVr6mb7eVAzm0YrJCgA&s=10",
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/SONY_BBC_EARTH.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
+  },
+  {
+    "serial": 105,
     "name": "National Geography",
     "category": "NOWSHIN",
     "epg_id": "",
@@ -1210,7 +1218,7 @@
     "successCount": 0
   },
   {
-    "serial": 105,
+    "serial": 106,
     "name": "MoviesNow HD",
     "category": "NOWSHIN",
     "epg_id": "",
@@ -1226,7 +1234,7 @@
     "successCount": 0
   },
   {
-    "serial": 106,
+    "serial": 107,
     "name": "Sangeet Bangla tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
@@ -1236,7 +1244,7 @@
     "successCount": 1
   },
   {
-    "serial": 107,
+    "serial": 108,
     "name": "Music India tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10",
@@ -1246,7 +1254,7 @@
     "successCount": 9
   },
   {
-    "serial": 108,
+    "serial": 109,
     "name": "9XM Music tv",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10",
@@ -1256,7 +1264,7 @@
     "successCount": 9
   },
   {
-    "serial": 109,
+    "serial": 110,
     "name": "8XM Music",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10",
@@ -1266,7 +1274,7 @@
     "successCount": 9
   },
   {
-    "serial": 110,
+    "serial": 111,
     "name": "Songeet Bhojpuri",
     "category": "NOWSHIN",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
@@ -1276,7 +1284,7 @@
     "successCount": 1
   },
   {
-    "serial": 111,
+    "serial": 112,
     "name": "Drmc",
     "category": "NOWSHIN",
     "epg_id": "",
