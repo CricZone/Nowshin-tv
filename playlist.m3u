@@ -217,7 +217,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/StarplusHD.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS1.m3u8
 
 #EXTINF:-1 tvg-id="86" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="NOWSHIN",Star Sports 2
-http://103.151.61.12/STAR_SPORTS_2/tracks-v1a1/mono.m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8
 
 #EXTINF:-1 tvg-id="87" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="NOWSHIN",Ptv 
 https://bdstream.bdstreamhubiptv.workers.dev/PTV.m3u8
