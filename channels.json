@@ -937,15 +937,13 @@
     "category": "NOWSHIN",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10",
-    "url": "http://103.151.61.12/STAR_SPORTS_1/tracks-v1a1/mono.m3u8",
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS1.m3u8",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 86,
