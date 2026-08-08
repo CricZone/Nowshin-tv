@@ -960,26 +960,12 @@
     "status": "Online"
   },
   {
-    "serial": 87,
+    "serial": 88,
     "name": "STAR SPORTS SELECT 2",
     "category": "NOWSHIN",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8nMR8vUPapumxtPTB0p3E0ZZYfr6xeVhfwXmuTXuHQ&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT2.m3u8",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online"
-  },
-  {
-    "serial": 87,
-    "name": "STAR SPORTS SELECT 1",
-    "category": "NOWSHIN",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP3pEBvPEa9bKZukOh_Nc5vN_HbUARi__MVL-aFyFUXA&s=10",
-    "url": "https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT1.m3u8",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
