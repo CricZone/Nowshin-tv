@@ -229,7 +229,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/ASPORTS.m3u8
 http://27.124.71.27/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="90" tvg-name="Sony ten 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s" group-title="NOWSHIN",Sony ten 1
-http://103.114.11.37:8081/Sony-sports-1/index.m3u8?token=dsfsdfsdfsdf
+https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_1.m3u8
 
 #EXTINF:-1 tvg-id="91" tvg-name="Sony ten  2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10" group-title="NOWSHIN",Sony ten  2
 https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_2.m3u8
