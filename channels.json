@@ -313,15 +313,11 @@
     "serial": 31,
     "name": "Sa tv",
     "category": "NOWSHIN",
-    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nz_HCc83lOYNX9vJzASwu0sKiUw0nUMr13kvK2zLqA&s=10",
-    "url": "https://bdstream.bdstreamhubiptv.workers.dev/SA_TV.m3u8",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online"
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8",
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 1
   },
   {
     "serial": 32,
@@ -671,15 +667,13 @@
     "category": "NOWSHIN",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10",
-    "url": "http://103.165.93.31:8095/starJalsha/tracks-v1a1/mono.m3u8",
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/STAR_JALSHA.m3u8",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 61,
