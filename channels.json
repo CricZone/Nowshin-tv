@@ -129,11 +129,15 @@
     "serial": 18,
     "name": "Rtv",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 1
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/Rtv_HD.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 19,
