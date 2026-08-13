@@ -1425,15 +1425,15 @@
   },
   {
     "serial": 119,
-    "name": "Test MpD1",
+    "name": "Test M",
     "category": "NOWSHIN",
     "epg_id": "",
     "logo": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
-    "drm_license": "",
+    "drm_license": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
     "subtitle": "",
     "status": "Online"
   }
