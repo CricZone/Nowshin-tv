@@ -19,11 +19,15 @@
     "serial": 8,
     "name": "Peace Tv",
     "category": "NOWSHIN",
-    "logo": "https://i.postimg.cc/jdK93HTJ/images-5-10.jpg",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 9
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 9,
