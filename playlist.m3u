@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1" tvg-name="BAN vs AUS 1st Test " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5haz7Y26PrPc0DGqJbtn-6MkY2ie3i_y6cZEvWM0XkA&s=10" group-title="NOWSHIN",BAN vs AUS 1st Test 
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
@@ -12,8 +12,14 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="12" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="NOWSHIN",Btv News
 https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
 
+#EXTINF:-1 tvg-id="13" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="NOWSHIN",Sonsad Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
 #EXTINF:-1 tvg-id="14" tvg-name="Bangla Vision Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10" group-title="NOWSHIN",Bangla Vision Tv
 https://bdstream.bdstreamhubiptv.workers.dev/BANGLA_VISION_TV.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="Boishakhi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s" group-title="NOWSHIN",Boishakhi Tv
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8|referer=https://static.jagobd.com.bd/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="16" tvg-name="Chaanel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10" group-title="NOWSHIN",Chaanel i
 https://bdstream.bdstreamhubiptv.workers.dev/CHANNEL_i.m3u8
@@ -35,6 +41,9 @@ http://103.151.61.12/Nagorik_TV/tracks-v1a1/mono.m3u8?token=bdstramhub
 
 #EXTINF:-1 tvg-id="22" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10" group-title="NOWSHIN",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="23" tvg-name="My Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s" group-title="NOWSHIN",My Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="24" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="NOWSHIN",Ntv
 https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
@@ -77,6 +86,9 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv&key=BDStreamHub|User-Ag
 
 #EXTINF:-1 tvg-id="37" tvg-name="Srk tv" tvg-logo="https://yt3.googleusercontent.com/SI5MlFyc4HNhXu-NO9wrFXhssF3y5FAYfo9gGdnt72dUqV-NxPGPkxltLLa1btgv8O0cEB7l6jE=s900-c-k-c0x00ffffff-no-rj" group-title="NOWSHIN",Srk tv
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="Shikor tv" tvg-logo="https://shikortvcanada.com/wp-content/uploads/2025/07/Shikor-TV-Final-logo-02-1536x650.png" group-title="NOWSHIN",Shikor tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="39" tvg-name="G Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10" group-title="NOWSHIN",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -299,4 +311,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 
 #EXTINF:-1 tvg-id="118" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
+
+#EXTINF:-1 tvg-id="119" tvg-name="Test MpD" tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="NOWSHIN",Test MpD
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
