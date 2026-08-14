@@ -1,8 +1,8 @@
 {
   "version_code": 1,
-  "version_name": "2.2",
-  "title": "BDStreamHub New Update Available",
-  "changelog": "​✅ স্মুথ টিভি গ্রিড নেভিগেশন\n✅ ফাস্ট টিভি রিমোট রেসপন্স\n✅ স্মুথ জুম ফোকাস এনিমেশন\n✅ সুপার ফাস্ট পারফরম্যান্স (নো-ল্যাগ)\n✅ আকর্ষণীয় UI ডিজাইন\n✅ সকল ছোটখাটো বাগ ফিক্সড",
-  "download_url": "https://github.com/CricZone/Apps-Downloder/releases/download/v2.2/BDStreamHub-debug.apk",
+  "version_name": "2.3",
+  "title": " New Update Available",
+  "changelog": "✅ Logo Fixed\n✅ Leg Fixed\n✅ Player Fixed\n✅ TV Code Added\n✅ Bugs Fixed\n✅ Performance Improved\n✅ Overall Stability Improved",
+  "download_url": "https://github.com/CricZone/Apps-Downloder/releases/download/v2.3/BDStreamHub-debug.apk",
   "force_update": true
 }
