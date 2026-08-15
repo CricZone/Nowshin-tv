@@ -1530,21 +1530,5 @@
     "status": "Online",
     "failCount": 0,
     "successCount": 0
-  },
-  {
-    "serial": 125,
-    "name": "Tst",
-    "category": "NOWSHIN",
-    "epg_id": "",
-    "logo": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8",
-    "user_agent": "Mozilla/5.0 (Iphone by BDStreamHub)",
-    "referer": "https://app24.jagobd.com.bd/",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
   }
 ]
