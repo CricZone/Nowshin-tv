@@ -1495,7 +1495,9 @@
     "drm_scheme": "clearkey",
     "drm_license": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 123,
@@ -1509,7 +1511,9 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 124,
@@ -1523,7 +1527,9 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 125,
@@ -1537,6 +1543,8 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   }
 ]
