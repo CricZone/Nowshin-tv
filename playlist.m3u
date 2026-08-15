@@ -163,7 +163,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/Colors_Bangla.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 #EXTINF:-1 tvg-id="68" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s" group-title="NOWSHIN",Sony Aath
-https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
+https://bdstream.bdstreamhubiptv.workers.dev/Sony_Aath.m3u8
 
 #EXTINF:-1 tvg-id="69" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="NOWSHIN",Jalsha Movies
 https://bdstream.bdstreamhubiptv.workers.dev/Jalsha_movies.m3u8
