@@ -783,11 +783,15 @@
     "serial": 68,
     "name": "Sony Aath",
     "category": "NOWSHIN",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s",
-    "url": "https://live.shamim-iptv.workers.dev/SONYATTH.m3u8",
-    "status": "Online",
-    "failCount": 1,
-    "successCount": 8
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/Sony_Aath.m3u8",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 69,
