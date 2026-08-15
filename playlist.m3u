@@ -326,3 +326,7 @@ https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTVLCOPT:http-referrer=https://cdn-4.pishow.tv/
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
+#EXTINF:-1 tvg-id="123" tvg-name="Test 2" tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="NOWSHIN",Test 2
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+https://bdstream.bdstreamhubiptv.workers.dev/DISCOVER.m3u8?key=BDStreamHub
+
