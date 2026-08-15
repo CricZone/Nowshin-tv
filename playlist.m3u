@@ -321,8 +321,3 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="NOWSHIN",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
-#EXTINF:-1 tvg-id="122" tvg-name="Test " tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="NOWSHIN",Test 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Iphone by BDStreamHub)
-#EXTVLCOPT:http-referrer=https://cdn-4.pishow.tv/
-https://cdn-4.pishow.tv/live/1293/master.m3u8
-
