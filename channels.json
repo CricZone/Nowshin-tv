@@ -733,7 +733,9 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 64,
@@ -747,7 +749,9 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 65,
@@ -761,7 +765,9 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 66,
@@ -791,7 +797,9 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 69,
