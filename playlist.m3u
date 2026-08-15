@@ -331,9 +331,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #EXTVLCOPT:http-referrer=https://app.ncare.live/
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="124" tvg-name="Test 21" tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="NOWSHIN",Test 21
+#EXTINF:-1 tvg-id="124" tvg-name="Test 211" tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="NOWSHIN",Test 211
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8&key=BDStreamHub
+https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8?key=BDStreamHub
 
 #EXTINF:-1 tvg-id="125" tvg-name="Test 4" tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="NOWSHIN",Test 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Iphone by BDStreamHub)
