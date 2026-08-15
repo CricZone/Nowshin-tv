@@ -1496,5 +1496,19 @@
     "drm_license": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
     "subtitle": "",
     "status": "Online"
+  },
+  {
+    "serial": 123,
+    "name": "Test 2",
+    "category": "NOWSHIN",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSZxtLwZ_v9QTjQH7zx0xqfLyDxUswmjTf7ZCZ-AU3A&s=10",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8",
+    "user_agent": "Mozilla/5.0 (Iphone by BDStreamHub)",
+    "referer": "https://app.ncare.live/",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   }
 ]
