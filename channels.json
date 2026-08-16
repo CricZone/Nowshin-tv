@@ -394,22 +394,6 @@
     "successCount": 9
   },
   {
-    "serial": 37,
-    "name": "Nexus Tv",
-    "category": "NOWSHIN",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9DtOfwqUn55VgGKf4VPegPhHYoZA_fQ_7dCwkyZZ3jA&s",
-    "url": "https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
     "serial": 38,
     "name": "Srk tv",
     "category": "NOWSHIN",
