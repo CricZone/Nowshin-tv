@@ -740,7 +740,7 @@
   {
     "serial": 67,
     "name": "Colors bangla Cinema",
-    "category": "NOWSHIN",
+    "category": "Kolkata Movie",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/Colors_Bangla.m3u8",
@@ -749,9 +749,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 68,
