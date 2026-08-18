@@ -1020,12 +1020,16 @@
   {
     "serial": 88,
     "name": "ZB Cartoon",
-    "category": "NOWSHIN",
+    "category": "Cartoon",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10",
     "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 4
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Offline"
   },
   {
     "serial": 89,
