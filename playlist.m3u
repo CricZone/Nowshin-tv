@@ -204,7 +204,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/DISNEY_SD.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="Discovery kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s" group-title="Cartoon",Discovery kids
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 
-#EXTINF:-1 tvg-id="84" tvg-name="Pago " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10" group-title="NOWSHIN",Pago 
+#EXTINF:-1 tvg-id="84" tvg-name="Pogo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10" group-title="Cartoon",Pogo
 https://bdstream.bdstreamhubiptv.workers.dev/POCOHINDI.m3u8
 
 #EXTINF:-1 tvg-id="85" tvg-name="Sony YAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnJnfhga0E8npZuLba7hKlOwun2tSaNGN4O-cRVezPw&s" group-title="NOWSHIN",Sony YAY
