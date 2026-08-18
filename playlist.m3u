@@ -123,7 +123,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/ATN_BANGLA.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="Independent News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10" group-title="BD News",Independent News
 https://stream.ottplus.live/live/independent_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="54" tvg-name="Ekttor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10" group-title="NOWSHIN",Ekttor Tv
+#EXTINF:-1 tvg-id="54" tvg-name="Ekttor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10" group-title="BD News",Ekttor Tv
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="55" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s" group-title="NOWSHIN",Channel 24
