@@ -1454,12 +1454,16 @@
   {
     "serial": 119,
     "name": "Sangeet Bangla tv",
-    "category": "NOWSHIN",
+    "category": "Music",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10",
     "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 1
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 120,
