@@ -285,7 +285,7 @@ https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="111" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10" group-title="NOWSHIN",Sony Max HD
 https://bdstream.bdstreamhubiptv.workers.dev/Sony_Max.m3u8
 
-#EXTINF:-1 tvg-id="112" tvg-name="Star Gold Select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAVuswg-HXXdJXWIctxLVyPz4oUQW967Ihya1FUwzvC1D-SXIlEFg8zQ&s" group-title="NOWSHIN",Star Gold Select
+#EXTINF:-1 tvg-id="112" tvg-name="Star Gold Select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAVuswg-HXXdJXWIctxLVyPz4oUQW967Ihya1FUwzvC1D-SXIlEFg8zQ&s" group-title="Movie's",Star Gold Select
 https://bdstream.bdstreamhubiptv.workers.dev/GOLOD_SELECT.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-name="Sun Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSZxtLwZ_v9QTjQH7zx0xqfLyDxUswmjTf7ZCZ-AU3A&s=10" group-title="Hindi Serial",Sun Tv
