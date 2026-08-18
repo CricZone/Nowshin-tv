@@ -642,7 +642,7 @@
   {
     "serial": 59,
     "name": "DBC News",
-    "category": "NOWSHIN",
+    "category": "BD News",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/DBC_NEWS.m3u8",
@@ -651,9 +651,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 60,
