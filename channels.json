@@ -978,7 +978,7 @@
   {
     "serial": 85,
     "name": "Sony YAY",
-    "category": "NOWSHIN",
+    "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnJnfhga0E8npZuLba7hKlOwun2tSaNGN4O-cRVezPw&s",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/SONY_YAY.m3u8",
@@ -987,9 +987,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 86,
