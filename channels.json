@@ -194,7 +194,7 @@
   {
     "serial": 22,
     "name": "Rtv",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
     "epg_id": "",
     "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/Rtv_HD.m3u8",
@@ -203,9 +203,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 23,
