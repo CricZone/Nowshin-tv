@@ -390,7 +390,7 @@
   {
     "serial": 37,
     "name": "Amer Bangla 24",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_GNVxIr7JlPTdL-cHEP8CqelnauSaXPHJeEkdvCiLoHsNg-KfqXXofo&s=10",
     "url": "https://jagroniakash.ncare.live/eyetv/eyetv.stream/playlist.m3u8",
@@ -399,9 +399,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 38,
