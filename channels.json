@@ -1034,7 +1034,7 @@
   {
     "serial": 89,
     "name": "Jungle Book",
-    "category": "NOWSHIN",
+    "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTwzGu32TyPzvEzVsnXusrnFlj_E7Q_t5LTS7RlWJWg&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/Jungli_Book.m3u8",
@@ -1043,9 +1043,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 90,
