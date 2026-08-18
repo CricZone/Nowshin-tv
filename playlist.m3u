@@ -114,7 +114,7 @@ https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream
 #EXTINF:-1 tvg-id="49" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10" group-title="BD Sports",T Sports
 https://bdstream.bdstreamhubiptv.workers.dev/TSPORTS_HD.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-name="Atn News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s" group-title="NOWSHIN",Atn News
+#EXTINF:-1 tvg-id="51" tvg-name="Atn News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s" group-title="BD News",Atn News
 https://bdstream.bdstreamhubiptv.workers.dev/ATN_NEWS.m3u8
 
 #EXTINF:-1 tvg-id="52" tvg-name="Atn Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10" group-title="NOWSHIN",Atn Bangla
