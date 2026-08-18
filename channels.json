@@ -1232,7 +1232,7 @@
   {
     "serial": 103,
     "name": "Sony ten 5",
-    "category": "NOWSHIN",
+    "category": "Sports",
     "epg_id": "",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_5.m3u8",
@@ -1241,9 +1241,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 104,
