@@ -1496,12 +1496,16 @@
   {
     "serial": 122,
     "name": "8XM Music",
-    "category": "NOWSHIN",
+    "category": "Music",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10",
     "url": "https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 9
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 123,
