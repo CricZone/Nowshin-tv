@@ -96,7 +96,7 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="42" tvg-name="G Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10" group-title="BD 24/7",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="News 21 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa78-aGIGeUb8gJx4wys0KvPQ8PKqiBs_ysA1ubTc&s=10" group-title="NOWSHIN",News 21 Bangla
+#EXTINF:-1 tvg-id="43" tvg-name="News 21 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa78-aGIGeUb8gJx4wys0KvPQ8PKqiBs_ysA1ubTc&s=10" group-title="Bangladeshi",News 21 Bangla
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTgLK5F6Tedh_SdoltPFlXLWw5Q6OWOF12Dr0TWNTtQ&s=10" group-title="NOWSHIN",Movie
