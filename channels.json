@@ -96,7 +96,7 @@
   {
     "serial": 15,
     "name": "Alpona Tv",
-    "category": "Bangladesh",
+    "category": "Bangladeshi",
     "epg_id": "",
     "logo": "https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp",
     "url": "https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
@@ -105,9 +105,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Offline",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Offline"
   },
   {
     "serial": 16,
