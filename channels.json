@@ -670,7 +670,7 @@
   {
     "serial": 61,
     "name": "Jamuna News",
-    "category": "NOWSHIN",
+    "category": "BD News",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/JAMUNA_TV.m3u8",
@@ -679,9 +679,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 62,
