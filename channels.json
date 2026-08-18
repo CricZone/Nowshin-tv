@@ -936,7 +936,7 @@
   {
     "serial": 82,
     "name": "Disney",
-    "category": "NOWSHIN",
+    "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtaeVWP8Y2zUFQAdpqzY1cUfzcPW7JtNIEJCEYdGwAg&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/DISNEY_SD.m3u8",
@@ -945,9 +945,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 83,
