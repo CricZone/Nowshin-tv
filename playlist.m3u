@@ -252,7 +252,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_2.m3u8
 #EXTINF:-1 tvg-id="100" tvg-name="WILLOW SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLDoAUPQhx0xNoCd9YbKyKX--fC8WVwbl4w4heNJXKw&s=10" group-title="NOWSHIN",WILLOW SPORTS
 https://bdstream.bdstreamhubiptv.workers.dev/WILLOW_SPORTS.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-name="Ten Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtnM0Lznz1iBnp9AjQETh1HXJ3LCMalP6jyxGCFuDUw&s=10" group-title="NOWSHIN",Ten Sports 
+#EXTINF:-1 tvg-id="101" tvg-name="Ten Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtnM0Lznz1iBnp9AjQETh1HXJ3LCMalP6jyxGCFuDUw&s=10" group-title="Sports",Ten Sports 
 https://bdstream.bdstreamhubiptv.workers.dev/TEN_SPORTS.m3u8
 
 #EXTINF:-1 tvg-id="102" tvg-name="Caze Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports",Caze Tv
