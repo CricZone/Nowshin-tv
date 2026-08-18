@@ -44,7 +44,7 @@
   {
     "serial": 10,
     "name": "Peace Tv",
-    "category": "NOWSHIN",
+    "category": "Islamic Tv",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
@@ -53,9 +53,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 11,
