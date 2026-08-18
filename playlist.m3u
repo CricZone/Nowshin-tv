@@ -144,7 +144,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/SOMAY_TV.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="Jamuna News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10" group-title="BD News",Jamuna News
 https://bdstream.bdstreamhubiptv.workers.dev/JAMUNA_TV.m3u8
 
-#EXTINF:-1 tvg-id="62" tvg-name="Ekhon tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10" group-title="NOWSHIN",Ekhon tv
+#EXTINF:-1 tvg-id="62" tvg-name="Ekhon tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10" group-title="BD News",Ekhon tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="63" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10" group-title="NOWSHIN",Star Jalsha HD
