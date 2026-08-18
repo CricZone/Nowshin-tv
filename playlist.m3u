@@ -237,7 +237,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT2.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="NOWSHIN",Ptv 
 https://bdstream.bdstreamhubiptv.workers.dev/PTV.m3u8
 
-#EXTINF:-1 tvg-id="96" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="NOWSHIN",A Sports 
+#EXTINF:-1 tvg-id="96" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="Sports",A Sports 
 https://bdstream.bdstreamhubiptv.workers.dev/ASPORTS.m3u8
 
 #EXTINF:-1 tvg-id="97" tvg-name="M Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10" group-title="Sports",M Sports
