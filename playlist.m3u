@@ -225,7 +225,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/Jungli_Book.m3u8
 #EXTINF:-1 tvg-id="90" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="Hindi Serial",Star Plus
 https://bdstream.bdstreamhubiptv.workers.dev/StarplusHD.m3u8
 
-#EXTINF:-1 tvg-id="91" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="NOWSHIN",Star Sports 1
+#EXTINF:-1 tvg-id="91" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="Sports",Star Sports 1
 https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS1.m3u8
 
 #EXTINF:-1 tvg-id="92" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="Sports",Star Sports 2
