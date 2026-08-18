@@ -222,7 +222,7 @@
   {
     "serial": 24,
     "name": "Nagorik Tv",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/Nagorik_Tv.m3u8",
@@ -231,9 +231,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 25,
