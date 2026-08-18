@@ -249,7 +249,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_1.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="Sony ten  2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10" group-title="NOWSHIN",Sony ten  2
 https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_2.m3u8
 
-#EXTINF:-1 tvg-id="100" tvg-name="WILLOW SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLDoAUPQhx0xNoCd9YbKyKX--fC8WVwbl4w4heNJXKw&s=10" group-title="NOWSHIN",WILLOW SPORTS
+#EXTINF:-1 tvg-id="100" tvg-name="WILLOW SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLDoAUPQhx0xNoCd9YbKyKX--fC8WVwbl4w4heNJXKw&s=10" group-title="Sports",WILLOW SPORTS
 https://bdstream.bdstreamhubiptv.workers.dev/WILLOW_SPORTS.m3u8
 
 #EXTINF:-1 tvg-id="101" tvg-name="Ten Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtnM0Lznz1iBnp9AjQETh1HXJ3LCMalP6jyxGCFuDUw&s=10" group-title="Sports",Ten Sports 
