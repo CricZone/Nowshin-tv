@@ -1168,7 +1168,7 @@
   {
     "serial": 99,
     "name": "Sony ten  2",
-    "category": "NOWSHIN",
+    "category": "Sports",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_2.m3u8",
@@ -1177,9 +1177,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 100,
