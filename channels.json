@@ -236,12 +236,16 @@
   {
     "serial": 25,
     "name": "Ekushey Tv",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10",
     "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 9
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 26,
