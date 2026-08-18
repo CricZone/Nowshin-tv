@@ -558,7 +558,7 @@
   {
     "serial": 52,
     "name": "Atn Bangla",
-    "category": "NOWSHIN",
+    "category": "BD News",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/ATN_BANGLA.m3u8",
@@ -567,9 +567,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 53,
