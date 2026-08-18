@@ -614,7 +614,7 @@
   {
     "serial": 57,
     "name": "News 24",
-    "category": "NOWSHIN",
+    "category": "BD News",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/News_24.m3u8",
@@ -623,9 +623,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 58,
