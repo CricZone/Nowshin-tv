@@ -908,7 +908,7 @@
   {
     "serial": 80,
     "name": "Super Hungma",
-    "category": "NOWSHIN",
+    "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhu_U-ZA4nWyfwUuaM1rwdfi2rwporCWfWcjpBzaFsg&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/HUNGAMA_HD.m3u8",
@@ -917,9 +917,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 81,
