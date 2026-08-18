@@ -60,7 +60,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="Bijoy tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s" group-title="Bangladeshi",Bijoy tv
 https://bdstream.bdstreamhubiptv.workers.dev/BIJOY_TV.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="NOWSHIN",Asian Tv
+#EXTINF:-1 tvg-id="29" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="Bangladeshi",Asian Tv
 https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="Ananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s" group-title="NOWSHIN",Ananda Tv
