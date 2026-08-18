@@ -297,7 +297,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/DISCOVER.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="Sony BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3ZcMMhI5x4KJKUQC5ZUy1iFqVr6mb7eVAzm0YrJCgA&s=10" group-title="Documentary",Sony BBC Earth
 https://bdstream.bdstreamhubiptv.workers.dev/SONY_BBC_EARTH.m3u8
 
-#EXTINF:-1 tvg-id="116" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHWfiNKUmT4KmrISAov7p8hUpiVSbG-xVZOiw0LBr-Q&s=10" group-title="NOWSHIN",Animal Planet
+#EXTINF:-1 tvg-id="116" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHWfiNKUmT4KmrISAov7p8hUpiVSbG-xVZOiw0LBr-Q&s=10" group-title="Documentary",Animal Planet
 https://bdstream.bdstreamhubiptv.workers.dev/ANIMAL_PLANET.m3u8
 
 #EXTINF:-1 tvg-id="117" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="NOWSHIN",National Geography
