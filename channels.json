@@ -572,7 +572,7 @@
   {
     "serial": 53,
     "name": "Independent News",
-    "category": "NOWSHIN",
+    "category": "BD News",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10",
     "url": "https://stream.ottplus.live/live/independent_tv_abr/index.m3u8",
@@ -581,9 +581,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 54,
