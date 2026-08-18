@@ -1006,12 +1006,16 @@
   {
     "serial": 87,
     "name": "Khusboo bangla",
-    "category": "NOWSHIN",
+    "category": "Cartoon",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10",
     "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 9
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 88,
