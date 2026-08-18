@@ -1200,7 +1200,7 @@
   {
     "serial": 101,
     "name": "Ten Sports ",
-    "category": "NOWSHIN",
+    "category": "Sports",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtnM0Lznz1iBnp9AjQETh1HXJ3LCMalP6jyxGCFuDUw&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/TEN_SPORTS.m3u8",
@@ -1209,9 +1209,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 102,
