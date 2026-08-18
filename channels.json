@@ -376,12 +376,16 @@
   {
     "serial": 36,
     "name": "Bangla tv",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQut1HSjM_dlasdupGnVgcwkNv8Lr_xiPmvTHQYUyNbBg&s",
     "url": "https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 1
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 37,
