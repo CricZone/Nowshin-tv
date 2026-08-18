@@ -264,7 +264,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_5.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="Sony Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s" group-title="Hindi Serial",Sony Entertainment
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
 
-#EXTINF:-1 tvg-id="105" tvg-name="Clours HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnB6lt5uxfg5c4LYbdNch_7pK72yHcyPK2conGmd5BA&s=10" group-title="NOWSHIN",Clours HD
+#EXTINF:-1 tvg-id="105" tvg-name="Clours HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnB6lt5uxfg5c4LYbdNch_7pK72yHcyPK2conGmd5BA&s=10" group-title="Hindi Serial",Clours HD
 https://bdstream.bdstreamhubiptv.workers.dev/COLORS_HD.m3u8
 
 #EXTINF:-1 tvg-id="106" tvg-name="Colors Cinplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oc0XdGxIbg933Kqm8Jb1hnbjzxeURqkkGoRTGACfzQ&s=10" group-title="NOWSHIN",Colors Cinplex
