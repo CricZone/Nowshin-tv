@@ -1276,7 +1276,7 @@
   {
     "serial": 106,
     "name": "Colors Cinplex",
-    "category": "NOWSHIN",
+    "category": "Movie's",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oc0XdGxIbg933Kqm8Jb1hnbjzxeURqkkGoRTGACfzQ&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/COLORS_CINPLEX.m3u8",
@@ -1285,9 +1285,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 107,
