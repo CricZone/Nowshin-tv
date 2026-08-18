@@ -712,7 +712,7 @@
   {
     "serial": 65,
     "name": "Zee Bangla",
-    "category": "NOWSHIN",
+    "category": "Kolkata Serial",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/ZEE_BANGLA.m3u8",
@@ -721,9 +721,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 66,
