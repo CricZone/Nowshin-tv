@@ -516,12 +516,16 @@
   {
     "serial": 47,
     "name": "Jago News Tv",
-    "category": "NOWSHIN",
+    "category": "BD News",
+    "epg_id": "",
     "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png",
     "url": "https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 9
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 49,
