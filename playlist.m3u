@@ -222,7 +222,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTwzGu32TyPzvEzVsnXusrnFlj_E7Q_t5LTS7RlWJWg&s=10" group-title="Cartoon",Jungle Book
 https://bdstream.bdstreamhubiptv.workers.dev/Jungli_Book.m3u8
 
-#EXTINF:-1 tvg-id="90" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="NOWSHIN",Star Plus
+#EXTINF:-1 tvg-id="90" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="Hindi Serial",Star Plus
 https://bdstream.bdstreamhubiptv.workers.dev/StarplusHD.m3u8
 
 #EXTINF:-1 tvg-id="91" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="NOWSHIN",Star Sports 1
