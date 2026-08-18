@@ -208,12 +208,16 @@
   {
     "serial": 23,
     "name": "Green Tv",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCTL-zvZjMuPT3__MjCLFRpfvrUti-drH9_4HxUNYiQ&s",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8",
-    "status": "Online",
-    "failCount": 1,
-    "successCount": 8
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 24,
