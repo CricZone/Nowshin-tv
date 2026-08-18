@@ -1110,7 +1110,7 @@
   {
     "serial": 95,
     "name": "Ptv ",
-    "category": "NOWSHIN",
+    "category": "Sports",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/PTV.m3u8",
@@ -1119,9 +1119,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 96,
