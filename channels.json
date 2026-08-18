@@ -58,7 +58,7 @@
   {
     "serial": 11,
     "name": "Makkah tv",
-    "category": "NOWSHIN",
+    "category": "Islamic Tv",
     "epg_id": "",
     "logo": "https://www.makkahlivemedia.com/assets/images/library/6a0884d916de3.png",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8",
@@ -67,9 +67,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 14,
