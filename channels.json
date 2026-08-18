@@ -1426,7 +1426,7 @@
   {
     "serial": 117,
     "name": "National Geography",
-    "category": "NOWSHIN",
+    "category": "Documentary",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10",
     "url": "https://bdstream.bdstreamhubiptv.workers.dev/155772 NAT-GEO.m3u8",
@@ -1435,9 +1435,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 118,
