@@ -404,12 +404,16 @@
   {
     "serial": 38,
     "name": "Movie Bangla Tv",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10",
     "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 9
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 40,
