@@ -348,7 +348,7 @@
   {
     "serial": 33,
     "name": "Channel 9 tv",
-    "category": "NOWSHIN",
+    "category": "Bangladeshi",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10",
     "url": "http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts",
@@ -357,9 +357,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 35,
