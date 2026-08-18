@@ -1510,11 +1510,15 @@
   {
     "serial": 123,
     "name": "Songeet Bhojpuri",
-    "category": "NOWSHIN",
+    "category": "Music",
+    "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
     "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 1
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   }
 ]
