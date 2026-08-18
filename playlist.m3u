@@ -36,7 +36,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/CHANNEL_i.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Gazi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s" group-title="Bangladeshi",Gazi Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?bdstreamhub
 
-#EXTINF:-1 tvg-id="21" tvg-name="Deepto Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10" group-title="NOWSHIN",Deepto Tv
+#EXTINF:-1 tvg-id="21" tvg-name="Deepto Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10" group-title="Bangladeshi",Deepto Tv
 https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="Rtv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285" group-title="NOWSHIN",Rtv
