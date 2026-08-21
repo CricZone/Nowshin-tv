@@ -1043,15 +1043,13 @@
     "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10",
-    "url": "https://madanitv.assadikb.workers.dev/live.php?id=1345&extension=.m3u8&key=BDStreamHub|User-Agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1",
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/Sonick_bangla.m3u8",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 82,
