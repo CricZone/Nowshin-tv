@@ -1045,15 +1045,13 @@
     "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10",
-    "url": "http://live.balajibroadband.com:3500/render.m3u8?auth=E1bI9qVL6gqiWrynqiSNIwWkCHrOozA3PpaD1yM2YNX8TAOOlo3UA-IfQO9bYIVKhHjrTUmDw2cTTTjO4PpxHMVBCpZ6voFLuIEeAFKW8lMf-veYp0YxkK1gIXuopEKzS9dhRbAivnKdAvVhJnaSN7AT6Fz6iVoxVf3SH4pXRWFl39j_E_EDbIt2nKHi-aKUqpjHLSOIlGrnpo7P-n47Orwu-pNcU_U5bbVqghaNtJEDUexqoFu_2wyuF5VQGZFBqAMF0E3hUi5tpJfvoHX6fiI7ywqX5ollqtxM7kuLraRTZdUIF9Z_SgbbkUxY-WVabnbVvB0OVaDKJ_rsCQ5q-6qf5npTOEj1hCVSlBx_RRVWo2Fo5l-N_VQipfMYxmhFCipCU5ToG8v627TFAb0x8bHhCPDNLa1VzJOfMWRqzkEfCMf7SUQWm3Jp41HZMm1D0fvQCYeRyftu-MyysqEPR3VsxslqYRWaYLw9Btpx8uml71TakplSVa5lQ1I0hmXQj9nuy8uJItYsOsz5csb4gBfe-Npp3fz_i4tUvnDEQyaWhsUdkwXVrIUYj86dYpbOWBputw9xuwMmW8klEL8HUm3ff8Myg5rr5pTlTd8=&channel_key_id=1345&hdnea=st=1787431463~exp=1787517863~acl=/bpk-tv/Sonic_Bangla_MOB/Fallback/*~hmac=030c0e7cbe7acb6e229ccab3ef2b12fc1fa46e2a029557be2753c0049cadce24",
+    "url": "http://live.balajibroadband.com:3500/render.m3u8?auth=q0pHNmKqrSv2zmw3uEgi1qrgOZnDD0aHwYDUrElXvh1QLj3W_DbJ1JbnzSCheAHKwmqEVZJQXTYUFA1Dj-a0P_21cpuA6oV545VZXBJcwMPl0RI-3wXv1OzFOLDSz2z3oNWfTp4mZ087mNV-2rHbqmKdumnfIcB1xNOJQsPVR98fMr0CTgJkHJ-NMnEVIcmjYkwrbDu1a7c_NJCmolbzBqz33bofqIMmPK5IN6BzcYkyL77kaPtYaloadMAyhHmeCSp6AfYDn7jOSFAsdmxcfR43X1HuqKjzVDHwNeUiihjwMjBGdhE0KKfmfqiXEiL43thLNKrzit_O6bjUEemqYOuJf3zUmiBe_j8ZK-eF&channel_key_id=1345|referer=http://live.balajibroadband.com/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Offline"
   },
   {
     "serial": 82,
