@@ -1013,15 +1013,13 @@
     "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10",
-    "url": "http://live.balajibroadband.com:3500/render.m3u8?auth=oOfDiqHC_ik8-NPYstrNQ540jhfW3BMyprPDi9XH5lfBjHTl0ZMlwzRgpuQSuVKsUTILKnR7mYMF_p-TMw-XDtV6X99eCqhp2I7xSBl9COs51OuImYkwxghiyRkiVIHEZufy_zE-2VEcfgW6UgJiIp6GqIgXCKsBslR18HaEQr-U87YOgSsR743ezP5QAlMepu9PU-iXMsHRsDtVecShFYBLqBNB2IJffnoSvc2kWzoqfoc2uFZY-zdzqgULTTyCsUsca05o6B6kcrm7OkjkPgZBLr5IdkY3L_LS8spg7zH7MaVDVm-COTd6jS7Qe9fTORFCc2LuAS6T9sk11nZQvRmVsWiZge8eFFBP3qBF&channel_key_id=1345",
+    "url": "https://go.skym3u.top/live/25d38/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456c7650420c5d165d.m3u8?t=7160&s=cc7&id=ok4z.m3u",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 80,
