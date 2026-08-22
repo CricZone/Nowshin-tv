@@ -1045,15 +1045,13 @@
     "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10",
-    "url": "http://live.balajibroadband.com:3500/render.m3u8?auth=q0pHNmKqrSv2zmw3uEgi1qrgOZnDD0aHwYDUrElXvh1QLj3W_DbJ1JbnzSCheAHKwmqEVZJQXTYUFA1Dj-a0P_21cpuA6oV545VZXBJcwMPl0RI-3wXv1OzFOLDSz2z3oNWfTp4mZ087mNV-2rHbqmKdumnfIcB1xNOJQsPVR98fMr0CTgJkHJ-NMnEVIcmjYkwrbDu1a7c_NJCmolbzBqz33bofqIMmPK5IN6BzcYkyL77kaPtYaloadMAyhHmeCSp6AfYDn7jOSFAsdmxcfR43X1HuqKjzVDHwNeUiihjwMjBGdhE0KKfmfqiXEiL43thLNKrzit_O6bjUEemqYOuJf3zUmiBe_j8ZK-eF&channel_key_id=1345|referer=http://live.balajibroadband.com/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
+    "url": "https://go.skym3u.top/live/25d38/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456c7654420c5d165d.m3u8?t=7160&s=cc7&id=ok4z.m3u",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 82,
