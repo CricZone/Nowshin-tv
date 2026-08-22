@@ -1045,15 +1045,13 @@
     "category": "Cartoon",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10",
-    "url": "http://live.balajibroadband.com:3500/render.m3u8?auth=RsL9tYuL2nX4S6WfcAAMlLO4BFvhdem8ivJfyg5MM2pZUe_m051RTYcVmHB8Eye57GIcIgnBuEEVTY4CsA1BuIulValajh5VFu2wUlgDnYQ7sjHIDkUVcRvHmnl0BnDbhp6LzT1U59K5PVMRF1soUYbfDVXrRojymczrunJB3bmSaYpzJ5JPf1XDaK0XASnsoolZdEqrMM41JgDDsqy4zOR8zInlBSD8K1CBeGCEocIOBR-5coHNNiNbnXyrwRsAs22fq87Lpg-4VIRmEqEtQFb2V6PYQGesj7TItR4zLhns70zoSg3lded7sO80JdNLmdoYZNqeID0ntEzLoO-lJVory9esMoWnx9UKQ0kB&channel_key_id=1345",
+    "url": "http://live.balajibroadband.com:3500/render.m3u8?auth=zxXPcivLraRvM-6zs8T4kA2t_ZqloI4b7AVe3-PormDSzhgLi2m2IQ8sKD4YBwQo2JImi0maq6sYM8mOhnE0HghrnM0GMVjdHUO7ch75G1_1s0zg8ZC0SlVglrBL73wigRrM-CEIi0VchkCTKZbBHsF7RvwthAEGPNigGBSyd77PLgs-hSGWYsGo0ZqhJUz__N_I7MYh-MOPLoUKZ-390UZWkWQVyMAc3w4UafptOhCUsTZ8cZfOOZMf7C0KvoBcc9QYD2XiyjRD2RxH14i1svQ_FvBVIZOoYmkk_e3dU20o4zn6Q5g8w-sNbjYZXS-k8c7A0NPnf-I1YXOsgifCVUr36m-m3LiTCojuVA5E&channel_key_id=1345",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 82,
