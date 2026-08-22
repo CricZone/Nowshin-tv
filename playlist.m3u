@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1" tvg-name="IND vs SRI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4RGo-uHTFvwjsSU3VvrX6XFT3iBBLmzcoPhM9PDffA&s=10" group-title="Live Event",IND vs SRI
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
@@ -20,6 +20,9 @@ https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
 
 #EXTINF:-1 tvg-id="15" tvg-name="Alpona Tv" tvg-logo="https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp" group-title="Bangladeshi",Alpona Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
+
+#EXTINF:-1 tvg-id="16" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="Bangladeshi",Sonsad Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 tvg-id="17" tvg-name="Bangla Vision Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10" group-title="Bangladeshi",Bangla Vision Tv
 https://bdstream.bdstreamhubiptv.workers.dev/BANGLA_VISION_TV.m3u8
@@ -193,7 +196,7 @@ https://bdstream.bdstreamhubiptv.workers.dev/Nick_Bangla.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/HUNGAMA_HD.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10" group-title="Cartoon",Sonic
-http://live.balajibroadband.com:3500/render.m3u8?auth=RsL9tYuL2nX4S6WfcAAMlLO4BFvhdem8ivJfyg5MM2pZUe_m051RTYcVmHB8Eye57GIcIgnBuEEVTY4CsA1BuIulValajh5VFu2wUlgDnYQ7sjHIDkUVcRvHmnl0BnDbhp6LzT1U59K5PVMRF1soUYbfDVXrRojymczrunJB3bmSaYpzJ5JPf1XDaK0XASnsoolZdEqrMM41JgDDsqy4zOR8zInlBSD8K1CBeGCEocIOBR-5coHNNiNbnXyrwRsAs22fq87Lpg-4VIRmEqEtQFb2V6PYQGesj7TItR4zLhns70zoSg3lded7sO80JdNLmdoYZNqeID0ntEzLoO-lJVory9esMoWnx9UKQ0kB&channel_key_id=1345
+http://live.balajibroadband.com:3500/render.m3u8?auth=zxXPcivLraRvM-6zs8T4kA2t_ZqloI4b7AVe3-PormDSzhgLi2m2IQ8sKD4YBwQo2JImi0maq6sYM8mOhnE0HghrnM0GMVjdHUO7ch75G1_1s0zg8ZC0SlVglrBL73wigRrM-CEIi0VchkCTKZbBHsF7RvwthAEGPNigGBSyd77PLgs-hSGWYsGo0ZqhJUz__N_I7MYh-MOPLoUKZ-390UZWkWQVyMAc3w4UafptOhCUsTZ8cZfOOZMf7C0KvoBcc9QYD2XiyjRD2RxH14i1svQ_FvBVIZOoYmkk_e3dU20o4zn6Q5g8w-sNbjYZXS-k8c7A0NPnf-I1YXOsgifCVUr36m-m3LiTCojuVA5E&channel_key_id=1345
 
 #EXTINF:-1 tvg-id="82" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtaeVWP8Y2zUFQAdpqzY1cUfzcPW7JtNIEJCEYdGwAg&s=10" group-title="Cartoon",Disney
 https://bdstream.bdstreamhubiptv.workers.dev/DISNEY_SD.m3u8
@@ -257,6 +260,9 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m
 
 #EXTINF:-1 tvg-id="103" tvg-name="Sony ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports",Sony ten 5
 https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_5.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-name="Sony Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s" group-title="Hindi Serial",Sony Entertainment
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="Clours HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnB6lt5uxfg5c4LYbdNch_7pK72yHcyPK2conGmd5BA&s=10" group-title="Hindi Serial",Clours HD
 https://bdstream.bdstreamhubiptv.workers.dev/COLORS_HD.m3u8
