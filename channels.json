@@ -11,7 +11,9 @@
     "drm_scheme": "widevine",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 2,
@@ -1721,7 +1723,9 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 125,
@@ -1735,6 +1739,8 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online"
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0
   }
 ]
