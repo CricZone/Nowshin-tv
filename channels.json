@@ -19,10 +19,10 @@
     "category": "Live Event",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5haz7Y26PrPc0DGqJbtn-6MkY2ie3i_y6cZEvWM0XkA&s=10",
-    "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
+    "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://saseries.akamaized.net/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)",
     "user_agent": "",
     "referer": "",
-    "drm_scheme": "widevine",
+    "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
     "status": "Online"
