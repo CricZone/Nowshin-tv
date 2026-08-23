@@ -1582,20 +1582,6 @@
     "successCount": 0
   },
   {
-    "serial": 117,
-    "name": "HBO",
-    "category": "English Movie",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2bv3niBb4yER2BgqF03b30m3FaHlRzoHtocCymX9Zw&s=10",
-    "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online"
-  },
-  {
     "serial": 118,
     "name": "Animal Planet",
     "category": "Documentary",
@@ -1626,6 +1612,20 @@
     "status": "Online",
     "failCount": 0,
     "successCount": 0
+  },
+  {
+    "serial": 119,
+    "name": "HBO",
+    "category": "English Movie",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2bv3niBb4yER2BgqF03b30m3FaHlRzoHtocCymX9Zw&s=10",
+    "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   },
   {
     "serial": 120,
