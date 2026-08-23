@@ -297,27 +297,30 @@ https://bdstream.bdstreamhubiptv.workers.dev/DISCOVER.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="Sony BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3ZcMMhI5x4KJKUQC5ZUy1iFqVr6mb7eVAzm0YrJCgA&s=10" group-title="Documentary",Sony BBC Earth
 https://bdstream.bdstreamhubiptv.workers.dev/SONY_BBC_EARTH.m3u8
 
-#EXTINF:-1 tvg-id="117" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHWfiNKUmT4KmrISAov7p8hUpiVSbG-xVZOiw0LBr-Q&s=10" group-title="Documentary",Animal Planet
+#EXTINF:-1 tvg-id="117" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2bv3niBb4yER2BgqF03b30m3FaHlRzoHtocCymX9Zw&s=10" group-title="English Movie",HBO
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
+
+#EXTINF:-1 tvg-id="118" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHWfiNKUmT4KmrISAov7p8hUpiVSbG-xVZOiw0LBr-Q&s=10" group-title="Documentary",Animal Planet
 https://bdstream.bdstreamhubiptv.workers.dev/ANIMAL_PLANET.m3u8
 
-#EXTINF:-1 tvg-id="118" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="Documentary",National Geography
+#EXTINF:-1 tvg-id="119" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="Documentary",National Geography
 https://bdstream.bdstreamhubiptv.workers.dev/155772 NAT-GEO.m3u8
 
-#EXTINF:-1 tvg-id="119" tvg-name="MoviesNow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcB1cudTC4GPZVQWuDnYrm2Bi110L6IVRPC4rm2HWLU6OQC_OOQlFVgA&s" group-title="English Movie",MoviesNow HD
+#EXTINF:-1 tvg-id="120" tvg-name="MoviesNow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcB1cudTC4GPZVQWuDnYrm2Bi110L6IVRPC4rm2HWLU6OQC_OOQlFVgA&s" group-title="English Movie",MoviesNow HD
 https://bdstream.bdstreamhubiptv.workers.dev/MoviewsNow.m3u8
 
-#EXTINF:-1 tvg-id="120" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="Music",Sangeet Bangla tv
+#EXTINF:-1 tvg-id="121" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="Music",Sangeet Bangla tv
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="121" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="Music",Music India tv
+#EXTINF:-1 tvg-id="122" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="Music",Music India tv
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
-#EXTINF:-1 tvg-id="122" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="Music",9XM Music tv
+#EXTINF:-1 tvg-id="123" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="Music",9XM Music tv
 http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:-1 tvg-id="123" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="Music",8XM Music
+#EXTINF:-1 tvg-id="124" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="Music",8XM Music
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 
-#EXTINF:-1 tvg-id="124" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="Music",Songeet Bhojpuri
+#EXTINF:-1 tvg-id="125" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="Music",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
