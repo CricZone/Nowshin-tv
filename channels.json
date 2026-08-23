@@ -1710,21 +1710,5 @@
     "status": "Online",
     "failCount": 0,
     "successCount": 0
-  },
-  {
-    "serial": 124,
-    "name": "TEST (SERVER1)",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfPaa78sH6flBpo-D7IaRASauL_xYftOzYzba46AcjQ&s=10",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
   }
 ]
