@@ -1183,6 +1183,20 @@
   },
   {
     "serial": 91,
+    "name": "Cartoon Network ",
+    "category": "Cartoon",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s",
+    "url": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
+  },
+  {
+    "serial": 92,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1198,7 +1212,7 @@
     "successCount": 0
   },
   {
-    "serial": 92,
+    "serial": 93,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -1214,7 +1228,7 @@
     "successCount": 0
   },
   {
-    "serial": 93,
+    "serial": 94,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -1230,7 +1244,7 @@
     "successCount": 0
   },
   {
-    "serial": 95,
+    "serial": 96,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -1246,7 +1260,7 @@
     "successCount": 0
   },
   {
-    "serial": 96,
+    "serial": 97,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -1262,7 +1276,7 @@
     "successCount": 0
   },
   {
-    "serial": 97,
+    "serial": 98,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1278,7 +1292,7 @@
     "successCount": 0
   },
   {
-    "serial": 98,
+    "serial": 99,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -1294,7 +1308,7 @@
     "successCount": 0
   },
   {
-    "serial": 99,
+    "serial": 100,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -1310,7 +1324,7 @@
     "successCount": 0
   },
   {
-    "serial": 100,
+    "serial": 101,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -1326,7 +1340,7 @@
     "successCount": 0
   },
   {
-    "serial": 101,
+    "serial": 102,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -1342,7 +1356,7 @@
     "successCount": 0
   },
   {
-    "serial": 102,
+    "serial": 103,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1358,7 +1372,7 @@
     "successCount": 0
   },
   {
-    "serial": 103,
+    "serial": 104,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -1374,7 +1388,7 @@
     "successCount": 0
   },
   {
-    "serial": 104,
+    "serial": 105,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -1390,7 +1404,7 @@
     "successCount": 0
   },
   {
-    "serial": 105,
+    "serial": 106,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1406,7 +1420,7 @@
     "successCount": 0
   },
   {
-    "serial": 106,
+    "serial": 107,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1422,7 +1436,7 @@
     "successCount": 0
   },
   {
-    "serial": 107,
+    "serial": 108,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -1438,7 +1452,7 @@
     "successCount": 0
   },
   {
-    "serial": 108,
+    "serial": 109,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -1454,7 +1468,7 @@
     "successCount": 0
   },
   {
-    "serial": 109,
+    "serial": 110,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -1470,7 +1484,7 @@
     "successCount": 0
   },
   {
-    "serial": 110,
+    "serial": 111,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -1486,7 +1500,7 @@
     "successCount": 0
   },
   {
-    "serial": 111,
+    "serial": 112,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -1502,7 +1516,7 @@
     "successCount": 0
   },
   {
-    "serial": 112,
+    "serial": 113,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -1518,7 +1532,7 @@
     "successCount": 0
   },
   {
-    "serial": 113,
+    "serial": 114,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -1534,7 +1548,7 @@
     "successCount": 0
   },
   {
-    "serial": 114,
+    "serial": 115,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1550,7 +1564,7 @@
     "successCount": 0
   },
   {
-    "serial": 115,
+    "serial": 116,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -1566,7 +1580,7 @@
     "successCount": 0
   },
   {
-    "serial": 116,
+    "serial": 117,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -1582,7 +1596,7 @@
     "successCount": 0
   },
   {
-    "serial": 118,
+    "serial": 119,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -1598,7 +1612,7 @@
     "successCount": 0
   },
   {
-    "serial": 119,
+    "serial": 120,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -1614,7 +1628,7 @@
     "successCount": 0
   },
   {
-    "serial": 119,
+    "serial": 120,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -1628,7 +1642,7 @@
     "status": "Online"
   },
   {
-    "serial": 120,
+    "serial": 121,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -1644,7 +1658,7 @@
     "successCount": 0
   },
   {
-    "serial": 121,
+    "serial": 122,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -1660,7 +1674,7 @@
     "successCount": 0
   },
   {
-    "serial": 122,
+    "serial": 123,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -1676,7 +1690,7 @@
     "successCount": 0
   },
   {
-    "serial": 123,
+    "serial": 124,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -1692,7 +1706,7 @@
     "successCount": 0
   },
   {
-    "serial": 124,
+    "serial": 125,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -1708,7 +1722,7 @@
     "successCount": 0
   },
   {
-    "serial": 125,
+    "serial": 126,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
