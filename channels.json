@@ -22,7 +22,7 @@
     "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
     "user_agent": "",
     "referer": "",
-    "drm_scheme": "",
+    "drm_scheme": "widevine",
     "drm_license": "",
     "subtitle": "",
     "status": "Online"
