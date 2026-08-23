@@ -32,22 +32,6 @@
     "successCount": 0
   },
   {
-    "serial": 3,
-    "name": "Bds vs test",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfPaa78sH6flBpo-D7IaRASauL_xYftOzYzba46AcjQ&s=10",
-    "url": "https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8#Test 1 |https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8#Test 2 |https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8#test 3 ",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
     "serial": 4,
     "name": "CPL",
     "category": "Live Event",
