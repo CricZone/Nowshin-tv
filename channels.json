@@ -32,20 +32,6 @@
     "successCount": 0
   },
   {
-    "serial": 4,
-    "name": "Test",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
-    "url": "https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8#Test 1 $ https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#bsdteam",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online"
-  },
-  {
     "serial": 5,
     "name": "CPL",
     "category": "Live Event",
