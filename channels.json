@@ -21,15 +21,13 @@
     "category": "Live Event",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_s_kuO-OU0ufTgl_yKb2Fu-FGMjmbG1ENykeqhK1sQ&s",
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#BDStreamHub $ https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8#BDStreamHub 2",
+    "url": "Https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#BDStreamHub $ https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8#BDStreamHub 2",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "widevine",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Offline"
   },
   {
     "serial": 12,
