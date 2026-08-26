@@ -19,15 +19,13 @@
     "category": "Live Event",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_s_kuO-OU0ufTgl_yKb2Fu-FGMjmbG1ENykeqhK1sQ&s",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#BDStreamHub $ https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8#Test $ https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8#Test 2",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#BDStreamHub",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "widevine",
     "drm_license": "",
     "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0
+    "status": "Online"
   },
   {
     "serial": 12,
