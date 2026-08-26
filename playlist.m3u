@@ -6,9 +6,6 @@ Https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2
 #EXTINF:-1 tvg-id="2" tvg-name="BAN vs AUS 2nd Test " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5haz7Y26PrPc0DGqJbtn-6MkY2ie3i_y6cZEvWM0XkA&s=10" group-title="Live Event",BAN vs AUS 2nd Test 
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://saseries.akamaized.net/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
-#EXTINF:-1 tvg-id="4" tvg-name="Test" tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="Live Event",Test
-https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8#Test 1 $ https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#bsdteam
-
 #EXTINF:-1 tvg-id="5" tvg-name="CPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_s_kuO-OU0ufTgl_yKb2Fu-FGMjmbG1ENykeqhK1sQ&s" group-title="Live Event",CPL
 https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd?|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#BDStreamHub $ https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8#Test $ https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8#Test 2
 
