@@ -2,8 +2,8 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 0 * * *' # প্রতিদিন স্বয়ংক্রিয়ভাবে রান হবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার সুবিধা
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   update-data:
@@ -12,9 +12,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Run Script or Update File
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Bot Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # সিক্রেটটি এনভায়রনমেন্ট ভেরিয়েবলে পাস করা হচ্ছে
-        run: |
-          # এখানে আপনার স্ক্রিপ্ট চলবে যা নিরাপদে টোকেন ব্যবহার করে কাজ করবে
-          python update_channels.py
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: node bot.js
