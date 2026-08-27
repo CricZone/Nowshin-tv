@@ -1,16 +1,5 @@
 [
   {
-    "name": "FC Barcelona vs Athletic Club - LaLiga",
-    "category": "Live Event",
-    "logo": "https://img.sofascore.com/api/v1/team/2817/image",
-    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|drmScheme=clearkey&drmLicense=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921#D SPORTS [60FPS] $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd|drmScheme=clearkey&drmLicense=b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0#SETANTA SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55314/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f#PREMIER1 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4#Cazétv2 TV FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD $ http://193.47.62.52/hls/SAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "status": "Online",
-    "priority": 60,
-    "date": "27/08/2026",
-    "time": "19:00:00",
-    "serial": 1
-  },
-  {
     "name": "Celta Vigo vs Osasuna - LaLiga",
     "category": "Live Event",
     "logo": "https://img.sofascore.com/api/v1/team/2821/image",
@@ -19,7 +8,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 2
+    "serial": 1
   },
   {
     "name": "Olympique Lyonnais vs Fenerbahçe - UEFA Champions League",
@@ -30,7 +19,7 @@
     "priority": 60,
     "date": "26/08/2026",
     "time": "19:00:00",
-    "serial": 3
+    "serial": 2
   },
   {
     "name": "Viking FK vs GNK Dinamo Zagreb - UEFA Champions League",
@@ -41,7 +30,7 @@
     "priority": 60,
     "date": "26/08/2026",
     "time": "19:00:00",
-    "serial": 4
+    "serial": 3
   },
   {
     "name": "NK Celje vs ŠK Slovan Bratislava - UEFA Champions League",
@@ -52,7 +41,7 @@
     "priority": 60,
     "date": "26/08/2026",
     "time": "19:00:00",
-    "serial": 5
+    "serial": 4
   },
   {
     "name": "AEK Athens vs Levski Sofia - UEFA Champions League",
@@ -63,7 +52,7 @@
     "priority": 60,
     "date": "26/08/2026",
     "time": "19:00:00",
-    "serial": 6
+    "serial": 5
   },
   {
     "name": "Fulham vs Chelsea - Premier League",
@@ -74,7 +63,7 @@
     "priority": 60,
     "date": "24/08/2026",
     "time": "19:00:00",
-    "serial": 7
+    "serial": 6
   },
   {
     "name": "MotorGP vs MotorGP - MotoGP Evento",
@@ -85,7 +74,7 @@
     "priority": 60,
     "date": "28/08/2026",
     "time": "07:00:00",
-    "serial": 8
+    "serial": 7
   },
   {
     "name": "Sri Lanka vs India - ICC World Test Championship",
@@ -96,7 +85,7 @@
     "priority": 60,
     "date": "28/08/2026",
     "time": "04:30:00",
-    "serial": 9
+    "serial": 8
   },
   {
     "name": "England vs Pakistan - ICC World Test Championship",
@@ -107,7 +96,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "10:00:00",
-    "serial": 10
+    "serial": 9
   },
   {
     "name": "EUROPEAN T20 vs Premier League - EUROPEAN T20 Premier League",
@@ -118,7 +107,7 @@
     "priority": 60,
     "date": "28/08/2026",
     "time": "13:15:00",
-    "serial": 11
+    "serial": 10
   },
   {
     "name": "Fountain Gate vs Mbeya City FC - Tanzanian Premier League",
@@ -129,7 +118,7 @@
     "priority": 60,
     "date": "28/08/2026",
     "time": "13:00:00",
-    "serial": 12
+    "serial": 11
   },
   {
     "name": "Simba SC vs Coastal Union - Tanzanian Premier League",
@@ -140,7 +129,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 13
+    "serial": 12
   },
   {
     "name": "Mashujaa FC vs Kagera Sugar FC - Tanzanian Premier League",
@@ -151,7 +140,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "13:00:00",
-    "serial": 14
+    "serial": 13
   },
   {
     "name": "Modern Sport FC vs Ghazl El Mahalla FC - Egyptian Premier League",
@@ -162,7 +151,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "14:00:00",
-    "serial": 15
+    "serial": 14
   },
   {
     "name": "Arab Contractors FC vs Al-Masry - Egyptian Premier League",
@@ -173,7 +162,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 16
+    "serial": 15
   },
   {
     "name": "Pyramids FC vs Abu Qir Fertilizers SC - Egyptian Premier League",
@@ -184,7 +173,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 17
+    "serial": 16
   },
   {
     "name": "Sitra vs Malkiya - Bahraini Premier League",
@@ -195,7 +184,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 18
+    "serial": 17
   },
   {
     "name": "Al Najma vs Al Khaldiya - Bahraini Premier League",
@@ -206,7 +195,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 19
+    "serial": 18
   },
   {
     "name": "UCL Draw vs UCL Draw - UEFA Champions League Draw",
@@ -217,7 +206,7 @@
     "priority": 60,
     "date": "27/08/2026",
     "time": "15:46:00",
-    "serial": 20
+    "serial": 19
   },
   {
     "name": "Formula 1 vs Formula - Formula 1",
@@ -228,7 +217,7 @@
     "priority": 60,
     "date": "11/09/2026",
     "time": "11:00:00",
-    "serial": 21
+    "serial": 20
   },
   {
     "name": "Chelsea vs Luton Town - EFL Cup",
@@ -239,7 +228,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 22
+    "serial": 21
   },
   {
     "name": "Fulham vs AFC Wimbledon - EFL Cup",
@@ -250,7 +239,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "19:00:00",
-    "serial": 23
+    "serial": 22
   },
   {
     "name": "Estudiantes de La Plata vs Barracas Central - Copa Argentina",
@@ -261,7 +250,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "22:00:00",
-    "serial": 24
+    "serial": 23
   },
   {
     "name": "Instituto De Córdoba vs Club Atlético Platense - Copa Argentina",
@@ -272,7 +261,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "00:15:00",
-    "serial": 25
+    "serial": 24
   },
   {
     "name": "Racing Club vs Boca Juniors - Liga Profesional de Fútbol",
@@ -283,7 +272,7 @@
     "priority": 10,
     "date": "24/08/2026",
     "time": "00:30:00",
-    "serial": 26
+    "serial": 25
   },
   {
     "name": "SmackDown vs SmackDown - Friday Night SmackDown",
@@ -294,7 +283,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "00:00:00",
-    "serial": 27
+    "serial": 26
   },
   {
     "name": "WWE NXT vs WWE NXT - WWE NXT",
@@ -305,7 +294,7 @@
     "priority": 10,
     "date": "30/06/2026",
     "time": "23:00:00",
-    "serial": 28
+    "serial": 27
   },
   {
     "name": "AEW Night Dynamite vs AEW Night Dynamite - AEW DYNAMIC",
@@ -316,7 +305,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "00:00:00",
-    "serial": 29
+    "serial": 28
   },
   {
     "name": "One Friday Fights vs One Friday Fights - One Friday Fights",
@@ -327,7 +316,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "12:30:00",
-    "serial": 30
+    "serial": 29
   },
   {
     "name": "WRC Rally vs WRC Rally - WRC Rally",
@@ -338,7 +327,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:35:00",
-    "serial": 31
+    "serial": 30
   },
   {
     "name": "INDYCAR Series Racing vs INDYCAR Series Racing - INDYCAR Series Racing",
@@ -349,7 +338,7 @@
     "priority": 10,
     "date": "24/08/2026",
     "time": "01:05:00",
-    "serial": 32
+    "serial": 31
   },
   {
     "name": "NASCAR CUP SERIES vs NASCAR CUP SERIES - NASCAR",
@@ -360,7 +349,7 @@
     "priority": 10,
     "date": "24/08/2026",
     "time": "01:05:00",
-    "serial": 33
+    "serial": 32
   },
   {
     "name": "Snooker vs Snooker - Snooker",
@@ -371,7 +360,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:35:00",
-    "serial": 34
+    "serial": 33
   },
   {
     "name": "TENNIS | EVENTO  vs TENNIS | EVENTO - TENNIS | EVENTO",
@@ -382,7 +371,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:35:00",
-    "serial": 35
+    "serial": 34
   },
   {
     "name": "Horse Racing vs Horse Racing - Horse Racing",
@@ -393,7 +382,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:35:00",
-    "serial": 36
+    "serial": 35
   },
   {
     "name": "Hockey 🏑 vs Hockey 🏑 - Field Hockey World Cup",
@@ -404,7 +393,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:35:00",
-    "serial": 37
+    "serial": 36
   },
   {
     "name": "Top End T20 Series 2026 vs Top End T20 Series 2026 - Top End T20 Series 2026",
@@ -415,7 +404,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:00:00",
-    "serial": 38
+    "serial": 37
   },
   {
     "name": "Cycling vs Cycling - Cycling",
@@ -426,7 +415,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:35:00",
-    "serial": 39
+    "serial": 38
   },
   {
     "name": "Al Faisaly vs Al-Fateh - Saudi Pro League",
@@ -437,7 +426,7 @@
     "priority": 10,
     "date": "26/08/2026",
     "time": "18:02:00",
-    "serial": 40
+    "serial": 39
   },
   {
     "name": "Brisbane Broncos vs Melbourne Storm - NRL",
@@ -448,7 +437,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "09:50:00",
-    "serial": 41
+    "serial": 40
   },
   {
     "name": "Penrith Panthers vs Canterbury Bulldogs - NRL",
@@ -459,7 +448,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "10:00:00",
-    "serial": 42
+    "serial": 41
   },
   {
     "name": "Wigan Warriors vs Hull Kingston Rovers - Super League",
@@ -470,7 +459,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "19:00:00",
-    "serial": 43
+    "serial": 42
   },
   {
     "name": "Auckland vs Bay of Plenty - National Provincial Championship",
@@ -481,7 +470,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "07:10:00",
-    "serial": 44
+    "serial": 43
   },
   {
     "name": "Manly Sea Eagles vs St. George Illawarra Dragons - NRL",
@@ -492,7 +481,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "08:00:00",
-    "serial": 45
+    "serial": 44
   },
   {
     "name": "Hollywoodbets Sharks vs Vodacom Bulls XV - Currie Cup",
@@ -503,7 +492,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "17:15:00",
-    "serial": 46
+    "serial": 45
   },
   {
     "name": "North Queensland Cowboys vs Newcastle Knights - NRL, Women",
@@ -514,7 +503,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "07:15:00",
-    "serial": 47
+    "serial": 46
   },
   {
     "name": "St Helens vs Leeds Rhinos - Super League",
@@ -525,7 +514,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "19:00:00",
-    "serial": 48
+    "serial": 47
   },
   {
     "name": "Gold Coast Titans vs Canberra Raiders - NRL, Women",
@@ -536,7 +525,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "02:45:00",
-    "serial": 49
+    "serial": 48
   },
   {
     "name": "Sydney Roosters vs Dolphins - NRL",
@@ -547,7 +536,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "07:30:00",
-    "serial": 50
+    "serial": 49
   },
   {
     "name": "Huddersfield Giants vs Leigh Leopards - Super League",
@@ -558,7 +547,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "19:00:00",
-    "serial": 51
+    "serial": 50
   },
   {
     "name": "Sydney Roosters vs Cronulla Sharks - NRL, Women",
@@ -569,7 +558,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "05:15:00",
-    "serial": 52
+    "serial": 51
   },
   {
     "name": "Gold Coast Titans vs South Sydney Rabbitohs - NRL",
@@ -580,7 +569,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "05:00:00",
-    "serial": 53
+    "serial": 52
   },
   {
     "name": "Castleford Tigers vs Catalans Dragons - Super League",
@@ -591,7 +580,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "19:00:00",
-    "serial": 54
+    "serial": 53
   },
   {
     "name": "North Queensland Cowboys vs Wests Tigers - NRL",
@@ -602,7 +591,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "09:35:00",
-    "serial": 55
+    "serial": 54
   },
   {
     "name": "South Africa vs New Zealand - Rugbys Greatest Rivalry",
@@ -613,7 +602,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "15:00:00",
-    "serial": 56
+    "serial": 55
   },
   {
     "name": "Hull vs Warrington Wolves - Super League",
@@ -624,7 +613,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "16:30:00",
-    "serial": 57
+    "serial": 56
   },
   {
     "name": "Wakefield Trinity vs York Knights - Super League",
@@ -635,7 +624,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "16:30:00",
-    "serial": 58
+    "serial": 57
   },
   {
     "name": "Airlink Pumas vs Toyota Cheetahs - Currie Cup",
@@ -646,7 +635,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "12:00:00",
-    "serial": 59
+    "serial": 58
   },
   {
     "name": "Chile XV vs Uruguay XV - Americas Rugby Championship",
@@ -657,7 +646,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "18:00:47",
-    "serial": 60
+    "serial": 59
   },
   {
     "name": "Argentina XV vs Paraguay - Americas Rugby Championship",
@@ -668,7 +657,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "18:00:47",
-    "serial": 61
+    "serial": 60
   },
   {
     "name": "Argentina vs Australia - Int. Friendly Games",
@@ -679,7 +668,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "19:00:00",
-    "serial": 62
+    "serial": 61
   },
   {
     "name": "Toulouse Olympique vs Bradford Bulls - Super League",
@@ -690,7 +679,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "19:00:00",
-    "serial": 63
+    "serial": 62
   },
   {
     "name": "New Zealand Warriors vs St. George Illawarra Dragons - NRL, Women",
@@ -701,7 +690,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "01:45:00",
-    "serial": 64
+    "serial": 63
   },
   {
     "name": "Parramatta Eels vs Cronulla Sharks - NRL",
@@ -712,7 +701,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "06:05:00",
-    "serial": 65
+    "serial": 64
   },
   {
     "name": "Parramatta Eels vs Brisbane Broncos - NRL, Women",
@@ -723,7 +712,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "03:45:00",
-    "serial": 66
+    "serial": 65
   },
   {
     "name": "New Zealand Warriors vs Newcastle Knights - NRL",
@@ -734,7 +723,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "04:00:00",
-    "serial": 67
+    "serial": 66
   },
   {
     "name": "Wests Tigers vs Canterbury Bulldogs - NRL, Women",
@@ -745,7 +734,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "08:15:00",
-    "serial": 68
+    "serial": 67
   },
   {
     "name": "Sanlam Boland Kavaliers vs Suzuki Griquas - Currie Cup",
@@ -756,7 +745,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "13:00:00",
-    "serial": 69
+    "serial": 68
   },
   {
     "name": "Los Angeles Chargers vs Los Angeles Rams - NFL Preseason",
@@ -767,7 +756,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "02:00:00",
-    "serial": 70
+    "serial": 69
   },
   {
     "name": "Cleveland Browns vs New England Patriots - NFL Preseason",
@@ -778,7 +767,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "00:00:00",
-    "serial": 71
+    "serial": 70
   },
   {
     "name": "Las Vegas Raiders vs San Francisco 49ers - NFL Preseason",
@@ -789,7 +778,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "00:00:00",
-    "serial": 72
+    "serial": 71
   },
   {
     "name": "Buffalo Bills vs Pittsburgh Steelers - NFL Preseason",
@@ -800,7 +789,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:00:00",
-    "serial": 73
+    "serial": 72
   },
   {
     "name": "Carolina Panthers vs Houston Texans - NFL Preseason",
@@ -811,7 +800,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "23:00:00",
-    "serial": 74
+    "serial": 73
   },
   {
     "name": "New York Jets vs New York Giants - NFL Preseason",
@@ -822,7 +811,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "23:30:00",
-    "serial": 75
+    "serial": 74
   },
   {
     "name": "Dallas Cowboys vs New Orleans Saints - NFL Preseason",
@@ -833,7 +822,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "00:00:00",
-    "serial": 76
+    "serial": 75
   },
   {
     "name": "Baltimore Ravens vs Washington Commanders - NFL Preseason",
@@ -844,7 +833,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "22:00:00",
-    "serial": 77
+    "serial": 76
   },
   {
     "name": "Miami Dolphins vs Atlanta Falcons - NFL Preseason",
@@ -855,7 +844,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "23:00:00",
-    "serial": 78
+    "serial": 77
   },
   {
     "name": "Jacksonville Jaguars vs Tampa Bay Buccaneers - NFL Preseason",
@@ -866,7 +855,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "23:30:00",
-    "serial": 79
+    "serial": 78
   },
   {
     "name": "Green Bay Packers vs Arizona Cardinals - NFL Preseason",
@@ -877,7 +866,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "00:00:00",
-    "serial": 80
+    "serial": 79
   },
   {
     "name": "Philadelphia Eagles vs Cincinnati Bengals - NFL Preseason",
@@ -888,7 +877,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "00:00:00",
-    "serial": 81
+    "serial": 80
   },
   {
     "name": "Denver Broncos vs Minnesota Vikings - NFL Preseason",
@@ -899,7 +888,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "01:00:00",
-    "serial": 82
+    "serial": 81
   },
   {
     "name": "Kansas City Chiefs vs Seattle Seahawks - NFL Preseason",
@@ -910,7 +899,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "00:00:00",
-    "serial": 83
+    "serial": 82
   },
   {
     "name": "Tennessee Titans vs Chicago Bears - NFL Preseason",
@@ -921,7 +910,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "22:00:00",
-    "serial": 84
+    "serial": 83
   },
   {
     "name": "Indianapolis Colts vs Detroit Lions - NFL Preseason",
@@ -932,7 +921,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "17:00:00",
-    "serial": 85
+    "serial": 84
   },
   {
     "name": "Adelaide Crows vs West Coast Eagles - AFL, Women",
@@ -943,7 +932,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "04:35:00",
-    "serial": 86
+    "serial": 85
   },
   {
     "name": "North Melbourne vs Western Bulldogs - AFL, Women",
@@ -954,7 +943,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "02:35:00",
-    "serial": 87
+    "serial": 86
   },
   {
     "name": "Sydney Swans vs St Kilda Saints - AFL, Women",
@@ -965,7 +954,7 @@
     "priority": 10,
     "date": "29/08/2026",
     "time": "06:35:00",
-    "serial": 88
+    "serial": 87
   },
   {
     "name": "Essendon Bombers vs Richmond Tigers - AFL, Women",
@@ -976,7 +965,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "09:20:00",
-    "serial": 89
+    "serial": 88
   },
   {
     "name": "Collingwood Magpies vs Hawthorn Hawks - AFL, Women",
@@ -987,7 +976,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "05:05:00",
-    "serial": 90
+    "serial": 89
   },
   {
     "name": "GWS Giants vs Port Adelaide Power - AFL, Women",
@@ -998,7 +987,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "02:35:00",
-    "serial": 91
+    "serial": 90
   },
   {
     "name": "Gold Coast Suns vs Geelong Cats - AFL, Women",
@@ -1009,7 +998,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "05:05:00",
-    "serial": 92
+    "serial": 91
   },
   {
     "name": "Fremantle Dockers vs Carlton Blues - AFL, Women",
@@ -1020,7 +1009,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "07:05:00",
-    "serial": 93
+    "serial": 92
   },
   {
     "name": "Melbourne Demons vs Brisbane Lions - AFL, Women",
@@ -1031,7 +1020,7 @@
     "priority": 10,
     "date": "30/08/2026",
     "time": "03:05:00",
-    "serial": 94
+    "serial": 93
   },
   {
     "name": "Sydney Swans vs Brisbane Lions - AFL",
@@ -1042,7 +1031,7 @@
     "priority": 10,
     "date": "31/08/2026",
     "time": "09:35:00",
-    "serial": 95
+    "serial": 94
   },
   {
     "name": "Atlanta Braves vs Los Angeles Dodgers - MLB",
@@ -1053,7 +1042,7 @@
     "priority": 10,
     "date": "26/08/2026",
     "time": "23:15:00",
-    "serial": 96
+    "serial": 95
   },
   {
     "name": "Southland vs Hawke's Bay - National Provincial Championship",
@@ -1064,7 +1053,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "07:10:00",
-    "serial": 97
+    "serial": 96
   },
   {
     "name": "GOLF EVENTO vs GOLF EVENTO - GOLF EVENTO",
@@ -1075,7 +1064,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:35:00",
-    "serial": 98
+    "serial": 97
   },
   {
     "name": "Phoenix Mercury vs Washington Mystics - WNBA",
@@ -1086,7 +1075,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "02:00:00",
-    "serial": 99
+    "serial": 98
   },
   {
     "name": "New York Liberty vs Golden State Valkyries - WNBA",
@@ -1097,7 +1086,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "00:00:00",
-    "serial": 100
+    "serial": 99
   },
   {
     "name": "Toronto Blue Jays vs Kansas City Royals - MLB",
@@ -1108,7 +1097,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:07:00",
-    "serial": 101
+    "serial": 100
   },
   {
     "name": "New York Mets vs Milwaukee Brewers - MLB",
@@ -1119,7 +1108,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:10:00",
-    "serial": 102
+    "serial": 101
   },
   {
     "name": "New York Yankees vs Houston Astros - MLB",
@@ -1130,7 +1119,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:05:00",
-    "serial": 103
+    "serial": 102
   },
   {
     "name": "San Francisco Giants vs Arizona Diamondbacks - MLB",
@@ -1141,7 +1130,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "01:45:00",
-    "serial": 104
+    "serial": 103
   },
   {
     "name": "Atlanta Braves vs Los Angeles Dodgers - MLB",
@@ -1152,7 +1141,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:15:00",
-    "serial": 105
+    "serial": 104
   },
   {
     "name": "Washington Nationals vs Colorado Rockies - MLB",
@@ -1163,7 +1152,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:05:00",
-    "serial": 106
+    "serial": 105
   },
   {
     "name": "St. Louis Cardinals vs Baltimore Orioles - MLB",
@@ -1174,7 +1163,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:15:00",
-    "serial": 107
+    "serial": 106
   },
   {
     "name": "Fulham vs AFC Wimbledon - EFL Cup",
@@ -1185,7 +1174,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "19:00:00",
-    "serial": 108
+    "serial": 107
   },
   {
     "name": "Chelsea vs Luton Town - EFL Cup",
@@ -1196,7 +1185,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 109
+    "serial": 108
   },
   {
     "name": "Internacional vs Grêmio - Copa Betano do Brasil",
@@ -1207,7 +1196,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:00:00",
-    "serial": 110
+    "serial": 109
   },
   {
     "name": "Internacional de Bogotá vs Deportivo Pasto - Primera A",
@@ -1218,7 +1207,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "01:15:00",
-    "serial": 111
+    "serial": 110
   },
   {
     "name": "Llaneros FC vs Millonarios - Primera A",
@@ -1229,7 +1218,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "23:10:00",
-    "serial": 112
+    "serial": 111
   },
   {
     "name": "Once Caldas vs Deportes Tolima - Primera A",
@@ -1240,7 +1229,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "01:15:00",
-    "serial": 113
+    "serial": 112
   },
   {
     "name": "Estudiantes de La Plata vs Barracas Central - Copa Argentina",
@@ -1251,7 +1240,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "22:00:00",
-    "serial": 114
+    "serial": 113
   },
   {
     "name": "Club Atlético Platense vs Instituto De Córdoba - Copa Argentina",
@@ -1262,7 +1251,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "00:15:00",
-    "serial": 115
+    "serial": 114
   },
   {
     "name": "Deportivo Mixco vs Alianza FC - CONCACAF Central American Cup",
@@ -1273,7 +1262,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "02:30:00",
-    "serial": 116
+    "serial": 115
   },
   {
     "name": "CD Olimpia vs Deportivo Saprissa - CONCACAF Central American Cup",
@@ -1284,7 +1273,7 @@
     "priority": 10,
     "date": "28/08/2026",
     "time": "02:30:00",
-    "serial": 117
+    "serial": 116
   },
   {
     "name": "FC Viktoria Plzeň vs FK Crvena Zvezda - UEFA Europa League",
@@ -1295,7 +1284,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 118
+    "serial": 117
   },
   {
     "name": "FK Kauno Žalgiris vs Beşiktaş JK - UEFA Europa League",
@@ -1306,7 +1295,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 119
+    "serial": 118
   },
   {
     "name": "FC Iberia 1999 vs Jagiellonia Białystok - UEFA Europa League",
@@ -1317,7 +1306,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 120
+    "serial": 119
   },
   {
     "name": "FC Ararat-Armenia vs Universitatea Craiova - UEFA Europa League",
@@ -1328,7 +1317,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 121
+    "serial": 120
   },
   {
     "name": "Lillestrøm SK vs KF Egnatia - UEFA Europa League",
@@ -1339,7 +1328,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 122
+    "serial": 121
   },
   {
     "name": "CSKA Sofia vs OFI Crete - UEFA Europa League",
@@ -1350,7 +1339,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 123
+    "serial": 122
   },
   {
     "name": "Omonia Nicosia vs Sint-Truidense VV - UEFA Europa League",
@@ -1361,7 +1350,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 124
+    "serial": 123
   },
   {
     "name": "AGF vs Benfica - UEFA Europa League",
@@ -1372,7 +1361,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 125
+    "serial": 124
   },
   {
     "name": "Red Bull Salzburg vs Mjällby AIF - UEFA Europa League",
@@ -1383,7 +1372,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 126
+    "serial": 125
   },
   {
     "name": "RSC Anderlecht vs Kairat Almaty - UEFA Europa League",
@@ -1394,7 +1383,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 127
+    "serial": 126
   },
   {
     "name": "Ferencváros TC vs Trabzonspor - UEFA Europa League",
@@ -1405,7 +1394,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 128
+    "serial": 127
   },
   {
     "name": "FC Thun vs Lech Poznań - UEFA Europa League",
@@ -1416,7 +1405,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 129
+    "serial": 128
   },
   {
     "name": "AS Monaco vs Górnik Zabrze - UEFA Conference League",
@@ -1427,7 +1416,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:45:00",
-    "serial": 130
+    "serial": 129
   },
   {
     "name": "FK Jablonec vs Rangers - UEFA Conference League",
@@ -1438,7 +1427,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 131
+    "serial": 130
   },
   {
     "name": "Qarabağ FK vs FC Twente - UEFA Conference League",
@@ -1449,7 +1438,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 132
+    "serial": 131
   },
   {
     "name": "Maccabi Tel Aviv vs FC Lugano - UEFA Conference League",
@@ -1460,7 +1449,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 133
+    "serial": 132
   },
   {
     "name": "Kuopion Palloseura vs Shamrock Rovers - UEFA Conference League",
@@ -1471,7 +1460,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "15:00:00",
-    "serial": 134
+    "serial": 133
   },
   {
     "name": "FC Hradec Králové vs Panathinaikos FC - UEFA Conference League",
@@ -1482,7 +1471,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 135
+    "serial": 134
   },
   {
     "name": "Inter Club d'Escaldes vs FC Drita - UEFA Conference League",
@@ -1493,7 +1482,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 136
+    "serial": 135
   },
   {
     "name": "FC København vs Inter Turku - UEFA Conference League",
@@ -1504,7 +1493,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 137
+    "serial": 136
   },
   {
     "name": "Pafos FC vs Dinamo City - UEFA Conference League",
@@ -1515,7 +1504,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 138
+    "serial": 137
   },
   {
     "name": "SC Freiburg vs Motherwell - UEFA Conference League",
@@ -1526,7 +1515,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:45:00",
-    "serial": 139
+    "serial": 138
   },
   {
     "name": "SK Brann vs PAOK - UEFA Conference League",
@@ -1537,7 +1526,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 140
+    "serial": 139
   },
   {
     "name": "Riga FC vs Klaksvíkar Ítróttarfelag - UEFA Conference League",
@@ -1548,7 +1537,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 141
+    "serial": 140
   },
   {
     "name": "AFC Ajax vs FC Sion - UEFA Conference League",
@@ -1559,7 +1548,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 142
+    "serial": 141
   },
   {
     "name": "FC St. Gallen 1879 vs FC Nordsjælland - UEFA Conference League",
@@ -1570,7 +1559,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 143
+    "serial": 142
   },
   {
     "name": "Raków Częstochowa vs HNK Hajduk Split - UEFA Conference League",
@@ -1581,7 +1570,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 144
+    "serial": 143
   },
   {
     "name": "FK Borac Banja Luka vs Víkingur Reykjavík - UEFA Conference League",
@@ -1592,7 +1581,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 145
+    "serial": 144
   },
   {
     "name": "Brighton & Hove Albion vs Tromsø IL - UEFA Conference League",
@@ -1603,7 +1592,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 146
+    "serial": 145
   },
   {
     "name": "FK Austria Wien vs Sporting Braga - UEFA Conference League",
@@ -1614,7 +1603,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 147
+    "serial": 146
   },
   {
     "name": "Hapoel Tel Aviv vs Atalanta - UEFA Conference League",
@@ -1625,7 +1614,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 148
+    "serial": 147
   },
   {
     "name": "HNK Rijeka vs FC Midtjylland - UEFA Conference League",
@@ -1636,7 +1625,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:45:00",
-    "serial": 149
+    "serial": 148
   },
   {
     "name": "FK Partizan vs Getafe - UEFA Conference League",
@@ -1647,7 +1636,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "19:00:00",
-    "serial": 150
+    "serial": 149
   },
   {
     "name": "Larne FC vs Lincoln Red Imps - UEFA Conference League",
@@ -1658,7 +1647,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "19:00:00",
-    "serial": 151
+    "serial": 150
   },
   {
     "name": "Hibernian vs KAA Gent - UEFA Conference League",
@@ -1669,7 +1658,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "19:00:00",
-    "serial": 152
+    "serial": 151
   },
   {
     "name": "Dinamo Barnaul vs Irtysh Omsk - Russian Cup",
@@ -1680,7 +1669,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "10:30:00",
-    "serial": 153
+    "serial": 152
   },
   {
     "name": "2DROTS Moscow vs FC Murom - Russian Cup",
@@ -1691,7 +1680,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:30:00",
-    "serial": 154
+    "serial": 153
   },
   {
     "name": "Dinamo St. Petersburg vs Dinamo Vologda - Russian Cup",
@@ -1702,7 +1691,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:30:00",
-    "serial": 155
+    "serial": 154
   },
   {
     "name": "Al-Gharafa vs Al Shamal SC - Stars League",
@@ -1713,7 +1702,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "14:15:00",
-    "serial": 156
+    "serial": 155
   },
   {
     "name": "Al-Wakrah vs Al-Rayyan - Stars League",
@@ -1724,7 +1713,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:30:00",
-    "serial": 157
+    "serial": 156
   },
   {
     "name": "Nigeria vs Cameroon - FIBA World Cup Qualification, Africa",
@@ -1735,7 +1724,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "15:00:00",
-    "serial": 158
+    "serial": 157
   },
   {
     "name": "Mali vs Côte d'Ivoire - FIBA World Cup Qualification, Africa",
@@ -1746,7 +1735,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "15:30:00",
-    "serial": 159
+    "serial": 158
   },
   {
     "name": "Finland vs Sweden - FIBA World Cup Qualification, Europe",
@@ -1757,7 +1746,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "15:30:00",
-    "serial": 160
+    "serial": 159
   },
   {
     "name": "Cyprus vs Austria - FIBA EuroBasket Qual.",
@@ -1768,7 +1757,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 161
+    "serial": 160
   },
   {
     "name": "Hungary vs Estonia - FIBA World Cup Qualification, Europe",
@@ -1779,7 +1768,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 162
+    "serial": 161
   },
   {
     "name": "Qatar vs China - FIBA World Cup Qualification, Asia & Oceania",
@@ -1790,7 +1779,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 163
+    "serial": 162
   },
   {
     "name": "Kuwait vs United Arab Emirates - FIBA Asia Cup 2029 Pre-Qualifiers",
@@ -1801,7 +1790,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:00:00",
-    "serial": 164
+    "serial": 163
   },
   {
     "name": "Denmark vs Romania - FIBA EuroBasket Qual.",
@@ -1812,7 +1801,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "16:30:00",
-    "serial": 165
+    "serial": 164
   },
   {
     "name": "Saudi Arabia vs Japan - FIBA World Cup Qualification, Asia & Oceania",
@@ -1823,7 +1812,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "17:00:00",
-    "serial": 166
+    "serial": 165
   },
   {
     "name": "France vs Slovenia - FIBA World Cup Qualification, Europe",
@@ -1834,7 +1823,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 167
+    "serial": 166
   },
   {
     "name": "Egypt vs Senegal - FIBA World Cup Qualification, Africa",
@@ -1845,13 +1834,24 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 168
+    "serial": 167
   },
   {
     "name": "Germany vs Netherlands - FIBA World Cup Qualification, Europe",
     "category": "Live Event",
     "logo": "https://img.sofascore.com/api/v1/team/6249/image",
     "url": "http://193.47.62.59/hls/HOOOF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+    "status": "Offline",
+    "priority": 10,
+    "date": "27/08/2026",
+    "time": "18:00:00",
+    "serial": 168
+  },
+  {
+    "name": "Lebanon vs South Korea - FIBA World Cup Qualification, Asia & Oceania",
+    "category": "Live Event",
+    "logo": "https://img.sofascore.com/api/v1/team/6131/image",
+    "url": "http://193.47.62.59/hls/ROOOOAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
     "status": "Offline",
     "priority": 10,
     "date": "27/08/2026",
@@ -1859,17 +1859,6 @@
     "serial": 169
   },
   {
-    "name": "Lebanon vs South Korea - FIBA World Cup Qualification, Asia & Oceania",
-    "category": "Live Event",
-    "logo": "https://img.sofascore.com/api/v1/team/6131/image",
-    "url": "http://193.47.62.59/hls/ROOOOAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "status": "Offline",
-    "priority": 10,
-    "date": "27/08/2026",
-    "time": "18:00:00",
-    "serial": 170
-  },
-  {
     "name": "Croatia vs Latvia - FIBA World Cup Qualification, Europe",
     "category": "Live Event",
     "logo": "https://img.sofascore.com/api/v1/team/7493/image",
@@ -1878,7 +1867,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 171
+    "serial": 170
   },
   {
     "name": "Germany vs Netherlands - FIBA World Cup Qualification, Europe",
@@ -1889,7 +1878,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 172
+    "serial": 171
   },
   {
     "name": "Lebanon vs South Korea - FIBA World Cup Qualification, Asia & Oceania",
@@ -1900,7 +1889,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 173
+    "serial": 172
   },
   {
     "name": "Croatia vs Latvia - FIBA World Cup Qualification, Europe",
@@ -1911,7 +1900,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 174
+    "serial": 173
   },
   {
     "name": "Israel vs Poland - FIBA World Cup Qualification, Europe",
@@ -1922,7 +1911,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 175
+    "serial": 174
   },
   {
     "name": "Tunisia vs Cabo Verde - FIBA World Cup Qualification, Africa",
@@ -1933,7 +1922,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:00:00",
-    "serial": 176
+    "serial": 175
   },
   {
     "name": "Belgium vs Czechia - FIBA EuroBasket Qual.",
@@ -1944,7 +1933,7 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "18:30:00",
-    "serial": 177
+    "serial": 176
   },
   {
     "name": "Club Always Ready vs Club Aurora - División Profesional",
@@ -1955,10 +1944,10 @@
     "priority": 10,
     "date": "27/08/2026",
     "time": "19:00:00",
-    "serial": 178
+    "serial": 177
   },
   {
-    "serial": 179,
+    "serial": 178,
     "name": "Peace Tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1974,7 +1963,7 @@
     "successCount": 0
   },
   {
-    "serial": 180,
+    "serial": 179,
     "name": "Makkah tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1990,7 +1979,7 @@
     "successCount": 0
   },
   {
-    "serial": 181,
+    "serial": 180,
     "name": "Madani ",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -2006,7 +1995,7 @@
     "successCount": 0
   },
   {
-    "serial": 182,
+    "serial": 181,
     "name": "Btv News",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2022,7 +2011,7 @@
     "successCount": 0
   },
   {
-    "serial": 183,
+    "serial": 182,
     "name": "Alpona Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2038,7 +2027,7 @@
     "successCount": 0
   },
   {
-    "serial": 184,
+    "serial": 183,
     "name": "Sonsad Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2054,7 +2043,7 @@
     "successCount": 0
   },
   {
-    "serial": 185,
+    "serial": 184,
     "name": "Bangla Vision Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2070,7 +2059,7 @@
     "successCount": 0
   },
   {
-    "serial": 186,
+    "serial": 185,
     "name": "Boishakhi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2086,7 +2075,7 @@
     "successCount": 0
   },
   {
-    "serial": 187,
+    "serial": 186,
     "name": "Chaanel i",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2102,7 +2091,7 @@
     "successCount": 0
   },
   {
-    "serial": 188,
+    "serial": 187,
     "name": "Gazi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2118,7 +2107,7 @@
     "successCount": 0
   },
   {
-    "serial": 189,
+    "serial": 188,
     "name": "Deepto Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2134,7 +2123,7 @@
     "successCount": 0
   },
   {
-    "serial": 190,
+    "serial": 189,
     "name": "Rtv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2150,7 +2139,7 @@
     "successCount": 0
   },
   {
-    "serial": 191,
+    "serial": 190,
     "name": "Green Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2166,7 +2155,7 @@
     "successCount": 0
   },
   {
-    "serial": 192,
+    "serial": 191,
     "name": "Nagorik Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2182,7 +2171,7 @@
     "successCount": 0
   },
   {
-    "serial": 193,
+    "serial": 192,
     "name": "Ekushey Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2198,7 +2187,7 @@
     "successCount": 0
   },
   {
-    "serial": 194,
+    "serial": 193,
     "name": "My Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2214,7 +2203,7 @@
     "successCount": 0
   },
   {
-    "serial": 195,
+    "serial": 194,
     "name": "Ntv",
     "category": "BD News",
     "epg_id": "",
@@ -2230,7 +2219,7 @@
     "successCount": 0
   },
   {
-    "serial": 196,
+    "serial": 195,
     "name": "Bijoy tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2246,7 +2235,7 @@
     "successCount": 0
   },
   {
-    "serial": 197,
+    "serial": 196,
     "name": "Asian Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2262,7 +2251,7 @@
     "successCount": 0
   },
   {
-    "serial": 198,
+    "serial": 197,
     "name": "Ananda Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2278,7 +2267,7 @@
     "successCount": 0
   },
   {
-    "serial": 199,
+    "serial": 198,
     "name": "Massranga tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2294,7 +2283,7 @@
     "successCount": 0
   },
   {
-    "serial": 200,
+    "serial": 199,
     "name": "Mohona tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2310,7 +2299,7 @@
     "successCount": 0
   },
   {
-    "serial": 201,
+    "serial": 200,
     "name": "Channel 9 tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2326,7 +2315,7 @@
     "successCount": 0
   },
   {
-    "serial": 202,
+    "serial": 201,
     "name": "Sa tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2342,7 +2331,7 @@
     "successCount": 0
   },
   {
-    "serial": 203,
+    "serial": 202,
     "name": "Bangla tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2358,7 +2347,7 @@
     "successCount": 0
   },
   {
-    "serial": 204,
+    "serial": 203,
     "name": "Amer Bangla 24",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2374,7 +2363,7 @@
     "successCount": 0
   },
   {
-    "serial": 205,
+    "serial": 204,
     "name": "Movie Bangla Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2390,7 +2379,7 @@
     "successCount": 0
   },
   {
-    "serial": 206,
+    "serial": 205,
     "name": "Srk tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2406,7 +2395,7 @@
     "successCount": 0
   },
   {
-    "serial": 207,
+    "serial": 206,
     "name": "Shikor tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2422,7 +2411,7 @@
     "successCount": 0
   },
   {
-    "serial": 208,
+    "serial": 207,
     "name": "G Series",
     "category": "BD 24/7",
     "epg_id": "",
@@ -2438,7 +2427,7 @@
     "successCount": 0
   },
   {
-    "serial": 209,
+    "serial": 208,
     "name": "News 21 Bangla",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2454,7 +2443,7 @@
     "successCount": 0
   },
   {
-    "serial": 210,
+    "serial": 209,
     "name": "Movie",
     "category": "BD 24/7",
     "epg_id": "",
@@ -2470,7 +2459,7 @@
     "successCount": 0
   },
   {
-    "serial": 211,
+    "serial": 210,
     "name": "Desh tv",
     "category": "BD News",
     "epg_id": "",
@@ -2486,7 +2475,7 @@
     "successCount": 0
   },
   {
-    "serial": 212,
+    "serial": 211,
     "name": "Channel 1",
     "category": "BD News",
     "epg_id": "",
@@ -2502,7 +2491,7 @@
     "successCount": 0
   },
   {
-    "serial": 213,
+    "serial": 212,
     "name": "Jago News Tv",
     "category": "BD News",
     "epg_id": "",
@@ -2518,7 +2507,7 @@
     "successCount": 0
   },
   {
-    "serial": 214,
+    "serial": 213,
     "name": "T Sports",
     "category": "BD Sports",
     "epg_id": "",
@@ -2534,7 +2523,7 @@
     "successCount": 0
   },
   {
-    "serial": 215,
+    "serial": 214,
     "name": "Atn News",
     "category": "BD News",
     "epg_id": "",
@@ -2550,7 +2539,7 @@
     "successCount": 0
   },
   {
-    "serial": 216,
+    "serial": 215,
     "name": "Atn Bangla",
     "category": "BD News",
     "epg_id": "",
@@ -2566,7 +2555,7 @@
     "successCount": 0
   },
   {
-    "serial": 217,
+    "serial": 216,
     "name": "Independent News",
     "category": "BD News",
     "epg_id": "",
@@ -2582,7 +2571,7 @@
     "successCount": 0
   },
   {
-    "serial": 218,
+    "serial": 217,
     "name": "Ekttor Tv",
     "category": "BD News",
     "epg_id": "",
@@ -2598,7 +2587,7 @@
     "successCount": 0
   },
   {
-    "serial": 219,
+    "serial": 218,
     "name": "Channel 24",
     "category": "BD News",
     "epg_id": "",
@@ -2614,7 +2603,7 @@
     "successCount": 0
   },
   {
-    "serial": 220,
+    "serial": 219,
     "name": "News 24",
     "category": "BD News",
     "epg_id": "",
@@ -2630,7 +2619,7 @@
     "successCount": 0
   },
   {
-    "serial": 221,
+    "serial": 220,
     "name": "Star News",
     "category": "BD News",
     "epg_id": "",
@@ -2646,7 +2635,7 @@
     "successCount": 0
   },
   {
-    "serial": 222,
+    "serial": 221,
     "name": "DBC News",
     "category": "BD News",
     "epg_id": "",
@@ -2662,7 +2651,7 @@
     "successCount": 0
   },
   {
-    "serial": 223,
+    "serial": 222,
     "name": "Somoy News",
     "category": "BD News",
     "epg_id": "",
@@ -2678,7 +2667,7 @@
     "successCount": 0
   },
   {
-    "serial": 224,
+    "serial": 223,
     "name": "Jamuna News",
     "category": "BD News",
     "epg_id": "",
@@ -2694,7 +2683,7 @@
     "successCount": 0
   },
   {
-    "serial": 225,
+    "serial": 224,
     "name": "Ekhon tv",
     "category": "BD News",
     "epg_id": "",
@@ -2710,7 +2699,7 @@
     "successCount": 0
   },
   {
-    "serial": 226,
+    "serial": 225,
     "name": "Star Jalsha HD",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2726,7 +2715,7 @@
     "successCount": 0
   },
   {
-    "serial": 227,
+    "serial": 226,
     "name": "Zee Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2742,7 +2731,7 @@
     "successCount": 0
   },
   {
-    "serial": 228,
+    "serial": 227,
     "name": "Colours Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2758,7 +2747,7 @@
     "successCount": 0
   },
   {
-    "serial": 229,
+    "serial": 228,
     "name": "Colors bangla Cinema",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2774,7 +2763,7 @@
     "successCount": 0
   },
   {
-    "serial": 230,
+    "serial": 229,
     "name": "Zee Bangla Sonar",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2790,7 +2779,7 @@
     "successCount": 0
   },
   {
-    "serial": 231,
+    "serial": 230,
     "name": "Sony Aath",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2806,7 +2795,7 @@
     "successCount": 0
   },
   {
-    "serial": 232,
+    "serial": 231,
     "name": "Jalsha Movies",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2822,7 +2811,7 @@
     "successCount": 0
   },
   {
-    "serial": 233,
+    "serial": 232,
     "name": "Bangla Plues",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2838,7 +2827,7 @@
     "successCount": 0
   },
   {
-    "serial": 234,
+    "serial": 233,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2854,7 +2843,7 @@
     "successCount": 0
   },
   {
-    "serial": 235,
+    "serial": 234,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2870,7 +2859,7 @@
     "successCount": 0
   },
   {
-    "serial": 236,
+    "serial": 235,
     "name": "Enter 10 Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2886,7 +2875,7 @@
     "successCount": 0
   },
   {
-    "serial": 237,
+    "serial": 236,
     "name": "Sun Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2902,7 +2891,7 @@
     "successCount": 0
   },
   {
-    "serial": 238,
+    "serial": 237,
     "name": "Gopal bhar tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2918,7 +2907,7 @@
     "successCount": 0
   },
   {
-    "serial": 239,
+    "serial": 238,
     "name": "Rangeen tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2934,7 +2923,7 @@
     "successCount": 0
   },
   {
-    "serial": 240,
+    "serial": 239,
     "name": "Nick",
     "category": "Cartoon",
     "epg_id": "",
@@ -2950,7 +2939,7 @@
     "successCount": 0
   },
   {
-    "serial": 241,
+    "serial": 240,
     "name": "Super Hungma",
     "category": "Cartoon",
     "epg_id": "",
@@ -2966,7 +2955,7 @@
     "successCount": 0
   },
   {
-    "serial": 242,
+    "serial": 241,
     "name": "Sonic",
     "category": "Cartoon",
     "epg_id": "",
@@ -2982,7 +2971,7 @@
     "successCount": 0
   },
   {
-    "serial": 243,
+    "serial": 242,
     "name": "Disney",
     "category": "Cartoon",
     "epg_id": "",
@@ -2998,7 +2987,7 @@
     "successCount": 0
   },
   {
-    "serial": 244,
+    "serial": 243,
     "name": "Discovery kids",
     "category": "Cartoon",
     "epg_id": "",
@@ -3014,7 +3003,7 @@
     "successCount": 0
   },
   {
-    "serial": 245,
+    "serial": 244,
     "name": "Pogo",
     "category": "Cartoon",
     "epg_id": "",
@@ -3030,7 +3019,7 @@
     "successCount": 0
   },
   {
-    "serial": 246,
+    "serial": 245,
     "name": "Sony YAY",
     "category": "Cartoon",
     "epg_id": "",
@@ -3046,7 +3035,7 @@
     "successCount": 0
   },
   {
-    "serial": 247,
+    "serial": 246,
     "name": "Tom & Jery",
     "category": "Cartoon",
     "epg_id": "",
@@ -3062,7 +3051,7 @@
     "successCount": 0
   },
   {
-    "serial": 248,
+    "serial": 247,
     "name": "Khusboo bangla",
     "category": "Cartoon",
     "epg_id": "",
@@ -3078,7 +3067,7 @@
     "successCount": 0
   },
   {
-    "serial": 249,
+    "serial": 248,
     "name": "ZB Cartoon",
     "category": "Cartoon",
     "epg_id": "",
@@ -3094,7 +3083,7 @@
     "successCount": 0
   },
   {
-    "serial": 250,
+    "serial": 249,
     "name": "Jungle Book",
     "category": "Cartoon",
     "epg_id": "",
@@ -3110,7 +3099,7 @@
     "successCount": 0
   },
   {
-    "serial": 251,
+    "serial": 250,
     "name": "Cartoon Network ",
     "category": "Cartoon",
     "epg_id": "",
@@ -3126,7 +3115,7 @@
     "successCount": 0
   },
   {
-    "serial": 252,
+    "serial": 251,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3142,7 +3131,7 @@
     "successCount": 0
   },
   {
-    "serial": 253,
+    "serial": 252,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -3158,7 +3147,7 @@
     "successCount": 0
   },
   {
-    "serial": 254,
+    "serial": 253,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -3174,7 +3163,7 @@
     "successCount": 0
   },
   {
-    "serial": 255,
+    "serial": 254,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -3190,7 +3179,7 @@
     "successCount": 0
   },
   {
-    "serial": 256,
+    "serial": 255,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -3206,7 +3195,7 @@
     "successCount": 0
   },
   {
-    "serial": 257,
+    "serial": 256,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -3222,7 +3211,7 @@
     "successCount": 0
   },
   {
-    "serial": 258,
+    "serial": 257,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -3238,7 +3227,7 @@
     "successCount": 0
   },
   {
-    "serial": 259,
+    "serial": 258,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -3254,7 +3243,7 @@
     "successCount": 0
   },
   {
-    "serial": 260,
+    "serial": 259,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -3270,7 +3259,7 @@
     "successCount": 0
   },
   {
-    "serial": 261,
+    "serial": 260,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -3286,7 +3275,7 @@
     "successCount": 0
   },
   {
-    "serial": 262,
+    "serial": 261,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -3302,7 +3291,7 @@
     "successCount": 0
   },
   {
-    "serial": 263,
+    "serial": 262,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -3318,7 +3307,7 @@
     "successCount": 0
   },
   {
-    "serial": 264,
+    "serial": 263,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -3334,7 +3323,7 @@
     "successCount": 0
   },
   {
-    "serial": 265,
+    "serial": 264,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3350,7 +3339,7 @@
     "successCount": 0
   },
   {
-    "serial": 266,
+    "serial": 265,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3366,7 +3355,7 @@
     "successCount": 0
   },
   {
-    "serial": 267,
+    "serial": 266,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -3382,7 +3371,7 @@
     "successCount": 0
   },
   {
-    "serial": 268,
+    "serial": 267,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -3398,7 +3387,7 @@
     "successCount": 0
   },
   {
-    "serial": 269,
+    "serial": 268,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -3414,7 +3403,7 @@
     "successCount": 0
   },
   {
-    "serial": 270,
+    "serial": 269,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -3430,7 +3419,7 @@
     "successCount": 0
   },
   {
-    "serial": 271,
+    "serial": 270,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -3446,7 +3435,7 @@
     "successCount": 0
   },
   {
-    "serial": 272,
+    "serial": 271,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -3462,7 +3451,7 @@
     "successCount": 0
   },
   {
-    "serial": 273,
+    "serial": 272,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -3478,7 +3467,7 @@
     "successCount": 0
   },
   {
-    "serial": 274,
+    "serial": 273,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3494,7 +3483,7 @@
     "successCount": 0
   },
   {
-    "serial": 275,
+    "serial": 274,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -3510,7 +3499,7 @@
     "successCount": 0
   },
   {
-    "serial": 276,
+    "serial": 275,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -3526,7 +3515,7 @@
     "successCount": 0
   },
   {
-    "serial": 277,
+    "serial": 276,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -3542,7 +3531,7 @@
     "successCount": 0
   },
   {
-    "serial": 278,
+    "serial": 277,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -3558,7 +3547,7 @@
     "successCount": 0
   },
   {
-    "serial": 279,
+    "serial": 278,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -3574,7 +3563,7 @@
     "successCount": 0
   },
   {
-    "serial": 280,
+    "serial": 279,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -3590,7 +3579,7 @@
     "successCount": 0
   },
   {
-    "serial": 281,
+    "serial": 280,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -3606,7 +3595,7 @@
     "successCount": 0
   },
   {
-    "serial": 282,
+    "serial": 281,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -3622,7 +3611,7 @@
     "successCount": 0
   },
   {
-    "serial": 283,
+    "serial": 282,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -3638,7 +3627,7 @@
     "successCount": 0
   },
   {
-    "serial": 284,
+    "serial": 283,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -3654,7 +3643,7 @@
     "successCount": 0
   },
   {
-    "serial": 285,
+    "serial": 284,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -3670,7 +3659,7 @@
     "successCount": 0
   },
   {
-    "serial": 286,
+    "serial": 285,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
