@@ -1,858 +1,317 @@
-#EXTINF:-1 tvg-id="1" tvg-name="FC Barcelona vs Athletic Club - LaLiga" tvg-logo="https://img.sofascore.com/api/v1/team/2817/image" group-title="Live Event",FC Barcelona vs Athletic Club - LaLiga
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|drmScheme=clearkey&drmLicense=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921#D SPORTS [60FPS] $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd|drmScheme=clearkey&drmLicense=b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0#SETANTA SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55314/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f#PREMIER1 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4#Cazétv2 TV FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD $ http://193.47.62.52/hls/SAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
+#EXTM3U
 
-#EXTINF:-1 tvg-id="2" tvg-name="Celta Vigo vs Osasuna - LaLiga" tvg-logo="https://img.sofascore.com/api/v1/team/2821/image" group-title="Live Event",Celta Vigo vs Osasuna - LaLiga
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://chatgpt.hereisman.net/playlist/55313/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://live.vivo200.com/live/hd-en-1-4565318.m3u8?txSecret=b76d6f429e798fae17a63a7a18205e98&txTime=6A909266|Referer=https://player.online909.com/#TV QUALITY $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD $ http://162.251.160.53:8089/960/index.m3u8#TV LIVE HD $ https://edgestream2.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#ENGLISH HD $ http://193.47.62.43/hls/RARARA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
+#EXTINF:-1 tvg-id="1" tvg-name="FC Barcelona vs Athletic Club" tvg-logo="https://img.sofascore.com/api/v1/team/2817/image" group-title="Live Event",FC Barcelona vs Athletic Club
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|drmScheme=clearkey&drmLicense=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921#D SPORTS [60FPS] $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4#CazéTV FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports_HD_H.mpd|drmScheme=clearkey&drmLicense=b62e606e6b577a47c0e3bd7e8bb5f979:0827a71f8cc3d9ee1074e6b9cd8ffdb0#SETANTA SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55314/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f#PREMIER1 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase|drmScheme=clearkey&drmLicense=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4#Cazétv2 TV FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD $ http://193.47.62.52/hls/SAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
 
-#EXTINF:-1 tvg-id="3" tvg-name="Olympique Lyonnais vs Fenerbahçe - UEFA Champions League" tvg-logo="https://img.sofascore.com/api/v1/team/1649/image" group-title="Live Event",Olympique Lyonnais vs Fenerbahçe - UEFA Champions League
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55242/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#TNT SPORTS HD $ https://gomystream.xyz/stream/stream4/playlist.m3u8|referer=https://gomystream.xyz/#ARABIC SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv6.m3u8#SPORT TV HD $ http://193.47.62.41/hls/OSSSAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tv-trt1.medya.trt.com.tr/master.m3u8#TRT TV FHD $ http://162.251.160.53:8089/1992/index.m3u8#TV QUALITY
+#EXTINF:-1 tvg-id="2" tvg-name="Celta Vigo vs Osasuna" tvg-logo="https://img.sofascore.com/api/v1/team/2821/image" group-title="Live Event",Celta Vigo vs Osasuna
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://chatgpt.hereisman.net/playlist/55313/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://live.vivo200.com/live/hd-en-1-4565318.m3u8?txSecret=b76d6f429e798fae17a63a7a18205e98&txTime=6A909266|Referer=https://player.online909.com/#TV QUALITY $ http://162.251.160.53:8089/960/index.m3u8#TV LIVE HD $ https://edgestream2.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#ENGLISH HD $ http://193.47.62.43/hls/RARARA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
 
-#EXTINF:-1 tvg-id="4" tvg-name="Viking FK vs GNK Dinamo Zagreb - UEFA Champions League" tvg-logo="https://img.sofascore.com/api/v1/team/1164/image" group-title="Live Event",Viking FK vs GNK Dinamo Zagreb - UEFA Champions League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://chatgpt.hereisman.net/playlist/55241/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.41/hls/OSSSA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://162.251.160.53:8089/1596/index.m3u8#TV QUALITY
-
-#EXTINF:-1 tvg-id="5" tvg-name="NK Celje vs ŠK Slovan Bratislava - UEFA Champions League" tvg-logo="https://img.sofascore.com/api/v1/team/2413/image" group-title="Live Event",NK Celje vs ŠK Slovan Bratislava - UEFA Champions League
-https://chatgpt.hereisman.net/playlist/55229/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://162.251.160.53:8089/6788/index.m3u8#TV QUALITY $ http://193.47.62.41/hls/OSSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="6" tvg-name="AEK Athens vs Levski Sofia - UEFA Champions League" tvg-logo="https://img.sofascore.com/api/v1/team/3250/image" group-title="Live Event",AEK Athens vs Levski Sofia - UEFA Champions League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55240/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.55/hls/OSSSAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://162.251.160.53:8089/9857/index.m3u8#TV QUALITY
-
-#EXTINF:-1 tvg-id="7" tvg-name="Fulham vs Chelsea - Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/43/image" group-title="Live Event",Fulham vs Chelsea - Premier League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f#FUBO SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8#PREMIER SPORTS $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/beinsports3tr.m3u8#BEIN3 TR HD $ http://193.47.62.53/hls/ZKKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="8" tvg-name="MotorGP vs MotorGP - MotoGP Evento" tvg-logo="https://sportzfy.me/wp-content/uploads/2026/02/mgpp.png" group-title="Live Event",MotorGP vs MotorGP - MotoGP Evento
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS FHD $ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed#SPOTV FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de#MotoGP FHD $ https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8#TNT SPORTS HD $ https://t7.ultrastream.vip/sporttv4/index.m3u8?|Referer=https://foottime.top/#SPORT TV HD $ https://cast.zlive.st/p/auto-tnt-sports-2-0/index.m3u8?|referer=https://zlive.st/#TNT MAX HD $ https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click#DAZN SPORTS $ https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click#CANAL+ HD $ http://193.47.62.194/hls/AVVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="9" tvg-name="Sri Lanka vs India - ICC World Test Championship" tvg-logo="https://img.sofascore.com/api/v1/team/187756/image" group-title="Live Event",Sri Lanka vs India - ICC World Test Championship
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbi7nld6mr/out/v1/2f2b55235de649fca12ac5ba12316dbf/cenc.mpd|drmScheme=clearkey&drmLicense=0b1bc2a197357c219457a4a65d5b73d0:9c1fc542c90fa3ba4985264282fed345#WILLOW FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lbi7nld6mr/out/v1/2f2b55235de649fca12ac5ba12316dbf/cenc.mpd|drmScheme=clearkey&drmLicense=0b1bc2a197357c219457a4a65d5b73d0:9c1fc542c90fa3ba4985264282fed345#WILLOW ALT $ http://193.47.62.59/hls/IGGGAAaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://cdn33186422.blzcdn.net/dx15sd/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#FASTER SERVER $ https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0364963809a65d36dbd35c6ce8841b87-1786852462979#SonyLIV $ http://dai.google.com/ssai/event/MArqTlj6SOeNU3ZO3-0i0Q/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com#SonyLIV Hindi $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD $ https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#TNT3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD
-
-#EXTINF:-1 tvg-id="10" tvg-name="England vs Pakistan - ICC World Test Championship" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Live Event",England vs Pakistan - ICC World Test Championship
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd|drmScheme=clearkey&drmLicense=1b3104b62743843561a440babd015d34:c4401f6ccc1d262a1fbcf5b449dbc2e1#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD
-
-#EXTINF:-1 tvg-id="11" tvg-name="EUROPEAN T20 vs Premier League - EUROPEAN T20 Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Live Event",EUROPEAN T20 vs Premier League - EUROPEAN T20 Premier League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/st9ogvodch/out/v1/ee8a9f8060e845f497cd83bb229a32fb/cenc.mpd|drmScheme=clearkey&drmLicense=b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097#WILLOW FHD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD
-
-#EXTINF:-1 tvg-id="12" tvg-name="Fountain Gate vs Mbeya City FC - Tanzanian Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/426058/image" group-title="Live Event",Fountain Gate vs Mbeya City FC - Tanzanian Premier League
-https://file.genoads.com/ch1.m3u8#SERVER + TV
-
-#EXTINF:-1 tvg-id="13" tvg-name="Simba SC vs Coastal Union - Tanzanian Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/212409/image" group-title="Live Event",Simba SC vs Coastal Union - Tanzanian Premier League
-http://193.47.62.55/hls/UUUUU.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.55/hls/UUUUU.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="14" tvg-name="Mashujaa FC vs Kagera Sugar FC - Tanzanian Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/376323/image" group-title="Live Event",Mashujaa FC vs Kagera Sugar FC - Tanzanian Premier League
-http://193.47.62.42/hls/FTTTACAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.42/hls/FTTTACAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="15" tvg-name="Modern Sport FC vs Ghazl El Mahalla FC - Egyptian Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/265830/image" group-title="Live Event",Modern Sport FC vs Ghazl El Mahalla FC - Egyptian Premier League
-http://193.47.62.42/hls/FTTTACAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.42/hls/FTTTACAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="16" tvg-name="Arab Contractors FC vs Al-Masry - Egyptian Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/42365/image" group-title="Live Event",Arab Contractors FC vs Al-Masry - Egyptian Premier League
-http://193.47.62.57/hls/aaaaf.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.57/hls/aaaaf.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="17" tvg-name="Pyramids FC vs Abu Qir Fertilizers SC - Egyptian Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/175002/image" group-title="Live Event",Pyramids FC vs Abu Qir Fertilizers SC - Egyptian Premier League
-https://file.genoads.com/ch1.m3u8#SERVER + TV
-
-#EXTINF:-1 tvg-id="18" tvg-name="Sitra vs Malkiya - Bahraini Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/117220/image" group-title="Live Event",Sitra vs Malkiya - Bahraini Premier League
-https://file.genoads.com/ch1.m3u8#SERVER + TV
-
-#EXTINF:-1 tvg-id="19" tvg-name="Al Najma vs Al Khaldiya - Bahraini Premier League" tvg-logo="https://img.sofascore.com/api/v1/team/45475/image" group-title="Live Event",Al Najma vs Al Khaldiya - Bahraini Premier League
-https://file.genoads.com/ch1.m3u8#SERVER + TV
-
-#EXTINF:-1 tvg-id="20" tvg-name="UCL Draw vs UCL Draw - UEFA Champions League Draw" tvg-logo="https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg" group-title="Live Event",UCL Draw vs UCL Draw - UEFA Champions League Draw
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://live-uefa-com.akamaized.net/hls/live/2036934/270826_2627UCL/master.m3u8#UEFA TV FHD $ http://193.47.62.51/hls/AUUU.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="21" tvg-name="Formula 1 vs Formula - Formula 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg" group-title="Live Event",Formula 1 vs Formula - Formula 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d#TSN1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/15swxuvnbu/out/v1/556a7548256645b496e9b4fdbe2d2fbf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=162b362c3e3dcf9c8965cc506a9f2de7:767ea1980f274bcc8e4b6991d536ddfc#Mixed On Board $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/snuntbrra5/out/v1/c875e4f8e2fe4c878aa0796a462dc413/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=09c69c9b95596228c03b1fc758b8c1a3:aa3bf036e7b874e626cb71a985616e5c#Driver Tracker FHD $ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1787562417_f~0_g~1_s~b49d4c2c-191d-4dc2-bd47-74574d400810_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~7e57dd894e4387a541ba800f3ed0d364/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a#SKY F1 Italia [IT] $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kjtuyjgps1/out/v1/a33f356b57744981b0ec8681a485d8f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=d202e00c4caa89b88f32f45f94eb094c:52ce12b7f78d4fedaca01fa3f127b69f#Driver Data FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1mjuwf1wp/out/v1/ec0575cd4af241c4be5484f55b41ecba/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=ed417cda3ffc1734204e2eb3d70207fd:e60e93cba0df4c4e1781fe5f162ea259#P1 Driver FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igfz4csdrj/out/v1/bb70be234ff24b688cd5e871c537666a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=b2a9f9577aea0cb056f5aad08d7a1ca2:6be712cd2efbfb0f371c03a64f202cb6#P2 Driver FHD $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6mcpso8kcb/out/v1/b56e95538e314425805ef442b04a1590/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=8223eb076c41795c2a0d8fc946b0dc33:bd2f609fd396724f1eb86523c84536a9#P3 Driver FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q7clywyytb/out/v1/990d0b082dc94275a09a66abc0548c91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=528006dc5aad7f036001662e4bea24e0:3a2bfc846bda9330a597d80387144ae9#MAX Verstappen $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bloqv62cg8/out/v1/0f6b2626aef2496e97bce1b5998b49b5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=6dd170459b9d19e43bc554e783570a2b:1a86def14df85af755c5f26d7457fcea#Sky Via Apple TV $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/eihx5jcvpx/out/v1/02b3c045272c49b890e8074af2daf11b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=6e78c43952d3b415ff4e0d3ef4946347:250cfc6c4e1e0fc070298c9a8ce14830#APPLE TV HDR $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xjyr7sx6zi/out/v1/e34cdcfa05e6435195499b62481fef17/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=ea717955259a1c827f44a80e8aebf867:a3a5235c7f235ca675c0dc94ee081874#Lewis Hamilton $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8v4gcndx3/out/v1/a35dbc3ba03f457f887598dc12fed168/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1e6e2b2d9759e6c7ff82ff7adce536f7:dd64f0c311221b91c54b63bd92d7108b#Lando Norris $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ruswb6h8qp/out/v1/8daa5b4195be4c3d96182f5a3634be12/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=4fce3279cfa40aa10f943a2ab0ffc57d:2c265f4a36de4258bd266c20db75137a#George Russell $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/br5yrh7bxp/out/v1/7195ae9b140e43689749ec7aa471c576/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=e96e5408c0c3c5b366c8baf83ef983eb:e8d309bba84b672a151b9f741a89cbd1#Charles Leclerc $ https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd|drmScheme=clearkey&drmLicense=6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9#F1 GERMANY (USA) $ https://instreams.pro/live/NFLHD28/mono.m3u8?st=xIqmDBKvsy-IYuJisb8sHA&e=1785065031|referer=https://instreams.pro/#SKY F1 HD $ http://193.47.62.45/hls/dpdpdp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/5f80538f-a945-4227-804f-a9c2743c0e3b/master.m3u8#SPORTSCAST FHD $ https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#SKY SPORTS HD
-
-#EXTINF:-1 tvg-id="22" tvg-name="Chelsea vs Luton Town - EFL Cup" tvg-logo="https://img.sofascore.com/api/v1/team/38/image" group-title="Live Event",Chelsea vs Luton Town - EFL Cup
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://tvcdn.tv.telia.lt/live/eds/Setanta_Sports2_HD_H/DASH_5_CPIX_NPVR/Setanta_Sports2_HD_H.mpd|drmScheme=clearkey&drmLicense=60c452c4bc688bfdbebbe1a57fd5e59e:6d8296110d58f2fa54ddd2a31e5e900c#SETANTA SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55307/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/07eac94b-45d5-4f47-b033-5efbbafef29c/master.m3u8#SPORTSCAST FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY SPORT MAIN EVENT $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#ENGLISH HD $ https://edgestream2.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#FRENCH HD $ http://193.47.62.48/hls/SAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="23" tvg-name="Fulham vs AFC Wimbledon - EFL Cup" tvg-logo="https://img.sofascore.com/api/v1/team/43/image" group-title="Live Event",Fulham vs AFC Wimbledon - EFL Cup
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ http://162.251.160.53:8089/3789/index.m3u8#TV TV HD $ https://edgestream2.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#ENGLISH HD $ https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SPANISH HD $ https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#ENGLISH HD $ http://193.47.62.56/hls/SAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="24" tvg-name="Estudiantes de La Plata vs Barracas Central - Copa Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/3206/image" group-title="Live Event",Estudiantes de La Plata vs Barracas Central - Copa Argentina
-http://162.251.160.53:8089/960/index.m3u8#TV LIVE HD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ http://193.47.62.58/hls/TTTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="25" tvg-name="Instituto De Córdoba vs Club Atlético Platense - Copa Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/4937/image" group-title="Live Event",Instituto De Córdoba vs Club Atlético Platense - Copa Argentina
-http://162.251.160.53:8089/960/index.m3u8#TV LIVE HD
-
-#EXTINF:-1 tvg-id="26" tvg-name="Racing Club vs Boca Juniors - Liga Profesional de Fútbol" tvg-logo="https://img.sofascore.com/api/v1/team/3215/image" group-title="Live Event",Racing Club vs Boca Juniors - Liga Profesional de Fútbol
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS FHD $ http://193.47.62.44/hls/RRRRRQAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ http://162.251.160.53:8089/200/index.m3u8#SD QUALITY
-
-#EXTINF:-1 tvg-id="27" tvg-name="SmackDown vs SmackDown - Friday Night SmackDown" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg" group-title="Live Event",SmackDown vs SmackDown - Friday Night SmackDown
-https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#TV WWE ALT $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8#HD QUALITY 2 $ https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8#SPORT CAST FHD $ https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8#WWE LIVE HD $ https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8#WWE SMACKDOWN $ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41#USA TV (US VPN)
-
-#EXTINF:-1 tvg-id="28" tvg-name="WWE NXT vs WWE NXT - WWE NXT" tvg-logo="https://i.ibb.co/jPMHTs55/20260310-202452.png" group-title="Live Event",WWE NXT vs WWE NXT - WWE NXT
-https://chatgpt.hereisman.net/playlist/55219/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8#NXT LIVE HD $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#HD QUALITY $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#HD STREAM $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#HD QUALITY 2 $ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd|drmScheme=clearkey&drmLicense=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f#Tap Sports SD
-
-#EXTINF:-1 tvg-id="29" tvg-name="AEW Night Dynamite vs AEW Night Dynamite - AEW DYNAMIC" tvg-logo="https://i.ibb.co/sdQb8WBx/20260310-203106.png" group-title="Live Event",AEW Night Dynamite vs AEW Night Dynamite - AEW DYNAMIC
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd|drmScheme=clearkey&drmLicense=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426#FOX SPORTS FHD $ https://chatgpt.hereisman.net/playlist/54227/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#AEW TV HD $ https://serendipity.loreofeldenring.site/dailymotion/live/playlist/14.m3u8#HD QUALITY 2 $ https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8#TV D  WWE
-
-#EXTINF:-1 tvg-id="30" tvg-name="One Friday Fights vs One Friday Fights - One Friday Fights" tvg-logo="https://i.ibb.co/qfjhxpT/20260313-084834.png" group-title="Live Event",One Friday Fights vs One Friday Fights - One Friday Fights
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d#One Fight FHD $ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271#STREAM 2 $ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd|drmScheme=clearkey&drmLicense=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0#STREAM 3 $ https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8#HD QUALITY $ http://193.47.62.191/hls/AVVVVAAAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="31" tvg-name="WRC Rally vs WRC Rally - WRC Rally" tvg-logo="https://img.sofascore.com/api/v1/category/84/image" group-title="Live Event",WRC Rally vs WRC Rally - WRC Rally
-https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8#RALLY TV HD $ https://t7.ultrastream.vip/sporttv4/index.m3u8?|Referer=https://foottime.top/#Sport TV4 Portugal $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD
-
-#EXTINF:-1 tvg-id="32" tvg-name="INDYCAR Series Racing vs INDYCAR Series Racing - INDYCAR Series Racing" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10" group-title="Live Event",INDYCAR Series Racing vs INDYCAR Series Racing - INDYCAR Series Racing
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae#FOX2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16#FOX1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX DEPORTES FHD $ https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8#SKY3 NZ HD $ http://193.47.62.55/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="33" tvg-name="NASCAR CUP SERIES vs NASCAR CUP SERIES - NASCAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10" group-title="Live Event",NASCAR CUP SERIES vs NASCAR CUP SERIES - NASCAR
-https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD
-
-#EXTINF:-1 tvg-id="34" tvg-name="Snooker vs Snooker - Snooker" tvg-logo="https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg" group-title="Live Event",Snooker vs Snooker - Snooker
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8#SKY4 NZ HD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ http://193.47.62.47/hls/vivivi.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="35" tvg-name="TENNIS | EVENTO  vs TENNIS | EVENTO - TENNIS | EVENTO" tvg-logo="https://i.ibb.co/jPv7P49q/Sktenn.png" group-title="Live Event",TENNIS | EVENTO  vs TENNIS | EVENTO - TENNIS | EVENTO
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37#TSN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportstennis.m3u8#TENNIS + HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281#beIN ENGLISH (ATP) $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#beIN ENGLISH (WTA) $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd|drmScheme=clearkey&drmLicense=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a#TENNIS 2 FHD $ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8#TENNIS PLUS $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7#TSN4 SPORTS FHD $ http://193.47.62.190/hls/zazaza.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#Tennis ATP Cincinati $ http://193.47.62.190/hls/XAXAXA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#Tennis WTA Cincinati $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16#FOX1 SPORTS FHD $ http://193.47.62.41/hls/QTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#Tennis ATP Winston-Salem
-
-#EXTINF:-1 tvg-id="36" tvg-name="Horse Racing vs Horse Racing - Horse Racing" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Live Event",Horse Racing vs Horse Racing - Horse Racing
-https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8#HD QUALITY $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae#FOX2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16#FOX1 SPORTS FHD $ http://193.47.62.194/hls/vavavavaq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#1 TV Use VPN $ http://193.47.62.194/hls/vavavava.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#2 TV Use VPN
-
-#EXTINF:-1 tvg-id="37" tvg-name="Hockey 🏑 vs Hockey 🏑 - Field Hockey World Cup" tvg-logo="https://pbs.twimg.com/profile_images/2082386023133122560/zEXUDVoy_400x400.jpg" group-title="Live Event",Hockey 🏑 vs Hockey 🏑 - Field Hockey World Cup
-https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#SPORTS T HD $ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8#HD QUALITY NZ $ https://live.incableinternet.com/ptv-sports/720p.m3u8#HD QUALITY BZ
-
-#EXTINF:-1 tvg-id="38" tvg-name="Top End T20 Series 2026 vs Top End T20 Series 2026 - Top End T20 Series 2026" tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Live Event",Top End T20 Series 2026 vs Top End T20 Series 2026 - Top End T20 Series 2026
-https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS CAST $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW HD $ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8#T SPORTS HD
-
-#EXTINF:-1 tvg-id="39" tvg-name="Cycling vs Cycling - Cycling" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ5BW3mjkkiVlWjCeC-VbX7d1NP_usMoGkMQ7CkurVlI_b0s8mSZIGwp4&s=10" group-title="Live Event",Cycling vs Cycling - Cycling
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#TNT3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd|drmScheme=clearkey&drmLicense=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7#EUROSPORT FHD $ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d#EUROSPORT FHD $ http://193.47.62.41/hls/TNNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="40" tvg-name="Al Faisaly vs Al-Fateh - Saudi Pro League" tvg-logo="https://img.sofascore.com/api/v1/team/56035/image" group-title="Live Event",Al Faisaly vs Al-Fateh - Saudi Pro League
-https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#TAMAANYA $ http://193.47.62.41/hls/CCCCF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://china-sp.pages.dev/fatehh.json?&.m3u8#HD QUALITY $ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6f628032d7e68a25c2aba2-backup/chunks.m3u8?is_vip=false&token=1787846561-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-4d62dce9e5605096f9a0ed7e40fd1377|Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36#STREAM + FHD $ https://livecdn-tc-livestream.rumsport10.live/sla/1-6a6f628032d7e68a25c2aba2/chunks.m3u8?is_vip=false&token=1787846562-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-1d2a591f6125f71efe8cd6425bd2e3a1|Referer=https://iframe.rumsport10.live/&useragent=Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Mobile%20Safari%2F537.36#TAMAANYA
-
-#EXTINF:-1 tvg-id="41" tvg-name="Brisbane Broncos vs Melbourne Storm - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/4258/image" group-title="Live Event",Brisbane Broncos vs Melbourne Storm - NRL
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae#FOX2 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD $ http://193.47.62.42/hls/FTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="42" tvg-name="Penrith Panthers vs Canterbury Bulldogs - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/4262/image" group-title="Live Event",Penrith Panthers vs Canterbury Bulldogs - NRL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="43" tvg-name="Wigan Warriors vs Hull Kingston Rovers - Super League" tvg-logo="https://img.sofascore.com/api/v1/team/4233/image" group-title="Live Event",Wigan Warriors vs Hull Kingston Rovers - Super League
-https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8#Sky Sports Action UK $ http://193.47.62.58/hls/ZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="44" tvg-name="Auckland vs Bay of Plenty - National Provincial Championship" tvg-logo="https://img.sofascore.com/api/v1/team/42726/image" group-title="Live Event",Auckland vs Bay of Plenty - National Provincial Championship
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="45" tvg-name="Manly Sea Eagles vs St. George Illawarra Dragons - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/4259/image" group-title="Live Event",Manly Sea Eagles vs St. George Illawarra Dragons - NRL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="46" tvg-name="Hollywoodbets Sharks vs Vodacom Bulls XV - Currie Cup" tvg-logo="https://img.sofascore.com/api/v1/team/42707/image" group-title="Live Event",Hollywoodbets Sharks vs Vodacom Bulls XV - Currie Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="47" tvg-name="North Queensland Cowboys vs Newcastle Knights - NRL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/476456/image" group-title="Live Event",North Queensland Cowboys vs Newcastle Knights - NRL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="48" tvg-name="St Helens vs Leeds Rhinos - Super League" tvg-logo="https://img.sofascore.com/api/v1/team/4234/image" group-title="Live Event",St Helens vs Leeds Rhinos - Super League
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="49" tvg-name="Gold Coast Titans vs Canberra Raiders - NRL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/411824/image" group-title="Live Event",Gold Coast Titans vs Canberra Raiders - NRL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="50" tvg-name="Sydney Roosters vs Dolphins - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/4264/image" group-title="Live Event",Sydney Roosters vs Dolphins - NRL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="51" tvg-name="Huddersfield Giants vs Leigh Leopards - Super League" tvg-logo="https://img.sofascore.com/api/v1/team/4241/image" group-title="Live Event",Huddersfield Giants vs Leigh Leopards - Super League
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="52" tvg-name="Sydney Roosters vs Cronulla Sharks - NRL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/411822/image" group-title="Live Event",Sydney Roosters vs Cronulla Sharks - NRL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="53" tvg-name="Gold Coast Titans vs South Sydney Rabbitohs - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/7313/image" group-title="Live Event",Gold Coast Titans vs South Sydney Rabbitohs - NRL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="54" tvg-name="Castleford Tigers vs Catalans Dragons - Super League" tvg-logo="https://img.sofascore.com/api/v1/team/4274/image" group-title="Live Event",Castleford Tigers vs Catalans Dragons - Super League
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="55" tvg-name="North Queensland Cowboys vs Wests Tigers - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/4257/image" group-title="Live Event",North Queensland Cowboys vs Wests Tigers - NRL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="56" tvg-name="South Africa vs New Zealand - Rugbys Greatest Rivalry" tvg-logo="https://img.sofascore.com/api/v1/team/4231/image" group-title="Live Event",South Africa vs New Zealand - Rugbys Greatest Rivalry
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="57" tvg-name="Hull vs Warrington Wolves - Super League" tvg-logo="https://img.sofascore.com/api/v1/team/4271/image" group-title="Live Event",Hull vs Warrington Wolves - Super League
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="58" tvg-name="Wakefield Trinity vs York Knights - Super League" tvg-logo="https://img.sofascore.com/api/v1/team/4273/image" group-title="Live Event",Wakefield Trinity vs York Knights - Super League
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="59" tvg-name="Airlink Pumas vs Toyota Cheetahs - Currie Cup" tvg-logo="https://img.sofascore.com/api/v1/team/42704/image" group-title="Live Event",Airlink Pumas vs Toyota Cheetahs - Currie Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="60" tvg-name="Chile XV vs Uruguay XV - Americas Rugby Championship" tvg-logo="https://img.sofascore.com/api/v1/team/1252028/image" group-title="Live Event",Chile XV vs Uruguay XV - Americas Rugby Championship
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="61" tvg-name="Argentina XV vs Paraguay - Americas Rugby Championship" tvg-logo="https://img.sofascore.com/api/v1/team/155654/image" group-title="Live Event",Argentina XV vs Paraguay - Americas Rugby Championship
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="62" tvg-name="Argentina vs Australia - Int. Friendly Games" tvg-logo="https://img.sofascore.com/api/v1/team/4225/image" group-title="Live Event",Argentina vs Australia - Int. Friendly Games
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="63" tvg-name="Toulouse Olympique vs Bradford Bulls - Super League" tvg-logo="https://img.sofascore.com/api/v1/team/214917/image" group-title="Live Event",Toulouse Olympique vs Bradford Bulls - Super League
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="64" tvg-name="New Zealand Warriors vs St. George Illawarra Dragons - NRL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/1043169/image" group-title="Live Event",New Zealand Warriors vs St. George Illawarra Dragons - NRL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="65" tvg-name="Parramatta Eels vs Cronulla Sharks - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/4261/image" group-title="Live Event",Parramatta Eels vs Cronulla Sharks - NRL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="66" tvg-name="Parramatta Eels vs Brisbane Broncos - NRL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/476458/image" group-title="Live Event",Parramatta Eels vs Brisbane Broncos - NRL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="67" tvg-name="New Zealand Warriors vs Newcastle Knights - NRL" tvg-logo="https://img.sofascore.com/api/v1/team/4267/image" group-title="Live Event",New Zealand Warriors vs Newcastle Knights - NRL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="68" tvg-name="Wests Tigers vs Canterbury Bulldogs - NRL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/476459/image" group-title="Live Event",Wests Tigers vs Canterbury Bulldogs - NRL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="69" tvg-name="Sanlam Boland Kavaliers vs Suzuki Griquas - Currie Cup" tvg-logo="https://img.sofascore.com/api/v1/team/92190/image" group-title="Live Event",Sanlam Boland Kavaliers vs Suzuki Griquas - Currie Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="70" tvg-name="Los Angeles Chargers vs Los Angeles Rams - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4429/image" group-title="Live Event",Los Angeles Chargers vs Los Angeles Rams - NFL Preseason
-https://edgestream2.pro/hls/oipozuezeji33.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="71" tvg-name="Cleveland Browns vs New England Patriots - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4417/image" group-title="Live Event",Cleveland Browns vs New England Patriots - NFL Preseason
-https://edgestream2.pro/hls/sfjnzabacah31.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="72" tvg-name="Las Vegas Raiders vs San Francisco 49ers - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4390/image" group-title="Live Event",Las Vegas Raiders vs San Francisco 49ers - NFL Preseason
-https://edgestream2.pro/hls/qsdnajbq32.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="73" tvg-name="Buffalo Bills vs Pittsburgh Steelers - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4414/image" group-title="Live Event",Buffalo Bills vs Pittsburgh Steelers - NFL Preseason
-https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="74" tvg-name="Carolina Panthers vs Houston Texans - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4415/image" group-title="Live Event",Carolina Panthers vs Houston Texans - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="75" tvg-name="New York Jets vs New York Giants - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4427/image" group-title="Live Event",New York Jets vs New York Giants - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="76" tvg-name="Dallas Cowboys vs New Orleans Saints - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4392/image" group-title="Live Event",Dallas Cowboys vs New Orleans Saints - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="77" tvg-name="Baltimore Ravens vs Washington Commanders - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4413/image" group-title="Live Event",Baltimore Ravens vs Washington Commanders - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="78" tvg-name="Miami Dolphins vs Atlanta Falcons - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4287/image" group-title="Live Event",Miami Dolphins vs Atlanta Falcons - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="79" tvg-name="Jacksonville Jaguars vs Tampa Bay Buccaneers - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4386/image" group-title="Live Event",Jacksonville Jaguars vs Tampa Bay Buccaneers - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="80" tvg-name="Green Bay Packers vs Arizona Cardinals - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4420/image" group-title="Live Event",Green Bay Packers vs Arizona Cardinals - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="81" tvg-name="Philadelphia Eagles vs Cincinnati Bengals - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4428/image" group-title="Live Event",Philadelphia Eagles vs Cincinnati Bengals - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="82" tvg-name="Denver Broncos vs Minnesota Vikings - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4418/image" group-title="Live Event",Denver Broncos vs Minnesota Vikings - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="83" tvg-name="Kansas City Chiefs vs Seattle Seahawks - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4422/image" group-title="Live Event",Kansas City Chiefs vs Seattle Seahawks - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="84" tvg-name="Tennessee Titans vs Chicago Bears - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4431/image" group-title="Live Event",Tennessee Titans vs Chicago Bears - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="85" tvg-name="Indianapolis Colts vs Detroit Lions - NFL Preseason" tvg-logo="https://img.sofascore.com/api/v1/team/4421/image" group-title="Live Event",Indianapolis Colts vs Detroit Lions - NFL Preseason
-https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="86" tvg-name="Adelaide Crows vs West Coast Eagles - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/245069/image" group-title="Live Event",Adelaide Crows vs West Coast Eagles - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="87" tvg-name="North Melbourne vs Western Bulldogs - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/307631/image" group-title="Live Event",North Melbourne vs Western Bulldogs - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="88" tvg-name="Sydney Swans vs St Kilda Saints - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/446334/image" group-title="Live Event",Sydney Swans vs St Kilda Saints - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="89" tvg-name="Essendon Bombers vs Richmond Tigers - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/446332/image" group-title="Live Event",Essendon Bombers vs Richmond Tigers - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="90" tvg-name="Collingwood Magpies vs Hawthorn Hawks - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/245027/image" group-title="Live Event",Collingwood Magpies vs Hawthorn Hawks - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="91" tvg-name="GWS Giants vs Port Adelaide Power - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/245070/image" group-title="Live Event",GWS Giants vs Port Adelaide Power - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="92" tvg-name="Gold Coast Suns vs Geelong Cats - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/334440/image" group-title="Live Event",Gold Coast Suns vs Geelong Cats - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="93" tvg-name="Fremantle Dockers vs Carlton Blues - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/245077/image" group-title="Live Event",Fremantle Dockers vs Carlton Blues - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="94" tvg-name="Melbourne Demons vs Brisbane Lions - AFL, Women" tvg-logo="https://img.sofascore.com/api/v1/team/245150/image" group-title="Live Event",Melbourne Demons vs Brisbane Lions - AFL, Women
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="95" tvg-name="Sydney Swans vs Brisbane Lions - AFL" tvg-logo="https://img.sofascore.com/api/v1/team/4447/image" group-title="Live Event",Sydney Swans vs Brisbane Lions - AFL
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="96" tvg-name="Atlanta Braves vs Los Angeles Dodgers - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="Live Event",Atlanta Braves vs Los Angeles Dodgers - MLB
-https://chatgpt.hereisman.net/playlist/55265/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD $ http://193.47.62.43/hls/ZOOOZQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="97" tvg-name="Southland vs Hawke's Bay - National Provincial Championship" tvg-logo="https://img.sofascore.com/api/v1/team/42719/image" group-title="Live Event",Southland vs Hawke's Bay - National Provincial Championship
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.58/hls/YGGGa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="98" tvg-name="GOLF EVENTO vs GOLF EVENTO - GOLF EVENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s" group-title="Live Event",GOLF EVENTO vs GOLF EVENTO - GOLF EVENTO
-https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8#SKY3 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8#SKY4 NZ HD
-
-#EXTINF:-1 tvg-id="99" tvg-name="Phoenix Mercury vs Washington Mystics - WNBA" tvg-logo="https://img.sofascore.com/api/v1/team/3444/image" group-title="Live Event",Phoenix Mercury vs Washington Mystics - WNBA
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="100" tvg-name="New York Liberty vs Golden State Valkyries - WNBA" tvg-logo="https://img.sofascore.com/api/v1/team/3446/image" group-title="Live Event",New York Liberty vs Golden State Valkyries - WNBA
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="101" tvg-name="Toronto Blue Jays vs Kansas City Royals - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/3642/image" group-title="Live Event",Toronto Blue Jays vs Kansas City Royals - MLB
-https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="102" tvg-name="New York Mets vs Milwaukee Brewers - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/3629/image" group-title="Live Event",New York Mets vs Milwaukee Brewers - MLB
-https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="103" tvg-name="New York Yankees vs Houston Astros - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/3654/image" group-title="Live Event",New York Yankees vs Houston Astros - MLB
-https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="104" tvg-name="San Francisco Giants vs Arizona Diamondbacks - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/3634/image" group-title="Live Event",San Francisco Giants vs Arizona Diamondbacks - MLB
-https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="105" tvg-name="Atlanta Braves vs Los Angeles Dodgers - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/3656/image" group-title="Live Event",Atlanta Braves vs Los Angeles Dodgers - MLB
-https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="106" tvg-name="Washington Nationals vs Colorado Rockies - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/5930/image" group-title="Live Event",Washington Nationals vs Colorado Rockies - MLB
-https://chatgpt.hereisman.net/playlist/55304/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB TV HD $ https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD
-
-#EXTINF:-1 tvg-id="107" tvg-name="St. Louis Cardinals vs Baltimore Orioles - MLB" tvg-logo="https://img.sofascore.com/api/v1/team/3632/image" group-title="Live Event",St. Louis Cardinals vs Baltimore Orioles - MLB
-https://chatgpt.hereisman.net/playlist/55311/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD $ http://193.47.62.47/hls/YYYYAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="108" tvg-name="Fulham vs AFC Wimbledon - EFL Cup" tvg-logo="https://img.sofascore.com/api/v1/team/43/image" group-title="Live Event",Fulham vs AFC Wimbledon - EFL Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="109" tvg-name="Chelsea vs Luton Town - EFL Cup" tvg-logo="https://img.sofascore.com/api/v1/team/38/image" group-title="Live Event",Chelsea vs Luton Town - EFL Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="110" tvg-name="Internacional vs Grêmio - Copa Betano do Brasil" tvg-logo="https://img.sofascore.com/api/v1/team/1966/image" group-title="Live Event",Internacional vs Grêmio - Copa Betano do Brasil
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD
-
-#EXTINF:-1 tvg-id="111" tvg-name="Internacional de Bogotá vs Deportivo Pasto - Primera A" tvg-logo="https://img.sofascore.com/api/v1/team/1164534/image" group-title="Live Event",Internacional de Bogotá vs Deportivo Pasto - Primera A
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="112" tvg-name="Llaneros FC vs Millonarios - Primera A" tvg-logo="https://img.sofascore.com/api/v1/team/89374/image" group-title="Live Event",Llaneros FC vs Millonarios - Primera A
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="113" tvg-name="Once Caldas vs Deportes Tolima - Primera A" tvg-logo="https://img.sofascore.com/api/v1/team/6118/image" group-title="Live Event",Once Caldas vs Deportes Tolima - Primera A
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="114" tvg-name="Estudiantes de La Plata vs Barracas Central - Copa Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/3206/image" group-title="Live Event",Estudiantes de La Plata vs Barracas Central - Copa Argentina
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="115" tvg-name="Club Atlético Platense vs Instituto De Córdoba - Copa Argentina" tvg-logo="https://img.sofascore.com/api/v1/team/36837/image" group-title="Live Event",Club Atlético Platense vs Instituto De Córdoba - Copa Argentina
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="116" tvg-name="Deportivo Mixco vs Alianza FC - CONCACAF Central American Cup" tvg-logo="https://img.sofascore.com/api/v1/team/296034/image" group-title="Live Event",Deportivo Mixco vs Alianza FC - CONCACAF Central American Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="117" tvg-name="CD Olimpia vs Deportivo Saprissa - CONCACAF Central American Cup" tvg-logo="https://img.sofascore.com/api/v1/team/25358/image" group-title="Live Event",CD Olimpia vs Deportivo Saprissa - CONCACAF Central American Cup
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD
-
-#EXTINF:-1 tvg-id="118" tvg-name="FC Viktoria Plzeň vs FK Crvena Zvezda - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/4502/image" group-title="Live Event",FC Viktoria Plzeň vs FK Crvena Zvezda - UEFA Europa League
-https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#HD STREAMING $ https://live3.ftlcbx.com/live/73398340_610e39d06344ff497c5f7043519ca710_540p.m3u8?auth_key=1787864746-0-0-17c692f0636b6fc5996689aa1f996aac?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#HD TV TV HD $ http://193.47.62.49/hls/nnnnAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="119" tvg-name="FK Kauno Žalgiris vs Beşiktaş JK - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/80741/image" group-title="Live Event",FK Kauno Žalgiris vs Beşiktaş JK - UEFA Europa League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ http://193.47.62.49/hls/nnnnAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://162.251.160.53:8089/1000/index.m3u8#HD TV TV
-
-#EXTINF:-1 tvg-id="120" tvg-name="FC Iberia 1999 vs Jagiellonia Białystok - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/116312/image" group-title="Live Event",FC Iberia 1999 vs Jagiellonia Białystok - UEFA Europa League
-https://chatgpt.hereisman.net/playlist/55298/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#STREAM + FHD $ http://193.47.62.42/hls/BSSSAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://193.47.62.42/hls/BSSSAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#HD TV
-
-#EXTINF:-1 tvg-id="121" tvg-name="FC Ararat-Armenia vs Universitatea Craiova - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/262229/image" group-title="Live Event",FC Ararat-Armenia vs Universitatea Craiova - UEFA Europa League
-https://live1.ftlcbx.com/live/73398326_f1ebaecc38d246c75cff04de19ab56c1_540p.m3u8?auth_key=1787860633-0-0-af3fa889f6427761fb159100a2cb15b5?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.42/hls/BSSSAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="122" tvg-name="Lillestrøm SK vs KF Egnatia - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/664/image" group-title="Live Event",Lillestrøm SK vs KF Egnatia - UEFA Europa League
-https://pul-tenm.gkykp.com/live/sd-1-4608863.m3u8?txSecret=136628d2b7375474705e524eb2361261&txTime=6A91BD29#STREAM + FHD $ http://193.47.62.49/hls/nnnnAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="123" tvg-name="CSKA Sofia vs OFI Crete - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/3275/image" group-title="Live Event",CSKA Sofia vs OFI Crete - UEFA Europa League
-https://live.ftlcbx.com/live/73398378_c6fb640806e3497f1c522f208100c218_540p.m3u8?auth_key=1787868008-0-0-58767de2fe3899f234ffbcbf8d351267?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#HD QUALITY $ https://edgestream2.pro/hls/iozauyezaioyur82.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#BULGARIA $ https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#GREEK $ http://162.251.160.53:8089/1415/index.m3u8#HD TV TV $ http://193.47.62.47/hls/YYYYAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="124" tvg-name="Omonia Nicosia vs Sint-Truidense VV - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/3395/image" group-title="Live Event",Omonia Nicosia vs Sint-Truidense VV - UEFA Europa League
-https://live.ftlcbx.com/live/73398336_1d11120e9baf57e200b9ffe76235fac8_540p.m3u8?auth_key=1787865215-0-0-8324cf4f4ef3b964dbdd8485879ae5cf#STREAM + FHD $ http://193.47.62.49/hls/nnnnAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="125" tvg-name="AGF vs Benfica - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/1291/image" group-title="Live Event",AGF vs Benfica - UEFA Europa League
-https://chatgpt.hereisman.net/playlist/55301/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://live.ftlcbx.com/live/14315952_7fd87eb224b70db9efa53ba947281def_540p.m3u8?auth_key=1787867977-0-0-2d9ac8dd04e76609f081cc5abaada159?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#HD QUALITY $ https://tmaxapp.site/pt658svs/sporttv6.m3u8#SPORT6 TV HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ http://162.251.160.53:8089/1318/index.m3u8#HD TV TV $ http://193.47.62.47/hls/YYYYAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="126" tvg-name="Red Bull Salzburg vs Mjällby AIF - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/2046/image" group-title="Live Event",Red Bull Salzburg vs Mjällby AIF - UEFA Europa League
-https://live2.ftlcbx.com/live/73398356_22f9d0a48c39c0904349f99884739aa0_540p.m3u8?auth_key=1787864746-0-0-45181865e26477aac445573b8824ea90?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.49/hls/nnnnAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://162.251.160.53:8089/1226/index.m3u8#HD TV TV
-
-#EXTINF:-1 tvg-id="127" tvg-name="RSC Anderlecht vs Kairat Almaty - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/2900/image" group-title="Live Event",RSC Anderlecht vs Kairat Almaty - UEFA Europa League
-http://162.251.160.53:8089/1516/index.m3u8#HD QUALITY $ http://193.47.62.43/hls/RARARAAAaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="128" tvg-name="Ferencváros TC vs Trabzonspor - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/1925/image" group-title="Live Event",Ferencváros TC vs Trabzonspor - UEFA Europa League
-https://live.vivo200.com/live/sd-1-4608855.m3u8?txSecret=05a55cd39ffdb2c4e3755c8340360ef5&txTime=6A9092B9|Referer=https://player.online909.com/#STREAM + FHD $ http://193.47.62.43/hls/RARARAAAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="129" tvg-name="FC Thun vs Lech Poznań - UEFA Europa League" tvg-logo="https://img.sofascore.com/api/v1/team/2454/image" group-title="Live Event",FC Thun vs Lech Poznań - UEFA Europa League
-https://live3.ftlcbx.com/live/73398366_b4431850fc4355dacc37fb57bd2be48d_540p.m3u8?auth_key=1787868009-0-0-d282f47ff343ef51ce7a119df114be0e?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.47/hls/YYYYAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="130" tvg-name="AS Monaco vs Górnik Zabrze - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/1653/image" group-title="Live Event",AS Monaco vs Górnik Zabrze - UEFA Conference League
-https://live1.ftlcbx.com/live/73399176_234d06642b74d401a6d75b2537319f48_540p.m3u8?auth_key=1787863439-0-0-929c651964e19a856e739c221967ddad#HD TV $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#HD STREAMING $ http://193.47.62.42/hls/ygggaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://china-sp.pages.dev/ghmon.json?&.m3u8#HD QUALITY $ http://162.251.160.53:8089/1899/index.m3u8#HD TV TV
-
-#EXTINF:-1 tvg-id="131" tvg-name="FK Jablonec vs Rangers - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2205/image" group-title="Live Event",FK Jablonec vs Rangers - UEFA Conference League
-https://chatgpt.hereisman.net/playlist/55289/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#STREAM + FHD $ https://live.vivo200.com/live/sd-1-4617865.m3u8?txSecret=f0b7ef25efb96f3377c2d4d81b2bbdaa&txTime=6A9071B1|Referer=https://player.online909.com/#HD QUICK $ http://193.47.62.45/hls/BSSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="132" tvg-name="Qarabağ FK vs FC Twente - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/5962/image" group-title="Live Event",Qarabağ FK vs FC Twente - UEFA Conference League
-https://live.vivo200.com/live/sd-1-4608923.m3u8?txSecret=4265982e06de235834371ddc44c757b6&txTime=6A9071FF|Referer=https://player.online909.com/#HD QUICK $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ http://193.47.62.42/hls/BSSSAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://live2.ftlcbx.com/live/73399240_e645356d9f00cc336518a7a842392efd_540p.m3u8?auth_key=1787860744-0-0-de1bdf099d18bfc8a5e44c69a50e1861?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#HD QUALITY $ http://162.251.160.53:8089/1617/index.m3u8#HD TV TV
-
-#EXTINF:-1 tvg-id="133" tvg-name="Maccabi Tel Aviv vs FC Lugano - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/5198/image" group-title="Live Event",Maccabi Tel Aviv vs FC Lugano - UEFA Conference League
-https://live3.ftlcbx.com/live/73399252_9753fc0c25177559d4e8ece3a8db79d0_540p.m3u8?auth_key=1787860744-0-0-65a74547c1203b349446f0a0811a2dcd#STREAM + FHD $ http://193.47.62.42/hls/BSSSA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="134" tvg-name="Kuopion Palloseura vs Shamrock Rovers - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2244/image" group-title="Live Event",Kuopion Palloseura vs Shamrock Rovers - UEFA Conference League
-https://live2.ftlcbx.com/live/73399084_d554b642803cbe72d309a4f624bb4321_540p.m3u8?auth_key=1787858975-0-0-8d2dbeab94b07effe66b33181e08d1a8#HD QUICK $ https://pul-tenm.gkykp.com/live/sd-1-4608881.m3u8?txSecret=530c56651ac8c3f7acd887211816a2b7&txTime=6A916DF0#STREAM + FHD $ http://193.47.62.42/hls/FTTTACAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="135" tvg-name="FC Hradec Králové vs Panathinaikos FC - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2217/image" group-title="Live Event",FC Hradec Králové vs Panathinaikos FC - UEFA Conference League
-https://live4.ftlcbx.com/live/73399200_f15f60fee0e7d40ea9bbff532cf6c91f_540p.m3u8?auth_key=1787865072-0-0-b3d8cac3e9b6afd4b5f7bc9bd6fd3490?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.57/hls/aaaaffff.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="136" tvg-name="Inter Club d'Escaldes vs FC Drita - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/37946/image" group-title="Live Event",Inter Club d'Escaldes vs FC Drita - UEFA Conference League
-https://live5.ftlcbx.com/live/73399088_f37717142ee3075349ba58cc170da440_540p.m3u8?auth_key=1787865215-0-0-c75e0625ef8c099cc4783e95a636e8da?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.57/hls/aaaafffff.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="137" tvg-name="FC København vs Inter Turku - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/1284/image" group-title="Live Event",FC København vs Inter Turku - UEFA Conference League
-https://live2.ftlcbx.com/live/73399180_9bb206d36ce071baf729bb90c4255706_540p.m3u8?auth_key=1787864881-0-0-b0373992f281e1f91de4cca8faef51b6?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.57/hls/aaaafff.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="138" tvg-name="Pafos FC vs Dinamo City - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/171626/image" group-title="Live Event",Pafos FC vs Dinamo City - UEFA Conference League
-https://live1.ftlcbx.com/live/73399228_b9dd712c5fcf4accee12c3e1be3058b3_540p.m3u8?auth_key=1787865071-0-0-3789e7fee6914660162cc8967c45ddda#STREAM + FHD $ http://193.47.62.57/hls/aaaaffffff.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="139" tvg-name="SC Freiburg vs Motherwell - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2538/image" group-title="Live Event",SC Freiburg vs Motherwell - UEFA Conference League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f#PREMIER1 SPORTS FHD $ https://live.ftlcbx.com/live/73399172_2086ae0eea9ecddf442aff292ef6fa5d_540p.m3u8?auth_key=1787863439-0-0-281b65e99ffc8492967346018c794cfb?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#HD QUALITY $ http://193.47.62.42/hls/ygggaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://live.ftlcbx.com/live/63kv9igepj6cx7e_79936bd1fcea5a6f118643f1b791a971_1080p.m3u8?auth_key=1787862622-0-0-cbcdcd9c26b1efe816b1898bcbe63ed6#HD QUALITY $ https://live.vivo200.com/live/sd-1-4608889.m3u8?txSecret=9310e6b840a5b5f019a518c73451ce1f&txTime=6A90723D|Referer=https://player.online909.com/#HD QUALITY 2 $ http://162.251.160.53:8089/1920/index.m3u8#HD QUALITY
-
-#EXTINF:-1 tvg-id="140" tvg-name="SK Brann vs PAOK - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/1159/image" group-title="Live Event",SK Brann vs PAOK - UEFA Conference League
-https://live.ftlcbx.com/live/73399208_16640f98349d787adeb1b91edc0c92e7_540p.m3u8?auth_key=1787865071-0-0-2a9d63b135fc40069a7ee18e1a149f27?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.57/hls/aaaaff.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="141" tvg-name="Riga FC vs Klaksvíkar Ítróttarfelag - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/162368/image" group-title="Live Event",Riga FC vs Klaksvíkar Ítróttarfelag - UEFA Conference League
-http://193.47.62.49/hls/nnnnA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.49/hls/nnnnA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="142" tvg-name="AFC Ajax vs FC Sion - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2953/image" group-title="Live Event",AFC Ajax vs FC Sion - UEFA Conference League
-https://chatgpt.hereisman.net/playlist/55306/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://live3.ftlcbx.com/live/14317046_8a2215c8611ddf03e8b8952b1f99f0f4_540p.m3u8?auth_key=1787867977-0-0-59f87cf3c51a90262ffc31c9f886e3a8#HD QUALITY $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ http://162.251.160.53:8089/2001/index.m3u8#HD TV TV $ http://193.47.62.47/hls/YYYY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="143" tvg-name="FC St. Gallen 1879 vs FC Nordsjælland - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2442/image" group-title="Live Event",FC St. Gallen 1879 vs FC Nordsjælland - UEFA Conference League
-https://live4.ftlcbx.com/live/73399224_f73702a220227e35a596cecd0c0f6fd4_540p.m3u8?auth_key=1787868008-0-0-4472fa96527763f992da75805a0420e5#HD QUALITY $ http://162.251.160.53:8089/3010/index.m3u8#HD TV TV $ http://193.47.62.47/hls/YYYYAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="144" tvg-name="Raków Częstochowa vs HNK Hajduk Split - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/35268/image" group-title="Live Event",Raków Częstochowa vs HNK Hajduk Split - UEFA Conference League
-https://live3.ftlcbx.com/live/73399196_20d69c0a570a1014ba053ede6f5bcf8d_540p.m3u8?auth_key=1787864881-0-0-8f4217f50ae5ee6f3aa3711e86e4a458?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.43/hls/RARARAAAa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="145" tvg-name="FK Borac Banja Luka vs Víkingur Reykjavík - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/5235/image" group-title="Live Event",FK Borac Banja Luka vs Víkingur Reykjavík - UEFA Conference League
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="146" tvg-name="Brighton & Hove Albion vs Tromsø IL - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/30/image" group-title="Live Event",Brighton & Hove Albion vs Tromsø IL - UEFA Conference League
-https://live.vivo200.com/live/sd-1-4608898.m3u8?txSecret=9f357b36a2cc16514ba089e3896904a0&txTime=6A9092E2|Referer=https://player.online909.com/#HD QUALITY $ https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD $ http://193.47.62.49/hls/nnnn.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="147" tvg-name="FK Austria Wien vs Sporting Braga - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2203/image" group-title="Live Event",FK Austria Wien vs Sporting Braga - UEFA Conference League
-https://chatgpt.hereisman.net/playlist/55308/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ http://162.251.160.53:8089/3356/index.m3u8#HD TV TV $ http://193.47.62.43/hls/RARARAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="148" tvg-name="Hapoel Tel Aviv vs Atalanta - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/5396/image" group-title="Live Event",Hapoel Tel Aviv vs Atalanta - UEFA Conference League
-https://chatgpt.hereisman.net/playlist/55312/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#STREAM + FHD $ http://193.47.62.47/hls/YYYYA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="149" tvg-name="HNK Rijeka vs FC Midtjylland - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2039/image" group-title="Live Event",HNK Rijeka vs FC Midtjylland - UEFA Conference League
-http://193.47.62.43/hls/RARARAAAaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.43/hls/RARARAAAaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="150" tvg-name="FK Partizan vs Getafe - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/5152/image" group-title="Live Event",FK Partizan vs Getafe - UEFA Conference League
-https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM + FHD $ http://193.47.62.58/hls/TTTTAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="151" tvg-name="Larne FC vs Lincoln Red Imps - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/5184/image" group-title="Live Event",Larne FC vs Lincoln Red Imps - UEFA Conference League
-http://193.47.62.58/hls/TTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.58/hls/TTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="152" tvg-name="Hibernian vs KAA Gent - UEFA Conference League" tvg-logo="https://img.sofascore.com/api/v1/team/2354/image" group-title="Live Event",Hibernian vs KAA Gent - UEFA Conference League
-http://193.47.62.58/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM + FHD $ http://193.47.62.58/hls/TTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="153" tvg-name="Dinamo Barnaul vs Irtysh Omsk - Russian Cup" tvg-logo="https://img.sofascore.com/api/v1/team/21940/image" group-title="Live Event",Dinamo Barnaul vs Irtysh Omsk - Russian Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="154" tvg-name="2DROTS Moscow vs FC Murom - Russian Cup" tvg-logo="https://img.sofascore.com/api/v1/team/420650/image" group-title="Live Event",2DROTS Moscow vs FC Murom - Russian Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="155" tvg-name="Dinamo St. Petersburg vs Dinamo Vologda - Russian Cup" tvg-logo="https://img.sofascore.com/api/v1/team/255030/image" group-title="Live Event",Dinamo St. Petersburg vs Dinamo Vologda - Russian Cup
-https://file.genoads.com/ch1.m3u8#STREAM + FHD
-
-#EXTINF:-1 tvg-id="156" tvg-name="Al-Gharafa vs Al Shamal SC - Stars League" tvg-logo="https://img.sofascore.com/api/v1/team/34312/image" group-title="Live Event",Al-Gharafa vs Al Shamal SC - Stars League
-http://193.47.62.42/hls/FTTTACAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.42/hls/FTTTACAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="157" tvg-name="Al-Wakrah vs Al-Rayyan - Stars League" tvg-logo="https://img.sofascore.com/api/v1/team/44440/image" group-title="Live Event",Al-Wakrah vs Al-Rayyan - Stars League
-http://193.47.62.42/hls/yggg.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.42/hls/yggg.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="158" tvg-name="Nigeria vs Cameroon - FIBA World Cup Qualification, Africa" tvg-logo="https://img.sofascore.com/api/v1/team/6134/image" group-title="Live Event",Nigeria vs Cameroon - FIBA World Cup Qualification, Africa
-http://193.47.62.42/hls/UUUUUz.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="159" tvg-name="Mali vs Côte d'Ivoire - FIBA World Cup Qualification, Africa" tvg-logo="https://img.sofascore.com/api/v1/team/54625/image" group-title="Live Event",Mali vs Côte d'Ivoire - FIBA World Cup Qualification, Africa
-http://193.47.62.59/hls/HOOOFFFFFA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="160" tvg-name="Finland vs Sweden - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/25374/image" group-title="Live Event",Finland vs Sweden - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/ROOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="161" tvg-name="Cyprus vs Austria - FIBA EuroBasket Qual." tvg-logo="https://img.sofascore.com/api/v1/team/61582/image" group-title="Live Event",Cyprus vs Austria - FIBA EuroBasket Qual.
-http://193.47.62.59/hls/ROOOOA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.59/hls/ROOOOA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="162" tvg-name="Hungary vs Estonia - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/25376/image" group-title="Live Event",Hungary vs Estonia - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/ROOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="163" tvg-name="Qatar vs China - FIBA World Cup Qualification, Asia & Oceania" tvg-logo="https://img.sofascore.com/api/v1/team/6137/image" group-title="Live Event",Qatar vs China - FIBA World Cup Qualification, Asia & Oceania
-http://193.47.62.59/hls/ROOOOAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="164" tvg-name="Kuwait vs United Arab Emirates - FIBA Asia Cup 2029 Pre-Qualifiers" tvg-logo="https://img.sofascore.com/api/v1/team/206349/image" group-title="Live Event",Kuwait vs United Arab Emirates - FIBA Asia Cup 2029 Pre-Qualifiers
-https://file.genoads.com/ch1.m3u8#SERVER + TV
-
-#EXTINF:-1 tvg-id="165" tvg-name="Denmark vs Romania - FIBA EuroBasket Qual." tvg-logo="https://img.sofascore.com/api/v1/team/86344/image" group-title="Live Event",Denmark vs Romania - FIBA EuroBasket Qual.
-http://193.47.62.59/hls/ROOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.59/hls/ROOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="166" tvg-name="Saudi Arabia vs Japan - FIBA World Cup Qualification, Asia & Oceania" tvg-logo="https://img.sofascore.com/api/v1/team/105669/image" group-title="Live Event",Saudi Arabia vs Japan - FIBA World Cup Qualification, Asia & Oceania
-http://193.47.62.59/hls/ROOOOAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="167" tvg-name="France vs Slovenia - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/6248/image" group-title="Live Event",France vs Slovenia - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/HOOOFFFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="168" tvg-name="Egypt vs Senegal - FIBA World Cup Qualification, Africa" tvg-logo="https://img.sofascore.com/api/v1/team/54633/image" group-title="Live Event",Egypt vs Senegal - FIBA World Cup Qualification, Africa
-http://193.47.62.59/hls/FGTGTGT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="169" tvg-name="Germany vs Netherlands - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/6249/image" group-title="Live Event",Germany vs Netherlands - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/HOOOF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="170" tvg-name="Lebanon vs South Korea - FIBA World Cup Qualification, Asia & Oceania" tvg-logo="https://img.sofascore.com/api/v1/team/6131/image" group-title="Live Event",Lebanon vs South Korea - FIBA World Cup Qualification, Asia & Oceania
-http://193.47.62.59/hls/ROOOOAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="171" tvg-name="Croatia vs Latvia - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/7493/image" group-title="Live Event",Croatia vs Latvia - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/HOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="172" tvg-name="Germany vs Netherlands - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/6249/image" group-title="Live Event",Germany vs Netherlands - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/HOOOF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="173" tvg-name="Lebanon vs South Korea - FIBA World Cup Qualification, Asia & Oceania" tvg-logo="https://img.sofascore.com/api/v1/team/6131/image" group-title="Live Event",Lebanon vs South Korea - FIBA World Cup Qualification, Asia & Oceania
-http://193.47.62.59/hls/ROOOOAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="174" tvg-name="Croatia vs Latvia - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/7493/image" group-title="Live Event",Croatia vs Latvia - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/HOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="175" tvg-name="Israel vs Poland - FIBA World Cup Qualification, Europe" tvg-logo="https://img.sofascore.com/api/v1/team/7967/image" group-title="Live Event",Israel vs Poland - FIBA World Cup Qualification, Europe
-http://193.47.62.59/hls/HOOOFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="176" tvg-name="Tunisia vs Cabo Verde - FIBA World Cup Qualification, Africa" tvg-logo="https://img.sofascore.com/api/v1/team/39423/image" group-title="Live Event",Tunisia vs Cabo Verde - FIBA World Cup Qualification, Africa
-http://193.47.62.59/hls/HOOOFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="177" tvg-name="Belgium vs Czechia - FIBA EuroBasket Qual." tvg-logo="https://img.sofascore.com/api/v1/team/25369/image" group-title="Live Event",Belgium vs Czechia - FIBA EuroBasket Qual.
-http://193.47.62.59/hls/HOOOFFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.59/hls/HOOOFFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="178" tvg-name="Club Always Ready vs Club Aurora - División Profesional" tvg-logo="https://img.sofascore.com/api/v1/team/268083/image" group-title="Live Event",Club Always Ready vs Club Aurora - División Profesional
-http://193.47.62.58/hls/TTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#SERVER + TV $ http://193.47.62.58/hls/TTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)
-
-#EXTINF:-1 tvg-id="179" tvg-name="Peace Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s" group-title="Islamic Tv",Peace Tv
+#EXTINF:-1 tvg-id="3" tvg-name="Peace Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7JXxWkkuUFp-6XOYsOA9-Vl1m_SuZAzjrLZhQ8tA6xg&s" group-title="Islamic Tv",Peace Tv
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 
-#EXTINF:-1 tvg-id="180" tvg-name="Makkah tv" tvg-logo="https://www.makkahlivemedia.com/assets/images/library/6a0884d916de3.png" group-title="Islamic Tv",Makkah tv
+#EXTINF:-1 tvg-id="4" tvg-name="Makkah tv" tvg-logo="https://www.makkahlivemedia.com/assets/images/library/6a0884d916de3.png" group-title="Islamic Tv",Makkah tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="181" tvg-name="Madani " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A3ClHhvEkOMtz7mbCO6RnaUK1S-Hov2yOPTneu81Sg&s=10" group-title="Islamic Tv",Madani 
+#EXTINF:-1 tvg-id="5" tvg-name="Madani " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3A3ClHhvEkOMtz7mbCO6RnaUK1S-Hov2yOPTneu81Sg&s=10" group-title="Islamic Tv",Madani 
 https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 
-#EXTINF:-1 tvg-id="182" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="Bangladeshi",Btv News
+#EXTINF:-1 tvg-id="6" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="Bangladeshi",Btv News
 https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
 
-#EXTINF:-1 tvg-id="183" tvg-name="Alpona Tv" tvg-logo="https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp" group-title="Bangladeshi",Alpona Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
-
-#EXTINF:-1 tvg-id="184" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="Bangladeshi",Sonsad Tv
+#EXTINF:-1 tvg-id="8" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="Bangladeshi",Sonsad Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-id="185" tvg-name="Bangla Vision Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10" group-title="Bangladeshi",Bangla Vision Tv
+#EXTINF:-1 tvg-id="9" tvg-name="Bangla Vision Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9NYV0OpOxjCTT411rrMg3Yz1IpVtgZ8EOl8GnH0yKXA&s=10" group-title="Bangladeshi",Bangla Vision Tv
 https://bdstream.bdstreamhubiptv.workers.dev/BANGLA_VISION_TV.m3u8
 
-#EXTINF:-1 tvg-id="186" tvg-name="Boishakhi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s" group-title="Bangladeshi",Boishakhi Tv
+#EXTINF:-1 tvg-id="10" tvg-name="Boishakhi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqB6dmnzNGFkHOLjq76A3kCjaIilgVGZtj1qpJunA8gw&s" group-title="Bangladeshi",Boishakhi Tv
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 
-#EXTINF:-1 tvg-id="187" tvg-name="Chaanel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10" group-title="Bangladeshi",Chaanel i
+#EXTINF:-1 tvg-id="11" tvg-name="Chaanel i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0ewYk1sOsG3OvolqbHi85N9QTMVpgRsVrKQBwMeguA&s=10" group-title="Bangladeshi",Chaanel i
 https://bdstream.bdstreamhubiptv.workers.dev/CHANNEL_i.m3u8
 
-#EXTINF:-1 tvg-id="188" tvg-name="Gazi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s" group-title="Bangladeshi",Gazi Tv
+#EXTINF:-1 tvg-id="12" tvg-name="Gazi Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5bv5OYQPNyc1sCJSfpdfH6zu0eBC6n_KGW2mulKhVOw&s" group-title="Bangladeshi",Gazi Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8?bdstreamhub
 
-#EXTINF:-1 tvg-id="189" tvg-name="Deepto Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10" group-title="Bangladeshi",Deepto Tv
+#EXTINF:-1 tvg-id="13" tvg-name="Deepto Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzqOge7Dzy1BFMYDAoz3K61HjlUI_vmacK0to4zcvKQ&s=10" group-title="Bangladeshi",Deepto Tv
 https://bdstream.bdstreamhubiptv.workers.dev/Deepto_Tv.m3u8
 
-#EXTINF:-1 tvg-id="190" tvg-name="Rtv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285" group-title="Bangladeshi",Rtv
+#EXTINF:-1 tvg-id="14" tvg-name="Rtv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x95285" group-title="Bangladeshi",Rtv
 https://bdstream.bdstreamhubiptv.workers.dev/Rtv_HD.m3u8
 
-#EXTINF:-1 tvg-id="191" tvg-name="Green Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCTL-zvZjMuPT3__MjCLFRpfvrUti-drH9_4HxUNYiQ&s" group-title="Bangladeshi",Green Tv
+#EXTINF:-1 tvg-id="15" tvg-name="Green Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCTL-zvZjMuPT3__MjCLFRpfvrUti-drH9_4HxUNYiQ&s" group-title="Bangladeshi",Green Tv
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="192" tvg-name="Nagorik Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10" group-title="Bangladeshi",Nagorik Tv
+#EXTINF:-1 tvg-id="16" tvg-name="Nagorik Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbtahrnRqoaC_yzMM_s2SrJWLNaRhYWmkmd0AafBAlQ&s=10" group-title="Bangladeshi",Nagorik Tv
 https://bdstream.bdstreamhubiptv.workers.dev/Nagorik_Tv.m3u8
 
-#EXTINF:-1 tvg-id="193" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10" group-title="Bangladeshi",Ekushey Tv
+#EXTINF:-1 tvg-id="17" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10" group-title="Bangladeshi",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="194" tvg-name="My Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s" group-title="Bangladeshi",My Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
-
-#EXTINF:-1 tvg-id="195" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="BD News",Ntv
+#EXTINF:-1 tvg-id="19" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="BD News",Ntv
 https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
 
-#EXTINF:-1 tvg-id="196" tvg-name="Bijoy tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s" group-title="Bangladeshi",Bijoy tv
+#EXTINF:-1 tvg-id="20" tvg-name="Bijoy tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s" group-title="Bangladeshi",Bijoy tv
 https://bdstream.bdstreamhubiptv.workers.dev/BIJOY_TV.m3u8
 
-#EXTINF:-1 tvg-id="197" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="Bangladeshi",Asian Tv
+#EXTINF:-1 tvg-id="21" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="Bangladeshi",Asian Tv
 https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="198" tvg-name="Ananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s" group-title="Bangladeshi",Ananda Tv
+#EXTINF:-1 tvg-id="22" tvg-name="Ananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s" group-title="Bangladeshi",Ananda Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="199" tvg-name="Massranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qtC8l_4JQWS7uILk-zpR6PVDRhzooPl-BO9rbUj0OA&s=10" group-title="Bangladeshi",Massranga tv
+#EXTINF:-1 tvg-id="23" tvg-name="Massranga tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9qtC8l_4JQWS7uILk-zpR6PVDRhzooPl-BO9rbUj0OA&s=10" group-title="Bangladeshi",Massranga tv
 http://116.204.149.16/maasranga/index.m3u8
 
-#EXTINF:-1 tvg-id="200" tvg-name="Mohona tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x95285" group-title="Bangladeshi",Mohona tv
+#EXTINF:-1 tvg-id="24" tvg-name="Mohona tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x95285" group-title="Bangladeshi",Mohona tv
 https://bdstream.bdstreamhubiptv.workers.dev/Mohana_tv.m3u8
 
-#EXTINF:-1 tvg-id="201" tvg-name="Channel 9 tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10" group-title="Bangladeshi",Channel 9 tv
+#EXTINF:-1 tvg-id="25" tvg-name="Channel 9 tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyw9WieNCFfEHaAcu6IAvevtGSIVluKnK5psAzH8EtRw&s=10" group-title="Bangladeshi",Channel 9 tv
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
 
-#EXTINF:-1 tvg-id="202" tvg-name="Sa tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8nz_HCc83lOYNX9vJzASwu0sKiUw0nUMr13kvK2zLqA&s=10" group-title="Bangladeshi",Sa tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="203" tvg-name="Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQut1HSjM_dlasdupGnVgcwkNv8Lr_xiPmvTHQYUyNbBg&s" group-title="Bangladeshi",Bangla tv
+#EXTINF:-1 tvg-id="27" tvg-name="Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQut1HSjM_dlasdupGnVgcwkNv8Lr_xiPmvTHQYUyNbBg&s" group-title="Bangladeshi",Bangla tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
 
-#EXTINF:-1 tvg-id="204" tvg-name="Amer Bangla 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_GNVxIr7JlPTdL-cHEP8CqelnauSaXPHJeEkdvCiLoHsNg-KfqXXofo&s=10" group-title="Bangladeshi",Amer Bangla 24
-https://jagroniakash.ncare.live/eyetv/eyetv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="205" tvg-name="Movie Bangla Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10" group-title="Bangladeshi",Movie Bangla Tv
+#EXTINF:-1 tvg-id="29" tvg-name="Movie Bangla Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10" group-title="Bangladeshi",Movie Bangla Tv
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-id="206" tvg-name="Srk tv" tvg-logo="https://yt3.googleusercontent.com/SI5MlFyc4HNhXu-NO9wrFXhssF3y5FAYfo9gGdnt72dUqV-NxPGPkxltLLa1btgv8O0cEB7l6jE=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Srk tv
+#EXTINF:-1 tvg-id="30" tvg-name="Srk tv" tvg-logo="https://yt3.googleusercontent.com/SI5MlFyc4HNhXu-NO9wrFXhssF3y5FAYfo9gGdnt72dUqV-NxPGPkxltLLa1btgv8O0cEB7l6jE=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Srk tv
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="207" tvg-name="Shikor tv" tvg-logo="https://shikortvcanada.com/wp-content/uploads/2025/07/Shikor-TV-Final-logo-02-1536x650.png" group-title="Bangladeshi",Shikor tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
-
-#EXTINF:-1 tvg-id="208" tvg-name="G Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10" group-title="BD 24/7",G Series
+#EXTINF:-1 tvg-id="32" tvg-name="G Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10" group-title="BD 24/7",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="209" tvg-name="News 21 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa78-aGIGeUb8gJx4wys0KvPQ8PKqiBs_ysA1ubTc&s=10" group-title="Bangladeshi",News 21 Bangla
+#EXTINF:-1 tvg-id="33" tvg-name="News 21 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZa78-aGIGeUb8gJx4wys0KvPQ8PKqiBs_ysA1ubTc&s=10" group-title="Bangladeshi",News 21 Bangla
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="210" tvg-name="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTgLK5F6Tedh_SdoltPFlXLWw5Q6OWOF12Dr0TWNTtQ&s=10" group-title="BD 24/7",Movie
+#EXTINF:-1 tvg-id="34" tvg-name="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTgLK5F6Tedh_SdoltPFlXLWw5Q6OWOF12Dr0TWNTtQ&s=10" group-title="BD 24/7",Movie
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="211" tvg-name="Desh tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s" group-title="BD News",Desh tv
+#EXTINF:-1 tvg-id="35" tvg-name="Desh tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s" group-title="BD News",Desh tv
 https://bdstream.bdstreamhubiptv.workers.dev/DESH_TV.m3u8
 
-#EXTINF:-1 tvg-id="212" tvg-name="Channel 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10" group-title="BD News",Channel 1
+#EXTINF:-1 tvg-id="36" tvg-name="Channel 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10" group-title="BD News",Channel 1
 https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="213" tvg-name="Jago News Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="BD News",Jago News Tv
+#EXTINF:-1 tvg-id="37" tvg-name="Jago News Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="BD News",Jago News Tv
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="214" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10" group-title="BD Sports",T Sports
+#EXTINF:-1 tvg-id="38" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJeHKMhdCHW6d1KQ4OmxqlW-aW2bLznjj9xGVHPRy_ew&s=10" group-title="BD Sports",T Sports
 https://bdstream.bdstreamhubiptv.workers.dev/TSPORTS_HD.m3u8
 
-#EXTINF:-1 tvg-id="215" tvg-name="Atn News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s" group-title="BD News",Atn News
+#EXTINF:-1 tvg-id="39" tvg-name="Atn News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZm3SfZduLsqmILkzfO1uoknB9dMaSyCVTh42Z6JS8pg&s" group-title="BD News",Atn News
 https://bdstream.bdstreamhubiptv.workers.dev/ATN_NEWS.m3u8
 
-#EXTINF:-1 tvg-id="216" tvg-name="Atn Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10" group-title="BD News",Atn Bangla
+#EXTINF:-1 tvg-id="40" tvg-name="Atn Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10" group-title="BD News",Atn Bangla
 https://bdstream.bdstreamhubiptv.workers.dev/ATN_BANGLA.m3u8
 
-#EXTINF:-1 tvg-id="217" tvg-name="Independent News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10" group-title="BD News",Independent News
+#EXTINF:-1 tvg-id="41" tvg-name="Independent News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10" group-title="BD News",Independent News
 https://stream.ottplus.live/live/independent_tv_abr/index.m3u8
 
-#EXTINF:-1 tvg-id="218" tvg-name="Ekttor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10" group-title="BD News",Ekttor Tv
+#EXTINF:-1 tvg-id="42" tvg-name="Ekttor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10" group-title="BD News",Ekttor Tv
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="219" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s" group-title="BD News",Channel 24
+#EXTINF:-1 tvg-id="43" tvg-name="Channel 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR909M-nLq70QMShpzLbpvgznmgHOMA8DLuRsl4Xu_Jyg&s" group-title="BD News",Channel 24
 https://bdstream.bdstreamhubiptv.workers.dev/CHANNEL_24.m3u8
 
-#EXTINF:-1 tvg-id="220" tvg-name="News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10" group-title="BD News",News 24
+#EXTINF:-1 tvg-id="44" tvg-name="News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oJ5YHDIfGD5K2wGZlERsbCFvL-hw8RAmEyx4xdi7A&s=10" group-title="BD News",News 24
 https://bdstream.bdstreamhubiptv.workers.dev/News_24.m3u8
 
-#EXTINF:-1 tvg-id="221" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s" group-title="BD News",Star News
+#EXTINF:-1 tvg-id="45" tvg-name="Star News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzaSROZTzxBAwH6RO15LbmeItbKhY_p3vIbpWKqxwjQ&s" group-title="BD News",Star News
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="222" tvg-name="DBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10" group-title="BD News",DBC News
+#EXTINF:-1 tvg-id="46" tvg-name="DBC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp4f2mHvtfhEyEYaBzr2hBcL1OfepX0dEJrfxdOJTN5Q&s=10" group-title="BD News",DBC News
 https://bdstream.bdstreamhubiptv.workers.dev/DBC_NEWS.m3u8
 
-#EXTINF:-1 tvg-id="223" tvg-name="Somoy News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10" group-title="BD News",Somoy News
+#EXTINF:-1 tvg-id="47" tvg-name="Somoy News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEuFlICfP0g1IPIgTY893Dat_nYYqpDTD4lW3_62cCmg&s=10" group-title="BD News",Somoy News
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 
-#EXTINF:-1 tvg-id="224" tvg-name="Jamuna News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10" group-title="BD News",Jamuna News
+#EXTINF:-1 tvg-id="48" tvg-name="Jamuna News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQivK8mbjdDZ64kRxy_X5VKVJSb97NvNAYzJXYiTHBqMMUBMUxNte4GrGNI&s=10" group-title="BD News",Jamuna News
 https://bdstream.bdstreamhubiptv.workers.dev/JAMUNA_TV.m3u8
 
-#EXTINF:-1 tvg-id="225" tvg-name="Ekhon tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10" group-title="BD News",Ekhon tv
+#EXTINF:-1 tvg-id="49" tvg-name="Ekhon tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXBTGy4zweScC-sd1VFvv6ee5KbC8oyTcyfQWgJLeWqw&s=10" group-title="BD News",Ekhon tv
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
 
-#EXTINF:-1 tvg-id="226" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10" group-title="Kolkata Serial",Star Jalsha HD
+#EXTINF:-1 tvg-id="50" tvg-name="Star Jalsha HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8c6zVB3ZBygZMmIjmV99vcjTNl36zKKeqY7lKNnqqjw&s=10" group-title="Kolkata Serial",Star Jalsha HD
 https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="227" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10" group-title="Kolkata Serial",Zee Bangla
+#EXTINF:-1 tvg-id="51" tvg-name="Zee Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbK4BDigcOJDOWjbY9jowbPUmVib7MAcVRje7A9eTaKg&s=10" group-title="Kolkata Serial",Zee Bangla
 https://bdstream.bdstreamhubiptv.workers.dev/ZEE_BANGLA.m3u8
 
-#EXTINF:-1 tvg-id="228" tvg-name="Colours Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10" group-title="Kolkata Serial",Colours Bangla
+#EXTINF:-1 tvg-id="52" tvg-name="Colours Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4e_MLItgAEbhsN-0zRGK3qUBS7gufHCJxNuYwRPkluA&s=10" group-title="Kolkata Serial",Colours Bangla
 https://bdstream.bdstreamhubiptv.workers.dev/Colors Bangla hd.m3u8
 
-#EXTINF:-1 tvg-id="229" tvg-name="Colors bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10" group-title="Kolkata Movie",Colors bangla Cinema
+#EXTINF:-1 tvg-id="53" tvg-name="Colors bangla Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9cjM-A9HtqERwjXTnA7tbv4DJo1C0rKjML4cKIaOpsA&s=10" group-title="Kolkata Movie",Colors bangla Cinema
 https://bdstream.bdstreamhubiptv.workers.dev/Colors_Bangla.m3u8
 
-#EXTINF:-1 tvg-id="230" tvg-name="Zee Bangla Sonar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAklcxN6Y1gXaHLZhf80ex6Yd2e8R2FWovyYuES7flQ&s=10" group-title="Kolkata Movie",Zee Bangla Sonar
+#EXTINF:-1 tvg-id="54" tvg-name="Zee Bangla Sonar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcAklcxN6Y1gXaHLZhf80ex6Yd2e8R2FWovyYuES7flQ&s=10" group-title="Kolkata Movie",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
-#EXTINF:-1 tvg-id="231" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s" group-title="Kolkata Serial",Sony Aath
+#EXTINF:-1 tvg-id="55" tvg-name="Sony Aath" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsWR3iDeYuWx1e-Ta5PWT1PT8wQ6LuLpG9ds_tPcdo2g&s" group-title="Kolkata Serial",Sony Aath
 https://bdstream.bdstreamhubiptv.workers.dev/Sony_Aath.m3u8
 
-#EXTINF:-1 tvg-id="232" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="Kolkata Movie",Jalsha Movies
+#EXTINF:-1 tvg-id="56" tvg-name="Jalsha Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3f6uC4c42YcrhQzD9I4tfzsArk5Cp4oHEDnlRx_1ziQ&s=10" group-title="Kolkata Movie",Jalsha Movies
 https://bdstream.bdstreamhubiptv.workers.dev/Jalsha_movies.m3u8
 
-#EXTINF:-1 tvg-id="233" tvg-name="Bangla Plues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s" group-title="BD & Kolkata Movie",Bangla Plues
+#EXTINF:-1 tvg-id="57" tvg-name="Bangla Plues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNMOKTp5JCHKyyeC-pu8ZZFo86rr-k367BMeICzCplw&s" group-title="BD & Kolkata Movie",Bangla Plues
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 tvg-id="234" tvg-name="Sananda tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10" group-title="BD & Kolkata Movie",Sananda tv
+#EXTINF:-1 tvg-id="58" tvg-name="Sananda tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10" group-title="BD & Kolkata Movie",Sananda tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="235" tvg-name="Sananda tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10" group-title="BD & Kolkata Movie",Sananda tv
+#EXTINF:-1 tvg-id="59" tvg-name="Sananda tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-k4ns0INc2GocijCgxYNCr-fEIBh5Ft-aTZmT7LLYbB2mlvoP7tnYYgI7DrJTLjIZE2Bq_foKiTCL63QogF8PdgtJgw_TYdI6LQkg4X0&s=10" group-title="BD & Kolkata Movie",Sananda tv
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
-#EXTINF:-1 tvg-id="236" tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiybHg_CY4Ux68LBBikSSXeik4ZAmqa67MQrbSXXdLA&s=10" group-title="Kolkata Serial",Enter 10 Bangla
+#EXTINF:-1 tvg-id="60" tvg-name="Enter 10 Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiybHg_CY4Ux68LBBikSSXeik4ZAmqa67MQrbSXXdLA&s=10" group-title="Kolkata Serial",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="237" tvg-name="Sun Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10" group-title="Kolkata Serial",Sun Bangla
+#EXTINF:-1 tvg-id="61" tvg-name="Sun Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPeA1q8qFj5p5Ji6MV5Cmg2b8G4o9vC8RVLN3sGfuEg&s=10" group-title="Kolkata Serial",Sun Bangla
 https://bdstream.bdstreamhubiptv.workers.dev/Sun_bangla.m3u8
 
-#EXTINF:-1 tvg-id="238" tvg-name="Gopal bhar tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjpnQz16rrhxIYlsttjetqvt0MynhaxY6z5X4ohR0wg&s=10" group-title="Cartoon",Gopal bhar tv
+#EXTINF:-1 tvg-id="62" tvg-name="Gopal bhar tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjpnQz16rrhxIYlsttjetqvt0MynhaxY6z5X4ohR0wg&s=10" group-title="Cartoon",Gopal bhar tv
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="239" tvg-name="Rangeen tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTTMD3W4KIdN9RyHDCBJp4g5ZbmzW6f-LKYDdrAf9tw&s=10" group-title="Cartoon",Rangeen tv
+#EXTINF:-1 tvg-id="63" tvg-name="Rangeen tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiTTMD3W4KIdN9RyHDCBJp4g5ZbmzW6f-LKYDdrAf9tw&s=10" group-title="Cartoon",Rangeen tv
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="240" tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10" group-title="Cartoon",Nick
+#EXTINF:-1 tvg-id="64" tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10" group-title="Cartoon",Nick
 https://bdstream.bdstreamhubiptv.workers.dev/Nick_HD.m3u8
 
-#EXTINF:-1 tvg-id="241" tvg-name="Super Hungma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhu_U-ZA4nWyfwUuaM1rwdfi2rwporCWfWcjpBzaFsg&s=10" group-title="Cartoon",Super Hungma
+#EXTINF:-1 tvg-id="65" tvg-name="Super Hungma" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdhu_U-ZA4nWyfwUuaM1rwdfi2rwporCWfWcjpBzaFsg&s=10" group-title="Cartoon",Super Hungma
 https://bdstream.bdstreamhubiptv.workers.dev/HUNGAMA_HD.m3u8
 
-#EXTINF:-1 tvg-id="242" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10" group-title="Cartoon",Sonic
+#EXTINF:-1 tvg-id="66" tvg-name="Sonic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdpvbDfvYyWEucN0-rqmCv6783_f1DC1T5Qe0e-Klr2A&s=10" group-title="Cartoon",Sonic
 https://go.skym3u.top/live/25d38/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456c7654420c5d165d.m3u8?t=7160&s=cc7&id=ok4z.m3u
 
-#EXTINF:-1 tvg-id="243" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtaeVWP8Y2zUFQAdpqzY1cUfzcPW7JtNIEJCEYdGwAg&s=10" group-title="Cartoon",Disney
+#EXTINF:-1 tvg-id="67" tvg-name="Disney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtaeVWP8Y2zUFQAdpqzY1cUfzcPW7JtNIEJCEYdGwAg&s=10" group-title="Cartoon",Disney
 https://bdstream.bdstreamhubiptv.workers.dev/DISNEY_SD.m3u8
 
-#EXTINF:-1 tvg-id="244" tvg-name="Discovery kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s" group-title="Cartoon",Discovery kids
+#EXTINF:-1 tvg-id="68" tvg-name="Discovery kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rIoxGglrltaWl9hgwosOYm2ziWuRuINGIGZdVWVCVg&s" group-title="Cartoon",Discovery kids
 https://stream.ottplus.bd/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
 
-#EXTINF:-1 tvg-id="245" tvg-name="Pogo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10" group-title="Cartoon",Pogo
+#EXTINF:-1 tvg-id="69" tvg-name="Pogo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwEOXzBBmo8h7-E9LGkj7UOB_1n5Ozajsux_Hlt9ZcQ&s=10" group-title="Cartoon",Pogo
 https://bdstream.bdstreamhubiptv.workers.dev/POCOHINDI.m3u8
 
-#EXTINF:-1 tvg-id="246" tvg-name="Sony YAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnJnfhga0E8npZuLba7hKlOwun2tSaNGN4O-cRVezPw&s" group-title="Cartoon",Sony YAY
+#EXTINF:-1 tvg-id="70" tvg-name="Sony YAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYnJnfhga0E8npZuLba7hKlOwun2tSaNGN4O-cRVezPw&s" group-title="Cartoon",Sony YAY
 https://bdstream.bdstreamhubiptv.workers.dev/SONY_YAY.m3u8
 
-#EXTINF:-1 tvg-id="247" tvg-name="Tom & Jery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10" group-title="Cartoon",Tom & Jery
+#EXTINF:-1 tvg-id="71" tvg-name="Tom & Jery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10" group-title="Cartoon",Tom & Jery
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="248" tvg-name="Khusboo bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10" group-title="Cartoon",Khusboo bangla
+#EXTINF:-1 tvg-id="72" tvg-name="Khusboo bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10" group-title="Cartoon",Khusboo bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-1 tvg-id="249" tvg-name="ZB Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10" group-title="Cartoon",ZB Cartoon
+#EXTINF:-1 tvg-id="73" tvg-name="ZB Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10" group-title="Cartoon",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 
-#EXTINF:-1 tvg-id="250" tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTwzGu32TyPzvEzVsnXusrnFlj_E7Q_t5LTS7RlWJWg&s=10" group-title="Cartoon",Jungle Book
+#EXTINF:-1 tvg-id="74" tvg-name="Jungle Book" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdTwzGu32TyPzvEzVsnXusrnFlj_E7Q_t5LTS7RlWJWg&s=10" group-title="Cartoon",Jungle Book
 https://bdstream.bdstreamhubiptv.workers.dev/Jungli_Book.m3u8
 
-#EXTINF:-1 tvg-id="251" tvg-name="Cartoon Network " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="Cartoon",Cartoon Network 
+#EXTINF:-1 tvg-id="75" tvg-name="Cartoon Network " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="Cartoon",Cartoon Network 
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 
-#EXTINF:-1 tvg-id="252" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="Hindi Serial",Star Plus
+#EXTINF:-1 tvg-id="76" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="Hindi Serial",Star Plus
 https://bdstream.bdstreamhubiptv.workers.dev/StarplusHD.m3u8
 
-#EXTINF:-1 tvg-id="253" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="Sports",Star Sports 1
+#EXTINF:-1 tvg-id="77" tvg-name="Star Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOy4pUR4GVRFLazX7u2Ag756DYhh3ldO9EIe_L28fw-A&s=10" group-title="Sports",Star Sports 1
 https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS1.m3u8
 
-#EXTINF:-1 tvg-id="254" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="Sports",Star Sports 2
+#EXTINF:-1 tvg-id="78" tvg-name="Star Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalhlJN7E3C56HocHopuco3LuJ24DeZflR1g8m44IS_g&s=10" group-title="Sports",Star Sports 2
 https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS2.m3u8
 
-#EXTINF:-1 tvg-id="255" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8nMR8vUPapumxtPTB0p3E0ZZYfr6xeVhfwXmuTXuHQ&s=10" group-title="Sports",STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-id="79" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8nMR8vUPapumxtPTB0p3E0ZZYfr6xeVhfwXmuTXuHQ&s=10" group-title="Sports",STAR SPORTS SELECT 2
 https://bdstream.bdstreamhubiptv.workers.dev/STARSPORTS_SELECT2.m3u8
 
-#EXTINF:-1 tvg-id="256" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="Sports",Ptv 
+#EXTINF:-1 tvg-id="80" tvg-name="Ptv " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0CIMQJv8aFpk2LzJwDd5v3wyyZBP9tyNpLL9cSjPL5Q&s=10" group-title="Sports",Ptv 
 https://bdstream.bdstreamhubiptv.workers.dev/PTV.m3u8
 
-#EXTINF:-1 tvg-id="257" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="Sports",A Sports 
+#EXTINF:-1 tvg-id="81" tvg-name="A Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnBVRqIwnC5QNnvVoEpwqYlP4FdOgiaAhcWVFjPzk7hg&s=10" group-title="Sports",A Sports 
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="258" tvg-name="M Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10" group-title="Sports",M Sports
+#EXTINF:-1 tvg-id="82" tvg-name="M Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJK0dkWhJSwOW0knwGtjxB1N9rp3jPiWA6yBznumnUQA&s=10" group-title="Sports",M Sports
 http://27.124.71.27/T-Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="259" tvg-name="Sony ten 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s" group-title="Sports",Sony ten 1
+#EXTINF:-1 tvg-id="83" tvg-name="Sony ten 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY3JrvGYExKWkoVlKojqA1AytlZhQlUMXODuzum8TFbQ&s" group-title="Sports",Sony ten 1
 https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_1.m3u8
 
-#EXTINF:-1 tvg-id="260" tvg-name="Sony ten  2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10" group-title="Sports",Sony ten  2
+#EXTINF:-1 tvg-id="84" tvg-name="Sony ten  2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyojXf3_rlXcXxJjmDvSwYKQsFxy39N0IMc1daVkJyxQ&s=10" group-title="Sports",Sony ten  2
 https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_2.m3u8
 
-#EXTINF:-1 tvg-id="261" tvg-name="WILLOW SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLDoAUPQhx0xNoCd9YbKyKX--fC8WVwbl4w4heNJXKw&s=10" group-title="Sports",WILLOW SPORTS
+#EXTINF:-1 tvg-id="85" tvg-name="WILLOW SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLDoAUPQhx0xNoCd9YbKyKX--fC8WVwbl4w4heNJXKw&s=10" group-title="Sports",WILLOW SPORTS
 https://bdstream.bdstreamhubiptv.workers.dev/WILLOW_SPORTS.m3u8
 
-#EXTINF:-1 tvg-id="262" tvg-name="Ten Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtnM0Lznz1iBnp9AjQETh1HXJ3LCMalP6jyxGCFuDUw&s=10" group-title="Sports",Ten Sports 
+#EXTINF:-1 tvg-id="86" tvg-name="Ten Sports " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtnM0Lznz1iBnp9AjQETh1HXJ3LCMalP6jyxGCFuDUw&s=10" group-title="Sports",Ten Sports 
 https://bdstream.bdstreamhubiptv.workers.dev/TEN_SPORTS.m3u8
 
-#EXTINF:-1 tvg-id="263" tvg-name="Caze Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports",Caze Tv
+#EXTINF:-1 tvg-id="87" tvg-name="Caze Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Sports",Caze Tv
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-id="264" tvg-name="Sony ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports",Sony ten 5
+#EXTINF:-1 tvg-id="88" tvg-name="Sony ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7d0d368840908947f0e3bb344c29c53f.png" group-title="Sports",Sony ten 5
 https://bdstream.bdstreamhubiptv.workers.dev/SONYTEN_5.m3u8
 
-#EXTINF:-1 tvg-id="265" tvg-name="Sony Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s" group-title="Hindi Serial",Sony Entertainment
+#EXTINF:-1 tvg-id="89" tvg-name="Sony Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjEl-3AvsODQM-Z0o9OWsO3r-vdk7KJXIHYlFoVOS_A&s" group-title="Hindi Serial",Sony Entertainment
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/index.m3u8
 
-#EXTINF:-1 tvg-id="266" tvg-name="Clours HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnB6lt5uxfg5c4LYbdNch_7pK72yHcyPK2conGmd5BA&s=10" group-title="Hindi Serial",Clours HD
+#EXTINF:-1 tvg-id="90" tvg-name="Clours HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMnB6lt5uxfg5c4LYbdNch_7pK72yHcyPK2conGmd5BA&s=10" group-title="Hindi Serial",Clours HD
 https://bdstream.bdstreamhubiptv.workers.dev/COLORS_HD.m3u8
 
-#EXTINF:-1 tvg-id="267" tvg-name="Colors Cinplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oc0XdGxIbg933Kqm8Jb1hnbjzxeURqkkGoRTGACfzQ&s=10" group-title="Movie's",Colors Cinplex
+#EXTINF:-1 tvg-id="91" tvg-name="Colors Cinplex" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oc0XdGxIbg933Kqm8Jb1hnbjzxeURqkkGoRTGACfzQ&s=10" group-title="Movie's",Colors Cinplex
 https://bdstream.bdstreamhubiptv.workers.dev/COLORS_CINPLEX.m3u8
 
-#EXTINF:-1 tvg-id="268" tvg-name="B4U Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnzxdP8-VmS1m5nxukY7H-EI3TiuHbD7D7I-CZQYGkg&s" group-title="Movie's",B4U Movies
+#EXTINF:-1 tvg-id="92" tvg-name="B4U Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEnzxdP8-VmS1m5nxukY7H-EI3TiuHbD7D7I-CZQYGkg&s" group-title="Movie's",B4U Movies
 https://bdstream.bdstreamhubiptv.workers.dev/B4_MOVIE_HD.m3u8
 
-#EXTINF:-1 tvg-id="269" tvg-name="Zee Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10" group-title="Movie's",Zee Cinema
+#EXTINF:-1 tvg-id="93" tvg-name="Zee Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsc-0h39AjTFA6FxAt59Jb4m8JstNvDtZZu_M-4GMt1w&s=10" group-title="Movie's",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
-#EXTINF:-1 tvg-id="270" tvg-name="Zee Action " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRuN7s143640vyGppEmUhZ44E4lm0YyBr51yEJJdt&s" group-title="Movie's",Zee Action 
+#EXTINF:-1 tvg-id="94" tvg-name="Zee Action " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRuN7s143640vyGppEmUhZ44E4lm0YyBr51yEJJdt&s" group-title="Movie's",Zee Action 
 http://103.175.73.12:8080/live/270/270_0.m3u8
 
-#EXTINF:-1 tvg-id="271" tvg-name="South Station Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10" group-title="Movie's",South Station Tv
+#EXTINF:-1 tvg-id="95" tvg-name="South Station Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4tosbQkxH6dUQiPDTh5AqB4ase6-GUeYm9psZnxnGIw&s=10" group-title="Movie's",South Station Tv
 https://d1rfqi6gr2lw4k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-fqu6rxobd50d5/SS_IN.m3u8?ads.ads_cdn=cf&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.cdn=cf&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.service_id=IN3800008CX&ads.ssai_vendor=SSSLIVE&pb_type=pb-fqu6rxobd50d5_cloudfront
 
-#EXTINF:-1 tvg-id="272" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10" group-title="Movie's",Sony Max HD
+#EXTINF:-1 tvg-id="96" tvg-name="Sony Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkLdGKwDViKOs91kKeaxyQkFTKV-NxRsY1WAbordmgQ&s=10" group-title="Movie's",Sony Max HD
 https://bdstream.bdstreamhubiptv.workers.dev/Sony_Max.m3u8
 
-#EXTINF:-1 tvg-id="273" tvg-name="Star Gold Select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAVuswg-HXXdJXWIctxLVyPz4oUQW967Ihya1FUwzvC1D-SXIlEFg8zQ&s" group-title="Movie's",Star Gold Select
+#EXTINF:-1 tvg-id="97" tvg-name="Star Gold Select" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSAVuswg-HXXdJXWIctxLVyPz4oUQW967Ihya1FUwzvC1D-SXIlEFg8zQ&s" group-title="Movie's",Star Gold Select
 https://bdstream.bdstreamhubiptv.workers.dev/GOLOD_SELECT.m3u8
 
-#EXTINF:-1 tvg-id="274" tvg-name="Sun Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSZxtLwZ_v9QTjQH7zx0xqfLyDxUswmjTf7ZCZ-AU3A&s=10" group-title="Hindi Serial",Sun Tv
+#EXTINF:-1 tvg-id="98" tvg-name="Sun Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSZxtLwZ_v9QTjQH7zx0xqfLyDxUswmjTf7ZCZ-AU3A&s=10" group-title="Hindi Serial",Sun Tv
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
-#EXTINF:-1 tvg-id="275" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="Documentary",Discovery
+#EXTINF:-1 tvg-id="99" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="Documentary",Discovery
 https://bdstream.bdstreamhubiptv.workers.dev/DISCOVER.m3u8
 
-#EXTINF:-1 tvg-id="276" tvg-name="Sony BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3ZcMMhI5x4KJKUQC5ZUy1iFqVr6mb7eVAzm0YrJCgA&s=10" group-title="Documentary",Sony BBC Earth
+#EXTINF:-1 tvg-id="100" tvg-name="Sony BBC Earth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3ZcMMhI5x4KJKUQC5ZUy1iFqVr6mb7eVAzm0YrJCgA&s=10" group-title="Documentary",Sony BBC Earth
 https://bdstream.bdstreamhubiptv.workers.dev/SONY_BBC_EARTH.m3u8
 
-#EXTINF:-1 tvg-id="277" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHWfiNKUmT4KmrISAov7p8hUpiVSbG-xVZOiw0LBr-Q&s=10" group-title="Documentary",Animal Planet
+#EXTINF:-1 tvg-id="101" tvg-name="Animal Planet" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHWfiNKUmT4KmrISAov7p8hUpiVSbG-xVZOiw0LBr-Q&s=10" group-title="Documentary",Animal Planet
 https://bdstream.bdstreamhubiptv.workers.dev/ANIMAL_PLANET.m3u8
 
-#EXTINF:-1 tvg-id="278" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="Documentary",National Geography
+#EXTINF:-1 tvg-id="102" tvg-name="National Geography" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQMkkwMQun9M-HmoHzzMwAn3_W-5SqgIJNfxv1sAdeg&s=10" group-title="Documentary",National Geography
 https://bdstream.bdstreamhubiptv.workers.dev/155772 NAT-GEO.m3u8
 
-#EXTINF:-1 tvg-id="279" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2bv3niBb4yER2BgqF03b30m3FaHlRzoHtocCymX9Zw&s=10" group-title="English Movie",HBO
+#EXTINF:-1 tvg-id="103" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2bv3niBb4yER2BgqF03b30m3FaHlRzoHtocCymX9Zw&s=10" group-title="English Movie",HBO
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 
-#EXTINF:-1 tvg-id="280" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="English Movie",AXN
+#EXTINF:-1 tvg-id="104" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="English Movie",AXN
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 
-#EXTINF:-1 tvg-id="281" tvg-name="MoviesNow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcB1cudTC4GPZVQWuDnYrm2Bi110L6IVRPC4rm2HWLU6OQC_OOQlFVgA&s" group-title="English Movie",MoviesNow HD
+#EXTINF:-1 tvg-id="105" tvg-name="MoviesNow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcB1cudTC4GPZVQWuDnYrm2Bi110L6IVRPC4rm2HWLU6OQC_OOQlFVgA&s" group-title="English Movie",MoviesNow HD
 https://bdstream.bdstreamhubiptv.workers.dev/MoviewsNow.m3u8
 
-#EXTINF:-1 tvg-id="282" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="Music",Sangeet Bangla tv
+#EXTINF:-1 tvg-id="106" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="Music",Sangeet Bangla tv
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 tvg-id="283" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="Music",Music India tv
+#EXTINF:-1 tvg-id="107" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="Music",Music India tv
 http://103.175.73.12:8080/live/158/158_0.m3u8
 
-#EXTINF:-1 tvg-id="284" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="Music",9XM Music tv
+#EXTINF:-1 tvg-id="108" tvg-name="9XM Music tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Av5Rbg5bGznka_2nXEHwSdKhdb4d5KecL4ZOD8TFw&s=10" group-title="Music",9XM Music tv
 http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:-1 tvg-id="285" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="Music",8XM Music
+#EXTINF:-1 tvg-id="109" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="Music",8XM Music
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 
-#EXTINF:-1 tvg-id="286" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="Music",Songeet Bhojpuri
+#EXTINF:-1 tvg-id="110" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="Music",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
