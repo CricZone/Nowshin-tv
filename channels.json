@@ -22,7 +22,16 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1787918167183
+    "created_at": 1787918167183,
+    "tournament": "England vs Pakistan",
+    "tournament_logo": "https://i.postimg.cc/9FLw6R3g/cricket.png",
+    "team1_name": "England",
+    "team2_name": "Pakistan",
+    "team1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+    "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
+    "start_time": "2026-08-28 22:00:00",
+    "time_bd": "10:00 PM",
+    "date_bd": "28/08/2026"
   },
   {
     "serial": 2,
