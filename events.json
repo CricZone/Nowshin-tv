@@ -3,7 +3,28 @@
     {
       "name": "All",
       "icon": "https://i.postimg.cc/13B2gwBB/file-000000004748720798c2bfefb13a0685.png"
+    },
+    {
+      "name": "Cricket",
+      "icon": "https://i.postimg.cc/9FLw6R3g/cricket.png"
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "101",
+      "category": "Cricket",
+      "tournament": "ICC World Test Championship",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+      "team1_name": "England",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+      "team2_name": "Pakistan",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "start_time": "2026-08-28 16:00:00",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd?drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd?drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
+      "is_high_voltage": false,
+      "headers": {
+        "User-Agent": "BDStreamHub/2.0"
+      }
+    }
+  ]
 }
