@@ -1,6 +1,174 @@
 [
   {
     "serial": 1,
+    "name": "Thailand Women vs Hong Kong C.",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/446070/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/187796/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/446070/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/187796/image",
+    "team1": "Thailand Women",
+    "team2": "Hong Kong C.",
+    "title": "Womens Asia Cup",
+    "tournament": "Womens Asia Cup",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark",
+    "time": "08:30 PM 28/08/2026",
+    "start_time": "2026-08-28 20:30:00",
+    "sport_category": "Cricket",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd|drmScheme=clearkey&drmLicense=79d85379d6ccd159978086e33696b902:58a756d824c66a703f9428ecda61343a#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd|drmScheme=clearkey&drmLicense=79d85379d6ccd159978086e33696b902:58a756d824c66a703f9428ecda61343a#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1787932844932
+  },
+  {
+    "serial": 2,
+    "name": "Namibia vs South Africa",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/199275/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/187747/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/199275/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/187747/image",
+    "team1": "Namibia",
+    "team2": "South Africa",
+    "title": "T20I Tri-Series in Namibia",
+    "tournament": "T20I Tri-Series in Namibia",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark",
+    "time": "06:00 PM 28/08/2026",
+    "start_time": "2026-08-28 18:00:00",
+    "sport_category": "Cricket",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1787946628~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=b41d14633584fff20b9aac9873b9724e25dc580309c740deea26cb77ff853ef5/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c#STREAM + FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1787932844932
+  },
+  {
+    "serial": 3,
+    "name": "Trinbago Knight Riders vs Barbados Tridents",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/187824/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/187795/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/187824/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/187795/image",
+    "team1": "Trinbago Knight Riders",
+    "team2": "Barbados Tridents",
+    "title": "Caribbean Premier League",
+    "tournament": "Caribbean Premier League",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+    "time": "06:00 AM 29/08/2026",
+    "start_time": "2026-08-29 06:00:00",
+    "sport_category": "Cricket",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8#SKY3 NZ HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1787932844932
+  },
+  {
+    "serial": 4,
+    "name": "EUROPEAN T20 vs Premier League",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "teamBLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "team1": "EUROPEAN T20",
+    "team2": "Premier League",
+    "title": "EUROPEAN T20 Premier League",
+    "tournament": "EUROPEAN T20 Premier League",
+    "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "time": "07:15 PM 28/08/2026",
+    "start_time": "2026-08-28 19:15:00",
+    "sport_category": "Cricket",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/st9ogvodch/out/v1/ee8a9f8060e845f497cd83bb229a32fb/cenc.mpd|drmScheme=clearkey&drmLicense=b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097#WILLOW FHD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1787932844932
+  },
+  {
+    "serial": 5,
+    "name": "Top End T20 Series 2026 vs Top End T20 Series 2026",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+    "teamBLogo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+    "logo1": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+    "logo2": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+    "team1": "Top End T20 Series 2026",
+    "team2": "Top End T20 Series 2026",
+    "title": "Top End T20 Series 2026",
+    "tournament": "Top End T20 Series 2026",
+    "tournament_logo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+    "time": "05:00 AM 29/08/2026",
+    "start_time": "2026-08-29 05:00:00",
+    "sport_category": "Cricket",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3ejohnqod7/out/v1/b277a5f8dc6a441691d7468300c74769/cenc.mpd|drmScheme=clearkey&drmLicense=1542f9e1851830b99ccf70ed1358f5fa:5be3c54b1ce811dcc277faa1e6268472#WILLOW FHD $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS CAST $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW HD $ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8#T SPORTS HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1787932844932
+  },
+  {
+    "serial": 6,
+    "name": "England vs Pakistan",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/187757/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/187754/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/187757/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
+    "team1": "England",
+    "team2": "Pakistan",
+    "title": "ICC World Test Championship",
+    "tournament": "ICC World Test Championship",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+    "time": "04:00 PM 28/08/2026",
+    "start_time": "2026-08-28 16:00:00",
+    "sport_category": "Cricket",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd|drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd|drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1787932844932
+  },
+  {
+    "serial": 7,
     "name": "Peace Tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -17,7 +185,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 2,
+    "serial": 8,
     "name": "Makkah tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -34,7 +202,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 3,
+    "serial": 9,
     "name": "Madani ",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -51,7 +219,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 4,
+    "serial": 10,
     "name": "Btv News",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -68,7 +236,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 5,
+    "serial": 11,
     "name": "Alpona Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -85,7 +253,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 6,
+    "serial": 12,
     "name": "Sonsad Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -102,7 +270,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 7,
+    "serial": 13,
     "name": "Bangla Vision Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -119,7 +287,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 8,
+    "serial": 14,
     "name": "Boishakhi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -136,7 +304,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 9,
+    "serial": 15,
     "name": "Chaanel i",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -153,7 +321,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 10,
+    "serial": 16,
     "name": "Gazi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -170,7 +338,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 11,
+    "serial": 17,
     "name": "Deepto Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -187,7 +355,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 12,
+    "serial": 18,
     "name": "Rtv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -204,7 +372,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 13,
+    "serial": 19,
     "name": "Green Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -221,7 +389,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 14,
+    "serial": 20,
     "name": "Nagorik Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -238,7 +406,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 15,
+    "serial": 21,
     "name": "Ekushey Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -255,7 +423,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 16,
+    "serial": 22,
     "name": "My Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -272,7 +440,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 17,
+    "serial": 23,
     "name": "Ntv",
     "category": "BD News",
     "epg_id": "",
@@ -289,7 +457,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 18,
+    "serial": 24,
     "name": "Bijoy tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -306,7 +474,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 19,
+    "serial": 25,
     "name": "Asian Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -323,7 +491,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 20,
+    "serial": 26,
     "name": "Ananda Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -340,7 +508,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 21,
+    "serial": 27,
     "name": "Massranga tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -357,7 +525,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 22,
+    "serial": 28,
     "name": "Mohona tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -374,7 +542,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 23,
+    "serial": 29,
     "name": "Channel 9 tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -391,7 +559,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 24,
+    "serial": 30,
     "name": "Sa tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -408,7 +576,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 25,
+    "serial": 31,
     "name": "Bangla tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -425,7 +593,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 26,
+    "serial": 32,
     "name": "Amer Bangla 24",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -442,7 +610,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 27,
+    "serial": 33,
     "name": "Movie Bangla Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -459,7 +627,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 28,
+    "serial": 34,
     "name": "Srk tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -476,7 +644,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 29,
+    "serial": 35,
     "name": "Shikor tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -493,7 +661,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 30,
+    "serial": 36,
     "name": "G Series",
     "category": "BD 24/7",
     "epg_id": "",
@@ -510,7 +678,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 31,
+    "serial": 37,
     "name": "News 21 Bangla",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -527,7 +695,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 32,
+    "serial": 38,
     "name": "Movie",
     "category": "BD 24/7",
     "epg_id": "",
@@ -544,7 +712,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 33,
+    "serial": 39,
     "name": "Desh tv",
     "category": "BD News",
     "epg_id": "",
@@ -561,7 +729,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 34,
+    "serial": 40,
     "name": "Channel 1",
     "category": "BD News",
     "epg_id": "",
@@ -578,7 +746,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 35,
+    "serial": 41,
     "name": "Jago News Tv",
     "category": "BD News",
     "epg_id": "",
@@ -595,7 +763,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 36,
+    "serial": 42,
     "name": "T Sports",
     "category": "BD Sports",
     "epg_id": "",
@@ -612,7 +780,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 37,
+    "serial": 43,
     "name": "Atn News",
     "category": "BD News",
     "epg_id": "",
@@ -629,7 +797,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 38,
+    "serial": 44,
     "name": "Atn Bangla",
     "category": "BD News",
     "epg_id": "",
@@ -646,7 +814,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 39,
+    "serial": 45,
     "name": "Independent News",
     "category": "BD News",
     "epg_id": "",
@@ -663,7 +831,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 40,
+    "serial": 46,
     "name": "Ekttor Tv",
     "category": "BD News",
     "epg_id": "",
@@ -680,7 +848,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 41,
+    "serial": 47,
     "name": "Channel 24",
     "category": "BD News",
     "epg_id": "",
@@ -697,7 +865,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 42,
+    "serial": 48,
     "name": "News 24",
     "category": "BD News",
     "epg_id": "",
@@ -714,7 +882,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 43,
+    "serial": 49,
     "name": "Star News",
     "category": "BD News",
     "epg_id": "",
@@ -731,7 +899,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 44,
+    "serial": 50,
     "name": "DBC News",
     "category": "BD News",
     "epg_id": "",
@@ -748,7 +916,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 45,
+    "serial": 51,
     "name": "Somoy News",
     "category": "BD News",
     "epg_id": "",
@@ -765,7 +933,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 46,
+    "serial": 52,
     "name": "Jamuna News",
     "category": "BD News",
     "epg_id": "",
@@ -782,7 +950,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 47,
+    "serial": 53,
     "name": "Ekhon tv",
     "category": "BD News",
     "epg_id": "",
@@ -799,7 +967,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 48,
+    "serial": 54,
     "name": "Star Jalsha HD",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -816,7 +984,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 49,
+    "serial": 55,
     "name": "Zee Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -833,7 +1001,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 50,
+    "serial": 56,
     "name": "Colours Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -850,7 +1018,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 51,
+    "serial": 57,
     "name": "Colors bangla Cinema",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -867,7 +1035,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 52,
+    "serial": 58,
     "name": "Zee Bangla Sonar",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -884,7 +1052,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 53,
+    "serial": 59,
     "name": "Sony Aath",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -901,7 +1069,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 54,
+    "serial": 60,
     "name": "Jalsha Movies",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -918,7 +1086,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 55,
+    "serial": 61,
     "name": "Bangla Plues",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -935,7 +1103,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 56,
+    "serial": 62,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -952,7 +1120,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 57,
+    "serial": 63,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -969,7 +1137,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 58,
+    "serial": 64,
     "name": "Enter 10 Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -986,7 +1154,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 59,
+    "serial": 65,
     "name": "Sun Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1003,7 +1171,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 60,
+    "serial": 66,
     "name": "Gopal bhar tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -1020,7 +1188,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 61,
+    "serial": 67,
     "name": "Rangeen tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -1037,7 +1205,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 62,
+    "serial": 68,
     "name": "Nick",
     "category": "Cartoon",
     "epg_id": "",
@@ -1054,7 +1222,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 63,
+    "serial": 69,
     "name": "Super Hungma",
     "category": "Cartoon",
     "epg_id": "",
@@ -1071,7 +1239,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 64,
+    "serial": 70,
     "name": "Sonic",
     "category": "Cartoon",
     "epg_id": "",
@@ -1088,7 +1256,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 65,
+    "serial": 71,
     "name": "Disney",
     "category": "Cartoon",
     "epg_id": "",
@@ -1105,7 +1273,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 66,
+    "serial": 72,
     "name": "Discovery kids",
     "category": "Cartoon",
     "epg_id": "",
@@ -1122,7 +1290,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 67,
+    "serial": 73,
     "name": "Pogo",
     "category": "Cartoon",
     "epg_id": "",
@@ -1139,7 +1307,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 68,
+    "serial": 74,
     "name": "Sony YAY",
     "category": "Cartoon",
     "epg_id": "",
@@ -1156,7 +1324,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 69,
+    "serial": 75,
     "name": "Tom & Jery",
     "category": "Cartoon",
     "epg_id": "",
@@ -1173,7 +1341,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 70,
+    "serial": 76,
     "name": "Khusboo bangla",
     "category": "Cartoon",
     "epg_id": "",
@@ -1190,7 +1358,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 71,
+    "serial": 77,
     "name": "ZB Cartoon",
     "category": "Cartoon",
     "epg_id": "",
@@ -1207,7 +1375,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 72,
+    "serial": 78,
     "name": "Jungle Book",
     "category": "Cartoon",
     "epg_id": "",
@@ -1224,7 +1392,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 73,
+    "serial": 79,
     "name": "Cartoon Network ",
     "category": "Cartoon",
     "epg_id": "",
@@ -1241,7 +1409,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 74,
+    "serial": 80,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1258,7 +1426,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 75,
+    "serial": 81,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -1275,7 +1443,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 76,
+    "serial": 82,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -1292,7 +1460,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 77,
+    "serial": 83,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -1309,7 +1477,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 78,
+    "serial": 84,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -1326,7 +1494,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 79,
+    "serial": 85,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1343,7 +1511,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 80,
+    "serial": 86,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -1360,7 +1528,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 81,
+    "serial": 87,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -1377,7 +1545,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 82,
+    "serial": 88,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -1394,7 +1562,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 83,
+    "serial": 89,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -1411,7 +1579,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 84,
+    "serial": 90,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1428,7 +1596,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 85,
+    "serial": 91,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -1445,7 +1613,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 86,
+    "serial": 92,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -1462,7 +1630,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 87,
+    "serial": 93,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1479,7 +1647,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 88,
+    "serial": 94,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1496,7 +1664,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 89,
+    "serial": 95,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -1513,7 +1681,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 90,
+    "serial": 96,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -1530,7 +1698,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 91,
+    "serial": 97,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -1547,7 +1715,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 92,
+    "serial": 98,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -1564,7 +1732,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 93,
+    "serial": 99,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -1581,7 +1749,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 94,
+    "serial": 100,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -1598,7 +1766,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 95,
+    "serial": 101,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -1615,7 +1783,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 96,
+    "serial": 102,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1632,7 +1800,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 97,
+    "serial": 103,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -1649,7 +1817,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 98,
+    "serial": 104,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -1666,7 +1834,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 99,
+    "serial": 105,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -1683,7 +1851,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 100,
+    "serial": 106,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -1700,7 +1868,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 101,
+    "serial": 107,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -1717,7 +1885,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 102,
+    "serial": 108,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -1734,7 +1902,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 103,
+    "serial": 109,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -1751,7 +1919,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 104,
+    "serial": 110,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -1768,7 +1936,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 105,
+    "serial": 111,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -1785,7 +1953,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 106,
+    "serial": 112,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -1802,7 +1970,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 107,
+    "serial": 113,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -1819,7 +1987,7 @@
     "duration_mins": 120
   },
   {
-    "serial": 108,
+    "serial": 114,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
