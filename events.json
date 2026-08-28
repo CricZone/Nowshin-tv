@@ -31,22 +31,6 @@
       "team1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
       "team2_name": "Pakistan",
       "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "start_time": "2026-08-28 16:00:00",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd?drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd?drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
-      "is_high_voltage": false,
-      "headers": {
-        "User-Agent": "BDStreamHub/2.0"
-      }
-    },
-    {
-      "id": "102",
-      "category": "Cricket",
-      "tournament": "ICC World Test Championship",
-      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-      "team1_name": "England",
-      "team1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
-      "team2_name": "Pakistan",
-      "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "start_time": "2026-08-28 10:00:00",
       "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd|drmScheme=clearkey&drmLicense=1b3104b62743843561a440babd015d34:c4401f6ccc1d262a1fbcf5b449dbc2e1#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
       "is_high_voltage": false,
@@ -55,7 +39,7 @@
       }
     },
     {
-      "id": "103",
+      "id": "102",
       "category": "Motorsports",
       "tournament": "MotoGP Evento",
       "tournament_logo": "https://sportzfy.me/wp-content/uploads/2026/02/mgpp.png",
@@ -71,7 +55,7 @@
       }
     },
     {
-      "id": "104",
+      "id": "103",
       "category": "Other",
       "tournament": "Snooker",
       "tournament_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
@@ -87,7 +71,7 @@
       }
     },
     {
-      "id": "105",
+      "id": "104",
       "category": "Motorsports",
       "tournament": "WRC Rally",
       "tournament_logo": "https://img.sofascore.com/api/v1/category/84/image",
@@ -103,7 +87,7 @@
       }
     },
     {
-      "id": "106",
+      "id": "105",
       "category": "Boxing",
       "tournament": "One Friday Fights",
       "tournament_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -119,7 +103,7 @@
       }
     },
     {
-      "id": "107",
+      "id": "106",
       "category": "Cricket",
       "tournament": "ICC World Test Championship",
       "tournament_logo": "https://img.sofascore.com/api/v1/team/187757/image",
@@ -135,7 +119,7 @@
       }
     },
     {
-      "id": "108",
+      "id": "107",
       "category": "Cricket",
       "tournament": "ICC World Test Championship",
       "tournament_logo": "https://img.sofascore.com/api/v1/team/187756/image",
