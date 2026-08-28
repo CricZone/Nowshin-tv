@@ -1,54 +1,86 @@
-[
-  {
-    "id": "ev_1",
-    "title": "ICC World Test Championship",
-    "team1": "England",
-    "team2": "Pakistan",
-    "logo1": "https://img.sofascore.com/api/v1/team/187757/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
-    "time": "04:00 pm 28/08/2026",
-    "category": "Cricket",
-    "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd|drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd|drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
-    "is_high_voltage": false,
-    "created_at": 1787918167183
-  },
-  {
-    "id": "ev_2",
-    "title": "Friday Night SmackDown",
-    "team1": "SmackDown",
-    "team2": "SmackDown",
-    "logo1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
-    "logo2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
-    "time": "06:00 am 29/08/2026",
-    "category": "Boxing",
-    "streams": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#TV WWE ALT $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8#HD QUALITY 2 $ https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8#SPORT CAST FHD $ https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8#WWE LIVE HD $ https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8#WWE SMACKDOWN $ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41#USA TV (US VPN)",
-    "is_high_voltage": false,
-    "created_at": 1787918167183
-  },
-  {
-    "id": "ev_3",
-    "title": "Premier League",
-    "team1": "Manchester City",
-    "team2": "Crystal Palace",
-    "logo1": "https://img.sofascore.com/api/v1/team/17/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/7/image",
-    "time": "01:00 am 29/08/2026",
-    "category": "Football",
-    "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f#FUBO SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT $ https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8#SKY Premier League $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD",
-    "is_high_voltage": false,
-    "created_at": 1787918167183
-  },
-  {
-    "id": "ev_4",
-    "title": "UEFA League Draws",
-    "team1": "UCL Draws",
-    "team2": "UCL Draws",
-    "logo1": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-    "logo2": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
-    "time": "05:00 pm 28/08/2026",
-    "category": "Football",
-    "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD",
-    "is_high_voltage": false,
-    "created_at": 1787918167183
-  }
-]
+{
+  "categories": [
+    {
+      "name": "All",
+      "icon": "https://i.postimg.cc/13B2gwBB/file-000000004748720798c2bfefb13a0685.png"
+    },
+    {
+      "name": "Cricket",
+      "icon": "https://i.postimg.cc/9FLw6R3g/cricket.png"
+    },
+    {
+      "name": "Boxing",
+      "icon": "https://i.postimg.cc/k47tXh8G/wwe.png"
+    },
+    {
+      "name": "Football",
+      "icon": "https://i.postimg.cc/Pf5Z3gL0/football.png"
+    }
+  ],
+  "events": [
+    {
+      "id": "101",
+      "category": "Cricket",
+      "tournament": "ICC World Test Championship",
+      "tournament_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+      "team1_name": "England",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+      "team2_name": "Pakistan",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "start_time": "2026-08-28 18:00:00",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd|drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd|drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
+      "is_high_voltage": false,
+      "headers": {
+        "User-Agent": "BDStreamHub/2.0"
+      }
+    },
+    {
+      "id": "102",
+      "category": "Boxing",
+      "tournament": "Friday Night SmackDown",
+      "tournament_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+      "team1_name": "SmackDown",
+      "team1_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+      "team2_name": "SmackDown",
+      "team2_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+      "start_time": "2026-08-28 18:00:00",
+      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#TV WWE ALT $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8#HD QUALITY 2 $ https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8#SPORT CAST FHD $ https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8#WWE LIVE HD $ https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8#WWE SMACKDOWN $ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41#USA TV (US VPN)",
+      "is_high_voltage": false,
+      "headers": {
+        "User-Agent": "BDStreamHub/2.0"
+      }
+    },
+    {
+      "id": "103",
+      "category": "Football",
+      "tournament": "Premier League",
+      "tournament_logo": "https://img.sofascore.com/api/v1/team/17/image",
+      "team1_name": "Manchester City",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/17/image",
+      "team2_name": "Crystal Palace",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/7/image",
+      "start_time": "2026-08-28 18:00:00",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f#FUBO SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT $ https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8#SKY Premier League $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD",
+      "is_high_voltage": false,
+      "headers": {
+        "User-Agent": "BDStreamHub/2.0"
+      }
+    },
+    {
+      "id": "104",
+      "category": "Football",
+      "tournament": "UEFA League Draws",
+      "tournament_logo": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+      "team1_name": "UCL Draws",
+      "team1_logo": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+      "team2_name": "UCL Draws",
+      "team2_logo": "https://pbs.twimg.com/profile_images/1816474701360685056/-JaD_SYC_400x400.jpg",
+      "start_time": "2026-08-28 18:00:00",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD",
+      "is_high_voltage": false,
+      "headers": {
+        "User-Agent": "BDStreamHub/2.0"
+      }
+    }
+  ]
+}
