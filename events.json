@@ -3,48 +3,7 @@
     {
       "name": "All",
       "icon": "https://i.postimg.cc/13B2gwBB/file-000000004748720798c2bfefb13a0685.png"
-    },
-    {
-      "name": "Cricket",
-      "icon": "https://i.postimg.cc/9FLw6R3g/cricket.png"
-    },
-    {
-      "name": "Motorsports",
-      "icon": "https://i.postimg.cc/k47tXh8G/f1.png"
     }
   ],
-  "events": [
-    {
-      "id": "101",
-      "category": "Cricket",
-      "tournament": "ICC World Test Championship",
-      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
-      "team1_name": "England",
-      "team1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
-      "team2_name": "Pakistan",
-      "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
-      "start_time": "2026-08-28 10:00:00",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd|drmScheme=clearkey&drmLicense=1b3104b62743843561a440babd015d34:c4401f6ccc1d262a1fbcf5b449dbc2e1#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
-      "is_high_voltage": false,
-      "headers": {
-        "User-Agent": "BDStreamHub/2.0"
-      }
-    },
-    {
-      "id": "102",
-      "category": "Motorsports",
-      "tournament": "MotoGP Evento",
-      "tournament_logo": "https://sportzfy.me/wp-content/uploads/2026/02/mgpp.png",
-      "team1_name": "MotorGP",
-      "team1_logo": "https://sportzfy.me/wp-content/uploads/2026/02/mgpp.png",
-      "team2_name": "MotorGP",
-      "team2_logo": "https://sportzfy.me/wp-content/uploads/2026/02/mgpp.png",
-      "start_time": "2026-08-28 18:00:00",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed#SPOTV FHD $ https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click#DAZN SPORTS $ https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click#CANAL+ HD",
-      "is_high_voltage": false,
-      "headers": {
-        "User-Agent": "BDStreamHub/2.0"
-      }
-    }
-  ]
+  "events": []
 }
