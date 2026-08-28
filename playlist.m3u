@@ -333,3 +333,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="Music",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
+#EXTINF:-1 tvg-id="112" tvg-name="Test" tvg-logo="https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png" group-title="Bangladeshi",Test
+https://bdstream.bdstreamhubiptv.workers.dev/
+
