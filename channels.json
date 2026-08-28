@@ -1,7 +1,7 @@
 [
   {
     "serial": 1,
-    "name": "Test",
+    "name": "Test vs Test",
     "category": "Live Event",
     "epg_id": "",
     "logo": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
@@ -12,7 +12,16 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Offline",
-    "is_high_voltage": true
+    "is_high_voltage": false,
+    "title": "Test",
+    "team1": "Test",
+    "team2": "Test",
+    "logo1": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
+    "logo2": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
+    "teamBLogo": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
+    "time": "10:30 am 28/08/2026",
+    "sport_category": "Live Event",
+    "is_event": true
   },
   {
     "serial": 2,
