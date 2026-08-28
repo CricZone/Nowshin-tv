@@ -1912,5 +1912,19 @@
     "failCount": 0,
     "successCount": 0,
     "duration_mins": 120
+  },
+  {
+    "serial": 112,
+    "name": "Test",
+    "category": "Bangladeshi",
+    "epg_id": "",
+    "logo": "https://i.postimg.cc/gjD0MkRD/file-00000000c1087209a5fd6b04173ebd59-(2).png",
+    "url": "https://bdstream.bdstreamhubiptv.workers.dev/",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   }
 ]
