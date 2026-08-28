@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="England vs Pakistan" tvg-logo="https://img.sofascore.com/api/v1/team/187757/image" group-title="Live Event",England vs Pakistan
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd?drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd?drmScheme=clearkey&drmLicense=efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD
@@ -14,9 +14,6 @@ https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="Bangladeshi",Btv News
 https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="Alpona Tv" tvg-logo="https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp" group-title="Bangladeshi",Alpona Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="7" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="Bangladeshi",Sonsad Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
@@ -47,9 +44,6 @@ https://bdstream.bdstreamhubiptv.workers.dev/Nagorik_Tv.m3u8
 
 #EXTINF:-1 tvg-id="16" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10" group-title="Bangladeshi",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-#EXTINF:-1 tvg-id="17" tvg-name="My Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s" group-title="Bangladeshi",My Tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="18" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="BD News",Ntv
 https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
@@ -86,9 +80,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="29" tvg-name="Srk tv" tvg-logo="https://yt3.googleusercontent.com/SI5MlFyc4HNhXu-NO9wrFXhssF3y5FAYfo9gGdnt72dUqV-NxPGPkxltLLa1btgv8O0cEB7l6jE=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Srk tv
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="30" tvg-name="Shikor tv" tvg-logo="https://shikortvcanada.com/wp-content/uploads/2025/07/Shikor-TV-Final-logo-02-1536x650.png" group-title="Bangladeshi",Shikor tv
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="31" tvg-name="G Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10" group-title="BD 24/7",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
