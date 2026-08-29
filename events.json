@@ -24,6 +24,72 @@
     },
     {
       "id": "ev_2",
+      "category": "Cricket",
+      "tournament": "ICC World Test Championship",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+      "team1_name": "England",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/187757/image",
+      "team2_name": "Pakistan",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
+      "start_time": "2026-08-30 16:00:00",
+      "duration": "495",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|drmScheme=clearkey&drmLicense=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|drmScheme=clearkey&drmLicense=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#QUALITY (USE VPN) $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
+      "title": "ICC World Test Championship",
+      "team1": "England",
+      "team2": "Pakistan",
+      "logo1": "https://img.sofascore.com/api/v1/team/187757/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
+      "time": "04:00 PM 30/08/2026",
+      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|drmScheme=clearkey&drmLicense=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|drmScheme=clearkey&drmLicense=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD $ http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#QUALITY (USE VPN) $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#SUPERSPORT HD $ https://cdn33186422.blzcdn.net/dx14md/tracks-v1a1/mono.m3u8|origin=https://copyright.com&referer=https://copyright.com/&User-agent=Dalvik/2.1.0 (Linux; U; Android 12; M2007J20CG Build/SKQ1.211019.001)#WILLOW SD",
+      "is_high_voltage": false,
+      "created_at": 1788029861818
+    },
+    {
+      "id": "ev_3",
+      "category": "Cricket",
+      "tournament": "EUROPEAN T20 Premier League",
+      "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+      "team1_name": "EUROPEAN T20",
+      "team1_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+      "team2_name": "Premier League",
+      "team2_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+      "start_time": "2026-08-30 15:30:00",
+      "duration": "250",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zkueearjie/out/v1/0f433738f98b428cba6bcc6ba44e072b/cenc.mpd|drmScheme=clearkey&drmLicense=f20e918e5df972da367108f52fa3a15c:26732c94fca0c367578472f85f15b90e#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+      "title": "EUROPEAN T20 Premier League",
+      "team1": "EUROPEAN T20",
+      "team2": "Premier League",
+      "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+      "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+      "time": "03:30 PM 30/08/2026",
+      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zkueearjie/out/v1/0f433738f98b428cba6bcc6ba44e072b/cenc.mpd|drmScheme=clearkey&drmLicense=f20e918e5df972da367108f52fa3a15c:26732c94fca0c367578472f85f15b90e#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+      "is_high_voltage": false,
+      "created_at": 1788029861818
+    },
+    {
+      "id": "ev_4",
+      "category": "Cricket",
+      "tournament": "Top End T20 Series 2026",
+      "tournament_logo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+      "team1_name": "Top End T20 Series 2026",
+      "team1_logo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+      "team2_name": "Top End T20 Series 2026",
+      "team2_logo": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+      "start_time": "2026-08-30 06:30:00",
+      "duration": "250",
+      "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS CAST $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW HD $ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8#T SPORTS HD",
+      "title": "Top End T20 Series 2026",
+      "team1": "Top End T20 Series 2026",
+      "team2": "Top End T20 Series 2026",
+      "logo1": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+      "logo2": "https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp",
+      "time": "06:30 AM 30/08/2026",
+      "streams": "https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS CAST $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW HD $ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8#T SPORTS HD",
+      "is_high_voltage": false,
+      "created_at": 1788029861818
+    },
+    {
+      "id": "ev_5",
       "category": "Football",
       "tournament": "MLS",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -45,7 +111,7 @@
       "created_at": 1788027065971
     },
     {
-      "id": "ev_3",
+      "id": "ev_6",
       "category": "Football",
       "tournament": "LaLiga 2",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -67,7 +133,7 @@
       "created_at": 1788027065971
     },
     {
-      "id": "ev_4",
+      "id": "ev_7",
       "category": "Football",
       "tournament": "LaLiga",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -89,7 +155,7 @@
       "created_at": 1788027065971
     },
     {
-      "id": "ev_5",
+      "id": "ev_8",
       "category": "Football",
       "tournament": "Trendyol Süper Lig",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/52/image/dark",
@@ -111,7 +177,7 @@
       "created_at": 1788027065971
     },
     {
-      "id": "ev_6",
+      "id": "ev_9",
       "category": "Football",
       "tournament": "2. Bundesliga",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
@@ -133,7 +199,7 @@
       "created_at": 1788027065971
     },
     {
-      "id": "ev_7",
+      "id": "ev_10",
       "category": "Cricket",
       "tournament": "Caribbean Premier League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
