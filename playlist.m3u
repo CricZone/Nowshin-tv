@@ -1,16 +1,16 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="1" tvg-name="Columbus Crew vs New England Revolution" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Live Event",Columbus Crew vs New England Revolution
+#EXTINF:-1 tvg-id="1" tvg-name="Juventus vs Parma" tvg-logo="https://img.sofascore.com/api/v1/team/2687/image" group-title="Live Event",Juventus vs Parma
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d#SPORTS1 FHD $ https://chatgpt.hereisman.net/playlist/55469/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SERIE TV HD
+
+#EXTINF:-1 tvg-id="2" tvg-name="Columbus Crew vs New England Revolution" tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/242/image/dark" group-title="Live Event",Columbus Crew vs New England Revolution
 
 
-#EXTINF:-1 tvg-id="2" tvg-name="Girona FC vs UD Las Palmas" tvg-logo="https://img.sofascore.com/api/v1/team/24264/image" group-title="Live Event",Girona FC vs UD Las Palmas
+#EXTINF:-1 tvg-id="3" tvg-name="Girona FC vs UD Las Palmas" tvg-logo="https://img.sofascore.com/api/v1/team/24264/image" group-title="Live Event",Girona FC vs UD Las Palmas
 https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LALIGA1 HYP FHD
 
-#EXTINF:-1 tvg-id="3" tvg-name="Sevilla vs Atlético Madrid" tvg-logo="https://img.sofascore.com/api/v1/team/2833/image" group-title="Live Event",Sevilla vs Atlético Madrid
+#EXTINF:-1 tvg-id="4" tvg-name="Sevilla vs Atlético Madrid" tvg-logo="https://img.sofascore.com/api/v1/team/2833/image" group-title="Live Event",Sevilla vs Atlético Madrid
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ Laliga
-
-#EXTINF:-1 tvg-id="4" tvg-name="Juventus vs Parma" tvg-logo="https://img.sofascore.com/api/v1/team/2687/image" group-title="Live Event",Juventus vs Parma
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d#SPORTS1 FHD $ https://chatgpt.hereisman.net/playlist/55469/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SERIE TV HD
 
 #EXTINF:-1 tvg-id="5" tvg-name="Galatasaray vs Göztepe" tvg-logo="https://img.sofascore.com/api/v1/team/3061/image" group-title="Live Event",Galatasaray vs Göztepe
 https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8#beIN1  TR HD $ https://tmaxapp.site/pt658svs/sporttv6.m3u8#SPORT6 TV HD $ http://162.251.160.53:8089/2455/index.m3u8#TV QUALITY
@@ -48,6 +48,9 @@ https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Btv News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUjN9WTR_k-M_pUTO7i9zcG8NH8GYoaLe5jopqeDUhvQ&s=10" group-title="Bangladeshi",Btv News
 https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
 
+#EXTINF:-1 tvg-id="17" tvg-name="Alpona Tv" tvg-logo="https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp" group-title="Bangladeshi",Alpona Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
+
 #EXTINF:-1 tvg-id="18" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="Bangladeshi",Sonsad Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
@@ -77,6 +80,9 @@ https://bdstream.bdstreamhubiptv.workers.dev/Nagorik_Tv.m3u8
 
 #EXTINF:-1 tvg-id="27" tvg-name="Ekushey Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjQHOWcPQWoJm5kbgVFD76-yU_wjRSSx56wYQdrkHj_g&s=10" group-title="Bangladeshi",Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="My Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s" group-title="Bangladeshi",My Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="29" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="BD News",Ntv
 https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
@@ -113,6 +119,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="40" tvg-name="Srk tv" tvg-logo="https://yt3.googleusercontent.com/SI5MlFyc4HNhXu-NO9wrFXhssF3y5FAYfo9gGdnt72dUqV-NxPGPkxltLLa1btgv8O0cEB7l6jE=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Srk tv
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="Shikor tv" tvg-logo="https://shikortvcanada.com/wp-content/uploads/2025/07/Shikor-TV-Final-logo-02-1536x650.png" group-title="Bangladeshi",Shikor tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="42" tvg-name="G Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10" group-title="BD 24/7",G Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
