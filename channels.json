@@ -20,7 +20,9 @@
     "is_high_voltage": true,
     "is_event": true,
     "status": "Online",
-    "created_at": 1788030087109
+    "created_at": 1788030087109,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 2,
@@ -80,7 +82,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788029861818
+    "created_at": 1788029861818,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 4,
@@ -109,7 +113,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788029861818
+    "created_at": 1788029861818,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 5,
@@ -138,7 +144,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788029861818
+    "created_at": 1788029861818,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 6,
