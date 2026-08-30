@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Real Madrid vs Málaga CF" tvg-logo="https://img.sofascore.com/api/v1/team/2829/image" group-title="Live Event",Real Madrid vs Málaga CF
 https://file.genoads.com/ch1.m3u8#SERVER + TV
@@ -110,9 +110,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="37" tvg-name="Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQut1HSjM_dlasdupGnVgcwkNv8Lr_xiPmvTHQYUyNbBg&s" group-title="Bangladeshi",Bangla tv
 https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
-
-#EXTINF:-1 tvg-id="38" tvg-name="Amer Bangla 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_GNVxIr7JlPTdL-cHEP8CqelnauSaXPHJeEkdvCiLoHsNg-KfqXXofo&s=10" group-title="Bangladeshi",Amer Bangla 24
-https://jagroniakash.ncare.live/eyetv/eyetv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="39" tvg-name="Movie Bangla Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzqyiL8I9xUzHQaUNGuapozGukLxpqnfGmSZ_CEq-og&s=10" group-title="Bangladeshi",Movie Bangla Tv
 http://alvetv.com/moviebanglatv/8080/index.m3u8
