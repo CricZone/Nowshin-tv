@@ -1,6 +1,238 @@
 [
   {
     "serial": 1,
+    "name": "Atlético Mineiro vs Cruzeiro",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/1977/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/1954/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/1977/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/1954/image",
+    "team1": "Atlético Mineiro",
+    "team2": "Cruzeiro",
+    "title": "Copa Betano do Brasil",
+    "tournament": "Copa Betano do Brasil",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/373/image/dark",
+    "time": "06:00 AM 02/09/2026",
+    "start_time": "2026-09-02 06:00:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487407
+  },
+  {
+    "serial": 2,
+    "name": "Stoke City vs Norwich City",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/29/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/263/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/29/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/263/image",
+    "team1": "Stoke City",
+    "team2": "Norwich City",
+    "title": "Championship",
+    "tournament": "Championship",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18/image/dark",
+    "time": "01:00 AM 02/09/2026",
+    "start_time": "2026-09-02 01:00:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487407
+  },
+  {
+    "serial": 3,
+    "name": "Torino vs Monza",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/2696/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/2729/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/2696/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/2729/image",
+    "team1": "Torino",
+    "team2": "Monza",
+    "title": "Coppa Italia",
+    "tournament": "Coppa Italia",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
+    "time": "01:00 AM 02/09/2026",
+    "start_time": "2026-09-02 01:00:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487407
+  },
+  {
+    "serial": 4,
+    "name": "Hamburg-Eimsbütteler Ballspiel Club 1911 vs Borussia Dortmund",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/291525/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/2673/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/291525/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/2673/image",
+    "team1": "Hamburg-Eimsbütteler Ballspiel Club 1911",
+    "team2": "Borussia Dortmund",
+    "title": "DFB Pokal",
+    "tournament": "DFB Pokal",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/217/image/dark",
+    "time": "12:45 AM 02/09/2026",
+    "start_time": "2026-09-02 00:45:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487406
+  },
+  {
+    "serial": 5,
+    "name": "Al-Hilal vs Al-Ahli",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/21895/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/34469/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/21895/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/34469/image",
+    "team1": "Al-Hilal",
+    "team2": "Al-Ahli",
+    "title": "Saudi Pro League",
+    "tournament": "Saudi Pro League",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
+    "time": "12:00 AM 02/09/2026",
+    "start_time": "2026-09-02 00:00:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487406
+  },
+  {
+    "serial": 6,
+    "name": "Tigre vs Barracas Central",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/7628/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/65668/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/7628/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/65668/image",
+    "team1": "Tigre",
+    "team2": "Barracas Central",
+    "title": "Liga Profesional de Fútbol",
+    "tournament": "Liga Profesional de Fútbol",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+    "time": "06:15 AM 01/09/2026",
+    "start_time": "2026-09-01 06:15:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487406
+  },
+  {
+    "serial": 7,
+    "name": "FC Barcelona vs Rayo Vallecano",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/2817/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/2818/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/2817/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/2818/image",
+    "team1": "FC Barcelona",
+    "team2": "Rayo Vallecano",
+    "title": "LaLiga",
+    "tournament": "LaLiga",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+    "time": "01:30 AM 01/09/2026",
+    "start_time": "2026-09-01 01:30:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f#PREMIER1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://tmaxapp.site/8wirwjs76erftg/daznlaliga1.m3u8#DAZN LALIGA $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD $ https://chatgpt.hereisman.net/playlist/55591/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://edgestream2.pro/hls/377qj1h2727.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0#ESPN DEPORTES HD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38#Caze TV FHD $ https://cdn4.zohanayaan.com:1686/hls/do52.m3u8?md5=cXngP6FiFf9x-X32bAD5cg&expires=1788210065|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com#DIESNY+ - HD $ https://cdn4.zohanayaan.com:1686/hls/do5.m3u8?md5=1lHMh3JtmSss1MgT2o613A&expires=1788210059|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com#TSN SPORTS - HD $ https://cdn8.zohanayaan.com:1686/hls/do64.m3u8?md5=U21EK2gFoh3L0sw25ZRj1A&expires=1788210066|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com#MEX SPORTS - HD $ https://messi.damitv.st/live-hls/channel/laliga/2026-08-31/bar-ray/playlist.m3u8?tk=jvOhZg4z4Xs3mU4Eyupmqw&e=1788246049|origin=https://ondemand.st/embed/?id=laliga/2026-08-31/bar-ray&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://ondemand.st/embed/?id=laliga/2026-08-31/bar-ray#ESPN DEPORTEES $ http://193.47.62.58/hls/P333A.m3u8|Referer=http://www.fawanews.sc/#SD SPORTS - HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487406
+  },
+  {
+    "serial": 8,
+    "name": "Benfica vs Estoril Praia",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3006/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/4500/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/4500/image",
+    "team1": "Benfica",
+    "team2": "Estoril Praia",
+    "title": "Liga Portugal Betclic",
+    "tournament": "Liga Portugal Betclic",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
+    "time": "01:15 AM 01/09/2026",
+    "start_time": "2026-09-01 01:15:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://live1.ftlcbx.com/live/72530890_11272c133606e83eb9fcd6dbe96148e5_540p.m3u8?auth_key=1788218285-0-0-58ddb250b8593362ce3091abed8e9938#HD QUALITY $ http://193.47.62.41/hls/P999QQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788211487406
+  },
+  {
+    "serial": 9,
     "name": "EUROPEAN T20 vs Premier League",
     "category": "Live Event",
     "epg_id": "",
@@ -29,7 +261,7 @@
     "created_at": 1788211197266
   },
   {
-    "serial": 2,
+    "serial": 10,
     "name": "Zimbabwe vs South Africa",
     "category": "Live Event",
     "epg_id": "",
@@ -58,7 +290,7 @@
     "created_at": 1788211197266
   },
   {
-    "serial": 3,
+    "serial": 11,
     "name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
     "category": "Live Event",
     "epg_id": "",
@@ -87,7 +319,7 @@
     "created_at": 1788211197266
   },
   {
-    "serial": 4,
+    "serial": 12,
     "name": "Peace Tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -105,7 +337,7 @@
     "duration": "135"
   },
   {
-    "serial": 5,
+    "serial": 13,
     "name": "Makkah tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -123,7 +355,7 @@
     "duration": "135"
   },
   {
-    "serial": 6,
+    "serial": 14,
     "name": "Madani ",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -141,7 +373,7 @@
     "duration": "135"
   },
   {
-    "serial": 7,
+    "serial": 15,
     "name": "Btv News",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -159,7 +391,7 @@
     "duration": "135"
   },
   {
-    "serial": 8,
+    "serial": 16,
     "name": "Alpona Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -177,7 +409,7 @@
     "duration": "135"
   },
   {
-    "serial": 9,
+    "serial": 17,
     "name": "Sonsad Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -195,7 +427,7 @@
     "duration": "135"
   },
   {
-    "serial": 10,
+    "serial": 18,
     "name": "Bangla Vision Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -213,7 +445,7 @@
     "duration": "135"
   },
   {
-    "serial": 11,
+    "serial": 19,
     "name": "Boishakhi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -231,7 +463,7 @@
     "duration": "135"
   },
   {
-    "serial": 12,
+    "serial": 20,
     "name": "Chaanel i",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -249,7 +481,7 @@
     "duration": "135"
   },
   {
-    "serial": 13,
+    "serial": 21,
     "name": "Gazi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -267,7 +499,7 @@
     "duration": "135"
   },
   {
-    "serial": 14,
+    "serial": 22,
     "name": "Deepto Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -285,7 +517,7 @@
     "duration": "135"
   },
   {
-    "serial": 15,
+    "serial": 23,
     "name": "Rtv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -303,7 +535,7 @@
     "duration": "135"
   },
   {
-    "serial": 16,
+    "serial": 24,
     "name": "Green Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -321,7 +553,7 @@
     "duration": "135"
   },
   {
-    "serial": 17,
+    "serial": 25,
     "name": "Nagorik Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -339,7 +571,7 @@
     "duration": "135"
   },
   {
-    "serial": 18,
+    "serial": 26,
     "name": "Ekushey Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -357,7 +589,7 @@
     "duration": "135"
   },
   {
-    "serial": 19,
+    "serial": 27,
     "name": "My Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -375,7 +607,7 @@
     "duration": "135"
   },
   {
-    "serial": 20,
+    "serial": 28,
     "name": "Ntv",
     "category": "BD News",
     "epg_id": "",
@@ -393,7 +625,7 @@
     "duration": "135"
   },
   {
-    "serial": 21,
+    "serial": 29,
     "name": "Bijoy tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -411,7 +643,7 @@
     "duration": "135"
   },
   {
-    "serial": 22,
+    "serial": 30,
     "name": "Asian Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -429,7 +661,7 @@
     "duration": "135"
   },
   {
-    "serial": 23,
+    "serial": 31,
     "name": "Ananda Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -447,7 +679,7 @@
     "duration": "135"
   },
   {
-    "serial": 24,
+    "serial": 32,
     "name": "Massranga tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -465,7 +697,7 @@
     "duration": "135"
   },
   {
-    "serial": 25,
+    "serial": 33,
     "name": "Mohona tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -483,7 +715,7 @@
     "duration": "135"
   },
   {
-    "serial": 26,
+    "serial": 34,
     "name": "Channel 9 tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -501,7 +733,7 @@
     "duration": "135"
   },
   {
-    "serial": 27,
+    "serial": 35,
     "name": "Sa tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -519,7 +751,7 @@
     "duration": "135"
   },
   {
-    "serial": 28,
+    "serial": 36,
     "name": "Bangla tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -537,7 +769,7 @@
     "duration": "135"
   },
   {
-    "serial": 29,
+    "serial": 37,
     "name": "Amer Bangla 24",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -555,7 +787,7 @@
     "duration": "135"
   },
   {
-    "serial": 30,
+    "serial": 38,
     "name": "Movie Bangla Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -573,7 +805,7 @@
     "duration": "135"
   },
   {
-    "serial": 31,
+    "serial": 39,
     "name": "Srk tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -591,7 +823,7 @@
     "duration": "135"
   },
   {
-    "serial": 32,
+    "serial": 40,
     "name": "Shikor tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -609,7 +841,7 @@
     "duration": "135"
   },
   {
-    "serial": 33,
+    "serial": 41,
     "name": "G Series",
     "category": "BD 24/7",
     "epg_id": "",
@@ -627,7 +859,7 @@
     "duration": "135"
   },
   {
-    "serial": 34,
+    "serial": 42,
     "name": "News 21 Bangla",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -645,7 +877,7 @@
     "duration": "135"
   },
   {
-    "serial": 35,
+    "serial": 43,
     "name": "Movie",
     "category": "BD 24/7",
     "epg_id": "",
@@ -663,7 +895,7 @@
     "duration": "135"
   },
   {
-    "serial": 36,
+    "serial": 44,
     "name": "Desh tv",
     "category": "BD News",
     "epg_id": "",
@@ -681,7 +913,7 @@
     "duration": "135"
   },
   {
-    "serial": 37,
+    "serial": 45,
     "name": "Channel 1",
     "category": "BD News",
     "epg_id": "",
@@ -699,7 +931,7 @@
     "duration": "135"
   },
   {
-    "serial": 38,
+    "serial": 46,
     "name": "Jago News Tv",
     "category": "BD News",
     "epg_id": "",
@@ -717,7 +949,7 @@
     "duration": "135"
   },
   {
-    "serial": 39,
+    "serial": 47,
     "name": "T Sports",
     "category": "BD Sports",
     "epg_id": "",
@@ -735,7 +967,7 @@
     "duration": "135"
   },
   {
-    "serial": 40,
+    "serial": 48,
     "name": "Atn News",
     "category": "BD News",
     "epg_id": "",
@@ -753,7 +985,7 @@
     "duration": "135"
   },
   {
-    "serial": 41,
+    "serial": 49,
     "name": "Atn Bangla",
     "category": "BD News",
     "epg_id": "",
@@ -771,7 +1003,7 @@
     "duration": "135"
   },
   {
-    "serial": 42,
+    "serial": 50,
     "name": "Independent News",
     "category": "BD News",
     "epg_id": "",
@@ -789,7 +1021,7 @@
     "duration": "135"
   },
   {
-    "serial": 43,
+    "serial": 51,
     "name": "Ekttor Tv",
     "category": "BD News",
     "epg_id": "",
@@ -807,7 +1039,7 @@
     "duration": "135"
   },
   {
-    "serial": 44,
+    "serial": 52,
     "name": "Channel 24",
     "category": "BD News",
     "epg_id": "",
@@ -825,7 +1057,7 @@
     "duration": "135"
   },
   {
-    "serial": 45,
+    "serial": 53,
     "name": "News 24",
     "category": "BD News",
     "epg_id": "",
@@ -843,7 +1075,7 @@
     "duration": "135"
   },
   {
-    "serial": 46,
+    "serial": 54,
     "name": "Star News",
     "category": "BD News",
     "epg_id": "",
@@ -861,7 +1093,7 @@
     "duration": "135"
   },
   {
-    "serial": 47,
+    "serial": 55,
     "name": "DBC News",
     "category": "BD News",
     "epg_id": "",
@@ -879,7 +1111,7 @@
     "duration": "135"
   },
   {
-    "serial": 48,
+    "serial": 56,
     "name": "Somoy News",
     "category": "BD News",
     "epg_id": "",
@@ -897,7 +1129,7 @@
     "duration": "135"
   },
   {
-    "serial": 49,
+    "serial": 57,
     "name": "Jamuna News",
     "category": "BD News",
     "epg_id": "",
@@ -915,7 +1147,7 @@
     "duration": "135"
   },
   {
-    "serial": 50,
+    "serial": 58,
     "name": "Ekhon tv",
     "category": "BD News",
     "epg_id": "",
@@ -933,7 +1165,7 @@
     "duration": "135"
   },
   {
-    "serial": 51,
+    "serial": 59,
     "name": "Star Jalsha HD",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -951,7 +1183,7 @@
     "duration": "135"
   },
   {
-    "serial": 52,
+    "serial": 60,
     "name": "Zee Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -969,7 +1201,7 @@
     "duration": "135"
   },
   {
-    "serial": 53,
+    "serial": 61,
     "name": "Colours Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -987,7 +1219,7 @@
     "duration": "135"
   },
   {
-    "serial": 54,
+    "serial": 62,
     "name": "Colors bangla Cinema",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -1005,7 +1237,7 @@
     "duration": "135"
   },
   {
-    "serial": 55,
+    "serial": 63,
     "name": "Zee Bangla Sonar",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -1023,7 +1255,7 @@
     "duration": "135"
   },
   {
-    "serial": 56,
+    "serial": 64,
     "name": "Sony Aath",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1041,7 +1273,7 @@
     "duration": "135"
   },
   {
-    "serial": 57,
+    "serial": 65,
     "name": "Jalsha Movies",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -1059,7 +1291,7 @@
     "duration": "135"
   },
   {
-    "serial": 58,
+    "serial": 66,
     "name": "Bangla Plues",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -1077,7 +1309,7 @@
     "duration": "135"
   },
   {
-    "serial": 59,
+    "serial": 67,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -1095,7 +1327,7 @@
     "duration": "135"
   },
   {
-    "serial": 60,
+    "serial": 68,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -1113,7 +1345,7 @@
     "duration": "135"
   },
   {
-    "serial": 61,
+    "serial": 69,
     "name": "Enter 10 Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1131,7 +1363,7 @@
     "duration": "135"
   },
   {
-    "serial": 62,
+    "serial": 70,
     "name": "Sun Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1149,7 +1381,7 @@
     "duration": "135"
   },
   {
-    "serial": 63,
+    "serial": 71,
     "name": "Gopal bhar tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -1167,7 +1399,7 @@
     "duration": "135"
   },
   {
-    "serial": 64,
+    "serial": 72,
     "name": "Rangeen tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -1185,7 +1417,7 @@
     "duration": "135"
   },
   {
-    "serial": 65,
+    "serial": 73,
     "name": "Nick",
     "category": "Cartoon",
     "epg_id": "",
@@ -1203,7 +1435,7 @@
     "duration": "135"
   },
   {
-    "serial": 66,
+    "serial": 74,
     "name": "Super Hungma",
     "category": "Cartoon",
     "epg_id": "",
@@ -1221,7 +1453,7 @@
     "duration": "135"
   },
   {
-    "serial": 67,
+    "serial": 75,
     "name": "Sonic",
     "category": "Cartoon",
     "epg_id": "",
@@ -1239,7 +1471,7 @@
     "duration": "135"
   },
   {
-    "serial": 68,
+    "serial": 76,
     "name": "Disney",
     "category": "Cartoon",
     "epg_id": "",
@@ -1257,7 +1489,7 @@
     "duration": "135"
   },
   {
-    "serial": 69,
+    "serial": 77,
     "name": "Discovery kids",
     "category": "Cartoon",
     "epg_id": "",
@@ -1275,7 +1507,7 @@
     "duration": "135"
   },
   {
-    "serial": 70,
+    "serial": 78,
     "name": "Pogo",
     "category": "Cartoon",
     "epg_id": "",
@@ -1293,7 +1525,7 @@
     "duration": "135"
   },
   {
-    "serial": 71,
+    "serial": 79,
     "name": "Sony YAY",
     "category": "Cartoon",
     "epg_id": "",
@@ -1311,7 +1543,7 @@
     "duration": "135"
   },
   {
-    "serial": 72,
+    "serial": 80,
     "name": "Tom & Jery",
     "category": "Cartoon",
     "epg_id": "",
@@ -1329,7 +1561,7 @@
     "duration": "135"
   },
   {
-    "serial": 73,
+    "serial": 81,
     "name": "Khusboo bangla",
     "category": "Cartoon",
     "epg_id": "",
@@ -1347,7 +1579,7 @@
     "duration": "135"
   },
   {
-    "serial": 74,
+    "serial": 82,
     "name": "ZB Cartoon",
     "category": "Cartoon",
     "epg_id": "",
@@ -1365,7 +1597,7 @@
     "duration": "135"
   },
   {
-    "serial": 75,
+    "serial": 83,
     "name": "Jungle Book",
     "category": "Cartoon",
     "epg_id": "",
@@ -1383,7 +1615,7 @@
     "duration": "135"
   },
   {
-    "serial": 76,
+    "serial": 84,
     "name": "Cartoon Network ",
     "category": "Cartoon",
     "epg_id": "",
@@ -1401,7 +1633,7 @@
     "duration": "135"
   },
   {
-    "serial": 77,
+    "serial": 85,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1419,7 +1651,7 @@
     "duration": "135"
   },
   {
-    "serial": 78,
+    "serial": 86,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -1437,7 +1669,7 @@
     "duration": "135"
   },
   {
-    "serial": 79,
+    "serial": 87,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -1455,7 +1687,7 @@
     "duration": "135"
   },
   {
-    "serial": 80,
+    "serial": 88,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -1473,7 +1705,7 @@
     "duration": "135"
   },
   {
-    "serial": 81,
+    "serial": 89,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -1491,7 +1723,7 @@
     "duration": "135"
   },
   {
-    "serial": 82,
+    "serial": 90,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1509,7 +1741,7 @@
     "duration": "135"
   },
   {
-    "serial": 83,
+    "serial": 91,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -1527,7 +1759,7 @@
     "duration": "135"
   },
   {
-    "serial": 84,
+    "serial": 92,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -1545,7 +1777,7 @@
     "duration": "135"
   },
   {
-    "serial": 85,
+    "serial": 93,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -1563,7 +1795,7 @@
     "duration": "135"
   },
   {
-    "serial": 86,
+    "serial": 94,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -1581,7 +1813,7 @@
     "duration": "135"
   },
   {
-    "serial": 87,
+    "serial": 95,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1599,7 +1831,7 @@
     "duration": "135"
   },
   {
-    "serial": 88,
+    "serial": 96,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -1617,7 +1849,7 @@
     "duration": "135"
   },
   {
-    "serial": 89,
+    "serial": 97,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -1635,7 +1867,7 @@
     "duration": "135"
   },
   {
-    "serial": 90,
+    "serial": 98,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1653,7 +1885,7 @@
     "duration": "135"
   },
   {
-    "serial": 91,
+    "serial": 99,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1671,7 +1903,7 @@
     "duration": "135"
   },
   {
-    "serial": 92,
+    "serial": 100,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -1689,7 +1921,7 @@
     "duration": "135"
   },
   {
-    "serial": 93,
+    "serial": 101,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -1707,7 +1939,7 @@
     "duration": "135"
   },
   {
-    "serial": 94,
+    "serial": 102,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -1725,7 +1957,7 @@
     "duration": "135"
   },
   {
-    "serial": 95,
+    "serial": 103,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -1743,7 +1975,7 @@
     "duration": "135"
   },
   {
-    "serial": 96,
+    "serial": 104,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -1761,7 +1993,7 @@
     "duration": "135"
   },
   {
-    "serial": 97,
+    "serial": 105,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -1779,7 +2011,7 @@
     "duration": "135"
   },
   {
-    "serial": 98,
+    "serial": 106,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -1797,7 +2029,7 @@
     "duration": "135"
   },
   {
-    "serial": 99,
+    "serial": 107,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1815,7 +2047,7 @@
     "duration": "135"
   },
   {
-    "serial": 100,
+    "serial": 108,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -1833,7 +2065,7 @@
     "duration": "135"
   },
   {
-    "serial": 101,
+    "serial": 109,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -1851,7 +2083,7 @@
     "duration": "135"
   },
   {
-    "serial": 102,
+    "serial": 110,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -1869,7 +2101,7 @@
     "duration": "135"
   },
   {
-    "serial": 103,
+    "serial": 111,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -1887,7 +2119,7 @@
     "duration": "135"
   },
   {
-    "serial": 104,
+    "serial": 112,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -1905,7 +2137,7 @@
     "duration": "135"
   },
   {
-    "serial": 105,
+    "serial": 113,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -1923,7 +2155,7 @@
     "duration": "135"
   },
   {
-    "serial": 106,
+    "serial": 114,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -1941,7 +2173,7 @@
     "duration": "135"
   },
   {
-    "serial": 107,
+    "serial": 115,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -1959,7 +2191,7 @@
     "duration": "135"
   },
   {
-    "serial": 108,
+    "serial": 116,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -1977,7 +2209,7 @@
     "duration": "135"
   },
   {
-    "serial": 109,
+    "serial": 117,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -1995,7 +2227,7 @@
     "duration": "135"
   },
   {
-    "serial": 110,
+    "serial": 118,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -2013,7 +2245,7 @@
     "duration": "135"
   },
   {
-    "serial": 111,
+    "serial": 119,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
