@@ -26,7 +26,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788176623124
+    "created_at": 1788176623124,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 2,
@@ -117,7 +119,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788183647611
+    "created_at": 1788183647611,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 5,
@@ -146,7 +150,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788183647611
+    "created_at": 1788183647611,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 6,
@@ -175,7 +181,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788183647611
+    "created_at": 1788183647611,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 7,
@@ -204,7 +212,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788183647610
+    "created_at": 1788183647610,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 8,
@@ -233,7 +243,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788183647610
+    "created_at": 1788183647610,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 9,
@@ -262,7 +274,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788183647610
+    "created_at": 1788183647610,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 10,
@@ -291,7 +305,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788175775572
+    "created_at": 1788175775572,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 11,
@@ -320,7 +336,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788169628919
+    "created_at": 1788169628919,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 12,
