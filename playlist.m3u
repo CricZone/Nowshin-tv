@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="1" tvg-name="Namibia vs Zimbabwe" tvg-logo="https://img.sofascore.com/api/v1/team/199275/image" group-title="Live Event",Namibia vs Zimbabwe
+#EXTINF:-1 tvg-id="1" tvg-name="Instituto De Córdoba vs San Lorenzo" tvg-logo="https://img.sofascore.com/api/v1/team/4937/image" group-title="Live Event",Instituto De Córdoba vs San Lorenzo
+
+
+#EXTINF:-1 tvg-id="2" tvg-name="Namibia vs Zimbabwe" tvg-logo="https://img.sofascore.com/api/v1/team/199275/image" group-title="Live Event",Namibia vs Zimbabwe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE1 FHD
 
-#EXTINF:-1 tvg-id="2" tvg-name="Horse Racing vs Horse Racing" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Live Event",Horse Racing vs Horse Racing
+#EXTINF:-1 tvg-id="3" tvg-name="Horse Racing vs Horse Racing" tvg-logo="https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg" group-title="Live Event",Horse Racing vs Horse Racing
 https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY RACING - FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8#HD QUALITY $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae#FOX2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16#FOX1 SPORTS FHD $ http://193.47.62.194/hls/vavavavaq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#1 TV Use VPN $ http://193.47.62.194/hls/vavavava.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#2 TV Use VPN
 
-#EXTINF:-1 tvg-id="3" tvg-name="FC Bayern München vs 1. FSV Mainz 05" tvg-logo="https://img.sofascore.com/api/v1/team/5543/image" group-title="Live Event",FC Bayern München vs 1. FSV Mainz 05
+#EXTINF:-1 tvg-id="4" tvg-name="FC Bayern München vs 1. FSV Mainz 05" tvg-logo="https://img.sofascore.com/api/v1/team/5543/image" group-title="Live Event",FC Bayern München vs 1. FSV Mainz 05
 https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD
 
-#EXTINF:-1 tvg-id="4" tvg-name="Arsenal vs Aston Villa" tvg-logo="https://img.sofascore.com/api/v1/team/42/image" group-title="Live Event",Arsenal vs Aston Villa
+#EXTINF:-1 tvg-id="5" tvg-name="Arsenal vs Aston Villa" tvg-logo="https://img.sofascore.com/api/v1/team/42/image" group-title="Live Event",Arsenal vs Aston Villa
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f#FUBO SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8#SKY Premier League $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN1 ES HD $ https://tmaxapp.site/stan4s6c/stan1.m3u8#STAN SPORTS HD $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#Sky Sports EPL - HD $ https://iptvstream.xyzstreams.space/skymain/mono.ts.m3u8|Referer=https://xyzstreams.st/#Sky Main Event - HD $ https://iptvstream2.xyzstreams.space/nbcsn/mono.ts.m3u8|Referer=https://xyzstreams.st/#NBCSN ENG - HD
-
-#EXTINF:-1 tvg-id="5" tvg-name="Instituto De Córdoba vs San Lorenzo" tvg-logo="https://img.sofascore.com/api/v1/team/4937/image" group-title="Live Event",Instituto De Córdoba vs San Lorenzo
-
 
 #EXTINF:-1 tvg-id="6" tvg-name="Unión La Calera vs Deportes La Serena" tvg-logo="https://img.sofascore.com/api/v1/team/48242/image" group-title="Live Event",Unión La Calera vs Deportes La Serena
 https://file.genoads.com/ch1.m3u8#STREAM TV + HD
