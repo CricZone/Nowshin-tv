@@ -26,7 +26,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788137935067
+    "created_at": 1788137935067,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 2,
