@@ -1,6 +1,499 @@
 [
   {
     "serial": 1,
+    "name": "Los Angeles Dodgers vs St. Louis Cardinals",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3638/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3632/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3638/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3632/image",
+    "team1": "Los Angeles Dodgers",
+    "team2": "St. Louis Cardinals",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "08:10 AM 02/09/2026",
+    "start_time": "2026-09-02 08:10:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 2,
+    "name": "Arizona Diamondbacks vs Philadelphia Phillies",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3640/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3635/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3640/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3635/image",
+    "team1": "Arizona Diamondbacks",
+    "team2": "Philadelphia Phillies",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "07:40 AM 02/09/2026",
+    "start_time": "2026-09-02 07:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 3,
+    "name": "Los Angeles Angels vs New York Yankees",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/5929/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3654/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/5929/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3654/image",
+    "team1": "Los Angeles Angels",
+    "team2": "New York Yankees",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "07:38 AM 02/09/2026",
+    "start_time": "2026-09-02 07:38:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 4,
+    "name": "Colorado Rockies vs Baltimore Orioles",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3628/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3652/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3628/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3652/image",
+    "team1": "Colorado Rockies",
+    "team2": "Baltimore Orioles",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "06:40 AM 02/09/2026",
+    "start_time": "2026-09-02 06:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 5,
+    "name": "Houston Astros vs Chicago White Sox",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3655/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3644/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3655/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3644/image",
+    "team1": "Houston Astros",
+    "team2": "Chicago White Sox",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "06:10 AM 02/09/2026",
+    "start_time": "2026-09-02 06:10:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 6,
+    "name": "Texas Rangers vs Athletics",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3647/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3645/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3647/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3645/image",
+    "team1": "Texas Rangers",
+    "team2": "Athletics",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "06:05 AM 02/09/2026",
+    "start_time": "2026-09-02 06:05:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 7,
+    "name": "Minnesota Twins vs Detroit Tigers",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3649/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3648/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3649/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3648/image",
+    "team1": "Minnesota Twins",
+    "team2": "Detroit Tigers",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "05:40 AM 02/09/2026",
+    "start_time": "2026-09-02 05:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 8,
+    "name": "Chicago Cubs vs Milwaukee Brewers",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3627/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3630/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3627/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3630/image",
+    "team1": "Chicago Cubs",
+    "team2": "Milwaukee Brewers",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "05:40 AM 02/09/2026",
+    "start_time": "2026-09-02 05:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 9,
+    "name": "Kansas City Royals vs Miami Marlins",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3651/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3639/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3651/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3639/image",
+    "team1": "Kansas City Royals",
+    "team2": "Miami Marlins",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "05:40 AM 02/09/2026",
+    "start_time": "2026-09-02 05:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 10,
+    "name": "Washington Nationals vs Atlanta Braves",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3656/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/5930/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3656/image",
+    "team1": "Washington Nationals",
+    "team2": "Atlanta Braves",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:45 AM 02/09/2026",
+    "start_time": "2026-09-02 04:45:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376256
+  },
+  {
+    "serial": 11,
+    "name": "Boston Red Sox vs Seattle Mariners",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3646/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3641/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3646/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3641/image",
+    "team1": "Boston Red Sox",
+    "team2": "Seattle Mariners",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:45 AM 02/09/2026",
+    "start_time": "2026-09-02 04:45:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376255
+  },
+  {
+    "serial": 12,
+    "name": "Cincinnati Reds vs San Diego Padres",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3633/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3636/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3633/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3636/image",
+    "team1": "Cincinnati Reds",
+    "team2": "San Diego Padres",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:40 AM 02/09/2026",
+    "start_time": "2026-09-02 04:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376255
+  },
+  {
+    "serial": 13,
+    "name": "Cleveland Guardians vs Toronto Blue Jays",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3650/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3642/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3650/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3642/image",
+    "team1": "Cleveland Guardians",
+    "team2": "Toronto Blue Jays",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:40 AM 02/09/2026",
+    "start_time": "2026-09-02 04:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376255
+  },
+  {
+    "serial": 14,
+    "name": "Pittsburgh Pirates vs San Francisco Giants",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3637/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3634/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3637/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3634/image",
+    "team1": "Pittsburgh Pirates",
+    "team2": "San Francisco Giants",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:40 AM 02/09/2026",
+    "start_time": "2026-09-02 04:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376255
+  },
+  {
+    "serial": 15,
+    "name": "Tampa Bay Rays vs New York Mets",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3653/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3629/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3653/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3629/image",
+    "team1": "Tampa Bay Rays",
+    "team2": "New York Mets",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:40 AM 02/09/2026",
+    "start_time": "2026-09-02 04:40:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376255
+  },
+  {
+    "serial": 16,
+    "name": "Washington Nationals vs Miami Marlins",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/5930/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3639/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/5930/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3639/image",
+    "team1": "Washington Nationals",
+    "team2": "Miami Marlins",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:45 AM 01/09/2026",
+    "start_time": "2026-09-01 04:45:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16#FOX1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX DEPORTES FHD $ https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376254
+  },
+  {
+    "serial": 17,
+    "name": "Atlanta Braves vs San Francisco Giants",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/3656/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/3634/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/3656/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/3634/image",
+    "team1": "Atlanta Braves",
+    "team2": "San Francisco Giants",
+    "title": "MLB",
+    "tournament": "MLB",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+    "time": "04:05 AM 01/09/2026",
+    "start_time": "2026-09-01 04:05:00",
+    "duration": "135",
+    "sport_category": "Baseball",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55602/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB TV HD $ https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788213376254
+  },
+  {
+    "serial": 18,
     "name": "Mexico vs Brazil",
     "category": "Live Event",
     "epg_id": "",
@@ -29,7 +522,7 @@
     "created_at": 1788213309010
   },
   {
-    "serial": 2,
+    "serial": 19,
     "name": "Dominican Republic vs Chile",
     "category": "Live Event",
     "epg_id": "",
@@ -58,7 +551,7 @@
     "created_at": 1788213309010
   },
   {
-    "serial": 3,
+    "serial": 20,
     "name": "Uruguay vs Puerto Rico",
     "category": "Live Event",
     "epg_id": "",
@@ -87,7 +580,7 @@
     "created_at": 1788213309008
   },
   {
-    "serial": 4,
+    "serial": 21,
     "name": "Canada vs Argentina",
     "category": "Live Event",
     "epg_id": "",
@@ -116,7 +609,7 @@
     "created_at": 1788213309008
   },
   {
-    "serial": 5,
+    "serial": 22,
     "name": "USA vs Colombia",
     "category": "Live Event",
     "epg_id": "",
@@ -145,7 +638,7 @@
     "created_at": 1788213309004
   },
   {
-    "serial": 6,
+    "serial": 23,
     "name": "Montenegro vs Ukraine",
     "category": "Live Event",
     "epg_id": "",
@@ -174,7 +667,7 @@
     "created_at": 1788213309004
   },
   {
-    "serial": 7,
+    "serial": 24,
     "name": "Portugal vs Georgia",
     "category": "Live Event",
     "epg_id": "",
@@ -203,7 +696,7 @@
     "created_at": 1788213309004
   },
   {
-    "serial": 8,
+    "serial": 25,
     "name": "Italy vs Serbia",
     "category": "Live Event",
     "epg_id": "",
@@ -232,7 +725,7 @@
     "created_at": 1788213309004
   },
   {
-    "serial": 9,
+    "serial": 26,
     "name": "Greece vs Spain",
     "category": "Live Event",
     "epg_id": "",
@@ -261,7 +754,7 @@
     "created_at": 1788213309004
   },
   {
-    "serial": 10,
+    "serial": 27,
     "name": "Lithuania vs Bosnia & Herzegovina",
     "category": "Live Event",
     "epg_id": "",
@@ -290,7 +783,7 @@
     "created_at": 1788213309004
   },
   {
-    "serial": 11,
+    "serial": 28,
     "name": "China vs Lebanon",
     "category": "Live Event",
     "epg_id": "",
@@ -319,7 +812,7 @@
     "created_at": 1788213309004
   },
   {
-    "serial": 12,
+    "serial": 29,
     "name": "Bahamas vs Panama",
     "category": "Live Event",
     "epg_id": "",
@@ -348,36 +841,7 @@
     "created_at": 1788212553636
   },
   {
-    "serial": 13,
-    "name": "Cincinnati Reds vs San Diego Padres",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/3633/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/3636/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/3633/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/3636/image",
-    "team1": "Cincinnati Reds",
-    "team2": "San Diego Padres",
-    "title": "MLB",
-    "tournament": "MLB",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-    "time": "04:40 AM 01/09/2026",
-    "start_time": "2026-09-01 04:40:00",
-    "duration": "135",
-    "sport_category": "Baseball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7#TSN4 SPORTS FHD $ https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788212481005
-  },
-  {
-    "serial": 14,
+    "serial": 30,
     "name": "SmackDown vs SmackDown",
     "category": "Live Event",
     "epg_id": "",
@@ -406,7 +870,7 @@
     "created_at": 1788211694166
   },
   {
-    "serial": 15,
+    "serial": 31,
     "name": "UFC vs UFC",
     "category": "Live Event",
     "epg_id": "",
@@ -435,7 +899,7 @@
     "created_at": 1788211694166
   },
   {
-    "serial": 16,
+    "serial": 32,
     "name": "One Friday Fights vs One Friday Fights",
     "category": "Live Event",
     "epg_id": "",
@@ -464,7 +928,7 @@
     "created_at": 1788211694166
   },
   {
-    "serial": 17,
+    "serial": 33,
     "name": "TNA iMPACT vs TNA iMPACT",
     "category": "Live Event",
     "epg_id": "",
@@ -493,7 +957,7 @@
     "created_at": 1788211694166
   },
   {
-    "serial": 18,
+    "serial": 34,
     "name": "AEW Night Dynamite vs AEW Night Dynamite",
     "category": "Live Event",
     "epg_id": "",
@@ -522,7 +986,7 @@
     "created_at": 1788211694166
   },
   {
-    "serial": 19,
+    "serial": 35,
     "name": "WWE NXT vs WWE NXT",
     "category": "Live Event",
     "epg_id": "",
@@ -551,7 +1015,7 @@
     "created_at": 1788211694166
   },
   {
-    "serial": 20,
+    "serial": 36,
     "name": "WWE RAW vs WWE RAW",
     "category": "Live Event",
     "epg_id": "",
@@ -580,7 +1044,7 @@
     "created_at": 1788211694166
   },
   {
-    "serial": 21,
+    "serial": 37,
     "name": "Formula 1 vs Formula",
     "category": "Live Event",
     "epg_id": "",
@@ -609,7 +1073,7 @@
     "created_at": 1788211652581
   },
   {
-    "serial": 22,
+    "serial": 38,
     "name": "Iceland vs Türkiye",
     "category": "Live Event",
     "epg_id": "",
@@ -638,7 +1102,7 @@
     "created_at": 1788211556606
   },
   {
-    "serial": 23,
+    "serial": 39,
     "name": "Atlético Mineiro vs Cruzeiro",
     "category": "Live Event",
     "epg_id": "",
@@ -667,7 +1131,7 @@
     "created_at": 1788211487407
   },
   {
-    "serial": 24,
+    "serial": 40,
     "name": "Stoke City vs Norwich City",
     "category": "Live Event",
     "epg_id": "",
@@ -696,7 +1160,7 @@
     "created_at": 1788211487407
   },
   {
-    "serial": 25,
+    "serial": 41,
     "name": "Torino vs Monza",
     "category": "Live Event",
     "epg_id": "",
@@ -725,7 +1189,7 @@
     "created_at": 1788211487407
   },
   {
-    "serial": 26,
+    "serial": 42,
     "name": "Hamburg-Eimsbütteler Ballspiel Club 1911 vs Borussia Dortmund",
     "category": "Live Event",
     "epg_id": "",
@@ -754,7 +1218,7 @@
     "created_at": 1788211487406
   },
   {
-    "serial": 27,
+    "serial": 43,
     "name": "Al-Hilal vs Al-Ahli",
     "category": "Live Event",
     "epg_id": "",
@@ -783,7 +1247,7 @@
     "created_at": 1788211487406
   },
   {
-    "serial": 28,
+    "serial": 44,
     "name": "Tigre vs Barracas Central",
     "category": "Live Event",
     "epg_id": "",
@@ -812,7 +1276,7 @@
     "created_at": 1788211487406
   },
   {
-    "serial": 29,
+    "serial": 45,
     "name": "FC Barcelona vs Rayo Vallecano",
     "category": "Live Event",
     "epg_id": "",
@@ -841,7 +1305,7 @@
     "created_at": 1788211487406
   },
   {
-    "serial": 30,
+    "serial": 46,
     "name": "Benfica vs Estoril Praia",
     "category": "Live Event",
     "epg_id": "",
@@ -870,7 +1334,7 @@
     "created_at": 1788211487406
   },
   {
-    "serial": 31,
+    "serial": 47,
     "name": "EUROPEAN T20 vs Premier League",
     "category": "Live Event",
     "epg_id": "",
@@ -899,7 +1363,7 @@
     "created_at": 1788211197266
   },
   {
-    "serial": 32,
+    "serial": 48,
     "name": "Zimbabwe vs South Africa",
     "category": "Live Event",
     "epg_id": "",
@@ -928,7 +1392,7 @@
     "created_at": 1788211197266
   },
   {
-    "serial": 33,
+    "serial": 49,
     "name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
     "category": "Live Event",
     "epg_id": "",
@@ -957,7 +1421,7 @@
     "created_at": 1788211197266
   },
   {
-    "serial": 34,
+    "serial": 50,
     "name": "Peace Tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -975,7 +1439,7 @@
     "duration": "135"
   },
   {
-    "serial": 35,
+    "serial": 51,
     "name": "Makkah tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -993,7 +1457,7 @@
     "duration": "135"
   },
   {
-    "serial": 36,
+    "serial": 52,
     "name": "Madani ",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1011,7 +1475,7 @@
     "duration": "135"
   },
   {
-    "serial": 37,
+    "serial": 53,
     "name": "Btv News",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1029,7 +1493,7 @@
     "duration": "135"
   },
   {
-    "serial": 38,
+    "serial": 54,
     "name": "Alpona Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1047,7 +1511,7 @@
     "duration": "135"
   },
   {
-    "serial": 39,
+    "serial": 55,
     "name": "Sonsad Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1065,7 +1529,7 @@
     "duration": "135"
   },
   {
-    "serial": 40,
+    "serial": 56,
     "name": "Bangla Vision Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1083,7 +1547,7 @@
     "duration": "135"
   },
   {
-    "serial": 41,
+    "serial": 57,
     "name": "Boishakhi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1101,7 +1565,7 @@
     "duration": "135"
   },
   {
-    "serial": 42,
+    "serial": 58,
     "name": "Chaanel i",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1119,7 +1583,7 @@
     "duration": "135"
   },
   {
-    "serial": 43,
+    "serial": 59,
     "name": "Gazi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1137,7 +1601,7 @@
     "duration": "135"
   },
   {
-    "serial": 44,
+    "serial": 60,
     "name": "Deepto Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1155,7 +1619,7 @@
     "duration": "135"
   },
   {
-    "serial": 45,
+    "serial": 61,
     "name": "Rtv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1173,7 +1637,7 @@
     "duration": "135"
   },
   {
-    "serial": 46,
+    "serial": 62,
     "name": "Green Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1191,7 +1655,7 @@
     "duration": "135"
   },
   {
-    "serial": 47,
+    "serial": 63,
     "name": "Nagorik Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1209,7 +1673,7 @@
     "duration": "135"
   },
   {
-    "serial": 48,
+    "serial": 64,
     "name": "Ekushey Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1227,7 +1691,7 @@
     "duration": "135"
   },
   {
-    "serial": 49,
+    "serial": 65,
     "name": "My Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1245,7 +1709,7 @@
     "duration": "135"
   },
   {
-    "serial": 50,
+    "serial": 66,
     "name": "Ntv",
     "category": "BD News",
     "epg_id": "",
@@ -1263,7 +1727,7 @@
     "duration": "135"
   },
   {
-    "serial": 51,
+    "serial": 67,
     "name": "Bijoy tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1281,7 +1745,7 @@
     "duration": "135"
   },
   {
-    "serial": 52,
+    "serial": 68,
     "name": "Asian Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1299,7 +1763,7 @@
     "duration": "135"
   },
   {
-    "serial": 53,
+    "serial": 69,
     "name": "Ananda Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1317,7 +1781,7 @@
     "duration": "135"
   },
   {
-    "serial": 54,
+    "serial": 70,
     "name": "Massranga tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1335,7 +1799,7 @@
     "duration": "135"
   },
   {
-    "serial": 55,
+    "serial": 71,
     "name": "Mohona tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1353,7 +1817,7 @@
     "duration": "135"
   },
   {
-    "serial": 56,
+    "serial": 72,
     "name": "Channel 9 tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1371,7 +1835,7 @@
     "duration": "135"
   },
   {
-    "serial": 57,
+    "serial": 73,
     "name": "Sa tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1389,7 +1853,7 @@
     "duration": "135"
   },
   {
-    "serial": 58,
+    "serial": 74,
     "name": "Bangla tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1407,7 +1871,7 @@
     "duration": "135"
   },
   {
-    "serial": 59,
+    "serial": 75,
     "name": "Amer Bangla 24",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1425,7 +1889,7 @@
     "duration": "135"
   },
   {
-    "serial": 60,
+    "serial": 76,
     "name": "Movie Bangla Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1443,7 +1907,7 @@
     "duration": "135"
   },
   {
-    "serial": 61,
+    "serial": 77,
     "name": "Srk tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1461,7 +1925,7 @@
     "duration": "135"
   },
   {
-    "serial": 62,
+    "serial": 78,
     "name": "Shikor tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1479,7 +1943,7 @@
     "duration": "135"
   },
   {
-    "serial": 63,
+    "serial": 79,
     "name": "G Series",
     "category": "BD 24/7",
     "epg_id": "",
@@ -1497,7 +1961,7 @@
     "duration": "135"
   },
   {
-    "serial": 64,
+    "serial": 80,
     "name": "News 21 Bangla",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1515,7 +1979,7 @@
     "duration": "135"
   },
   {
-    "serial": 65,
+    "serial": 81,
     "name": "Movie",
     "category": "BD 24/7",
     "epg_id": "",
@@ -1533,7 +1997,7 @@
     "duration": "135"
   },
   {
-    "serial": 66,
+    "serial": 82,
     "name": "Desh tv",
     "category": "BD News",
     "epg_id": "",
@@ -1551,7 +2015,7 @@
     "duration": "135"
   },
   {
-    "serial": 67,
+    "serial": 83,
     "name": "Channel 1",
     "category": "BD News",
     "epg_id": "",
@@ -1569,7 +2033,7 @@
     "duration": "135"
   },
   {
-    "serial": 68,
+    "serial": 84,
     "name": "Jago News Tv",
     "category": "BD News",
     "epg_id": "",
@@ -1587,7 +2051,7 @@
     "duration": "135"
   },
   {
-    "serial": 69,
+    "serial": 85,
     "name": "T Sports",
     "category": "BD Sports",
     "epg_id": "",
@@ -1605,7 +2069,7 @@
     "duration": "135"
   },
   {
-    "serial": 70,
+    "serial": 86,
     "name": "Atn News",
     "category": "BD News",
     "epg_id": "",
@@ -1623,7 +2087,7 @@
     "duration": "135"
   },
   {
-    "serial": 71,
+    "serial": 87,
     "name": "Atn Bangla",
     "category": "BD News",
     "epg_id": "",
@@ -1641,7 +2105,7 @@
     "duration": "135"
   },
   {
-    "serial": 72,
+    "serial": 88,
     "name": "Independent News",
     "category": "BD News",
     "epg_id": "",
@@ -1659,7 +2123,7 @@
     "duration": "135"
   },
   {
-    "serial": 73,
+    "serial": 89,
     "name": "Ekttor Tv",
     "category": "BD News",
     "epg_id": "",
@@ -1677,7 +2141,7 @@
     "duration": "135"
   },
   {
-    "serial": 74,
+    "serial": 90,
     "name": "Channel 24",
     "category": "BD News",
     "epg_id": "",
@@ -1695,7 +2159,7 @@
     "duration": "135"
   },
   {
-    "serial": 75,
+    "serial": 91,
     "name": "News 24",
     "category": "BD News",
     "epg_id": "",
@@ -1713,7 +2177,7 @@
     "duration": "135"
   },
   {
-    "serial": 76,
+    "serial": 92,
     "name": "Star News",
     "category": "BD News",
     "epg_id": "",
@@ -1731,7 +2195,7 @@
     "duration": "135"
   },
   {
-    "serial": 77,
+    "serial": 93,
     "name": "DBC News",
     "category": "BD News",
     "epg_id": "",
@@ -1749,7 +2213,7 @@
     "duration": "135"
   },
   {
-    "serial": 78,
+    "serial": 94,
     "name": "Somoy News",
     "category": "BD News",
     "epg_id": "",
@@ -1767,7 +2231,7 @@
     "duration": "135"
   },
   {
-    "serial": 79,
+    "serial": 95,
     "name": "Jamuna News",
     "category": "BD News",
     "epg_id": "",
@@ -1785,7 +2249,7 @@
     "duration": "135"
   },
   {
-    "serial": 80,
+    "serial": 96,
     "name": "Ekhon tv",
     "category": "BD News",
     "epg_id": "",
@@ -1803,7 +2267,7 @@
     "duration": "135"
   },
   {
-    "serial": 81,
+    "serial": 97,
     "name": "Star Jalsha HD",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1821,7 +2285,7 @@
     "duration": "135"
   },
   {
-    "serial": 82,
+    "serial": 98,
     "name": "Zee Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1839,7 +2303,7 @@
     "duration": "135"
   },
   {
-    "serial": 83,
+    "serial": 99,
     "name": "Colours Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1857,7 +2321,7 @@
     "duration": "135"
   },
   {
-    "serial": 84,
+    "serial": 100,
     "name": "Colors bangla Cinema",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -1875,7 +2339,7 @@
     "duration": "135"
   },
   {
-    "serial": 85,
+    "serial": 101,
     "name": "Zee Bangla Sonar",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -1893,7 +2357,7 @@
     "duration": "135"
   },
   {
-    "serial": 86,
+    "serial": 102,
     "name": "Sony Aath",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -1911,7 +2375,7 @@
     "duration": "135"
   },
   {
-    "serial": 87,
+    "serial": 103,
     "name": "Jalsha Movies",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -1929,7 +2393,7 @@
     "duration": "135"
   },
   {
-    "serial": 88,
+    "serial": 104,
     "name": "Bangla Plues",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -1947,7 +2411,7 @@
     "duration": "135"
   },
   {
-    "serial": 89,
+    "serial": 105,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -1965,7 +2429,7 @@
     "duration": "135"
   },
   {
-    "serial": 90,
+    "serial": 106,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -1983,7 +2447,7 @@
     "duration": "135"
   },
   {
-    "serial": 91,
+    "serial": 107,
     "name": "Enter 10 Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2001,7 +2465,7 @@
     "duration": "135"
   },
   {
-    "serial": 92,
+    "serial": 108,
     "name": "Sun Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2019,7 +2483,7 @@
     "duration": "135"
   },
   {
-    "serial": 93,
+    "serial": 109,
     "name": "Gopal bhar tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2037,7 +2501,7 @@
     "duration": "135"
   },
   {
-    "serial": 94,
+    "serial": 110,
     "name": "Rangeen tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2055,7 +2519,7 @@
     "duration": "135"
   },
   {
-    "serial": 95,
+    "serial": 111,
     "name": "Nick",
     "category": "Cartoon",
     "epg_id": "",
@@ -2073,7 +2537,7 @@
     "duration": "135"
   },
   {
-    "serial": 96,
+    "serial": 112,
     "name": "Super Hungma",
     "category": "Cartoon",
     "epg_id": "",
@@ -2091,7 +2555,7 @@
     "duration": "135"
   },
   {
-    "serial": 97,
+    "serial": 113,
     "name": "Sonic",
     "category": "Cartoon",
     "epg_id": "",
@@ -2109,7 +2573,7 @@
     "duration": "135"
   },
   {
-    "serial": 98,
+    "serial": 114,
     "name": "Disney",
     "category": "Cartoon",
     "epg_id": "",
@@ -2127,7 +2591,7 @@
     "duration": "135"
   },
   {
-    "serial": 99,
+    "serial": 115,
     "name": "Discovery kids",
     "category": "Cartoon",
     "epg_id": "",
@@ -2145,7 +2609,7 @@
     "duration": "135"
   },
   {
-    "serial": 100,
+    "serial": 116,
     "name": "Pogo",
     "category": "Cartoon",
     "epg_id": "",
@@ -2163,7 +2627,7 @@
     "duration": "135"
   },
   {
-    "serial": 101,
+    "serial": 117,
     "name": "Sony YAY",
     "category": "Cartoon",
     "epg_id": "",
@@ -2181,7 +2645,7 @@
     "duration": "135"
   },
   {
-    "serial": 102,
+    "serial": 118,
     "name": "Tom & Jery",
     "category": "Cartoon",
     "epg_id": "",
@@ -2199,7 +2663,7 @@
     "duration": "135"
   },
   {
-    "serial": 103,
+    "serial": 119,
     "name": "Khusboo bangla",
     "category": "Cartoon",
     "epg_id": "",
@@ -2217,7 +2681,7 @@
     "duration": "135"
   },
   {
-    "serial": 104,
+    "serial": 120,
     "name": "ZB Cartoon",
     "category": "Cartoon",
     "epg_id": "",
@@ -2235,7 +2699,7 @@
     "duration": "135"
   },
   {
-    "serial": 105,
+    "serial": 121,
     "name": "Jungle Book",
     "category": "Cartoon",
     "epg_id": "",
@@ -2253,7 +2717,7 @@
     "duration": "135"
   },
   {
-    "serial": 106,
+    "serial": 122,
     "name": "Cartoon Network ",
     "category": "Cartoon",
     "epg_id": "",
@@ -2271,7 +2735,7 @@
     "duration": "135"
   },
   {
-    "serial": 107,
+    "serial": 123,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -2289,7 +2753,7 @@
     "duration": "135"
   },
   {
-    "serial": 108,
+    "serial": 124,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -2307,7 +2771,7 @@
     "duration": "135"
   },
   {
-    "serial": 109,
+    "serial": 125,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -2325,7 +2789,7 @@
     "duration": "135"
   },
   {
-    "serial": 110,
+    "serial": 126,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -2343,7 +2807,7 @@
     "duration": "135"
   },
   {
-    "serial": 111,
+    "serial": 127,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -2361,7 +2825,7 @@
     "duration": "135"
   },
   {
-    "serial": 112,
+    "serial": 128,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -2379,7 +2843,7 @@
     "duration": "135"
   },
   {
-    "serial": 113,
+    "serial": 129,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -2397,7 +2861,7 @@
     "duration": "135"
   },
   {
-    "serial": 114,
+    "serial": 130,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -2415,7 +2879,7 @@
     "duration": "135"
   },
   {
-    "serial": 115,
+    "serial": 131,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -2433,7 +2897,7 @@
     "duration": "135"
   },
   {
-    "serial": 116,
+    "serial": 132,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -2451,7 +2915,7 @@
     "duration": "135"
   },
   {
-    "serial": 117,
+    "serial": 133,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -2469,7 +2933,7 @@
     "duration": "135"
   },
   {
-    "serial": 118,
+    "serial": 134,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -2487,7 +2951,7 @@
     "duration": "135"
   },
   {
-    "serial": 119,
+    "serial": 135,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -2505,7 +2969,7 @@
     "duration": "135"
   },
   {
-    "serial": 120,
+    "serial": 136,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -2523,7 +2987,7 @@
     "duration": "135"
   },
   {
-    "serial": 121,
+    "serial": 137,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -2541,7 +3005,7 @@
     "duration": "135"
   },
   {
-    "serial": 122,
+    "serial": 138,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -2559,7 +3023,7 @@
     "duration": "135"
   },
   {
-    "serial": 123,
+    "serial": 139,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -2577,7 +3041,7 @@
     "duration": "135"
   },
   {
-    "serial": 124,
+    "serial": 140,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -2595,7 +3059,7 @@
     "duration": "135"
   },
   {
-    "serial": 125,
+    "serial": 141,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -2613,7 +3077,7 @@
     "duration": "135"
   },
   {
-    "serial": 126,
+    "serial": 142,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -2631,7 +3095,7 @@
     "duration": "135"
   },
   {
-    "serial": 127,
+    "serial": 143,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -2649,7 +3113,7 @@
     "duration": "135"
   },
   {
-    "serial": 128,
+    "serial": 144,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -2667,7 +3131,7 @@
     "duration": "135"
   },
   {
-    "serial": 129,
+    "serial": 145,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -2685,7 +3149,7 @@
     "duration": "135"
   },
   {
-    "serial": 130,
+    "serial": 146,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -2703,7 +3167,7 @@
     "duration": "135"
   },
   {
-    "serial": 131,
+    "serial": 147,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -2721,7 +3185,7 @@
     "duration": "135"
   },
   {
-    "serial": 132,
+    "serial": 148,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -2739,7 +3203,7 @@
     "duration": "135"
   },
   {
-    "serial": 133,
+    "serial": 149,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -2757,7 +3221,7 @@
     "duration": "135"
   },
   {
-    "serial": 134,
+    "serial": 150,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -2775,7 +3239,7 @@
     "duration": "135"
   },
   {
-    "serial": 135,
+    "serial": 151,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -2793,7 +3257,7 @@
     "duration": "135"
   },
   {
-    "serial": 136,
+    "serial": 152,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -2811,7 +3275,7 @@
     "duration": "135"
   },
   {
-    "serial": 137,
+    "serial": 153,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -2829,7 +3293,7 @@
     "duration": "135"
   },
   {
-    "serial": 138,
+    "serial": 154,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -2847,7 +3311,7 @@
     "duration": "135"
   },
   {
-    "serial": 139,
+    "serial": 155,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -2865,7 +3329,7 @@
     "duration": "135"
   },
   {
-    "serial": 140,
+    "serial": 156,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -2883,7 +3347,7 @@
     "duration": "135"
   },
   {
-    "serial": 141,
+    "serial": 157,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
