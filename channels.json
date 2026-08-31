@@ -284,7 +284,7 @@
     "sport_category": "Cricket",
     "is_high_voltage": false,
     "is_event": true,
-    "url": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#STREAM TV + HD",
+    "url": "http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#STREAM TV + HD",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
