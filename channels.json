@@ -57,7 +57,7 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788175702961
+    "created_at": 1788175775573
   },
   {
     "serial": 3,
@@ -86,39 +86,10 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788175702961
+    "created_at": 1788175775572
   },
   {
     "serial": 4,
-    "name": "Cagliari vs Inter Milan",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/2719/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/2697/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/2719/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/2697/image",
-    "team1": "Cagliari",
-    "team2": "Inter Milan",
-    "title": "Serie A",
-    "tournament": "Serie A",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-    "time": "12:45 AM 31/08/2026",
-    "start_time": "2026-08-31 00:45:00",
-    "duration": "135",
-    "sport_category": "Football",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788175702961
-  },
-  {
-    "serial": 5,
     "name": "TENNIS | EVENTO  vs TENNIS | EVENTO",
     "category": "Live Event",
     "epg_id": "",
@@ -147,7 +118,7 @@
     "created_at": 1788169628919
   },
   {
-    "serial": 6,
+    "serial": 5,
     "name": "Los Angeles Angels vs New York Yankees",
     "category": "Live Event",
     "epg_id": "",
@@ -178,7 +149,7 @@
     "successCount": 0
   },
   {
-    "serial": 7,
+    "serial": 6,
     "name": "Formula 1 vs Formula",
     "category": "Live Event",
     "epg_id": "",
@@ -209,7 +180,7 @@
     "successCount": 0
   },
   {
-    "serial": 8,
+    "serial": 7,
     "name": "GOLF EVENTO vs GOLF EVENTO",
     "category": "Live Event",
     "epg_id": "",
@@ -240,7 +211,7 @@
     "successCount": 0
   },
   {
-    "serial": 9,
+    "serial": 8,
     "name": "Cycling vs Cycling",
     "category": "Live Event",
     "epg_id": "",
@@ -271,7 +242,7 @@
     "successCount": 0
   },
   {
-    "serial": 10,
+    "serial": 9,
     "name": "Horse Racing vs Horse Racing",
     "category": "Live Event",
     "epg_id": "",
@@ -302,7 +273,7 @@
     "successCount": 0
   },
   {
-    "serial": 11,
+    "serial": 10,
     "name": "Sydney Swans vs Brisbane Lions",
     "category": "Live Event",
     "epg_id": "",
@@ -333,7 +304,7 @@
     "successCount": 0
   },
   {
-    "serial": 12,
+    "serial": 11,
     "name": "SmackDown vs SmackDown",
     "category": "Live Event",
     "epg_id": "",
@@ -364,7 +335,7 @@
     "successCount": 0
   },
   {
-    "serial": 13,
+    "serial": 12,
     "name": "UFC vs UFC",
     "category": "Live Event",
     "epg_id": "",
@@ -395,7 +366,7 @@
     "successCount": 0
   },
   {
-    "serial": 14,
+    "serial": 13,
     "name": "One Friday Fights vs One Friday Fights",
     "category": "Live Event",
     "epg_id": "",
@@ -426,7 +397,7 @@
     "successCount": 0
   },
   {
-    "serial": 15,
+    "serial": 14,
     "name": "TNA iMPACT vs TNA iMPACT",
     "category": "Live Event",
     "epg_id": "",
@@ -457,7 +428,7 @@
     "successCount": 0
   },
   {
-    "serial": 16,
+    "serial": 15,
     "name": "AEW Night Dynamite vs AEW Night Dynamite",
     "category": "Live Event",
     "epg_id": "",
@@ -488,7 +459,7 @@
     "successCount": 0
   },
   {
-    "serial": 17,
+    "serial": 16,
     "name": "WWE RAW vs WWE RAW",
     "category": "Live Event",
     "epg_id": "",
@@ -519,7 +490,7 @@
     "successCount": 0
   },
   {
-    "serial": 18,
+    "serial": 17,
     "name": "Mexico vs Brazil",
     "category": "Live Event",
     "epg_id": "",
@@ -550,7 +521,7 @@
     "successCount": 0
   },
   {
-    "serial": 19,
+    "serial": 18,
     "name": "Iceland vs Türkiye",
     "category": "Live Event",
     "epg_id": "",
@@ -581,7 +552,7 @@
     "successCount": 0
   },
   {
-    "serial": 20,
+    "serial": 19,
     "name": "China vs Lebanon",
     "category": "Live Event",
     "epg_id": "",
@@ -612,7 +583,7 @@
     "successCount": 0
   },
   {
-    "serial": 21,
+    "serial": 20,
     "name": "Universidad Católica vs O'Higgins",
     "category": "Live Event",
     "epg_id": "",
@@ -643,7 +614,7 @@
     "successCount": 0
   },
   {
-    "serial": 22,
+    "serial": 21,
     "name": "Tigre vs Barracas Central",
     "category": "Live Event",
     "epg_id": "",
@@ -674,7 +645,7 @@
     "successCount": 0
   },
   {
-    "serial": 23,
+    "serial": 22,
     "name": "Boston Legacy FC vs Angel City FC",
     "category": "Live Event",
     "epg_id": "",
@@ -705,7 +676,7 @@
     "successCount": 0
   },
   {
-    "serial": 24,
+    "serial": 23,
     "name": "Remo vs Coritiba",
     "category": "Live Event",
     "epg_id": "",
@@ -736,7 +707,7 @@
     "successCount": 0
   },
   {
-    "serial": 25,
+    "serial": 24,
     "name": "Club Atlético Grau vs Melgar",
     "category": "Live Event",
     "epg_id": "",
@@ -767,7 +738,7 @@
     "successCount": 0
   },
   {
-    "serial": 26,
+    "serial": 25,
     "name": "Celta Fortuna vs CD Castellón",
     "category": "Live Event",
     "epg_id": "",
@@ -798,7 +769,7 @@
     "successCount": 0
   },
   {
-    "serial": 27,
+    "serial": 26,
     "name": "FC Barcelona vs Rayo Vallecano",
     "category": "Live Event",
     "epg_id": "",
@@ -829,7 +800,7 @@
     "successCount": 0
   },
   {
-    "serial": 28,
+    "serial": 27,
     "name": "Benfica vs Estoril Praia",
     "category": "Live Event",
     "epg_id": "",
@@ -860,7 +831,7 @@
     "successCount": 0
   },
   {
-    "serial": 29,
+    "serial": 28,
     "name": "Aston Villa vs Arsenal",
     "category": "Live Event",
     "epg_id": "",
@@ -880,6 +851,37 @@
     "is_high_voltage": false,
     "is_event": true,
     "url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788150833156,
+    "failCount": 0,
+    "successCount": 0
+  },
+  {
+    "serial": 29,
+    "name": "Atalanta vs Bologna",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/2686/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/2685/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/2686/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/2685/image",
+    "team1": "Atalanta",
+    "team2": "Bologna",
+    "title": "Serie A",
+    "tournament": "Serie A",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+    "time": "12:45 AM 01/09/2026",
+    "start_time": "2026-09-01 00:45:00",
+    "duration": "135",
+    "sport_category": "Football",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd|drmScheme=clearkey&drmLicense=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d#ESPN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
