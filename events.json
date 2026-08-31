@@ -3,28 +3,6 @@
     {
       "id": "ev_1",
       "category": "Football",
-      "tournament": "Premier League",
-      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-      "team1_name": "Arsenal",
-      "team1_logo": "https://img.sofascore.com/api/v1/team/42/image",
-      "team2_name": "Aston Villa",
-      "team2_logo": "https://img.sofascore.com/api/v1/team/40/image",
-      "start_time": "2026-09-01 01:00:00",
-      "duration": "135",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f#FUBO SPORTS FHD $ https://abidd556888-sansi-au-pro.hf.space/https://live02-stan.akamaized.net/out/v1/e7804ce3f8ea4e729f350c6cc28a90c1/index.mpd|drmScheme=clearkey&drmLicense=77e80dbdb0564d1a83de0032d1dc4f07:6f7797efad8c6a7ae54ffebc8f431066#STAN SPORTS 4K $ https://chatgpt.hereisman.net/playlist/55593/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#USA NETWORK HD $ https://live.ftlcbx.com/live/72221212_2af2328a222509484261ccf7e75c6bf3_1080p.m3u8?auth_key=1788216996-0-0-dafa0a88a78ec24c276505c64f7c8b46#ASTRO EPL HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8#beiN ARABIC HD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8#SKY Premier League $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN1 ES HD $ https://tmaxapp.site/stan4s6c/stan1.m3u8#STAN SPORTS HD $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#Sky Sports EPL - HD $ https://iptvstream.xyzstreams.space/skymain/mono.ts.m3u8|Referer=https://xyzstreams.st/#Sky Main Event - HD $ https://iptvstream2.xyzstreams.space/nbcsn/mono.ts.m3u8|Referer=https://xyzstreams.st/#NBCSN ENG - HD",
-      "title": "Premier League",
-      "team1": "Arsenal",
-      "team2": "Aston Villa",
-      "logo1": "https://img.sofascore.com/api/v1/team/42/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/40/image",
-      "time": "01:00 AM 01/09/2026",
-      "streams": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f#FUBO SPORTS FHD $ https://abidd556888-sansi-au-pro.hf.space/https://live02-stan.akamaized.net/out/v1/e7804ce3f8ea4e729f350c6cc28a90c1/index.mpd|drmScheme=clearkey&drmLicense=77e80dbdb0564d1a83de0032d1dc4f07:6f7797efad8c6a7ae54ffebc8f431066#STAN SPORTS 4K $ https://chatgpt.hereisman.net/playlist/55593/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#USA NETWORK HD $ https://live.ftlcbx.com/live/72221212_2af2328a222509484261ccf7e75c6bf3_1080p.m3u8?auth_key=1788216996-0-0-dafa0a88a78ec24c276505c64f7c8b46#ASTRO EPL HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8#beiN ARABIC HD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8#SKY Premier League $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN1 ES HD $ https://tmaxapp.site/stan4s6c/stan1.m3u8#STAN SPORTS HD $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#Sky Sports EPL - HD $ https://iptvstream.xyzstreams.space/skymain/mono.ts.m3u8|Referer=https://xyzstreams.st/#Sky Main Event - HD $ https://iptvstream2.xyzstreams.space/nbcsn/mono.ts.m3u8|Referer=https://xyzstreams.st/#NBCSN ENG - HD",
-      "is_high_voltage": false,
-      "created_at": 1788209183285
-    },
-    {
-      "id": "ev_2",
-      "category": "Football",
       "tournament": "Liga Portugal Betclic",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
       "team1_name": "Sporting Braga",
@@ -42,10 +20,10 @@
       "time": "01:15 AM 01/09/2026",
       "streams": "https://live.ftlcbx.com/live/72530880_c1c135552e6a2e7d2202781125ad7e85_540p.m3u8?auth_key=1788218285-0-0-bd8a8c6e43638303815a741473f859fe#QUALITY (HD) $ http://193.47.62.41/hls/P999QQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ http://162.251.160.53:8089/4626/index.m3u8#TV LIVE HD",
       "is_high_voltage": false,
-      "created_at": 1788209183285
+      "created_at": 1788209722611
     },
     {
-      "id": "ev_3",
+      "id": "ev_2",
       "category": "Basketball",
       "tournament": "FIBA World Cup Qualification, Europe",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
@@ -64,10 +42,10 @@
       "time": "01:30 AM 01/09/2026",
       "streams": "http://193.47.62.41/hls/P999QQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788209183285
+      "created_at": 1788209722611
     },
     {
-      "id": "ev_4",
+      "id": "ev_3",
       "category": "Football",
       "tournament": "Liga 1 Te Apuesto",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
@@ -86,7 +64,7 @@
       "time": "02:00 AM 01/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788209183286
+      "created_at": 1788209722611
     }
   ]
 }
