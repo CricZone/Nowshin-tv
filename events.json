@@ -20,29 +20,7 @@
       "time": "07:15 PM 01/09/2026",
       "streams": "http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
       "is_high_voltage": false,
-      "created_at": 1788147508087
-    },
-    {
-      "id": "ev_2",
-      "category": "Cricket",
-      "tournament": "Caribbean Premier League",
-      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
-      "team1_name": "St Kitts and Nevis Patriots",
-      "team1_logo": "https://img.sofascore.com/api/v1/team/193209/image",
-      "team2_name": "Antigua & Barbuda Falcons",
-      "team2_logo": "https://img.sofascore.com/api/v1/team/514842/image",
-      "start_time": "2026-08-31 05:00:00",
-      "duration": "250",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.41/hls/ZJJJ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-      "title": "Caribbean Premier League",
-      "team1": "St Kitts and Nevis Patriots",
-      "team2": "Antigua & Barbuda Falcons",
-      "logo1": "https://img.sofascore.com/api/v1/team/193209/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/514842/image",
-      "time": "05:00 AM 31/08/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.41/hls/ZJJJ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-      "is_high_voltage": false,
-      "created_at": 1788147508087
+      "created_at": 1788150471563
     }
   ]
 }
