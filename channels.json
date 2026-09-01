@@ -1,6 +1,35 @@
 [
   {
     "serial": 1,
+    "name": "England Women vs Ireland Women",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://img.sofascore.com/api/v1/team/213121/image",
+    "teamBLogo": "https://img.sofascore.com/api/v1/team/213116/image",
+    "logo1": "https://img.sofascore.com/api/v1/team/213121/image",
+    "logo2": "https://img.sofascore.com/api/v1/team/213116/image",
+    "team1": "England Women",
+    "team2": "Ireland Women",
+    "title": "ICC Women's Championship",
+    "tournament": "ICC Women's Championship",
+    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+    "time": "06:00 PM 01/09/2026",
+    "start_time": "2026-09-01 18:00:00",
+    "duration": "250",
+    "sport_category": "Cricket",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#CRICKET FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788234475883
+  },
+  {
+    "serial": 2,
     "name": "Cycling vs Cycling",
     "category": "Live Event",
     "epg_id": "",
@@ -29,7 +58,7 @@
     "created_at": 1788234435962
   },
   {
-    "serial": 2,
+    "serial": 3,
     "name": "Horse Racing vs Horse Racing",
     "category": "Live Event",
     "epg_id": "",
@@ -58,7 +87,7 @@
     "created_at": 1788234435962
   },
   {
-    "serial": 3,
+    "serial": 4,
     "name": "TENNIS | EVENTO  vs TENNIS | EVENTO",
     "category": "Live Event",
     "epg_id": "",
@@ -87,7 +116,7 @@
     "created_at": 1788234435962
   },
   {
-    "serial": 4,
+    "serial": 5,
     "name": "Birmingham City vs Southampton",
     "category": "Live Event",
     "epg_id": "",
@@ -116,7 +145,7 @@
     "created_at": 1788234372009
   },
   {
-    "serial": 5,
+    "serial": 6,
     "name": "Leicester City vs Plymouth Argyle",
     "category": "Live Event",
     "epg_id": "",
@@ -145,7 +174,7 @@
     "created_at": 1788234372009
   },
   {
-    "serial": 6,
+    "serial": 7,
     "name": "Bromley vs Leyton Orient",
     "category": "Live Event",
     "epg_id": "",
@@ -174,7 +203,7 @@
     "created_at": 1788234372009
   },
   {
-    "serial": 7,
+    "serial": 8,
     "name": "Huddersfield Town vs Oxford United",
     "category": "Live Event",
     "epg_id": "",
@@ -203,7 +232,7 @@
     "created_at": 1788234372009
   },
   {
-    "serial": 8,
+    "serial": 9,
     "name": "Peterborough United vs Stevenage",
     "category": "Live Event",
     "epg_id": "",
@@ -232,7 +261,7 @@
     "created_at": 1788234372009
   },
   {
-    "serial": 9,
+    "serial": 10,
     "name": "Bradford City vs Cambridge United",
     "category": "Live Event",
     "epg_id": "",
@@ -261,7 +290,7 @@
     "created_at": 1788234372009
   },
   {
-    "serial": 10,
+    "serial": 11,
     "name": "Doncaster Rovers vs Notts County",
     "category": "Live Event",
     "epg_id": "",
@@ -290,7 +319,7 @@
     "created_at": 1788234372008
   },
   {
-    "serial": 11,
+    "serial": 12,
     "name": "Wycombe Wanderers vs Sheffield Wednesday",
     "category": "Live Event",
     "epg_id": "",
@@ -319,7 +348,7 @@
     "created_at": 1788234372008
   },
   {
-    "serial": 12,
+    "serial": 13,
     "name": "Sheffield United vs Bolton Wanderers",
     "category": "Live Event",
     "epg_id": "",
@@ -348,7 +377,7 @@
     "created_at": 1788234372008
   },
   {
-    "serial": 13,
+    "serial": 14,
     "name": "Lincoln City vs Blackburn Rovers",
     "category": "Live Event",
     "epg_id": "",
@@ -377,7 +406,7 @@
     "created_at": 1788234372008
   },
   {
-    "serial": 14,
+    "serial": 15,
     "name": "West Ham United vs Wolverhampton",
     "category": "Live Event",
     "epg_id": "",
@@ -406,7 +435,7 @@
     "created_at": 1788234372007
   },
   {
-    "serial": 15,
+    "serial": 16,
     "name": "Portsmouth vs Derby County",
     "category": "Live Event",
     "epg_id": "",
@@ -435,7 +464,7 @@
     "created_at": 1788234372007
   },
   {
-    "serial": 16,
+    "serial": 17,
     "name": "Swansea City vs Watford",
     "category": "Live Event",
     "epg_id": "",
@@ -464,7 +493,7 @@
     "created_at": 1788234372007
   },
   {
-    "serial": 17,
+    "serial": 18,
     "name": "Preston North End vs Bristol City",
     "category": "Live Event",
     "epg_id": "",
@@ -493,7 +522,7 @@
     "created_at": 1788234372007
   },
   {
-    "serial": 18,
+    "serial": 19,
     "name": "FK Austria Wien vs SK Brann Kvinner",
     "category": "Live Event",
     "epg_id": "",
@@ -522,7 +551,7 @@
     "created_at": 1788234372007
   },
   {
-    "serial": 19,
+    "serial": 20,
     "name": "Parma vs Cremonese",
     "category": "Live Event",
     "epg_id": "",
@@ -551,7 +580,7 @@
     "created_at": 1788234372007
   },
   {
-    "serial": 20,
+    "serial": 21,
     "name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
     "category": "Live Event",
     "epg_id": "",
@@ -580,7 +609,7 @@
     "created_at": 1788227138680
   },
   {
-    "serial": 21,
+    "serial": 22,
     "name": "Formula 1 vs Formula",
     "category": "Live Event",
     "epg_id": "",
@@ -611,7 +640,7 @@
     "successCount": 0
   },
   {
-    "serial": 22,
+    "serial": 23,
     "name": "Los Angeles Dodgers vs St. Louis Cardinals",
     "category": "Live Event",
     "epg_id": "",
@@ -642,7 +671,7 @@
     "successCount": 0
   },
   {
-    "serial": 23,
+    "serial": 24,
     "name": "Arizona Diamondbacks vs Philadelphia Phillies",
     "category": "Live Event",
     "epg_id": "",
@@ -673,7 +702,7 @@
     "successCount": 0
   },
   {
-    "serial": 24,
+    "serial": 25,
     "name": "Los Angeles Angels vs New York Yankees",
     "category": "Live Event",
     "epg_id": "",
@@ -704,7 +733,7 @@
     "successCount": 0
   },
   {
-    "serial": 25,
+    "serial": 26,
     "name": "Colorado Rockies vs Baltimore Orioles",
     "category": "Live Event",
     "epg_id": "",
@@ -735,7 +764,7 @@
     "successCount": 0
   },
   {
-    "serial": 26,
+    "serial": 27,
     "name": "Houston Astros vs Chicago White Sox",
     "category": "Live Event",
     "epg_id": "",
@@ -766,7 +795,7 @@
     "successCount": 0
   },
   {
-    "serial": 27,
+    "serial": 28,
     "name": "Texas Rangers vs Athletics",
     "category": "Live Event",
     "epg_id": "",
@@ -797,7 +826,7 @@
     "successCount": 0
   },
   {
-    "serial": 28,
+    "serial": 29,
     "name": "Minnesota Twins vs Detroit Tigers",
     "category": "Live Event",
     "epg_id": "",
@@ -828,7 +857,7 @@
     "successCount": 0
   },
   {
-    "serial": 29,
+    "serial": 30,
     "name": "Chicago Cubs vs Milwaukee Brewers",
     "category": "Live Event",
     "epg_id": "",
@@ -859,7 +888,7 @@
     "successCount": 0
   },
   {
-    "serial": 30,
+    "serial": 31,
     "name": "Kansas City Royals vs Miami Marlins",
     "category": "Live Event",
     "epg_id": "",
@@ -890,7 +919,7 @@
     "successCount": 0
   },
   {
-    "serial": 31,
+    "serial": 32,
     "name": "Washington Nationals vs Atlanta Braves",
     "category": "Live Event",
     "epg_id": "",
@@ -921,7 +950,7 @@
     "successCount": 0
   },
   {
-    "serial": 32,
+    "serial": 33,
     "name": "Boston Red Sox vs Seattle Mariners",
     "category": "Live Event",
     "epg_id": "",
@@ -952,7 +981,7 @@
     "successCount": 0
   },
   {
-    "serial": 33,
+    "serial": 34,
     "name": "Cincinnati Reds vs San Diego Padres",
     "category": "Live Event",
     "epg_id": "",
@@ -983,7 +1012,7 @@
     "successCount": 0
   },
   {
-    "serial": 34,
+    "serial": 35,
     "name": "Cleveland Guardians vs Toronto Blue Jays",
     "category": "Live Event",
     "epg_id": "",
@@ -1014,7 +1043,7 @@
     "successCount": 0
   },
   {
-    "serial": 35,
+    "serial": 36,
     "name": "Pittsburgh Pirates vs San Francisco Giants",
     "category": "Live Event",
     "epg_id": "",
@@ -1045,7 +1074,7 @@
     "successCount": 0
   },
   {
-    "serial": 36,
+    "serial": 37,
     "name": "Tampa Bay Rays vs New York Mets",
     "category": "Live Event",
     "epg_id": "",
@@ -1076,7 +1105,7 @@
     "successCount": 0
   },
   {
-    "serial": 37,
+    "serial": 38,
     "name": "Mexico vs Brazil",
     "category": "Live Event",
     "epg_id": "",
@@ -1107,7 +1136,7 @@
     "successCount": 0
   },
   {
-    "serial": 38,
+    "serial": 39,
     "name": "Dominican Republic vs Chile",
     "category": "Live Event",
     "epg_id": "",
@@ -1138,7 +1167,7 @@
     "successCount": 0
   },
   {
-    "serial": 39,
+    "serial": 40,
     "name": "Uruguay vs Puerto Rico",
     "category": "Live Event",
     "epg_id": "",
@@ -1169,7 +1198,7 @@
     "successCount": 0
   },
   {
-    "serial": 40,
+    "serial": 41,
     "name": "Canada vs Argentina",
     "category": "Live Event",
     "epg_id": "",
@@ -1200,7 +1229,7 @@
     "successCount": 0
   },
   {
-    "serial": 41,
+    "serial": 42,
     "name": "Bahamas vs Panama",
     "category": "Live Event",
     "epg_id": "",
@@ -1231,7 +1260,7 @@
     "successCount": 0
   },
   {
-    "serial": 42,
+    "serial": 43,
     "name": "SmackDown vs SmackDown",
     "category": "Live Event",
     "epg_id": "",
@@ -1262,7 +1291,7 @@
     "successCount": 0
   },
   {
-    "serial": 43,
+    "serial": 44,
     "name": "UFC vs UFC",
     "category": "Live Event",
     "epg_id": "",
@@ -1293,7 +1322,7 @@
     "successCount": 0
   },
   {
-    "serial": 44,
+    "serial": 45,
     "name": "One Friday Fights vs One Friday Fights",
     "category": "Live Event",
     "epg_id": "",
@@ -1324,7 +1353,7 @@
     "successCount": 0
   },
   {
-    "serial": 45,
+    "serial": 46,
     "name": "TNA iMPACT vs TNA iMPACT",
     "category": "Live Event",
     "epg_id": "",
@@ -1355,7 +1384,7 @@
     "successCount": 0
   },
   {
-    "serial": 46,
+    "serial": 47,
     "name": "AEW Night Dynamite vs AEW Night Dynamite",
     "category": "Live Event",
     "epg_id": "",
@@ -1386,7 +1415,7 @@
     "successCount": 0
   },
   {
-    "serial": 47,
+    "serial": 48,
     "name": "WWE NXT vs WWE NXT",
     "category": "Live Event",
     "epg_id": "",
@@ -1417,7 +1446,7 @@
     "successCount": 0
   },
   {
-    "serial": 48,
+    "serial": 49,
     "name": "WWE RAW vs WWE RAW",
     "category": "Live Event",
     "epg_id": "",
@@ -1448,7 +1477,7 @@
     "successCount": 0
   },
   {
-    "serial": 49,
+    "serial": 50,
     "name": "Atlético Mineiro vs Cruzeiro",
     "category": "Live Event",
     "epg_id": "",
@@ -1479,7 +1508,7 @@
     "successCount": 0
   },
   {
-    "serial": 50,
+    "serial": 51,
     "name": "Stoke City vs Norwich City",
     "category": "Live Event",
     "epg_id": "",
@@ -1510,7 +1539,7 @@
     "successCount": 0
   },
   {
-    "serial": 51,
+    "serial": 52,
     "name": "Torino vs Monza",
     "category": "Live Event",
     "epg_id": "",
@@ -1541,7 +1570,7 @@
     "successCount": 0
   },
   {
-    "serial": 52,
+    "serial": 53,
     "name": "Hamburg-Eimsbütteler Ballspiel Club 1911 vs Borussia Dortmund",
     "category": "Live Event",
     "epg_id": "",
@@ -1572,7 +1601,7 @@
     "successCount": 0
   },
   {
-    "serial": 53,
+    "serial": 54,
     "name": "Al-Hilal vs Al-Ahli",
     "category": "Live Event",
     "epg_id": "",
@@ -1603,7 +1632,7 @@
     "successCount": 0
   },
   {
-    "serial": 54,
+    "serial": 55,
     "name": "Tigre vs Barracas Central",
     "category": "Live Event",
     "epg_id": "",
@@ -1634,7 +1663,7 @@
     "successCount": 0
   },
   {
-    "serial": 55,
+    "serial": 56,
     "name": "EUROPEAN T20 vs Premier League",
     "category": "Live Event",
     "epg_id": "",
@@ -1665,7 +1694,7 @@
     "successCount": 0
   },
   {
-    "serial": 56,
+    "serial": 57,
     "name": "Zimbabwe vs South Africa",
     "category": "Live Event",
     "epg_id": "",
@@ -1696,7 +1725,7 @@
     "successCount": 0
   },
   {
-    "serial": 57,
+    "serial": 58,
     "name": "Peace Tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1714,7 +1743,7 @@
     "duration": "135"
   },
   {
-    "serial": 58,
+    "serial": 59,
     "name": "Makkah tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1732,7 +1761,7 @@
     "duration": "135"
   },
   {
-    "serial": 59,
+    "serial": 60,
     "name": "Madani ",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1750,7 +1779,7 @@
     "duration": "135"
   },
   {
-    "serial": 60,
+    "serial": 61,
     "name": "Btv News",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1768,7 +1797,7 @@
     "duration": "135"
   },
   {
-    "serial": 61,
+    "serial": 62,
     "name": "Alpona Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1786,7 +1815,7 @@
     "duration": "135"
   },
   {
-    "serial": 62,
+    "serial": 63,
     "name": "Sonsad Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1804,7 +1833,7 @@
     "duration": "135"
   },
   {
-    "serial": 63,
+    "serial": 64,
     "name": "Bangla Vision Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1822,7 +1851,7 @@
     "duration": "135"
   },
   {
-    "serial": 64,
+    "serial": 65,
     "name": "Boishakhi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1840,7 +1869,7 @@
     "duration": "135"
   },
   {
-    "serial": 65,
+    "serial": 66,
     "name": "Chaanel i",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1858,7 +1887,7 @@
     "duration": "135"
   },
   {
-    "serial": 66,
+    "serial": 67,
     "name": "Gazi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1876,7 +1905,7 @@
     "duration": "135"
   },
   {
-    "serial": 67,
+    "serial": 68,
     "name": "Deepto Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1894,7 +1923,7 @@
     "duration": "135"
   },
   {
-    "serial": 68,
+    "serial": 69,
     "name": "Rtv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1912,7 +1941,7 @@
     "duration": "135"
   },
   {
-    "serial": 69,
+    "serial": 70,
     "name": "Green Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1930,7 +1959,7 @@
     "duration": "135"
   },
   {
-    "serial": 70,
+    "serial": 71,
     "name": "Nagorik Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1948,7 +1977,7 @@
     "duration": "135"
   },
   {
-    "serial": 71,
+    "serial": 72,
     "name": "Ekushey Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1966,7 +1995,7 @@
     "duration": "135"
   },
   {
-    "serial": 72,
+    "serial": 73,
     "name": "My Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1984,7 +2013,7 @@
     "duration": "135"
   },
   {
-    "serial": 73,
+    "serial": 74,
     "name": "Ntv",
     "category": "BD News",
     "epg_id": "",
@@ -2002,7 +2031,7 @@
     "duration": "135"
   },
   {
-    "serial": 74,
+    "serial": 75,
     "name": "Bijoy tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2020,7 +2049,7 @@
     "duration": "135"
   },
   {
-    "serial": 75,
+    "serial": 76,
     "name": "Asian Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2038,7 +2067,7 @@
     "duration": "135"
   },
   {
-    "serial": 76,
+    "serial": 77,
     "name": "Ananda Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2056,7 +2085,7 @@
     "duration": "135"
   },
   {
-    "serial": 77,
+    "serial": 78,
     "name": "Massranga tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2074,7 +2103,7 @@
     "duration": "135"
   },
   {
-    "serial": 78,
+    "serial": 79,
     "name": "Mohona tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2092,7 +2121,7 @@
     "duration": "135"
   },
   {
-    "serial": 79,
+    "serial": 80,
     "name": "Channel 9 tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2110,7 +2139,7 @@
     "duration": "135"
   },
   {
-    "serial": 80,
+    "serial": 81,
     "name": "Sa tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2128,7 +2157,7 @@
     "duration": "135"
   },
   {
-    "serial": 81,
+    "serial": 82,
     "name": "Bangla tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2146,7 +2175,7 @@
     "duration": "135"
   },
   {
-    "serial": 82,
+    "serial": 83,
     "name": "Amer Bangla 24",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2164,7 +2193,7 @@
     "duration": "135"
   },
   {
-    "serial": 83,
+    "serial": 84,
     "name": "Movie Bangla Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2182,7 +2211,7 @@
     "duration": "135"
   },
   {
-    "serial": 84,
+    "serial": 85,
     "name": "Srk tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2200,7 +2229,7 @@
     "duration": "135"
   },
   {
-    "serial": 85,
+    "serial": 86,
     "name": "Shikor tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2218,7 +2247,7 @@
     "duration": "135"
   },
   {
-    "serial": 86,
+    "serial": 87,
     "name": "G Series",
     "category": "BD 24/7",
     "epg_id": "",
@@ -2236,7 +2265,7 @@
     "duration": "135"
   },
   {
-    "serial": 87,
+    "serial": 88,
     "name": "News 21 Bangla",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2254,7 +2283,7 @@
     "duration": "135"
   },
   {
-    "serial": 88,
+    "serial": 89,
     "name": "Movie",
     "category": "BD 24/7",
     "epg_id": "",
@@ -2272,7 +2301,7 @@
     "duration": "135"
   },
   {
-    "serial": 89,
+    "serial": 90,
     "name": "Desh tv",
     "category": "BD News",
     "epg_id": "",
@@ -2290,7 +2319,7 @@
     "duration": "135"
   },
   {
-    "serial": 90,
+    "serial": 91,
     "name": "Channel 1",
     "category": "BD News",
     "epg_id": "",
@@ -2308,7 +2337,7 @@
     "duration": "135"
   },
   {
-    "serial": 91,
+    "serial": 92,
     "name": "Jago News Tv",
     "category": "BD News",
     "epg_id": "",
@@ -2326,7 +2355,7 @@
     "duration": "135"
   },
   {
-    "serial": 92,
+    "serial": 93,
     "name": "T Sports",
     "category": "BD Sports",
     "epg_id": "",
@@ -2344,7 +2373,7 @@
     "duration": "135"
   },
   {
-    "serial": 93,
+    "serial": 94,
     "name": "Atn News",
     "category": "BD News",
     "epg_id": "",
@@ -2362,7 +2391,7 @@
     "duration": "135"
   },
   {
-    "serial": 94,
+    "serial": 95,
     "name": "Atn Bangla",
     "category": "BD News",
     "epg_id": "",
@@ -2380,7 +2409,7 @@
     "duration": "135"
   },
   {
-    "serial": 95,
+    "serial": 96,
     "name": "Independent News",
     "category": "BD News",
     "epg_id": "",
@@ -2398,7 +2427,7 @@
     "duration": "135"
   },
   {
-    "serial": 96,
+    "serial": 97,
     "name": "Ekttor Tv",
     "category": "BD News",
     "epg_id": "",
@@ -2416,7 +2445,7 @@
     "duration": "135"
   },
   {
-    "serial": 97,
+    "serial": 98,
     "name": "Channel 24",
     "category": "BD News",
     "epg_id": "",
@@ -2434,7 +2463,7 @@
     "duration": "135"
   },
   {
-    "serial": 98,
+    "serial": 99,
     "name": "News 24",
     "category": "BD News",
     "epg_id": "",
@@ -2452,7 +2481,7 @@
     "duration": "135"
   },
   {
-    "serial": 99,
+    "serial": 100,
     "name": "Star News",
     "category": "BD News",
     "epg_id": "",
@@ -2470,7 +2499,7 @@
     "duration": "135"
   },
   {
-    "serial": 100,
+    "serial": 101,
     "name": "DBC News",
     "category": "BD News",
     "epg_id": "",
@@ -2488,7 +2517,7 @@
     "duration": "135"
   },
   {
-    "serial": 101,
+    "serial": 102,
     "name": "Somoy News",
     "category": "BD News",
     "epg_id": "",
@@ -2506,7 +2535,7 @@
     "duration": "135"
   },
   {
-    "serial": 102,
+    "serial": 103,
     "name": "Jamuna News",
     "category": "BD News",
     "epg_id": "",
@@ -2524,7 +2553,7 @@
     "duration": "135"
   },
   {
-    "serial": 103,
+    "serial": 104,
     "name": "Ekhon tv",
     "category": "BD News",
     "epg_id": "",
@@ -2542,7 +2571,7 @@
     "duration": "135"
   },
   {
-    "serial": 104,
+    "serial": 105,
     "name": "Star Jalsha HD",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2560,7 +2589,7 @@
     "duration": "135"
   },
   {
-    "serial": 105,
+    "serial": 106,
     "name": "Zee Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2578,7 +2607,7 @@
     "duration": "135"
   },
   {
-    "serial": 106,
+    "serial": 107,
     "name": "Colours Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2596,7 +2625,7 @@
     "duration": "135"
   },
   {
-    "serial": 107,
+    "serial": 108,
     "name": "Colors bangla Cinema",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2614,7 +2643,7 @@
     "duration": "135"
   },
   {
-    "serial": 108,
+    "serial": 109,
     "name": "Zee Bangla Sonar",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2632,7 +2661,7 @@
     "duration": "135"
   },
   {
-    "serial": 109,
+    "serial": 110,
     "name": "Sony Aath",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2650,7 +2679,7 @@
     "duration": "135"
   },
   {
-    "serial": 110,
+    "serial": 111,
     "name": "Jalsha Movies",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2668,7 +2697,7 @@
     "duration": "135"
   },
   {
-    "serial": 111,
+    "serial": 112,
     "name": "Bangla Plues",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2686,7 +2715,7 @@
     "duration": "135"
   },
   {
-    "serial": 112,
+    "serial": 113,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2704,7 +2733,7 @@
     "duration": "135"
   },
   {
-    "serial": 113,
+    "serial": 114,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2722,7 +2751,7 @@
     "duration": "135"
   },
   {
-    "serial": 114,
+    "serial": 115,
     "name": "Enter 10 Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2740,7 +2769,7 @@
     "duration": "135"
   },
   {
-    "serial": 115,
+    "serial": 116,
     "name": "Sun Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2758,7 +2787,7 @@
     "duration": "135"
   },
   {
-    "serial": 116,
+    "serial": 117,
     "name": "Gopal bhar tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2776,7 +2805,7 @@
     "duration": "135"
   },
   {
-    "serial": 117,
+    "serial": 118,
     "name": "Rangeen tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2794,7 +2823,7 @@
     "duration": "135"
   },
   {
-    "serial": 118,
+    "serial": 119,
     "name": "Nick",
     "category": "Cartoon",
     "epg_id": "",
@@ -2812,7 +2841,7 @@
     "duration": "135"
   },
   {
-    "serial": 119,
+    "serial": 120,
     "name": "Super Hungma",
     "category": "Cartoon",
     "epg_id": "",
@@ -2830,7 +2859,7 @@
     "duration": "135"
   },
   {
-    "serial": 120,
+    "serial": 121,
     "name": "Sonic",
     "category": "Cartoon",
     "epg_id": "",
@@ -2848,7 +2877,7 @@
     "duration": "135"
   },
   {
-    "serial": 121,
+    "serial": 122,
     "name": "Disney",
     "category": "Cartoon",
     "epg_id": "",
@@ -2866,7 +2895,7 @@
     "duration": "135"
   },
   {
-    "serial": 122,
+    "serial": 123,
     "name": "Discovery kids",
     "category": "Cartoon",
     "epg_id": "",
@@ -2884,7 +2913,7 @@
     "duration": "135"
   },
   {
-    "serial": 123,
+    "serial": 124,
     "name": "Pogo",
     "category": "Cartoon",
     "epg_id": "",
@@ -2902,7 +2931,7 @@
     "duration": "135"
   },
   {
-    "serial": 124,
+    "serial": 125,
     "name": "Sony YAY",
     "category": "Cartoon",
     "epg_id": "",
@@ -2920,7 +2949,7 @@
     "duration": "135"
   },
   {
-    "serial": 125,
+    "serial": 126,
     "name": "Tom & Jery",
     "category": "Cartoon",
     "epg_id": "",
@@ -2938,7 +2967,7 @@
     "duration": "135"
   },
   {
-    "serial": 126,
+    "serial": 127,
     "name": "Khusboo bangla",
     "category": "Cartoon",
     "epg_id": "",
@@ -2956,7 +2985,7 @@
     "duration": "135"
   },
   {
-    "serial": 127,
+    "serial": 128,
     "name": "ZB Cartoon",
     "category": "Cartoon",
     "epg_id": "",
@@ -2974,7 +3003,7 @@
     "duration": "135"
   },
   {
-    "serial": 128,
+    "serial": 129,
     "name": "Jungle Book",
     "category": "Cartoon",
     "epg_id": "",
@@ -2992,7 +3021,7 @@
     "duration": "135"
   },
   {
-    "serial": 129,
+    "serial": 130,
     "name": "Cartoon Network ",
     "category": "Cartoon",
     "epg_id": "",
@@ -3010,7 +3039,7 @@
     "duration": "135"
   },
   {
-    "serial": 130,
+    "serial": 131,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3028,7 +3057,7 @@
     "duration": "135"
   },
   {
-    "serial": 131,
+    "serial": 132,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -3046,7 +3075,7 @@
     "duration": "135"
   },
   {
-    "serial": 132,
+    "serial": 133,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -3064,7 +3093,7 @@
     "duration": "135"
   },
   {
-    "serial": 133,
+    "serial": 134,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -3082,7 +3111,7 @@
     "duration": "135"
   },
   {
-    "serial": 134,
+    "serial": 135,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -3100,7 +3129,7 @@
     "duration": "135"
   },
   {
-    "serial": 135,
+    "serial": 136,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -3118,7 +3147,7 @@
     "duration": "135"
   },
   {
-    "serial": 136,
+    "serial": 137,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -3136,7 +3165,7 @@
     "duration": "135"
   },
   {
-    "serial": 137,
+    "serial": 138,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -3154,7 +3183,7 @@
     "duration": "135"
   },
   {
-    "serial": 138,
+    "serial": 139,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -3172,7 +3201,7 @@
     "duration": "135"
   },
   {
-    "serial": 139,
+    "serial": 140,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -3190,7 +3219,7 @@
     "duration": "135"
   },
   {
-    "serial": 140,
+    "serial": 141,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -3208,7 +3237,7 @@
     "duration": "135"
   },
   {
-    "serial": 141,
+    "serial": 142,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -3226,7 +3255,7 @@
     "duration": "135"
   },
   {
-    "serial": 142,
+    "serial": 143,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -3244,7 +3273,7 @@
     "duration": "135"
   },
   {
-    "serial": 143,
+    "serial": 144,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3262,7 +3291,7 @@
     "duration": "135"
   },
   {
-    "serial": 144,
+    "serial": 145,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3280,7 +3309,7 @@
     "duration": "135"
   },
   {
-    "serial": 145,
+    "serial": 146,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -3298,7 +3327,7 @@
     "duration": "135"
   },
   {
-    "serial": 146,
+    "serial": 147,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -3316,7 +3345,7 @@
     "duration": "135"
   },
   {
-    "serial": 147,
+    "serial": 148,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -3334,7 +3363,7 @@
     "duration": "135"
   },
   {
-    "serial": 148,
+    "serial": 149,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -3352,7 +3381,7 @@
     "duration": "135"
   },
   {
-    "serial": 149,
+    "serial": 150,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -3370,7 +3399,7 @@
     "duration": "135"
   },
   {
-    "serial": 150,
+    "serial": 151,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -3388,7 +3417,7 @@
     "duration": "135"
   },
   {
-    "serial": 151,
+    "serial": 152,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -3406,7 +3435,7 @@
     "duration": "135"
   },
   {
-    "serial": 152,
+    "serial": 153,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3424,7 +3453,7 @@
     "duration": "135"
   },
   {
-    "serial": 153,
+    "serial": 154,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -3442,7 +3471,7 @@
     "duration": "135"
   },
   {
-    "serial": 154,
+    "serial": 155,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -3460,7 +3489,7 @@
     "duration": "135"
   },
   {
-    "serial": 155,
+    "serial": 156,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -3478,7 +3507,7 @@
     "duration": "135"
   },
   {
-    "serial": 156,
+    "serial": 157,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -3496,7 +3525,7 @@
     "duration": "135"
   },
   {
-    "serial": 157,
+    "serial": 158,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -3514,7 +3543,7 @@
     "duration": "135"
   },
   {
-    "serial": 158,
+    "serial": 159,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -3532,7 +3561,7 @@
     "duration": "135"
   },
   {
-    "serial": 159,
+    "serial": 160,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -3550,7 +3579,7 @@
     "duration": "135"
   },
   {
-    "serial": 160,
+    "serial": 161,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -3568,7 +3597,7 @@
     "duration": "135"
   },
   {
-    "serial": 161,
+    "serial": 162,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -3586,7 +3615,7 @@
     "duration": "135"
   },
   {
-    "serial": 162,
+    "serial": 163,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -3604,7 +3633,7 @@
     "duration": "135"
   },
   {
-    "serial": 163,
+    "serial": 164,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -3622,7 +3651,7 @@
     "duration": "135"
   },
   {
-    "serial": 164,
+    "serial": 165,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
