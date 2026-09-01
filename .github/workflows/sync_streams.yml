@@ -1,9 +1,7 @@
 name: Auto Sync Added Matches Streams
 
 on:
-  schedule:
-    - cron: '*/5 * * * *' # প্রতি ৫ মিনিট পর পর ব্যাকগ্রাউন্ডে চেক করবে
-  workflow_dispatch:      # গিটহাব থেকে যেকোনো সময় ম্যানুয়ালি রান করার অপশন
+  workflow_dispatch:
 
 jobs:
   update-streams:
@@ -21,19 +19,26 @@ jobs:
           node-version: '18'
 
       - name: Match and Sync Server Links
+        env:
+          API_URL: ${{ secrets.STREAM_API_URL }}
         run: |
           node -e '
           const fs = require("fs");
 
-          const API_URL = "https://s1.noobon.top/axsx/streamx.php";
+          const API_URL = process.env.API_URL;
           const EVENTS_FILE = "events.json";
           const CHANNELS_FILE = "channels.json";
+
+          if (!API_URL) {
+            console.error("API URL secret is missing!");
+            process.exit(1);
+          }
 
           const cleanStr = (s) => (s || "").toLowerCase().replace(/[^a-z0-9]/g, "");
 
           async function main() {
             try {
-              console.log("Fetching latest feed from StreamX API...");
+              console.log("Fetching latest feed from API...");
               const res = await fetch(API_URL, { headers: { "User-Agent": "Mozilla/5.0" } });
               if (!res.ok) throw new Error("API response error: " + res.status);
               const data = await res.json();
@@ -47,7 +52,6 @@ jobs:
               let hasEventsChanged = false;
               let hasChannelsChanged = false;
 
-              // 1. Process events.json
               let eventsData = { events: [] };
               if (fs.existsSync(EVENTS_FILE)) {
                 try {
@@ -56,7 +60,6 @@ jobs:
                 } catch(e) { console.error("Error reading events.json", e); }
               }
 
-              // 2. Process channels.json
               let channelsList = [];
               if (fs.existsSync(CHANNELS_FILE)) {
                 try {
@@ -69,7 +72,6 @@ jobs:
                 return;
               }
 
-              // Parse API links helper
               function extractStreams(m) {
                 let serverPairs = [];
                 if (Array.isArray(m.streaming_links)) {
@@ -87,7 +89,6 @@ jobs:
                 return serverPairs.join(" $ ");
               }
 
-              // Check existing events in events.json
               eventsData.events.forEach(ev => {
                 const evT1 = cleanStr(ev.team1_name || ev.team1 || "");
                 const evT2 = cleanStr(ev.team2_name || ev.team2 || "");
@@ -117,7 +118,6 @@ jobs:
                 }
               });
 
-              // Check existing events in channels.json (Category: Live Event)
               channelsList.forEach(ch => {
                 if (ch.category !== "Live Event" && !ch.is_event) return;
 
