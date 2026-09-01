@@ -32,161 +32,6 @@
   },
   {
     "serial": 2,
-    "name": "British Superbikes vs British Superbikes",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg",
-    "teamBLogo": "https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg",
-    "logo1": "https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg",
-    "logo2": "https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg",
-    "team1": "British Superbikes",
-    "team2": "British Superbikes",
-    "title": "British Superbikes",
-    "tournament": "British Superbikes",
-    "tournament_logo": "https://pbs.twimg.com/profile_images/2052332708588556291/z5ZC2x6v_400x400.jpg",
-    "time": "10:35 PM 31/08/2026",
-    "start_time": "2026-08-31 22:35:00",
-    "duration": "135",
-    "sport_category": "Motorsports",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#Link 1 $ http://193.47.62.41/hls/gggg.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213421889,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 3,
-    "name": "INDYCAR Series Racing vs INDYCAR Series Racing",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
-    "teamBLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
-    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
-    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
-    "team1": "INDYCAR Series Racing",
-    "team2": "INDYCAR Series Racing",
-    "title": "INDYCAR Series Racing",
-    "tournament": "INDYCAR Series Racing",
-    "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77PUBbu_qh5IgMQ9hyTW_oHpqiCiskZ9_lvlGweDxUw&s=10",
-    "time": "09:00 PM 30/08/2026",
-    "start_time": "2026-08-30 21:00:00",
-    "duration": "165",
-    "sport_category": "Motorsports",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16#FOX1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae#FOX2 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8#SKY5 NZ HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX DEPORTES FHD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213421889,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 4,
-    "name": "MotorGP vs MotorGP",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-    "teamBLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-    "team1": "MotorGP",
-    "team2": "MotorGP",
-    "title": "MotoGP Evento",
-    "tournament": "MotoGP Evento",
-    "tournament_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
-    "time": "08:02 PM 30/08/2026",
-    "start_time": "2026-08-30 20:02:00",
-    "duration": "165",
-    "sport_category": "Motorsports",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|drmScheme=clearkey&drmLicense=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae#FOX2 SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd|drmScheme=clearkey&drmLicense=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed#SPOTV FHD $ https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click#DAZN SPORTS $ https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click#CANAL+ HD $ http://193.47.62.44/hls/LDDDQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213421889,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 5,
-    "name": "NASCAR CUP SERIES vs NASCAR CUP SERIES",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-    "teamBLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-    "team1": "NASCAR CUP SERIES",
-    "team2": "NASCAR CUP SERIES",
-    "title": "NASCAR",
-    "tournament": "NASCAR",
-    "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-    "time": "05:30 AM 30/08/2026",
-    "start_time": "2026-08-30 05:30:00",
-    "duration": "135",
-    "sport_category": "Motorsports",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213421889,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 6,
-    "name": "WRC Rally vs WRC Rally",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/category/84/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/category/84/image",
-    "logo1": "https://img.sofascore.com/api/v1/category/84/image",
-    "logo2": "https://img.sofascore.com/api/v1/category/84/image",
-    "team1": "WRC Rally",
-    "team2": "WRC Rally",
-    "title": "WRC Rally",
-    "tournament": "WRC Rally",
-    "tournament_logo": "https://img.sofascore.com/api/v1/category/84/image",
-    "time": "08:05 PM 29/08/2026",
-    "start_time": "2026-08-29 20:05:00",
-    "duration": "135",
-    "sport_category": "Motorsports",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8#RALLY TV HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213421889,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 7,
     "name": "Los Angeles Dodgers vs St. Louis Cardinals",
     "category": "Live Event",
     "epg_id": "",
@@ -217,7 +62,7 @@
     "successCount": 0
   },
   {
-    "serial": 8,
+    "serial": 3,
     "name": "Arizona Diamondbacks vs Philadelphia Phillies",
     "category": "Live Event",
     "epg_id": "",
@@ -248,7 +93,7 @@
     "successCount": 0
   },
   {
-    "serial": 9,
+    "serial": 4,
     "name": "Los Angeles Angels vs New York Yankees",
     "category": "Live Event",
     "epg_id": "",
@@ -279,7 +124,7 @@
     "successCount": 0
   },
   {
-    "serial": 10,
+    "serial": 5,
     "name": "Colorado Rockies vs Baltimore Orioles",
     "category": "Live Event",
     "epg_id": "",
@@ -310,7 +155,7 @@
     "successCount": 0
   },
   {
-    "serial": 11,
+    "serial": 6,
     "name": "Houston Astros vs Chicago White Sox",
     "category": "Live Event",
     "epg_id": "",
@@ -341,7 +186,7 @@
     "successCount": 0
   },
   {
-    "serial": 12,
+    "serial": 7,
     "name": "Texas Rangers vs Athletics",
     "category": "Live Event",
     "epg_id": "",
@@ -372,7 +217,7 @@
     "successCount": 0
   },
   {
-    "serial": 13,
+    "serial": 8,
     "name": "Minnesota Twins vs Detroit Tigers",
     "category": "Live Event",
     "epg_id": "",
@@ -403,7 +248,7 @@
     "successCount": 0
   },
   {
-    "serial": 14,
+    "serial": 9,
     "name": "Chicago Cubs vs Milwaukee Brewers",
     "category": "Live Event",
     "epg_id": "",
@@ -434,7 +279,7 @@
     "successCount": 0
   },
   {
-    "serial": 15,
+    "serial": 10,
     "name": "Kansas City Royals vs Miami Marlins",
     "category": "Live Event",
     "epg_id": "",
@@ -465,7 +310,7 @@
     "successCount": 0
   },
   {
-    "serial": 16,
+    "serial": 11,
     "name": "Washington Nationals vs Atlanta Braves",
     "category": "Live Event",
     "epg_id": "",
@@ -496,7 +341,7 @@
     "successCount": 0
   },
   {
-    "serial": 17,
+    "serial": 12,
     "name": "Boston Red Sox vs Seattle Mariners",
     "category": "Live Event",
     "epg_id": "",
@@ -527,7 +372,7 @@
     "successCount": 0
   },
   {
-    "serial": 18,
+    "serial": 13,
     "name": "Cincinnati Reds vs San Diego Padres",
     "category": "Live Event",
     "epg_id": "",
@@ -558,7 +403,7 @@
     "successCount": 0
   },
   {
-    "serial": 19,
+    "serial": 14,
     "name": "Cleveland Guardians vs Toronto Blue Jays",
     "category": "Live Event",
     "epg_id": "",
@@ -589,7 +434,7 @@
     "successCount": 0
   },
   {
-    "serial": 20,
+    "serial": 15,
     "name": "Pittsburgh Pirates vs San Francisco Giants",
     "category": "Live Event",
     "epg_id": "",
@@ -620,7 +465,7 @@
     "successCount": 0
   },
   {
-    "serial": 21,
+    "serial": 16,
     "name": "Tampa Bay Rays vs New York Mets",
     "category": "Live Event",
     "epg_id": "",
@@ -651,69 +496,7 @@
     "successCount": 0
   },
   {
-    "serial": 22,
-    "name": "Washington Nationals vs Miami Marlins",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/5930/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/3639/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/5930/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/3639/image",
-    "team1": "Washington Nationals",
-    "team2": "Miami Marlins",
-    "title": "MLB",
-    "tournament": "MLB",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-    "time": "04:45 AM 01/09/2026",
-    "start_time": "2026-09-01 04:45:00",
-    "duration": "135",
-    "sport_category": "Baseball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|drmScheme=clearkey&drmLicense=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16#FOX1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX DEPORTES FHD $ https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213376254,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 23,
-    "name": "Atlanta Braves vs San Francisco Giants",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/3656/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/3634/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/3656/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/3634/image",
-    "team1": "Atlanta Braves",
-    "team2": "San Francisco Giants",
-    "title": "MLB",
-    "tournament": "MLB",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-    "time": "04:05 AM 01/09/2026",
-    "start_time": "2026-09-01 04:05:00",
-    "duration": "135",
-    "sport_category": "Baseball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55602/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB TV HD $ https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213376254,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 24,
+    "serial": 17,
     "name": "Mexico vs Brazil",
     "category": "Live Event",
     "epg_id": "",
@@ -744,7 +527,7 @@
     "successCount": 0
   },
   {
-    "serial": 25,
+    "serial": 18,
     "name": "Dominican Republic vs Chile",
     "category": "Live Event",
     "epg_id": "",
@@ -775,7 +558,7 @@
     "successCount": 0
   },
   {
-    "serial": 26,
+    "serial": 19,
     "name": "Uruguay vs Puerto Rico",
     "category": "Live Event",
     "epg_id": "",
@@ -806,7 +589,7 @@
     "successCount": 0
   },
   {
-    "serial": 27,
+    "serial": 20,
     "name": "Canada vs Argentina",
     "category": "Live Event",
     "epg_id": "",
@@ -837,224 +620,7 @@
     "successCount": 0
   },
   {
-    "serial": 28,
-    "name": "USA vs Colombia",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/6141/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/224252/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/6141/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/224252/image",
-    "team1": "USA",
-    "team2": "Colombia",
-    "title": "FIBA World Cup Qualification, Americas",
-    "tournament": "FIBA World Cup Qualification, Americas",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10461/image/dark",
-    "time": "05:00 AM 01/09/2026",
-    "start_time": "2026-09-01 05:00:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213309004,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 29,
-    "name": "Montenegro vs Ukraine",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/39836/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/25377/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/39836/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/25377/image",
-    "team1": "Montenegro",
-    "team2": "Ukraine",
-    "title": "FIBA World Cup Qualification, Europe",
-    "tournament": "FIBA World Cup Qualification, Europe",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-    "time": "12:30 AM 01/09/2026",
-    "start_time": "2026-09-01 00:30:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://chatgpt.hereisman.net/playlist/55597/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#FIBA WC HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213309004,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 30,
-    "name": "Portugal vs Georgia",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/7497/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/39835/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/7497/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/39835/image",
-    "team1": "Portugal",
-    "team2": "Georgia",
-    "title": "FIBA World Cup Qualification, Europe",
-    "tournament": "FIBA World Cup Qualification, Europe",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-    "time": "12:00 AM 01/09/2026",
-    "start_time": "2026-09-01 00:00:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213309004,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 31,
-    "name": "Italy vs Serbia",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/6129/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/6139/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/6129/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/6139/image",
-    "team1": "Italy",
-    "team2": "Serbia",
-    "title": "FIBA World Cup Qualification, Europe",
-    "tournament": "FIBA World Cup Qualification, Europe",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-    "time": "11:30 PM 31/08/2026",
-    "start_time": "2026-08-31 23:30:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213309004,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 32,
-    "name": "Greece vs Spain",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/6128/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/6252/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/6128/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/6252/image",
-    "team1": "Greece",
-    "team2": "Spain",
-    "title": "FIBA World Cup Qualification, Europe",
-    "tournament": "FIBA World Cup Qualification, Europe",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-    "time": "10:32 PM 31/08/2026",
-    "start_time": "2026-08-31 22:32:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "http://193.47.62.41/hls/G999QQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213309004,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 33,
-    "name": "Lithuania vs Bosnia & Herzegovina",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/6132/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/25370/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/6132/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/25370/image",
-    "team1": "Lithuania",
-    "team2": "Bosnia & Herzegovina",
-    "title": "FIBA World Cup Qualification, Europe",
-    "tournament": "FIBA World Cup Qualification, Europe",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-    "time": "10:31 PM 31/08/2026",
-    "start_time": "2026-08-31 22:31:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "http://193.47.62.40/hls/I888QQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213309004,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 34,
-    "name": "China vs Lebanon",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/6127/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/6131/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/6127/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/6131/image",
-    "team1": "China",
-    "team2": "Lebanon",
-    "title": "FIBA World Cup Qualification, Asia & Oceania",
-    "tournament": "FIBA World Cup Qualification, Asia & Oceania",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10486/image/dark",
-    "time": "05:30 PM 31/08/2026",
-    "start_time": "2026-08-31 17:30:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "http://193.47.62.41/hls/VFFFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM TV + HD $ http://193.47.62.41/hls/VFFFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788213309004,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 35,
+    "serial": 21,
     "name": "Bahamas vs Panama",
     "category": "Live Event",
     "epg_id": "",
@@ -1085,7 +651,7 @@
     "successCount": 0
   },
   {
-    "serial": 36,
+    "serial": 22,
     "name": "SmackDown vs SmackDown",
     "category": "Live Event",
     "epg_id": "",
@@ -1116,7 +682,7 @@
     "successCount": 0
   },
   {
-    "serial": 37,
+    "serial": 23,
     "name": "UFC vs UFC",
     "category": "Live Event",
     "epg_id": "",
@@ -1147,7 +713,7 @@
     "successCount": 0
   },
   {
-    "serial": 38,
+    "serial": 24,
     "name": "One Friday Fights vs One Friday Fights",
     "category": "Live Event",
     "epg_id": "",
@@ -1178,7 +744,7 @@
     "successCount": 0
   },
   {
-    "serial": 39,
+    "serial": 25,
     "name": "TNA iMPACT vs TNA iMPACT",
     "category": "Live Event",
     "epg_id": "",
@@ -1209,7 +775,7 @@
     "successCount": 0
   },
   {
-    "serial": 40,
+    "serial": 26,
     "name": "AEW Night Dynamite vs AEW Night Dynamite",
     "category": "Live Event",
     "epg_id": "",
@@ -1240,7 +806,7 @@
     "successCount": 0
   },
   {
-    "serial": 41,
+    "serial": 27,
     "name": "WWE NXT vs WWE NXT",
     "category": "Live Event",
     "epg_id": "",
@@ -1271,7 +837,7 @@
     "successCount": 0
   },
   {
-    "serial": 42,
+    "serial": 28,
     "name": "WWE RAW vs WWE RAW",
     "category": "Live Event",
     "epg_id": "",
@@ -1302,38 +868,7 @@
     "successCount": 0
   },
   {
-    "serial": 43,
-    "name": "Iceland vs Türkiye",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/61574/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/6253/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/61574/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/6253/image",
-    "team1": "Iceland",
-    "team2": "Türkiye",
-    "title": "FIBA World Cup Qualification, Europe",
-    "tournament": "FIBA World Cup Qualification, Europe",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/10437/image/dark",
-    "time": "01:30 AM 01/09/2026",
-    "start_time": "2026-09-01 01:30:00",
-    "duration": "135",
-    "sport_category": "Basketball",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://chatgpt.hereisman.net/playlist/55599/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#FIBA WC HD $ http://193.47.62.41/hls/P999QQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788211556606,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 44,
+    "serial": 29,
     "name": "Atlético Mineiro vs Cruzeiro",
     "category": "Live Event",
     "epg_id": "",
@@ -1364,7 +899,7 @@
     "successCount": 0
   },
   {
-    "serial": 45,
+    "serial": 30,
     "name": "Stoke City vs Norwich City",
     "category": "Live Event",
     "epg_id": "",
@@ -1395,7 +930,7 @@
     "successCount": 0
   },
   {
-    "serial": 46,
+    "serial": 31,
     "name": "Torino vs Monza",
     "category": "Live Event",
     "epg_id": "",
@@ -1426,7 +961,7 @@
     "successCount": 0
   },
   {
-    "serial": 47,
+    "serial": 32,
     "name": "Hamburg-Eimsbütteler Ballspiel Club 1911 vs Borussia Dortmund",
     "category": "Live Event",
     "epg_id": "",
@@ -1457,7 +992,7 @@
     "successCount": 0
   },
   {
-    "serial": 48,
+    "serial": 33,
     "name": "Al-Hilal vs Al-Ahli",
     "category": "Live Event",
     "epg_id": "",
@@ -1488,7 +1023,7 @@
     "successCount": 0
   },
   {
-    "serial": 49,
+    "serial": 34,
     "name": "Tigre vs Barracas Central",
     "category": "Live Event",
     "epg_id": "",
@@ -1519,69 +1054,7 @@
     "successCount": 0
   },
   {
-    "serial": 50,
-    "name": "FC Barcelona vs Rayo Vallecano",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/2817/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/2818/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/2817/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/2818/image",
-    "team1": "FC Barcelona",
-    "team2": "Rayo Vallecano",
-    "title": "LaLiga",
-    "tournament": "LaLiga",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-    "time": "01:30 AM 01/09/2026",
-    "start_time": "2026-09-01 01:30:00",
-    "duration": "135",
-    "sport_category": "Football",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f#PREMIER1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://tmaxapp.site/8wirwjs76erftg/daznlaliga1.m3u8#DAZN LALIGA $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LaLiga HD $ https://chatgpt.hereisman.net/playlist/55591/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://edgestream2.pro/hls/377qj1h2727.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0#ESPN DEPORTES HD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38#Caze TV FHD $ https://cdn4.zohanayaan.com:1686/hls/do52.m3u8?md5=cXngP6FiFf9x-X32bAD5cg&expires=1788210065|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com#DIESNY+ - HD $ https://cdn4.zohanayaan.com:1686/hls/do5.m3u8?md5=1lHMh3JtmSss1MgT2o613A&expires=1788210059|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com#TSN SPORTS - HD $ https://cdn8.zohanayaan.com:1686/hls/do64.m3u8?md5=U21EK2gFoh3L0sw25ZRj1A&expires=1788210066|origin=https://exposestrat.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://exposestrat.com#MEX SPORTS - HD $ https://messi.damitv.st/live-hls/channel/laliga/2026-08-31/bar-ray/playlist.m3u8?tk=jvOhZg4z4Xs3mU4Eyupmqw&e=1788246049|origin=https://ondemand.st/embed/?id=laliga/2026-08-31/bar-ray&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&referer=https://ondemand.st/embed/?id=laliga/2026-08-31/bar-ray#ESPN DEPORTEES $ http://193.47.62.58/hls/P333A.m3u8|Referer=http://www.fawanews.sc/#SD SPORTS - HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788211487406,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 51,
-    "name": "Benfica vs Estoril Praia",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/3006/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/4500/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/3006/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/4500/image",
-    "team1": "Benfica",
-    "team2": "Estoril Praia",
-    "title": "Liga Portugal Betclic",
-    "tournament": "Liga Portugal Betclic",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
-    "time": "01:15 AM 01/09/2026",
-    "start_time": "2026-09-01 01:15:00",
-    "duration": "135",
-    "sport_category": "Football",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://live1.ftlcbx.com/live/72530890_11272c133606e83eb9fcd6dbe96148e5_540p.m3u8?auth_key=1788218285-0-0-58ddb250b8593362ce3091abed8e9938#HD QUALITY $ http://193.47.62.41/hls/P999QQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788211487406,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 52,
+    "serial": 35,
     "name": "EUROPEAN T20 vs Premier League",
     "category": "Live Event",
     "epg_id": "",
@@ -1612,7 +1085,7 @@
     "successCount": 0
   },
   {
-    "serial": 53,
+    "serial": 36,
     "name": "Zimbabwe vs South Africa",
     "category": "Live Event",
     "epg_id": "",
@@ -1643,38 +1116,7 @@
     "successCount": 0
   },
   {
-    "serial": 54,
-    "name": "Trinbago Knight Riders vs Guyana Amazon Warriors",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/187824/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/187823/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/187824/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/187823/image",
-    "team1": "Trinbago Knight Riders",
-    "team2": "Guyana Amazon Warriors",
-    "title": "Caribbean Premier League",
-    "tournament": "Caribbean Premier League",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
-    "time": "03:00 AM 01/09/2026",
-    "start_time": "2026-09-01 03:00:00",
-    "duration": "250",
-    "sport_category": "Cricket",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788211197266,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 55,
+    "serial": 37,
     "name": "Peace Tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1692,7 +1134,7 @@
     "duration": "135"
   },
   {
-    "serial": 56,
+    "serial": 38,
     "name": "Makkah tv",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1710,7 +1152,7 @@
     "duration": "135"
   },
   {
-    "serial": 57,
+    "serial": 39,
     "name": "Madani ",
     "category": "Islamic Tv",
     "epg_id": "",
@@ -1728,7 +1170,7 @@
     "duration": "135"
   },
   {
-    "serial": 58,
+    "serial": 40,
     "name": "Btv News",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1746,7 +1188,7 @@
     "duration": "135"
   },
   {
-    "serial": 59,
+    "serial": 41,
     "name": "Alpona Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1764,7 +1206,7 @@
     "duration": "135"
   },
   {
-    "serial": 60,
+    "serial": 42,
     "name": "Sonsad Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1782,7 +1224,7 @@
     "duration": "135"
   },
   {
-    "serial": 61,
+    "serial": 43,
     "name": "Bangla Vision Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1800,7 +1242,7 @@
     "duration": "135"
   },
   {
-    "serial": 62,
+    "serial": 44,
     "name": "Boishakhi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1818,7 +1260,7 @@
     "duration": "135"
   },
   {
-    "serial": 63,
+    "serial": 45,
     "name": "Chaanel i",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1836,7 +1278,7 @@
     "duration": "135"
   },
   {
-    "serial": 64,
+    "serial": 46,
     "name": "Gazi Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1854,7 +1296,7 @@
     "duration": "135"
   },
   {
-    "serial": 65,
+    "serial": 47,
     "name": "Deepto Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1872,7 +1314,7 @@
     "duration": "135"
   },
   {
-    "serial": 66,
+    "serial": 48,
     "name": "Rtv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1890,7 +1332,7 @@
     "duration": "135"
   },
   {
-    "serial": 67,
+    "serial": 49,
     "name": "Green Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1908,7 +1350,7 @@
     "duration": "135"
   },
   {
-    "serial": 68,
+    "serial": 50,
     "name": "Nagorik Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1926,7 +1368,7 @@
     "duration": "135"
   },
   {
-    "serial": 69,
+    "serial": 51,
     "name": "Ekushey Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1944,7 +1386,7 @@
     "duration": "135"
   },
   {
-    "serial": 70,
+    "serial": 52,
     "name": "My Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1962,7 +1404,7 @@
     "duration": "135"
   },
   {
-    "serial": 71,
+    "serial": 53,
     "name": "Ntv",
     "category": "BD News",
     "epg_id": "",
@@ -1980,7 +1422,7 @@
     "duration": "135"
   },
   {
-    "serial": 72,
+    "serial": 54,
     "name": "Bijoy tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1998,7 +1440,7 @@
     "duration": "135"
   },
   {
-    "serial": 73,
+    "serial": 55,
     "name": "Asian Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2016,7 +1458,7 @@
     "duration": "135"
   },
   {
-    "serial": 74,
+    "serial": 56,
     "name": "Ananda Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2034,7 +1476,7 @@
     "duration": "135"
   },
   {
-    "serial": 75,
+    "serial": 57,
     "name": "Massranga tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2052,7 +1494,7 @@
     "duration": "135"
   },
   {
-    "serial": 76,
+    "serial": 58,
     "name": "Mohona tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2070,7 +1512,7 @@
     "duration": "135"
   },
   {
-    "serial": 77,
+    "serial": 59,
     "name": "Channel 9 tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2088,7 +1530,7 @@
     "duration": "135"
   },
   {
-    "serial": 78,
+    "serial": 60,
     "name": "Sa tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2106,7 +1548,7 @@
     "duration": "135"
   },
   {
-    "serial": 79,
+    "serial": 61,
     "name": "Bangla tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2124,7 +1566,7 @@
     "duration": "135"
   },
   {
-    "serial": 80,
+    "serial": 62,
     "name": "Amer Bangla 24",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2142,7 +1584,7 @@
     "duration": "135"
   },
   {
-    "serial": 81,
+    "serial": 63,
     "name": "Movie Bangla Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2160,7 +1602,7 @@
     "duration": "135"
   },
   {
-    "serial": 82,
+    "serial": 64,
     "name": "Srk tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2178,7 +1620,7 @@
     "duration": "135"
   },
   {
-    "serial": 83,
+    "serial": 65,
     "name": "Shikor tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2196,7 +1638,7 @@
     "duration": "135"
   },
   {
-    "serial": 84,
+    "serial": 66,
     "name": "G Series",
     "category": "BD 24/7",
     "epg_id": "",
@@ -2214,7 +1656,7 @@
     "duration": "135"
   },
   {
-    "serial": 85,
+    "serial": 67,
     "name": "News 21 Bangla",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -2232,7 +1674,7 @@
     "duration": "135"
   },
   {
-    "serial": 86,
+    "serial": 68,
     "name": "Movie",
     "category": "BD 24/7",
     "epg_id": "",
@@ -2250,7 +1692,7 @@
     "duration": "135"
   },
   {
-    "serial": 87,
+    "serial": 69,
     "name": "Desh tv",
     "category": "BD News",
     "epg_id": "",
@@ -2268,7 +1710,7 @@
     "duration": "135"
   },
   {
-    "serial": 88,
+    "serial": 70,
     "name": "Channel 1",
     "category": "BD News",
     "epg_id": "",
@@ -2286,7 +1728,7 @@
     "duration": "135"
   },
   {
-    "serial": 89,
+    "serial": 71,
     "name": "Jago News Tv",
     "category": "BD News",
     "epg_id": "",
@@ -2304,7 +1746,7 @@
     "duration": "135"
   },
   {
-    "serial": 90,
+    "serial": 72,
     "name": "T Sports",
     "category": "BD Sports",
     "epg_id": "",
@@ -2322,7 +1764,7 @@
     "duration": "135"
   },
   {
-    "serial": 91,
+    "serial": 73,
     "name": "Atn News",
     "category": "BD News",
     "epg_id": "",
@@ -2340,7 +1782,7 @@
     "duration": "135"
   },
   {
-    "serial": 92,
+    "serial": 74,
     "name": "Atn Bangla",
     "category": "BD News",
     "epg_id": "",
@@ -2358,7 +1800,7 @@
     "duration": "135"
   },
   {
-    "serial": 93,
+    "serial": 75,
     "name": "Independent News",
     "category": "BD News",
     "epg_id": "",
@@ -2376,7 +1818,7 @@
     "duration": "135"
   },
   {
-    "serial": 94,
+    "serial": 76,
     "name": "Ekttor Tv",
     "category": "BD News",
     "epg_id": "",
@@ -2394,7 +1836,7 @@
     "duration": "135"
   },
   {
-    "serial": 95,
+    "serial": 77,
     "name": "Channel 24",
     "category": "BD News",
     "epg_id": "",
@@ -2412,7 +1854,7 @@
     "duration": "135"
   },
   {
-    "serial": 96,
+    "serial": 78,
     "name": "News 24",
     "category": "BD News",
     "epg_id": "",
@@ -2430,7 +1872,7 @@
     "duration": "135"
   },
   {
-    "serial": 97,
+    "serial": 79,
     "name": "Star News",
     "category": "BD News",
     "epg_id": "",
@@ -2448,7 +1890,7 @@
     "duration": "135"
   },
   {
-    "serial": 98,
+    "serial": 80,
     "name": "DBC News",
     "category": "BD News",
     "epg_id": "",
@@ -2466,7 +1908,7 @@
     "duration": "135"
   },
   {
-    "serial": 99,
+    "serial": 81,
     "name": "Somoy News",
     "category": "BD News",
     "epg_id": "",
@@ -2484,7 +1926,7 @@
     "duration": "135"
   },
   {
-    "serial": 100,
+    "serial": 82,
     "name": "Jamuna News",
     "category": "BD News",
     "epg_id": "",
@@ -2502,7 +1944,7 @@
     "duration": "135"
   },
   {
-    "serial": 101,
+    "serial": 83,
     "name": "Ekhon tv",
     "category": "BD News",
     "epg_id": "",
@@ -2520,7 +1962,7 @@
     "duration": "135"
   },
   {
-    "serial": 102,
+    "serial": 84,
     "name": "Star Jalsha HD",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2538,7 +1980,7 @@
     "duration": "135"
   },
   {
-    "serial": 103,
+    "serial": 85,
     "name": "Zee Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2556,7 +1998,7 @@
     "duration": "135"
   },
   {
-    "serial": 104,
+    "serial": 86,
     "name": "Colours Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2574,7 +2016,7 @@
     "duration": "135"
   },
   {
-    "serial": 105,
+    "serial": 87,
     "name": "Colors bangla Cinema",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2592,7 +2034,7 @@
     "duration": "135"
   },
   {
-    "serial": 106,
+    "serial": 88,
     "name": "Zee Bangla Sonar",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2610,7 +2052,7 @@
     "duration": "135"
   },
   {
-    "serial": 107,
+    "serial": 89,
     "name": "Sony Aath",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2628,7 +2070,7 @@
     "duration": "135"
   },
   {
-    "serial": 108,
+    "serial": 90,
     "name": "Jalsha Movies",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -2646,7 +2088,7 @@
     "duration": "135"
   },
   {
-    "serial": 109,
+    "serial": 91,
     "name": "Bangla Plues",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2664,7 +2106,7 @@
     "duration": "135"
   },
   {
-    "serial": 110,
+    "serial": 92,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2682,7 +2124,7 @@
     "duration": "135"
   },
   {
-    "serial": 111,
+    "serial": 93,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -2700,7 +2142,7 @@
     "duration": "135"
   },
   {
-    "serial": 112,
+    "serial": 94,
     "name": "Enter 10 Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2718,7 +2160,7 @@
     "duration": "135"
   },
   {
-    "serial": 113,
+    "serial": 95,
     "name": "Sun Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -2736,7 +2178,7 @@
     "duration": "135"
   },
   {
-    "serial": 114,
+    "serial": 96,
     "name": "Gopal bhar tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2754,7 +2196,7 @@
     "duration": "135"
   },
   {
-    "serial": 115,
+    "serial": 97,
     "name": "Rangeen tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -2772,7 +2214,7 @@
     "duration": "135"
   },
   {
-    "serial": 116,
+    "serial": 98,
     "name": "Nick",
     "category": "Cartoon",
     "epg_id": "",
@@ -2790,7 +2232,7 @@
     "duration": "135"
   },
   {
-    "serial": 117,
+    "serial": 99,
     "name": "Super Hungma",
     "category": "Cartoon",
     "epg_id": "",
@@ -2808,7 +2250,7 @@
     "duration": "135"
   },
   {
-    "serial": 118,
+    "serial": 100,
     "name": "Sonic",
     "category": "Cartoon",
     "epg_id": "",
@@ -2826,7 +2268,7 @@
     "duration": "135"
   },
   {
-    "serial": 119,
+    "serial": 101,
     "name": "Disney",
     "category": "Cartoon",
     "epg_id": "",
@@ -2844,7 +2286,7 @@
     "duration": "135"
   },
   {
-    "serial": 120,
+    "serial": 102,
     "name": "Discovery kids",
     "category": "Cartoon",
     "epg_id": "",
@@ -2862,7 +2304,7 @@
     "duration": "135"
   },
   {
-    "serial": 121,
+    "serial": 103,
     "name": "Pogo",
     "category": "Cartoon",
     "epg_id": "",
@@ -2880,7 +2322,7 @@
     "duration": "135"
   },
   {
-    "serial": 122,
+    "serial": 104,
     "name": "Sony YAY",
     "category": "Cartoon",
     "epg_id": "",
@@ -2898,7 +2340,7 @@
     "duration": "135"
   },
   {
-    "serial": 123,
+    "serial": 105,
     "name": "Tom & Jery",
     "category": "Cartoon",
     "epg_id": "",
@@ -2916,7 +2358,7 @@
     "duration": "135"
   },
   {
-    "serial": 124,
+    "serial": 106,
     "name": "Khusboo bangla",
     "category": "Cartoon",
     "epg_id": "",
@@ -2934,7 +2376,7 @@
     "duration": "135"
   },
   {
-    "serial": 125,
+    "serial": 107,
     "name": "ZB Cartoon",
     "category": "Cartoon",
     "epg_id": "",
@@ -2952,7 +2394,7 @@
     "duration": "135"
   },
   {
-    "serial": 126,
+    "serial": 108,
     "name": "Jungle Book",
     "category": "Cartoon",
     "epg_id": "",
@@ -2970,7 +2412,7 @@
     "duration": "135"
   },
   {
-    "serial": 127,
+    "serial": 109,
     "name": "Cartoon Network ",
     "category": "Cartoon",
     "epg_id": "",
@@ -2988,7 +2430,7 @@
     "duration": "135"
   },
   {
-    "serial": 128,
+    "serial": 110,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3006,7 +2448,7 @@
     "duration": "135"
   },
   {
-    "serial": 129,
+    "serial": 111,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -3024,7 +2466,7 @@
     "duration": "135"
   },
   {
-    "serial": 130,
+    "serial": 112,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -3042,7 +2484,7 @@
     "duration": "135"
   },
   {
-    "serial": 131,
+    "serial": 113,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -3060,7 +2502,7 @@
     "duration": "135"
   },
   {
-    "serial": 132,
+    "serial": 114,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -3078,7 +2520,7 @@
     "duration": "135"
   },
   {
-    "serial": 133,
+    "serial": 115,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -3096,7 +2538,7 @@
     "duration": "135"
   },
   {
-    "serial": 134,
+    "serial": 116,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -3114,7 +2556,7 @@
     "duration": "135"
   },
   {
-    "serial": 135,
+    "serial": 117,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -3132,7 +2574,7 @@
     "duration": "135"
   },
   {
-    "serial": 136,
+    "serial": 118,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -3150,7 +2592,7 @@
     "duration": "135"
   },
   {
-    "serial": 137,
+    "serial": 119,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -3168,7 +2610,7 @@
     "duration": "135"
   },
   {
-    "serial": 138,
+    "serial": 120,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -3186,7 +2628,7 @@
     "duration": "135"
   },
   {
-    "serial": 139,
+    "serial": 121,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -3204,7 +2646,7 @@
     "duration": "135"
   },
   {
-    "serial": 140,
+    "serial": 122,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -3222,7 +2664,7 @@
     "duration": "135"
   },
   {
-    "serial": 141,
+    "serial": 123,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3240,7 +2682,7 @@
     "duration": "135"
   },
   {
-    "serial": 142,
+    "serial": 124,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3258,7 +2700,7 @@
     "duration": "135"
   },
   {
-    "serial": 143,
+    "serial": 125,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -3276,7 +2718,7 @@
     "duration": "135"
   },
   {
-    "serial": 144,
+    "serial": 126,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -3294,7 +2736,7 @@
     "duration": "135"
   },
   {
-    "serial": 145,
+    "serial": 127,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -3312,7 +2754,7 @@
     "duration": "135"
   },
   {
-    "serial": 146,
+    "serial": 128,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -3330,7 +2772,7 @@
     "duration": "135"
   },
   {
-    "serial": 147,
+    "serial": 129,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -3348,7 +2790,7 @@
     "duration": "135"
   },
   {
-    "serial": 148,
+    "serial": 130,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -3366,7 +2808,7 @@
     "duration": "135"
   },
   {
-    "serial": 149,
+    "serial": 131,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -3384,7 +2826,7 @@
     "duration": "135"
   },
   {
-    "serial": 150,
+    "serial": 132,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -3402,7 +2844,7 @@
     "duration": "135"
   },
   {
-    "serial": 151,
+    "serial": 133,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -3420,7 +2862,7 @@
     "duration": "135"
   },
   {
-    "serial": 152,
+    "serial": 134,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -3438,7 +2880,7 @@
     "duration": "135"
   },
   {
-    "serial": 153,
+    "serial": 135,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -3456,7 +2898,7 @@
     "duration": "135"
   },
   {
-    "serial": 154,
+    "serial": 136,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -3474,7 +2916,7 @@
     "duration": "135"
   },
   {
-    "serial": 155,
+    "serial": 137,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -3492,7 +2934,7 @@
     "duration": "135"
   },
   {
-    "serial": 156,
+    "serial": 138,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -3510,7 +2952,7 @@
     "duration": "135"
   },
   {
-    "serial": 157,
+    "serial": 139,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -3528,7 +2970,7 @@
     "duration": "135"
   },
   {
-    "serial": 158,
+    "serial": 140,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -3546,7 +2988,7 @@
     "duration": "135"
   },
   {
-    "serial": 159,
+    "serial": 141,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -3564,7 +3006,7 @@
     "duration": "135"
   },
   {
-    "serial": 160,
+    "serial": 142,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -3582,7 +3024,7 @@
     "duration": "135"
   },
   {
-    "serial": 161,
+    "serial": 143,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -3600,7 +3042,7 @@
     "duration": "135"
   },
   {
-    "serial": 162,
+    "serial": 144,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
