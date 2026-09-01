@@ -11,16 +11,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/446070/image",
       "start_time": "2026-09-01 20:30:00",
       "duration": "250",
-      "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#STREAM TV + HD",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|drmScheme=clearkey&drmLicense=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|drmScheme=clearkey&drmLicense=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4#WILLOW ALT $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#STREAM TV + HD",
       "title": "Womens Asia Cup",
       "team1": "Pakistan Women",
       "team2": "Thailand Women",
       "logo1": "https://img.sofascore.com/api/v1/team/187808/image",
       "logo2": "https://img.sofascore.com/api/v1/team/446070/image",
       "time": "08:30 PM 01/09/2026",
-      "streams": "http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#STREAM TV + HD",
+      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|drmScheme=clearkey&drmLicense=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|drmScheme=clearkey&drmLicense=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4#WILLOW ALT $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788265665302
+      "created_at": 1788265665302,
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|drmScheme=clearkey&drmLicense=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd|drmScheme=clearkey&drmLicense=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4#WILLOW ALT $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8#STREAM TV + HD"
     },
     {
       "id": "ev_2",
@@ -429,16 +430,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/743/image",
       "start_time": "2026-09-01 22:00:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM TV + HD $ http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "UEFA Women's Champions League",
       "team1": "FK Austria Wien",
       "team2": "SK Brann Kvinner",
       "logo1": "https://img.sofascore.com/api/v1/team/229911/image",
       "logo2": "https://img.sofascore.com/api/v1/team/743/image",
       "time": "10:00 PM 01/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM TV + HD $ http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788265665302
+      "created_at": 1788265665302,
+      "url": "http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM TV + HD $ http://193.47.62.41/hls/KBBBAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_21",
@@ -451,16 +453,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2761/image",
       "start_time": "2026-09-01 22:00:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.41/hls/KBBBAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Coppa Italia",
       "team1": "Parma",
       "team2": "Cremonese",
       "logo1": "https://img.sofascore.com/api/v1/team/2690/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2761/image",
       "time": "10:00 PM 01/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.41/hls/KBBBAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788265665302
+      "created_at": 1788265665302,
+      "url": "http://193.47.62.41/hls/KBBBAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_22",
