@@ -15,7 +15,7 @@
     "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
     "time": "03:00 AM 01/09/2026",
     "start_time": "2026-09-01 03:00:00",
-    "duration": "250",
+    "duration": "375",
     "sport_category": "Cricket",
     "is_high_voltage": false,
     "is_event": true,
