@@ -584,16 +584,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/3652/image",
       "start_time": "2026-09-02 06:40:00",
       "duration": "135",
-      "stream_url": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+      "stream_url": "https://chatgpt.hereisman.net/playlist/55663/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SERVER + HD $ https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
       "title": "MLB",
       "team1": "Colorado Rockies",
       "team2": "Baltimore Orioles",
       "logo1": "https://img.sofascore.com/api/v1/team/3628/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3652/image",
       "time": "06:40 AM 02/09/2026",
-      "streams": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+      "streams": "https://chatgpt.hereisman.net/playlist/55663/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SERVER + HD $ https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788297832805
+      "created_at": 1788297832805,
+      "url": "https://chatgpt.hereisman.net/playlist/55663/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SERVER + HD $ https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD"
     },
     {
       "id": "ev_28",
