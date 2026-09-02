@@ -139,7 +139,7 @@
     "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
     "time": "03:00 PM 02/09/2026",
     "start_time": "2026-09-02 15:00:00",
-    "duration": "250",
+    "duration": "510",
     "sport_category": "Cricket",
     "is_high_voltage": false,
     "is_event": true,
@@ -3363,6 +3363,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Offline"
+    "status": "Offline",
+    "duration": "135"
   }
 ]
