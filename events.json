@@ -276,16 +276,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/3645/image",
       "start_time": "2026-09-03 00:35:00",
       "duration": "135",
-      "stream_url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV",
+      "stream_url": "https://chatgpt.hereisman.net/playlist/55676/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB TV HD $ https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV",
       "title": "MLB",
       "team1": "Texas Rangers",
       "team2": "Athletics",
       "logo1": "https://img.sofascore.com/api/v1/team/3647/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3645/image",
       "time": "12:35 AM 03/09/2026",
-      "streams": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV",
+      "streams": "https://chatgpt.hereisman.net/playlist/55676/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB TV HD $ https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV",
       "is_high_voltage": false,
-      "created_at": 1788364293316
+      "created_at": 1788364293316,
+      "url": "https://chatgpt.hereisman.net/playlist/55676/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB TV HD $ https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV"
     },
     {
       "id": "ev_14",
