@@ -320,16 +320,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/178260/image",
       "start_time": "2026-09-03 00:00:00",
       "duration": "135",
-      "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+      "stream_url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#Real Madrid TV Spain $ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8#RM TV",
       "title": "UEFA Women's Champions League",
       "team1": "Real Madrid",
       "team2": "Ajax",
       "logo1": "https://img.sofascore.com/api/v1/team/305051/image",
       "logo2": "https://img.sofascore.com/api/v1/team/178260/image",
       "time": "12:00 AM 03/09/2026",
-      "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+      "streams": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#Real Madrid TV Spain $ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8#RM TV",
       "is_high_voltage": false,
-      "created_at": 1788316815127
+      "created_at": 1788316815127,
+      "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#Real Madrid TV Spain $ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8#RM TV"
     },
     {
       "id": "ev_16",

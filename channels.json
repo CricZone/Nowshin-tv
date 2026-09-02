@@ -451,7 +451,7 @@
     "sport_category": "Football",
     "is_high_voltage": false,
     "is_event": true,
-    "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#Real Madrid TV Spain $ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8#RM TV",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
