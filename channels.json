@@ -26,7 +26,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311516532
+    "created_at": 1788311516532,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 2,
@@ -55,7 +57,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311516532
+    "created_at": 1788311516532,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 3,
@@ -84,7 +88,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334235
+    "created_at": 1788311334235,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 4,
@@ -113,7 +119,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334235
+    "created_at": 1788311334235,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 5,
@@ -142,7 +150,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334234
+    "created_at": 1788311334234,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 6,
@@ -171,7 +181,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334234
+    "created_at": 1788311334234,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 7,
@@ -200,7 +212,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334234
+    "created_at": 1788311334234,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 8,
@@ -229,7 +243,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334234
+    "created_at": 1788311334234,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 9,
@@ -258,7 +274,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334234
+    "created_at": 1788311334234,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 10,
@@ -287,7 +305,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334234
+    "created_at": 1788311334234,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 11,
@@ -316,7 +336,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334234
+    "created_at": 1788311334234,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 12,
@@ -345,7 +367,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334233
+    "created_at": 1788311334233,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 13,
@@ -374,7 +398,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334233
+    "created_at": 1788311334233,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 14,
@@ -403,7 +429,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334233
+    "created_at": 1788311334233,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 15,
@@ -432,7 +460,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334233
+    "created_at": 1788311334233,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 16,
@@ -461,7 +491,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334232
+    "created_at": 1788311334232,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 17,
@@ -490,7 +522,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334232
+    "created_at": 1788311334232,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 18,
@@ -519,7 +553,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334232
+    "created_at": 1788311334232,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 19,
@@ -548,7 +584,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334232
+    "created_at": 1788311334232,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 20,
@@ -577,7 +615,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334232
+    "created_at": 1788311334232,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 21,
@@ -606,7 +646,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334232
+    "created_at": 1788311334232,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 22,
@@ -635,7 +677,9 @@
     "drm_license": "",
     "subtitle": "",
     "status": "Online",
-    "created_at": 1788311334232
+    "created_at": 1788311334232,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 23,
