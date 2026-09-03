@@ -253,16 +253,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/4446/image",
       "start_time": "2026-09-04 15:40:00",
       "duration": "195",
-      "stream_url": "",
+      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM+ HD",
       "title": "AFL",
       "team1": "Geelong Cats",
       "team2": "Carlton Blues",
       "logo1": "https://img.sofascore.com/api/v1/team/4443/image",
       "logo2": "https://img.sofascore.com/api/v1/team/4446/image",
       "time": "03:40 PM 04/09/2026",
-      "streams": "",
+      "streams": "https://file.genoads.com/ch1.m3u8#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788467874149
+      "created_at": 1788467874149,
+      "url": "https://file.genoads.com/ch1.m3u8#STREAM+ HD"
     },
     {
       "id": "ev_13",
