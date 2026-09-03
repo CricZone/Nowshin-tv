@@ -79,16 +79,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/1643/image",
       "start_time": "2026-09-04 00:45:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "https://file.genoads.com/ch1.m3u8#Sport TV1 Portugal $ h#beIN SPORTS en Español $ v#Ligue1+ France $ v#DAZN1 DE $ b#beIN SPORTS USA $ h#beIN Sports MENA 1",
       "title": "Ligue 1",
       "team1": "Toulouse",
       "team2": "Lille",
       "logo1": "https://img.sofascore.com/api/v1/team/1681/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1643/image",
       "time": "12:45 AM 04/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "https://file.genoads.com/ch1.m3u8#Sport TV1 Portugal $ h#beIN SPORTS en Español $ v#Ligue1+ France $ v#DAZN1 DE $ b#beIN SPORTS USA $ h#beIN Sports MENA 1",
       "is_high_voltage": false,
-      "created_at": 1788401523397
+      "created_at": 1788401523397,
+      "url": "https://file.genoads.com/ch1.m3u8#Sport TV1 Portugal $ h#beIN SPORTS en Español $ v#Ligue1+ France $ v#DAZN1 DE $ b#beIN SPORTS USA $ h#beIN Sports MENA 1"
     },
     {
       "id": "ev_5",
@@ -101,16 +102,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/56027/image",
       "start_time": "2026-09-04 00:00:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#Fox Soccer Plus $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX Deportes $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8#beIN Sports MENA 1 $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#Sport TV3 Portugal",
       "title": "Saudi Pro League",
       "team1": "Al Diriyah",
       "team2": "Al-Qadsiah",
       "logo1": "https://img.sofascore.com/api/v1/team/853574/image",
       "logo2": "https://img.sofascore.com/api/v1/team/56027/image",
       "time": "12:00 AM 04/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#Fox Soccer Plus $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX Deportes $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8#beIN Sports MENA 1 $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#Sport TV3 Portugal",
       "is_high_voltage": false,
-      "created_at": 1788401523397
+      "created_at": 1788401523397,
+      "url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#Fox Soccer Plus $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX Deportes $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-1.m3u8#beIN Sports MENA 1 $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#Sport TV3 Portugal"
     },
     {
       "id": "ev_6",
