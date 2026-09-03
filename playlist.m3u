@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Penrith Panthers vs Wests Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/4262/image" group-title="Live Event",Penrith Panthers vs Wests Tigers
 https://file.genoads.com/ch1.m3u8#STREAM TV + HD
