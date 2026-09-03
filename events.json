@@ -297,16 +297,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/3634/image",
       "start_time": "2026-09-03 22:35:00",
       "duration": "135",
-      "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
+      "stream_url": "https://chatgpt.hereisman.net/playlist/55715/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY MLB $ https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "title": "MLB",
       "team1": "Pittsburgh Pirates",
       "team2": "San Francisco Giants",
       "logo1": "https://img.sofascore.com/api/v1/team/3637/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3634/image",
       "time": "10:35 PM 03/09/2026",
-      "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
+      "streams": "https://chatgpt.hereisman.net/playlist/55715/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY MLB $ https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788442825487
+      "created_at": 1788442825487,
+      "url": "https://chatgpt.hereisman.net/playlist/55715/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY MLB $ https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD"
     },
     {
       "id": "ev_15",
