@@ -55,16 +55,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2526/image",
       "start_time": "2026-09-04 22:30:00",
       "duration": "135",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ http://193.47.62.59/hls/JCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "2. Bundesliga",
       "team1": "Arminia Bielefeld",
       "team2": "FC St. Pauli",
       "logo1": "https://img.sofascore.com/api/v1/team/2540/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2526/image",
       "time": "10:30 PM 04/09/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD",
+      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ http://193.47.62.59/hls/JCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788535360552
+      "created_at": 1788535360552,
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ http://193.47.62.59/hls/JCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_4",
@@ -77,16 +78,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2553/image",
       "start_time": "2026-09-04 22:30:00",
       "duration": "135",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ http://193.47.62.59/hls/JCCCAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "2. Bundesliga",
       "team1": "Hannover 96",
       "team2": "Karlsruher SC",
       "logo1": "https://img.sofascore.com/api/v1/team/2541/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2553/image",
       "time": "10:30 PM 04/09/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD",
+      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ http://193.47.62.59/hls/JCCCAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788535360552
+      "created_at": 1788535360552,
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ http://193.47.62.59/hls/JCCCAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_5",
@@ -298,16 +300,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/454472/image",
       "start_time": "2026-09-04 20:30:00",
       "duration": "250",
-      "stream_url": "https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd|drmScheme=clearkey&drmLicense=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684#WILLOW FHD $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD",
       "title": "Womens Asia Cup",
       "team1": "United Arab Emirates Women",
       "team2": "Indonesia Women",
       "logo1": "https://img.sofascore.com/api/v1/team/291494/image",
       "logo2": "https://img.sofascore.com/api/v1/team/454472/image",
       "time": "08:30 PM 04/09/2026",
-      "streams": "https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD",
+      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd|drmScheme=clearkey&drmLicense=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684#WILLOW FHD $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD",
       "is_high_voltage": false,
-      "created_at": 1788535360553
+      "created_at": 1788535360553,
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/llm7bx0nly/out/v1/1a697966454b4a3fa149b2815ceecff4/cenc.mpd|drmScheme=clearkey&drmLicense=709d27a43d7e5336e76d0395ee9b04a8:b109a68de85b07d60fdc13bfbed8f684#WILLOW FHD $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD"
     },
     {
       "id": "ev_15",
