@@ -99,16 +99,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/34318/image",
       "start_time": "2026-09-04 22:00:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.44/hls/ALLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM TV + HD $ http://193.47.62.44/hls/ALLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Saudi Pro League",
       "team1": "Abha",
       "team2": "Al-Ettifaq",
       "logo1": "https://img.sofascore.com/api/v1/team/168090/image",
       "logo2": "https://img.sofascore.com/api/v1/team/34318/image",
       "time": "10:00 PM 04/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.44/hls/ALLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM TV + HD $ http://193.47.62.44/hls/ALLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788535360552
+      "created_at": 1788535360552,
+      "url": "http://193.47.62.44/hls/ALLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#STREAM TV + HD $ http://193.47.62.44/hls/ALLLAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_6",
