@@ -1,28 +1,28 @@
 #EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="1" tvg-name="NRL vs NRL" tvg-logo="https://img.sofascore.com/api/v1/team/7313/image" group-title="Live Event",NRL vs NRL
+#EXTINF:-1 tvg-id="1" tvg-name="EUROPEAN T20 vs Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Live Event",EUROPEAN T20 vs Premier League
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd|drmScheme=clearkey&drmLicense=0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD
+
+#EXTINF:-1 tvg-id="2" tvg-name="NRL vs NRL" tvg-logo="https://img.sofascore.com/api/v1/team/7313/image" group-title="Live Event",NRL vs NRL
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD
 
-#EXTINF:-1 tvg-id="2" tvg-name="Barbados Tridents vs Saint Lucia Kings" tvg-logo="https://img.sofascore.com/api/v1/team/187795/image" group-title="Live Event",Barbados Tridents vs Saint Lucia Kings
+#EXTINF:-1 tvg-id="3" tvg-name="Barbados Tridents vs Saint Lucia Kings" tvg-logo="https://img.sofascore.com/api/v1/team/187795/image" group-title="Live Event",Barbados Tridents vs Saint Lucia Kings
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
 
-#EXTINF:-1 tvg-id="3" tvg-name="Guyana Amazon Warriors vs St Kitts and Nevis Patriots" tvg-logo="https://img.sofascore.com/api/v1/team/187823/image" group-title="Live Event",Guyana Amazon Warriors vs St Kitts and Nevis Patriots
+#EXTINF:-1 tvg-id="4" tvg-name="Guyana Amazon Warriors vs St Kitts and Nevis Patriots" tvg-logo="https://img.sofascore.com/api/v1/team/187823/image" group-title="Live Event",Guyana Amazon Warriors vs St Kitts and Nevis Patriots
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
 
-#EXTINF:-1 tvg-id="4" tvg-name="Jamaica Empress Women vs Guyana Amazon Warriors Women" tvg-logo="https://img.sofascore.com/api/v1/team/1236071/image" group-title="Live Event",Jamaica Empress Women vs Guyana Amazon Warriors Women
+#EXTINF:-1 tvg-id="5" tvg-name="Jamaica Empress Women vs Guyana Amazon Warriors Women" tvg-logo="https://img.sofascore.com/api/v1/team/1236071/image" group-title="Live Event",Jamaica Empress Women vs Guyana Amazon Warriors Women
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
 
-#EXTINF:-1 tvg-id="5" tvg-name="Barbados Tridents vs Trinbago Knight Riders" tvg-logo="https://img.sofascore.com/api/v1/team/187795/image" group-title="Live Event",Barbados Tridents vs Trinbago Knight Riders
+#EXTINF:-1 tvg-id="6" tvg-name="Barbados Tridents vs Trinbago Knight Riders" tvg-logo="https://img.sofascore.com/api/v1/team/187795/image" group-title="Live Event",Barbados Tridents vs Trinbago Knight Riders
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
 
-#EXTINF:-1 tvg-id="6" tvg-name="Barbados Tridents Women vs Trinbago Knight Riders Women" tvg-logo="https://img.sofascore.com/api/v1/team/451857/image" group-title="Live Event",Barbados Tridents Women vs Trinbago Knight Riders Women
+#EXTINF:-1 tvg-id="7" tvg-name="Barbados Tridents Women vs Trinbago Knight Riders Women" tvg-logo="https://img.sofascore.com/api/v1/team/451857/image" group-title="Live Event",Barbados Tridents Women vs Trinbago Knight Riders Women
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
 
-#EXTINF:-1 tvg-id="7" tvg-name="St Kitts and Nevis Patriots vs Saint Lucia Kings" tvg-logo="https://img.sofascore.com/api/v1/team/193209/image" group-title="Live Event",St Kitts and Nevis Patriots vs Saint Lucia Kings
+#EXTINF:-1 tvg-id="8" tvg-name="St Kitts and Nevis Patriots vs Saint Lucia Kings" tvg-logo="https://img.sofascore.com/api/v1/team/193209/image" group-title="Live Event",St Kitts and Nevis Patriots vs Saint Lucia Kings
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD
-
-#EXTINF:-1 tvg-id="8" tvg-name="EUROPEAN T20 vs Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="Live Event",EUROPEAN T20 vs Premier League
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd|drmScheme=clearkey&drmLicense=0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD
 
 #EXTINF:-1 tvg-id="9" tvg-name="Penrith Panthers vs Wests Tigers" tvg-logo="https://img.sofascore.com/api/v1/team/4262/image" group-title="Live Event",Penrith Panthers vs Wests Tigers
 https://file.genoads.com/ch1.m3u8#STREAM TV + HD
