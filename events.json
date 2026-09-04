@@ -77,16 +77,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/187824/image",
       "start_time": "2026-09-06 06:00:00",
       "duration": "250",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+      "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "title": "Caribbean Premier League",
       "team1": "Barbados Tridents",
       "team2": "Trinbago Knight Riders",
       "logo1": "https://img.sofascore.com/api/v1/team/187795/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187824/image",
       "time": "06:00 AM 06/09/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+      "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788486782829
+      "created_at": 1788486782829,
+      "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD"
     },
     {
       "id": "ev_5",
@@ -121,16 +122,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/187825/image",
       "start_time": "2026-09-04 05:00:00",
       "duration": "250",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0aghx1ttlc/out/v1/6298f5b6d9274a13803a2110baf449dd/cenc.mpd|drmScheme=clearkey&drmLicense=2310c7de87eff23d20fb55aa0f03cc39:3468c66924a05f9a9dbf5c315e2d625d#WILLOW SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT SPORTS FHD $ http://193.47.62.41/hls/YTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY SPORT NZ",
+      "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "title": "Caribbean Premier League",
       "team1": "St Kitts and Nevis Patriots",
       "team2": "Saint Lucia Kings",
       "logo1": "https://img.sofascore.com/api/v1/team/193209/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187825/image",
       "time": "05:00 AM 04/09/2026",
-      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0aghx1ttlc/out/v1/6298f5b6d9274a13803a2110baf449dd/cenc.mpd|drmScheme=clearkey&drmLicense=2310c7de87eff23d20fb55aa0f03cc39:3468c66924a05f9a9dbf5c315e2d625d#WILLOW SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT SPORTS FHD $ http://193.47.62.41/hls/YTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY SPORT NZ",
+      "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788486782829
+      "created_at": 1788486782829,
+      "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD"
     },
     {
       "id": "ev_7",
