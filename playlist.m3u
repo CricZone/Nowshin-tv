@@ -711,3 +711,6 @@ https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-id="237" tvg-name="Nick" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDaua2dSu0PpA7Ehdz4VNaREGmWpLjx3cr0hk0yFfCg&s=10" group-title="Cartoon",Nick
 https://go.skym3u.top/live/25d38/3b1f0d3d095a702e2d2936430313183e28080e130102013d535e56183004147700406f726b333a1b045d456c7650420c5d165d.m3u8?t=7160&s=cc7&id=ok4z.m3u#Server 1
 
+#EXTINF:-1 tvg-id="238" tvg-name="Star Movies Selected " tvg-logo="https://exchange4media.gumlet.io/news-photo/101771-Untitleddesign15.jpg" group-title="English Movie",Star Movies Selected 
+http://66.102.126.10:8000/play/a020/index.m3u8#Server 1
+
