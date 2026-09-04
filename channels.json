@@ -1,6 +1,37 @@
 [
   {
     "serial": 1,
+    "name": "EUROPEAN T20 vs Premier League",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "teamBLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "team1": "EUROPEAN T20",
+    "team2": "Premier League",
+    "title": "EUROPEAN T20 Premier League",
+    "tournament": "EUROPEAN T20 Premier League",
+    "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
+    "time": "07:15 PM 04/09/2026",
+    "start_time": "2026-09-04 19:15:00",
+    "duration": "250",
+    "sport_category": "Cricket",
+    "is_high_voltage": true,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd|drmScheme=clearkey&drmLicense=0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788471344705,
+    "failCount": 0,
+    "successCount": 0
+  },
+  {
+    "serial": 2,
     "name": "NRL vs NRL",
     "title": "NRL",
     "tournament": "NRL",
@@ -23,7 +54,7 @@
     "created_at": 1788510340594
   },
   {
-    "serial": 2,
+    "serial": 3,
     "name": "Barbados Tridents vs Saint Lucia Kings",
     "category": "Live Event",
     "epg_id": "",
@@ -54,7 +85,7 @@
     "successCount": 0
   },
   {
-    "serial": 3,
+    "serial": 4,
     "name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
     "category": "Live Event",
     "epg_id": "",
@@ -85,7 +116,7 @@
     "successCount": 0
   },
   {
-    "serial": 4,
+    "serial": 5,
     "name": "Jamaica Empress Women vs Guyana Amazon Warriors Women",
     "category": "Live Event",
     "epg_id": "",
@@ -116,7 +147,7 @@
     "successCount": 0
   },
   {
-    "serial": 5,
+    "serial": 6,
     "name": "Barbados Tridents vs Trinbago Knight Riders",
     "category": "Live Event",
     "epg_id": "",
@@ -147,7 +178,7 @@
     "successCount": 0
   },
   {
-    "serial": 6,
+    "serial": 7,
     "name": "Barbados Tridents Women vs Trinbago Knight Riders Women",
     "category": "Live Event",
     "epg_id": "",
@@ -178,7 +209,7 @@
     "successCount": 0
   },
   {
-    "serial": 7,
+    "serial": 8,
     "name": "St Kitts and Nevis Patriots vs Saint Lucia Kings",
     "category": "Live Event",
     "epg_id": "",
@@ -205,37 +236,6 @@
     "subtitle": "",
     "status": "Online",
     "created_at": 1788486732429,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 8,
-    "name": "EUROPEAN T20 vs Premier League",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-    "teamBLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-    "team1": "EUROPEAN T20",
-    "team2": "Premier League",
-    "title": "EUROPEAN T20 Premier League",
-    "tournament": "EUROPEAN T20 Premier League",
-    "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
-    "time": "07:15 PM 04/09/2026",
-    "start_time": "2026-09-04 19:15:00",
-    "duration": "250",
-    "sport_category": "Cricket",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd|drmScheme=clearkey&drmLicense=0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788471344705,
     "failCount": 0,
     "successCount": 0
   },
