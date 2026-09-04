@@ -726,16 +726,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2704/image",
       "start_time": "2026-09-05 00:45:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD",
       "title": "Serie A",
       "team1": "Genoa",
       "team2": "Como",
       "logo1": "https://img.sofascore.com/api/v1/team/2713/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2704/image",
       "time": "12:45 AM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD",
       "is_high_voltage": false,
-      "created_at": 1788535360553
+      "created_at": 1788535360553,
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD"
     },
     {
       "id": "ev_34",
@@ -770,16 +771,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2845/image",
       "start_time": "2026-09-05 00:30:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LALIGA1 HYP FHD",
       "title": "LaLiga 2",
       "team1": "UD Las Palmas",
       "team2": "Leganés",
       "logo1": "https://img.sofascore.com/api/v1/team/6577/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2845/image",
       "time": "12:30 AM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LALIGA1 HYP FHD",
       "is_high_voltage": false,
-      "created_at": 1788535360553
+      "created_at": 1788535360553,
+      "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LALIGA1 HYP FHD"
     },
     {
       "id": "ev_36",
