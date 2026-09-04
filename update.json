@@ -1,8 +1,8 @@
 {
   "version_code": 1,
-  "version_name": "2.5",
+  "version_name": "2.6",
   "title": " New Update Available",
   "changelog": "▫️Mobile & Tv UI \n▫️Live Event Multiple Choice UI\n▫️Video Resolution New UI\n▫️Super Fast \n▫️Bug Fixed",
-  "download_url": "https://github.com/CricZone/Apps-Downloder/releases/download/v2.5/BDStreamHub-debug.apk",
-  "force_update": true
+  "download_url": "https://github.com/CricZone/Apps-Downloder/releases/download/v2.6/BDStreamHub-debug.apk",
+  "force_update": false
 }
