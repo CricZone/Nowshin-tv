@@ -321,16 +321,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/465010/image",
       "start_time": "2026-09-04 14:00:00",
       "duration": "195",
-      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD",
+      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD",
       "title": "NRL",
       "team1": "Gold Coast Titans",
       "team2": "Dolphins",
       "logo1": "https://img.sofascore.com/api/v1/team/7313/image",
       "logo2": "https://img.sofascore.com/api/v1/team/465010/image",
       "time": "02:00 PM 04/09/2026",
-      "streams": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD",
+      "streams": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD",
       "is_high_voltage": false,
-      "created_at": 1788486782829
+      "created_at": 1788486782829,
+      "url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8#SKY2 NZ HD $ https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD"
     },
     {
       "id": "ev_16",
