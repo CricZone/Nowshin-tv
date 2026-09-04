@@ -5712,5 +5712,19 @@
     "duration": "135",
     "failCount": 0,
     "successCount": 0
+  },
+  {
+    "serial": 238,
+    "name": "Star Movies Selected ",
+    "category": "English Movie",
+    "epg_id": "",
+    "logo": "https://exchange4media.gumlet.io/news-photo/101771-Untitleddesign15.jpg",
+    "url": "http://66.102.126.10:8000/play/a020/index.m3u8#Server 1",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   }
 ]
