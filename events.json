@@ -3,6 +3,138 @@
     {
       "id": "ev_1",
       "category": "Cricket",
+      "tournament": "Caribbean Premier League",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+      "team1_name": "Barbados Tridents",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/187795/image",
+      "team2_name": "Saint Lucia Kings",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/187825/image",
+      "start_time": "2026-09-07 05:00:00",
+      "duration": "250",
+      "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "title": "Caribbean Premier League",
+      "team1": "Barbados Tridents",
+      "team2": "Saint Lucia Kings",
+      "logo1": "https://img.sofascore.com/api/v1/team/187795/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187825/image",
+      "time": "05:00 AM 07/09/2026",
+      "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "is_high_voltage": false,
+      "created_at": 1788486736947
+    },
+    {
+      "id": "ev_2",
+      "category": "Cricket",
+      "tournament": "Caribbean Premier League",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+      "team1_name": "Guyana Amazon Warriors",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/187823/image",
+      "team2_name": "St Kitts and Nevis Patriots",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/193209/image",
+      "start_time": "2026-09-07 01:00:00",
+      "duration": "250",
+      "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "title": "Caribbean Premier League",
+      "team1": "Guyana Amazon Warriors",
+      "team2": "St Kitts and Nevis Patriots",
+      "logo1": "https://img.sofascore.com/api/v1/team/187823/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/193209/image",
+      "time": "01:00 AM 07/09/2026",
+      "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "is_high_voltage": false,
+      "created_at": 1788486736947
+    },
+    {
+      "id": "ev_3",
+      "category": "Cricket",
+      "tournament": "Women's Caribbean Premier League",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19389/image/dark",
+      "team1_name": "Jamaica Empress Women",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/1236071/image",
+      "team2_name": "Guyana Amazon Warriors Women",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/451858/image",
+      "start_time": "2026-09-06 20:00:00",
+      "duration": "250",
+      "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "title": "Women's Caribbean Premier League",
+      "team1": "Jamaica Empress Women",
+      "team2": "Guyana Amazon Warriors Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/1236071/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/451858/image",
+      "time": "08:00 PM 06/09/2026",
+      "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "is_high_voltage": false,
+      "created_at": 1788486736947
+    },
+    {
+      "id": "ev_4",
+      "category": "Cricket",
+      "tournament": "Caribbean Premier League",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+      "team1_name": "Barbados Tridents",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/187795/image",
+      "team2_name": "Trinbago Knight Riders",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/187824/image",
+      "start_time": "2026-09-06 06:00:00",
+      "duration": "250",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+      "title": "Caribbean Premier League",
+      "team1": "Barbados Tridents",
+      "team2": "Trinbago Knight Riders",
+      "logo1": "https://img.sofascore.com/api/v1/team/187795/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187824/image",
+      "time": "06:00 AM 06/09/2026",
+      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
+      "is_high_voltage": false,
+      "created_at": 1788486736947
+    },
+    {
+      "id": "ev_5",
+      "category": "Cricket",
+      "tournament": "Women's Caribbean Premier League",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19389/image/dark",
+      "team1_name": "Barbados Tridents Women",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/451857/image",
+      "team2_name": "Trinbago Knight Riders Women",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/451856/image",
+      "start_time": "2026-09-06 01:00:00",
+      "duration": "250",
+      "stream_url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "title": "Women's Caribbean Premier League",
+      "team1": "Barbados Tridents Women",
+      "team2": "Trinbago Knight Riders Women",
+      "logo1": "https://img.sofascore.com/api/v1/team/451857/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/451856/image",
+      "time": "01:00 AM 06/09/2026",
+      "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
+      "is_high_voltage": false,
+      "created_at": 1788486736947
+    },
+    {
+      "id": "ev_6",
+      "category": "Cricket",
+      "tournament": "Caribbean Premier League",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+      "team1_name": "St Kitts and Nevis Patriots",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/193209/image",
+      "team2_name": "Saint Lucia Kings",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/187825/image",
+      "start_time": "2026-09-04 05:00:00",
+      "duration": "250",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0aghx1ttlc/out/v1/6298f5b6d9274a13803a2110baf449dd/cenc.mpd|drmScheme=clearkey&drmLicense=2310c7de87eff23d20fb55aa0f03cc39:3468c66924a05f9a9dbf5c315e2d625d#WILLOW SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT SPORTS FHD $ http://193.47.62.41/hls/YTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY SPORT NZ",
+      "title": "Caribbean Premier League",
+      "team1": "St Kitts and Nevis Patriots",
+      "team2": "Saint Lucia Kings",
+      "logo1": "https://img.sofascore.com/api/v1/team/193209/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187825/image",
+      "time": "05:00 AM 04/09/2026",
+      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0aghx1ttlc/out/v1/6298f5b6d9274a13803a2110baf449dd/cenc.mpd|drmScheme=clearkey&drmLicense=2310c7de87eff23d20fb55aa0f03cc39:3468c66924a05f9a9dbf5c315e2d625d#WILLOW SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT SPORTS FHD $ http://193.47.62.41/hls/YTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY SPORT NZ",
+      "is_high_voltage": false,
+      "created_at": 1788486736947
+    },
+    {
+      "id": "ev_7",
+      "category": "Cricket",
       "tournament": "EUROPEAN T20 Premier League",
       "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
       "team1_name": "EUROPEAN T20",
@@ -20,10 +152,10 @@
       "time": "07:15 PM 04/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd|drmScheme=clearkey&drmLicense=0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736947
     },
     {
-      "id": "ev_2",
+      "id": "ev_8",
       "category": "Rugby",
       "tournament": "NRL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
@@ -42,10 +174,10 @@
       "time": "12:05 PM 06/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736947
     },
     {
-      "id": "ev_3",
+      "id": "ev_9",
       "category": "Rugby",
       "tournament": "NRL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
@@ -64,10 +196,10 @@
       "time": "10:00 AM 06/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_4",
+      "id": "ev_10",
       "category": "Rugby",
       "tournament": "Int. Friendly Games",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/876/image/dark",
@@ -86,10 +218,10 @@
       "time": "03:00 AM 06/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_5",
+      "id": "ev_11",
       "category": "Rugby",
       "tournament": "Rugbys Greatest Rivalry",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/36627/image/dark",
@@ -108,10 +240,10 @@
       "time": "09:00 PM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_6",
+      "id": "ev_12",
       "category": "Rugby",
       "tournament": "Int. Friendly Games",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/876/image/dark",
@@ -130,10 +262,10 @@
       "time": "11:50 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_7",
+      "id": "ev_13",
       "category": "Rugby",
       "tournament": "NRL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
@@ -152,10 +284,10 @@
       "time": "11:00 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_8",
+      "id": "ev_14",
       "category": "Rugby",
       "tournament": "NRL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
@@ -174,10 +306,10 @@
       "time": "04:00 PM 04/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_9",
+      "id": "ev_15",
       "category": "Rugby",
       "tournament": "NRL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
@@ -196,11 +328,10 @@
       "time": "02:00 PM 04/09/2026",
       "streams": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_10",
+      "id": "ev_16",
       "category": "Aussie rules",
       "tournament": "AFL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
@@ -219,10 +350,10 @@
       "time": "03:35 PM 05/09/2026",
       "streams": "",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_11",
+      "id": "ev_17",
       "category": "Aussie rules",
       "tournament": "AFL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
@@ -241,10 +372,10 @@
       "time": "11:15 AM 05/09/2026",
       "streams": "",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_12",
+      "id": "ev_18",
       "category": "Aussie rules",
       "tournament": "AFL",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
@@ -263,10 +394,10 @@
       "time": "03:40 PM 04/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_13",
+      "id": "ev_19",
       "category": "Cricket",
       "tournament": "Caribbean Premier League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
@@ -285,11 +416,10 @@
       "time": "05:00 AM 04/09/2026",
       "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_14",
+      "id": "ev_20",
       "category": "Cricket",
       "tournament": "Womens Asia Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark",
@@ -308,10 +438,10 @@
       "time": "08:30 PM 04/09/2026",
       "streams": "https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_15",
+      "id": "ev_21",
       "category": "Cricket",
       "tournament": "T20I Tri-Series in Namibia",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark",
@@ -330,10 +460,10 @@
       "time": "06:00 PM 04/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_16",
+      "id": "ev_22",
       "category": "Football",
       "tournament": "Brasileirão Série B",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/390/image/dark",
@@ -352,10 +482,10 @@
       "time": "06:30 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_17",
+      "id": "ev_23",
       "category": "Football",
       "tournament": "MLS",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -374,10 +504,10 @@
       "time": "05:30 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_18",
+      "id": "ev_24",
       "category": "Football",
       "tournament": "Brasileirão Série B",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/390/image/dark",
@@ -396,10 +526,10 @@
       "time": "05:30 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_19",
+      "id": "ev_25",
       "category": "Football",
       "tournament": "Brasileirão Série B",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/390/image/dark",
@@ -418,10 +548,10 @@
       "time": "04:30 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_20",
+      "id": "ev_26",
       "category": "Football",
       "tournament": "Liga Profesional de Fútbol",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
@@ -440,10 +570,10 @@
       "time": "04:00 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_21",
+      "id": "ev_27",
       "category": "Football",
       "tournament": "Liga Profesional de Fútbol",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
@@ -462,10 +592,10 @@
       "time": "04:00 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_22",
+      "id": "ev_28",
       "category": "Football",
       "tournament": "Liga Profesional de Fútbol",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
@@ -484,10 +614,10 @@
       "time": "01:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_23",
+      "id": "ev_29",
       "category": "Football",
       "tournament": "Liga Portugal Betclic",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/238/image/dark",
@@ -506,10 +636,10 @@
       "time": "01:15 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_24",
+      "id": "ev_30",
       "category": "Football",
       "tournament": "Ligue 1",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
@@ -528,10 +658,10 @@
       "time": "01:05 AM 05/09/2026",
       "streams": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beIN SPORTS en Español $ https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8#beIN SPORTS USA",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_25",
+      "id": "ev_31",
       "category": "Football",
       "tournament": "Premier League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
@@ -550,10 +680,10 @@
       "time": "01:00 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_26",
+      "id": "ev_32",
       "category": "Football",
       "tournament": "LaLiga",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -572,10 +702,10 @@
       "time": "01:00 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_27",
+      "id": "ev_33",
       "category": "Football",
       "tournament": "FA Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
@@ -594,10 +724,10 @@
       "time": "12:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_28",
+      "id": "ev_34",
       "category": "Football",
       "tournament": "FA Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
@@ -616,10 +746,10 @@
       "time": "12:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_29",
+      "id": "ev_35",
       "category": "Football",
       "tournament": "FA Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
@@ -638,10 +768,10 @@
       "time": "12:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_30",
+      "id": "ev_36",
       "category": "Football",
       "tournament": "FA Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
@@ -660,10 +790,10 @@
       "time": "12:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_31",
+      "id": "ev_37",
       "category": "Football",
       "tournament": "FA Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19/image/dark",
@@ -682,10 +812,10 @@
       "time": "12:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_32",
+      "id": "ev_38",
       "category": "Football",
       "tournament": "Pro League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
@@ -704,10 +834,10 @@
       "time": "12:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_33",
+      "id": "ev_39",
       "category": "Football",
       "tournament": "Serie A",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
@@ -726,10 +856,10 @@
       "time": "12:45 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_34",
+      "id": "ev_40",
       "category": "Football",
       "tournament": "Ekstraklasa",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
@@ -748,10 +878,10 @@
       "time": "12:30 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_35",
+      "id": "ev_41",
       "category": "Football",
       "tournament": "LaLiga 2",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
@@ -770,10 +900,10 @@
       "time": "12:30 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_36",
+      "id": "ev_42",
       "category": "Football",
       "tournament": "Bundesliga",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
@@ -792,10 +922,10 @@
       "time": "12:30 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_37",
+      "id": "ev_43",
       "category": "Football",
       "tournament": "Saudi Pro League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -814,10 +944,10 @@
       "time": "12:00 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_38",
+      "id": "ev_44",
       "category": "Football",
       "tournament": "Saudi Pro League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/955/image/dark",
@@ -836,10 +966,10 @@
       "time": "12:00 AM 05/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_39",
+      "id": "ev_45",
       "category": "Basketball",
       "tournament": "FIBA Women's World Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
@@ -858,10 +988,10 @@
       "time": "06:30 PM 04/09/2026",
       "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_40",
+      "id": "ev_46",
       "category": "Basketball",
       "tournament": "FIBA Women's World Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
@@ -880,10 +1010,10 @@
       "time": "06:15 PM 04/09/2026",
       "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_41",
+      "id": "ev_47",
       "category": "Basketball",
       "tournament": "FIBA Women's World Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
@@ -902,10 +1032,10 @@
       "time": "03:30 PM 04/09/2026",
       "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_42",
+      "id": "ev_48",
       "category": "Basketball",
       "tournament": "FIBA Women's World Cup",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/442/image/dark",
@@ -924,10 +1054,10 @@
       "time": "03:30 PM 04/09/2026",
       "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_43",
+      "id": "ev_49",
       "category": "Baseball",
       "tournament": "MLB",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -946,11 +1076,10 @@
       "time": "08:10 AM 04/09/2026",
       "streams": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD $ https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIVE SERVER $ http://193.47.62.55/hls/JIIIQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD $ https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIVE SERVER $ http://193.47.62.55/hls/JIIIQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_44",
+      "id": "ev_50",
       "category": "Baseball",
       "tournament": "MLB",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -969,11 +1098,10 @@
       "time": "07:40 AM 04/09/2026",
       "streams": "https://edgestream7.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ https://edgestream2.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD $ http://193.47.62.55/hls/JIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://edgestream7.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ https://edgestream2.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD $ http://193.47.62.55/hls/JIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_45",
+      "id": "ev_51",
       "category": "Baseball",
       "tournament": "MLB",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -992,11 +1120,10 @@
       "time": "06:05 AM 04/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55737/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD $ http://193.47.62.50/hls/IKKKAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://chatgpt.hereisman.net/playlist/55737/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream2.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD $ http://193.47.62.50/hls/IKKKAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_46",
+      "id": "ev_52",
       "category": "Baseball",
       "tournament": "MLB",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -1015,11 +1142,10 @@
       "time": "05:40 AM 04/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55732/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream7.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ http://193.47.62.59/hls/DOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://chatgpt.hereisman.net/playlist/55732/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream7.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ http://193.47.62.59/hls/DOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_47",
+      "id": "ev_53",
       "category": "Baseball",
       "tournament": "MLB",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -1038,11 +1164,10 @@
       "time": "05:15 AM 04/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7#TSN4 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55722/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY TV $ https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ http://193.47.62.59/hls/DOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7#TSN4 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55722/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY TV $ https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ http://193.47.62.59/hls/DOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_48",
+      "id": "ev_54",
       "category": "Baseball",
       "tournament": "MLB",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
@@ -1061,11 +1186,10 @@
       "time": "05:15 AM 04/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX DEPORTES FHD $ https://chatgpt.hereisman.net/playlist/55723/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream4.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ http://193.47.62.59/hls/DOOOA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX DEPORTES FHD $ https://chatgpt.hereisman.net/playlist/55723/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://edgestream4.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#MLB HD QUALITY $ http://193.47.62.59/hls/DOOOA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream2.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM+ HD"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_49",
+      "id": "ev_55",
       "category": "Boxing",
       "tournament": "UFC",
       "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
@@ -1084,11 +1208,10 @@
       "time": "11:00 AM 04/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55731/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.41/hls/YTTTr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788471427868,
-      "url": "https://chatgpt.hereisman.net/playlist/55731/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.41/hls/YTTTr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_50",
+      "id": "ev_56",
       "category": "Football",
       "tournament": "Coppa Italia",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/328/image/dark",
@@ -1107,10 +1230,10 @@
       "time": "01:00 AM 04/09/2026",
       "streams": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/vahyju4gzo/out/v1/64009b2146ff4ccdbc36d13c463ace73/d4c6b7ac-0fc5-4ba6-bd82-5472fa215d7b-cenc.mpd?aws_sessionId=d4cb712d-e328-4b2a-9a9e-1e33b3177744|drmScheme=clearkey&drmLicense=0edd05c739d927233a7e5989d09d877b:7c92518ce13be6934aa5ccd1b4c86457#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f#FUBO SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS GAZALO FHD $ https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d#SPORT1 CZ FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 FHD $ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd|drmScheme=clearkey&drmLicense=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587#ITALIA 1 FHD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ https://chatgpt.hereisman.net/playlist/55717/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY TV $ http://193.47.62.41/hls/TTTTF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://live.vivo200.com/live/sd-1-4621401.m3u8?txSecret=b484a40a1079aabf3fa59715b1251fac&txTime=6A99D5B4|Referer=https://player.online909.com/#FAST SEVER",
       "is_high_voltage": false,
-      "created_at": 1788471427868
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_51",
+      "id": "ev_57",
       "category": "Football",
       "tournament": "LaLiga",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
@@ -1129,10 +1252,10 @@
       "time": "01:00 AM 04/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38#Caze TV FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LALIGA TV $ https://chatgpt.hereisman.net/playlist/55718/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#ESPN DEPORTES HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bein-mq/bein-sports-2.m3u8#ARABIC HD $ http://193.47.62.41/hls/TTTTFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788471427869
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_52",
+      "id": "ev_58",
       "category": "Motorsports",
       "tournament": "Formula 1",
       "tournament_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
@@ -1151,11 +1274,10 @@
       "time": "05:00 PM 11/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY F1 HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d#TSN1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD",
       "is_high_voltage": false,
-      "created_at": 1788471427869,
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY F1 HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d#TSN1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD"
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_53",
+      "id": "ev_59",
       "category": "Boxing",
       "tournament": "Friday Night SmackDown",
       "tournament_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
@@ -1174,10 +1296,10 @@
       "time": "06:00 AM 05/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/54963/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#WWE TV HD $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8#WWE LIVE FHD $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://edgestream2.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#HD STREAMING $ https://daffodil.demonpvp.fun/wwe.m3u8|Referer=https://roxiestreams.info#HD SERVER $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#HD SERVER 2 $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8#TV WWE ALT $ https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8#HD QUALITY 2 $ https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8#SPORT CAST FHD $ https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8#WWE LIVE HD $ https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8#WWE SMACKDOWN $ https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd|drmScheme=clearkey&drmLicense=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41#USA TV (US VPN)",
       "is_high_voltage": false,
-      "created_at": 1788471427869
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_54",
+      "id": "ev_60",
       "category": "Boxing",
       "tournament": "UFC EVENTO",
       "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
@@ -1196,10 +1318,10 @@
       "time": "06:30 PM 04/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55351/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#Corey Marksman vs Christian Barreto $ https://chatgpt.hereisman.net/playlist/55395/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#Brotherly Love Boxing: Price vs Guevara",
       "is_high_voltage": false,
-      "created_at": 1788471427869
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_55",
+      "id": "ev_61",
       "category": "Boxing",
       "tournament": "One Friday Fights",
       "tournament_logo": "https://i.ibb.co/qfjhxpT/20260313-084834.png",
@@ -1218,10 +1340,10 @@
       "time": "06:30 PM 04/09/2026",
       "streams": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0|drmScheme=clearkey&drmLicense=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d#One Fight FHD $ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd|drmScheme=clearkey&drmLicense=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271#STREAM 2 $ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd|drmScheme=clearkey&drmLicense=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0#STREAM 3 $ https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8#HD QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788471427869
+      "created_at": 1788486736948
     },
     {
-      "id": "ev_56",
+      "id": "ev_62",
       "category": "Boxing",
       "tournament": "TNA iMPACT",
       "tournament_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
@@ -1240,8 +1362,7 @@
       "time": "06:00 AM 04/09/2026",
       "streams": "http://193.47.62.59/hls/DOOOAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788471427869,
-      "url": "http://193.47.62.59/hls/DOOOAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#QUALITY (USE VPN)"
+      "created_at": 1788486736948
     }
   ]
 }
