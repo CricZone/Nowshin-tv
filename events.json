@@ -1229,17 +1229,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/7628/image",
       "start_time": "2026-09-05 23:30:00",
       "duration": "135",
-      "stream_url": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY",
+      "stream_url": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY $ http://193.47.62.41/hls/OOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Liga Profesional de Fútbol",
       "team1": "Gimnasia y Esgrima",
       "team2": "Tigre",
       "logo1": "https://img.sofascore.com/api/v1/team/3205/image",
       "logo2": "https://img.sofascore.com/api/v1/team/7628/image",
       "time": "11:30 PM 05/09/2026",
-      "streams": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY",
+      "streams": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY $ http://193.47.62.41/hls/OOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
       "created_at": 1788613713829,
-      "url": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY"
+      "url": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY $ http://193.47.62.41/hls/OOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_57",
@@ -1252,16 +1252,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2705/image",
       "start_time": "2026-09-05 23:30:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.41/hls/OOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Serie B",
       "team1": "Carrarese",
       "team2": "Empoli",
       "logo1": "https://img.sofascore.com/api/v1/team/2745/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2705/image",
       "time": "11:30 PM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.41/hls/OOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "http://193.47.62.41/hls/OOOOAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_58",
