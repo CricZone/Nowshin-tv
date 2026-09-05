@@ -468,3 +468,6 @@ https://go.skym3u.top/live/25d38/3b1f0d3d095a702e2d2936430313183e28080e130102013
 #EXTINF:-1 tvg-id="156" tvg-name="Star Movies Selected " tvg-logo="https://exchange4media.gumlet.io/news-photo/101771-Untitleddesign15.jpg" group-title="English Movie",Star Movies Selected 
 http://66.102.126.10:8000/play/a020/index.m3u8#Server 1
 
+#EXTINF:-1 tvg-id="157" tvg-name="Galaxy TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd.png" group-title="Bangladeshi",Galaxy TV
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1
+
