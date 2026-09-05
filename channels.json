@@ -3411,5 +3411,19 @@
     "duration": "135",
     "failCount": 0,
     "successCount": 0
+  },
+  {
+    "serial": 157,
+    "name": "Galaxy TV",
+    "category": "Bangladeshi",
+    "epg_id": "",
+    "logo": "https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd.png",
+    "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online"
   }
 ]
