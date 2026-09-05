@@ -2278,16 +2278,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/189789/image",
       "start_time": "2026-09-05 18:00:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.50/hls/FKKKAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "SuperLiga României",
       "team1": "FC Botoșani",
       "team2": "Sepsi OSK Sfântu Gheorghe",
       "logo1": "https://img.sofascore.com/api/v1/team/24798/image",
       "logo2": "https://img.sofascore.com/api/v1/team/189789/image",
       "time": "06:00 PM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.50/hls/FKKKAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788608019914
+      "created_at": 1788608019914,
+      "url": "http://193.47.62.50/hls/FKKKAAAAQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_105",
@@ -2300,16 +2301,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/229794/image",
       "start_time": "2026-09-05 18:00:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.50/hls/yyyyQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Frauen-Bundesliga",
       "team1": "1. FSV Mainz 05",
       "team2": "1. FC Köln",
       "logo1": "https://img.sofascore.com/api/v1/team/484512/image",
       "logo2": "https://img.sofascore.com/api/v1/team/229794/image",
       "time": "06:00 PM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.50/hls/yyyyQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788608019914
+      "created_at": 1788608019914,
+      "url": "http://193.47.62.50/hls/yyyyQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_106",
@@ -2322,17 +2324,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2822/image",
       "start_time": "2026-09-05 18:00:00",
       "duration": "135",
-      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion",
+      "stream_url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion $ http://193.47.62.50/hls/TPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "LaLiga 2",
       "team1": "Real Sociedad B",
       "team2": "CD Tenerife",
       "logo1": "https://img.sofascore.com/api/v1/team/24360/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2822/image",
       "time": "06:00 PM 05/09/2026",
-      "streams": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion",
+      "streams": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion $ http://193.47.62.50/hls/TPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
       "created_at": 1788608019914,
-      "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion"
+      "url": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion $ http://193.47.62.50/hls/TPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_107",
