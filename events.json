@@ -1274,16 +1274,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/3006/image",
       "start_time": "2026-09-05 23:00:00",
       "duration": "135",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD $ http://193.47.62.59/hls/uuuuaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Liga Portugal Betclic",
       "team1": "CS Marítimo",
       "team2": "Benfica",
       "logo1": "https://img.sofascore.com/api/v1/team/3007/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3006/image",
       "time": "11:00 PM 05/09/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD $ http://193.47.62.59/hls/uuuuaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|drmScheme=clearkey&drmLicense=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504#D SPORTS2 + FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD $ http://193.47.62.59/hls/uuuuaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_59",
@@ -1296,16 +1297,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2999/image",
       "start_time": "2026-09-05 23:00:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD",
+      "stream_url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ http://193.47.62.59/hls/uuuuaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Liga Portugal Betclic",
       "team1": "FC Alverca",
       "team2": "Sporting Braga",
       "logo1": "https://img.sofascore.com/api/v1/team/190328/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2999/image",
       "time": "11:00 PM 05/09/2026",
-      "streams": "https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD",
+      "streams": "https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ http://193.47.62.59/hls/uuuuaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ http://193.47.62.59/hls/uuuuaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_60",
