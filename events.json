@@ -608,16 +608,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/3206/image",
       "start_time": "2026-09-06 06:15:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://162.251.160.53:8089/2698/index.m3u8#TV QUALITY",
       "title": "Liga Profesional de Fútbol",
       "team1": "Vélez Sarsfield",
       "team2": "Estudiantes de La Plata",
       "logo1": "https://img.sofascore.com/api/v1/team/3208/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3206/image",
       "time": "06:15 AM 06/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://162.251.160.53:8089/2698/index.m3u8#TV QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "http://162.251.160.53:8089/2698/index.m3u8#TV QUALITY"
     },
     {
       "id": "ev_29",
@@ -1407,16 +1408,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/24336/image",
       "start_time": "2026-09-05 22:30:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.55/hls/HHHHCQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "LaLiga 2",
       "team1": "AD Ceuta",
       "team2": "Celta Fortuna",
       "logo1": "https://img.sofascore.com/api/v1/team/2869/image",
       "logo2": "https://img.sofascore.com/api/v1/team/24336/image",
       "time": "10:30 PM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.55/hls/HHHHCQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "http://193.47.62.55/hls/HHHHCQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_65",
@@ -1429,16 +1431,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/324871/image",
       "start_time": "2026-09-05 22:30:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://193.47.62.55/hls/HHHHCQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "LaLiga 2",
       "team1": "Real Valladolid",
       "team2": "FC Andorra",
       "logo1": "https://img.sofascore.com/api/v1/team/2831/image",
       "logo2": "https://img.sofascore.com/api/v1/team/324871/image",
       "time": "10:30 PM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://193.47.62.55/hls/HHHHCQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "http://193.47.62.55/hls/HHHHCQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_66",
