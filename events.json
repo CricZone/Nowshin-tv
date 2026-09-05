@@ -1469,16 +1469,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/56023/image",
       "start_time": "2026-09-05 21:55:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD",
+      "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Saudi Pro League",
       "team1": "Al-Taawoun",
       "team2": "Al-Fateh",
       "logo1": "https://img.sofascore.com/api/v1/team/56021/image",
       "logo2": "https://img.sofascore.com/api/v1/team/56023/image",
       "time": "09:55 PM 05/09/2026",
-      "streams": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD",
+      "streams": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_68",
@@ -1491,16 +1492,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/168086/image",
       "start_time": "2026-09-05 21:50:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD",
+      "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Saudi Pro League",
       "team1": "Al Faisaly",
       "team2": "Al-Hazem",
       "logo1": "https://img.sofascore.com/api/v1/team/56035/image",
       "logo2": "https://img.sofascore.com/api/v1/team/168086/image",
       "time": "09:50 PM 05/09/2026",
-      "streams": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD",
+      "streams": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_69",
