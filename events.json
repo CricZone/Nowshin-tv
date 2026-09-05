@@ -1226,16 +1226,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/7628/image",
       "start_time": "2026-09-05 23:30:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY",
       "title": "Liga Profesional de Fútbol",
       "team1": "Gimnasia y Esgrima",
       "team2": "Tigre",
       "logo1": "https://img.sofascore.com/api/v1/team/3205/image",
       "logo2": "https://img.sofascore.com/api/v1/team/7628/image",
       "time": "11:30 PM 05/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "http://162.251.160.53:8089/2788/index.m3u8#TV QUALITY"
     },
     {
       "id": "ev_57",
@@ -1447,16 +1448,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2714/image",
       "start_time": "2026-09-05 22:00:00",
       "duration": "135",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8#DAZN2 DE HD",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1obgacounv/out/v1/ce1bdb4a261b451fbc810dfbf94d1631/b462f709-1cfc-4106-bea6-5d302ee55fe6-cenc.mpd?aws_sessionId=d132c310-8833-4076-8b30-08b1159ed8f1|drmScheme=clearkey&drmLicense=8990024fbc46c41d718d68a9100b7b5e:b6f25159f6ecf4a5b7482d290d2cd02d#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55834/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8#DAZN2 DE HD $ http://193.47.62.55/hls/HHHHCQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Serie A",
       "team1": "Inter",
       "team2": "SSC Napoli",
       "logo1": "https://img.sofascore.com/api/v1/team/2697/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2714/image",
       "time": "10:00 PM 05/09/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8#DAZN2 DE HD",
+      "streams": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1obgacounv/out/v1/ce1bdb4a261b451fbc810dfbf94d1631/b462f709-1cfc-4106-bea6-5d302ee55fe6-cenc.mpd?aws_sessionId=d132c310-8833-4076-8b30-08b1159ed8f1|drmScheme=clearkey&drmLicense=8990024fbc46c41d718d68a9100b7b5e:b6f25159f6ecf4a5b7482d290d2cd02d#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55834/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8#DAZN2 DE HD $ http://193.47.62.55/hls/HHHHCQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1obgacounv/out/v1/ce1bdb4a261b451fbc810dfbf94d1631/b462f709-1cfc-4106-bea6-5d302ee55fe6-cenc.mpd?aws_sessionId=d132c310-8833-4076-8b30-08b1159ed8f1|drmScheme=clearkey&drmLicense=8990024fbc46c41d718d68a9100b7b5e:b6f25159f6ecf4a5b7482d290d2cd02d#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55834/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN LALIGA IT $ https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8#DAZN2 DE HD $ http://193.47.62.55/hls/HHHHCQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_67",
@@ -1469,17 +1471,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/56023/image",
       "start_time": "2026-09-05 21:55:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+      "stream_url": "https://live.vivo200.com/live/sd-1-4599583.m3u8?txSecret=9093158afce9ec1c87f7ad346e1489b9&txTime=6A9C4D53|Referer=https://player.787200.com/#HD QUALITY $ https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Saudi Pro League",
       "team1": "Al-Taawoun",
       "team2": "Al-Fateh",
       "logo1": "https://img.sofascore.com/api/v1/team/56021/image",
       "logo2": "https://img.sofascore.com/api/v1/team/56023/image",
       "time": "09:55 PM 05/09/2026",
-      "streams": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+      "streams": "https://live.vivo200.com/live/sd-1-4599583.m3u8?txSecret=9093158afce9ec1c87f7ad346e1489b9&txTime=6A9C4D53|Referer=https://player.787200.com/#HD QUALITY $ https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
       "created_at": 1788613713829,
-      "url": "https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "url": "https://live.vivo200.com/live/sd-1-4599583.m3u8?txSecret=9093158afce9ec1c87f7ad346e1489b9&txTime=6A9C4D53|Referer=https://player.787200.com/#HD QUALITY $ https://tmaxapp.site/ligue6sc6/thmanyah2.m3u8#Thmanyah2 FHD $ http://193.47.62.44/hls/HBBBQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_68",
@@ -1492,17 +1494,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/168086/image",
       "start_time": "2026-09-05 21:50:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+      "stream_url": "https://live.vivo200.com/live/sd-1-4599582.m3u8?txSecret=1637996d4c157c2d5780513333588ee1&txTime=6A9C4D3E|Referer=https://player.787200.com/#HD QUALITY $ https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Saudi Pro League",
       "team1": "Al Faisaly",
       "team2": "Al-Hazem",
       "logo1": "https://img.sofascore.com/api/v1/team/56035/image",
       "logo2": "https://img.sofascore.com/api/v1/team/168086/image",
       "time": "09:50 PM 05/09/2026",
-      "streams": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+      "streams": "https://live.vivo200.com/live/sd-1-4599582.m3u8?txSecret=1637996d4c157c2d5780513333588ee1&txTime=6A9C4D3E|Referer=https://player.787200.com/#HD QUALITY $ https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
       "created_at": 1788613713829,
-      "url": "https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "url": "https://live.vivo200.com/live/sd-1-4599582.m3u8?txSecret=1637996d4c157c2d5780513333588ee1&txTime=6A9C4D3E|Referer=https://player.787200.com/#HD QUALITY $ https://tmaxapp.site/ligue6sc6/thmanyah3.m3u8#Thmanyah3 FHD $ http://193.47.62.44/hls/HBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_69",
