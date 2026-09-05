@@ -1220,16 +1220,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/23400/image",
       "start_time": "2026-09-06 00:00:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ https://tmaxapp.site/ligue6sc6/thmanyah1.m3u8#Thmanyah1 FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD",
+      "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ https://tmaxapp.site/ligue6sc6/thmanyah1.m3u8#Thmanyah1 FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ http://193.47.62.55/hls/jkkkqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "Saudi Pro League",
       "team1": "Al-Ittihad",
       "team2": "Al-Nassr",
       "logo1": "https://img.sofascore.com/api/v1/team/34315/image",
       "logo2": "https://img.sofascore.com/api/v1/team/23400/image",
       "time": "12:00 AM 06/09/2026",
-      "streams": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ https://tmaxapp.site/ligue6sc6/thmanyah1.m3u8#Thmanyah1 FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD",
+      "streams": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ https://tmaxapp.site/ligue6sc6/thmanyah1.m3u8#Thmanyah1 FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ http://193.47.62.55/hls/jkkkqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788613713829
+      "created_at": 1788613713829,
+      "url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer.m3u8#FOX SOCCER HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ https://tmaxapp.site/ligue6sc6/thmanyah1.m3u8#Thmanyah1 FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ http://193.47.62.55/hls/jkkkqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_56",
