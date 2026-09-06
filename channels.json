@@ -1,7 +1,37 @@
 [
   {
-    "event_id": "ev_1788674187872_y23tv3",
+    "event_id": "ev_1788674228666_7jxcgq",
     "serial": 1,
+    "name": "Formula 1 vs Formula",
+    "category": "Live Event",
+    "epg_id": "",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+    "teamBLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+    "logo1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+    "logo2": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+    "team1": "Formula 1",
+    "team2": "Formula",
+    "title": "Formula 1",
+    "tournament": "Formula 1",
+    "tournament_logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
+    "time": "04:30 PM 06/09/2026",
+    "start_time": "2026-09-06 16:30:00",
+    "duration": "165",
+    "sport_category": "Motorsports",
+    "is_high_voltage": false,
+    "is_event": true,
+    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY F1 HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD $ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a#SKY F1 Italia [IT]",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "created_at": 1788674228666
+  },
+  {
+    "event_id": "ev_1788674187872_y23tv3",
+    "serial": 2,
     "name": "Los Angeles Dodgers vs Washington Nationals",
     "category": "Live Event",
     "epg_id": "",
@@ -31,7 +61,7 @@
   },
   {
     "event_id": "ev_1788674187872_zga6mj",
-    "serial": 2,
+    "serial": 3,
     "name": "Chicago White Sox vs Minnesota Twins",
     "category": "Live Event",
     "epg_id": "",
@@ -61,7 +91,7 @@
   },
   {
     "event_id": "ev_1788674187872_x5ew9i",
-    "serial": 3,
+    "serial": 4,
     "name": "Seattle Mariners vs Athletics",
     "category": "Live Event",
     "epg_id": "",
@@ -91,7 +121,7 @@
   },
   {
     "event_id": "ev_1788674187872_ly3msp",
-    "serial": 4,
+    "serial": 5,
     "name": "San Diego Padres vs New York Yankees",
     "category": "Live Event",
     "epg_id": "",
@@ -121,7 +151,7 @@
   },
   {
     "event_id": "ev_1788674187871_i4eeth",
-    "serial": 5,
+    "serial": 6,
     "name": "Colorado Rockies vs St. Louis Cardinals",
     "category": "Live Event",
     "epg_id": "",
@@ -151,7 +181,7 @@
   },
   {
     "event_id": "ev_1788674187871_dya2hv",
-    "serial": 6,
+    "serial": 7,
     "name": "Texas Rangers vs Tampa Bay Rays",
     "category": "Live Event",
     "epg_id": "",
@@ -181,7 +211,7 @@
   },
   {
     "event_id": "ev_1788674187870_3m92yd",
-    "serial": 7,
+    "serial": 8,
     "name": "Houston Astros vs Arizona Diamondbacks",
     "category": "Live Event",
     "epg_id": "",
@@ -211,7 +241,7 @@
   },
   {
     "event_id": "ev_1788674187870_651ss7",
-    "serial": 8,
+    "serial": 9,
     "name": "Kansas City Royals vs Toronto Blue Jays",
     "category": "Live Event",
     "epg_id": "",
@@ -241,7 +271,7 @@
   },
   {
     "event_id": "ev_1788674187870_wa17o2",
-    "serial": 9,
+    "serial": 10,
     "name": "Cleveland Guardians vs Detroit Tigers",
     "category": "Live Event",
     "epg_id": "",
@@ -271,7 +301,7 @@
   },
   {
     "event_id": "ev_1788674187870_echv3l",
-    "serial": 10,
+    "serial": 11,
     "name": "Miami Marlins vs Chicago Cubs",
     "category": "Live Event",
     "epg_id": "",
@@ -301,7 +331,7 @@
   },
   {
     "event_id": "ev_1788674187870_u2k591",
-    "serial": 11,
+    "serial": 12,
     "name": "New York Mets vs San Francisco Giants",
     "category": "Live Event",
     "epg_id": "",
@@ -331,7 +361,7 @@
   },
   {
     "event_id": "ev_1788674187869_befsvh",
-    "serial": 12,
+    "serial": 13,
     "name": "Baltimore Orioles vs Boston Red Sox",
     "category": "Live Event",
     "epg_id": "",
@@ -361,7 +391,7 @@
   },
   {
     "event_id": "ev_1788674187869_wywar9",
-    "serial": 13,
+    "serial": 14,
     "name": "Pittsburgh Pirates vs Los Angeles Angels",
     "category": "Live Event",
     "epg_id": "",
@@ -391,7 +421,7 @@
   },
   {
     "event_id": "ev_1788674187869_0gra6v",
-    "serial": 14,
+    "serial": 15,
     "name": "Philadelphia Phillies vs Atlanta Braves",
     "category": "Live Event",
     "epg_id": "",
@@ -421,7 +451,7 @@
   },
   {
     "event_id": "ev_1788674187869_2oaey3",
-    "serial": 15,
+    "serial": 16,
     "name": "Cincinnati Reds vs Milwaukee Brewers",
     "category": "Live Event",
     "epg_id": "",
@@ -451,7 +481,7 @@
   },
   {
     "event_id": "ev_1788674143564_jb1lta",
-    "serial": 16,
+    "serial": 17,
     "name": "River Plate vs Independiente Rivadavia",
     "category": "Live Event",
     "epg_id": "",
@@ -481,7 +511,7 @@
   },
   {
     "event_id": "ev_1788674143564_eo9m9p",
-    "serial": 17,
+    "serial": 18,
     "name": "Ponte Preta vs São Bernardo",
     "category": "Live Event",
     "epg_id": "",
@@ -511,7 +541,7 @@
   },
   {
     "event_id": "ev_1788674143564_kcf1xj",
-    "serial": 18,
+    "serial": 19,
     "name": "Botafogo vs Palmeiras",
     "category": "Live Event",
     "epg_id": "",
@@ -541,7 +571,7 @@
   },
   {
     "event_id": "ev_1788674143564_fdn4ue",
-    "serial": 19,
+    "serial": 20,
     "name": "MAS de Fès vs Rahimo FC",
     "category": "Live Event",
     "epg_id": "",
@@ -571,7 +601,7 @@
   },
   {
     "event_id": "ev_1788674143564_downzx",
-    "serial": 20,
+    "serial": 21,
     "name": "Cruzeiro vs Athletico",
     "category": "Live Event",
     "epg_id": "",
@@ -601,7 +631,7 @@
   },
   {
     "event_id": "ev_1788674143564_2gtjyl",
-    "serial": 21,
+    "serial": 22,
     "name": "Remo vs Flamengo",
     "category": "Live Event",
     "epg_id": "",
@@ -631,7 +661,7 @@
   },
   {
     "event_id": "ev_1788674143564_poeu23",
-    "serial": 22,
+    "serial": 23,
     "name": "Internacional vs Santos",
     "category": "Live Event",
     "epg_id": "",
@@ -661,7 +691,7 @@
   },
   {
     "event_id": "ev_1788674143564_9f9boy",
-    "serial": 23,
+    "serial": 24,
     "name": "Almería vs Cádiz",
     "category": "Live Event",
     "epg_id": "",
@@ -691,7 +721,7 @@
   },
   {
     "event_id": "ev_1788674143564_zf3n5x",
-    "serial": 24,
+    "serial": 25,
     "name": "Espanyol vs Sevilla",
     "category": "Live Event",
     "epg_id": "",
@@ -721,7 +751,7 @@
   },
   {
     "event_id": "ev_1788674143564_nhazg1",
-    "serial": 25,
+    "serial": 26,
     "name": "Olympique de Marseille vs Paris FC",
     "category": "Live Event",
     "epg_id": "",
@@ -751,7 +781,7 @@
   },
   {
     "event_id": "ev_1788674143564_vpj4yw",
-    "serial": 26,
+    "serial": 27,
     "name": "Juventus vs AC Milan",
     "category": "Live Event",
     "epg_id": "",
@@ -781,7 +811,7 @@
   },
   {
     "event_id": "ev_1788674143563_p7pwqv",
-    "serial": 27,
+    "serial": 28,
     "name": "Real Madrid vs SD Eibar",
     "category": "Live Event",
     "epg_id": "",
@@ -811,7 +841,7 @@
   },
   {
     "event_id": "ev_1788674143563_v8yxf0",
-    "serial": 28,
+    "serial": 29,
     "name": "Cremonese vs Padova",
     "category": "Live Event",
     "epg_id": "",
@@ -841,7 +871,7 @@
   },
   {
     "event_id": "ev_1788674143563_g8pw3f",
-    "serial": 29,
+    "serial": 30,
     "name": "CD Castellón vs Albacete Balompié",
     "category": "Live Event",
     "epg_id": "",
@@ -871,7 +901,7 @@
   },
   {
     "event_id": "ev_1788674143563_0x84vq",
-    "serial": 30,
+    "serial": 31,
     "name": "Málaga CF vs Levante UD",
     "category": "Live Event",
     "epg_id": "",
@@ -901,7 +931,7 @@
   },
   {
     "event_id": "ev_1788674143563_9sz2zp",
-    "serial": 31,
+    "serial": 32,
     "name": "Deportivo Alavés vs Osasuna",
     "category": "Live Event",
     "epg_id": "",
@@ -931,7 +961,7 @@
   },
   {
     "event_id": "ev_1788674143563_92eiwk",
-    "serial": 32,
+    "serial": 33,
     "name": "Bologna vs Sassuolo",
     "category": "Live Event",
     "epg_id": "",
@@ -961,7 +991,7 @@
   },
   {
     "event_id": "ev_1788674143563_sfo99r",
-    "serial": 33,
+    "serial": 34,
     "name": "Eintracht Frankfurt vs FC Augsburg",
     "category": "Live Event",
     "epg_id": "",
@@ -991,7 +1021,7 @@
   },
   {
     "event_id": "ev_1788674143563_1q2c81",
-    "serial": 34,
+    "serial": 35,
     "name": "Arsenal vs Chelsea",
     "category": "Live Event",
     "epg_id": "",
@@ -1021,7 +1051,7 @@
   },
   {
     "event_id": "ev_1788674143563_574dpm",
-    "serial": 35,
+    "serial": 36,
     "name": "Hellas Verona vs Arezzo",
     "category": "Live Event",
     "epg_id": "",
@@ -1051,7 +1081,7 @@
   },
   {
     "event_id": "ev_1788674143563_2wo979",
-    "serial": 36,
+    "serial": 37,
     "name": "Angers vs Stade Rennais",
     "category": "Live Event",
     "epg_id": "",
@@ -1081,7 +1111,7 @@
   },
   {
     "event_id": "ev_1788674143563_dxkxv7",
-    "serial": 37,
+    "serial": 38,
     "name": "Real Oviedo vs Burgos Club de Fútbol",
     "category": "Live Event",
     "epg_id": "",
@@ -1111,7 +1141,7 @@
   },
   {
     "event_id": "ev_1788674143563_2ihr8a",
-    "serial": 38,
+    "serial": 39,
     "name": "Valencia vs FC Barcelona",
     "category": "Live Event",
     "epg_id": "",
@@ -1141,7 +1171,7 @@
   },
   {
     "event_id": "ev_1788674143563_jx1ehp",
-    "serial": 39,
+    "serial": 40,
     "name": "FC Bayern München vs SC Freiburg",
     "category": "Live Event",
     "epg_id": "",
@@ -1171,7 +1201,7 @@
   },
   {
     "event_id": "ev_1788674143563_0d5m5e",
-    "serial": 40,
+    "serial": 41,
     "name": "Al-Nasr Dubai vs Ajman",
     "category": "Live Event",
     "epg_id": "",
@@ -1201,7 +1231,7 @@
   },
   {
     "event_id": "ev_1788674143563_1haqsg",
-    "serial": 41,
+    "serial": 42,
     "name": "Hamburger SV vs 1. FSV Mainz 05",
     "category": "Live Event",
     "epg_id": "",
@@ -1231,7 +1261,7 @@
   },
   {
     "event_id": "ev_1788674143563_b8mj0b",
-    "serial": 42,
+    "serial": 43,
     "name": "Cesena vs Mantova",
     "category": "Live Event",
     "epg_id": "",
@@ -1261,7 +1291,7 @@
   },
   {
     "event_id": "ev_1788674143563_5baixx",
-    "serial": 43,
+    "serial": 44,
     "name": "Modena vs US Avellino 1912",
     "category": "Live Event",
     "epg_id": "",
@@ -1291,7 +1321,7 @@
   },
   {
     "event_id": "ev_1788674143563_u94fek",
-    "serial": 44,
+    "serial": 45,
     "name": "Juve Stabia vs Pisa",
     "category": "Live Event",
     "epg_id": "",
@@ -1321,7 +1351,7 @@
   },
   {
     "event_id": "ev_1788674143562_j65ddq",
-    "serial": 45,
+    "serial": 46,
     "name": "Virtus Entella vs L.R. Vicenza",
     "category": "Live Event",
     "epg_id": "",
@@ -1351,7 +1381,7 @@
   },
   {
     "event_id": "ev_1788674143562_e4061c",
-    "serial": 46,
+    "serial": 47,
     "name": "Troyes vs RC Strasbourg",
     "category": "Live Event",
     "epg_id": "",
@@ -1381,7 +1411,7 @@
   },
   {
     "event_id": "ev_1788674143562_6bwy55",
-    "serial": 47,
+    "serial": 48,
     "name": "Parma vs Monza",
     "category": "Live Event",
     "epg_id": "",
@@ -1411,7 +1441,7 @@
   },
   {
     "event_id": "ev_1788674143562_zjl3ah",
-    "serial": 48,
+    "serial": 49,
     "name": "Frosinone vs Venezia",
     "category": "Live Event",
     "epg_id": "",
@@ -1441,7 +1471,7 @@
   },
   {
     "event_id": "ev_1788674143562_dzyvr0",
-    "serial": 49,
+    "serial": 50,
     "name": "Everton vs Manchester United",
     "category": "Live Event",
     "epg_id": "",
@@ -1471,7 +1501,7 @@
   },
   {
     "event_id": "ev_1788674143562_vvv4rh",
-    "serial": 50,
+    "serial": 51,
     "name": "Eibar vs Granada",
     "category": "Live Event",
     "epg_id": "",
@@ -1501,7 +1531,7 @@
   },
   {
     "event_id": "ev_1788674143562_du9sb3",
-    "serial": 51,
+    "serial": 52,
     "name": "VfL Osnabrück vs Eintracht Braunschweig",
     "category": "Live Event",
     "epg_id": "",
@@ -1531,7 +1561,7 @@
   },
   {
     "event_id": "ev_1788674143562_1cs0lg",
-    "serial": 52,
+    "serial": 53,
     "name": "Hertha BSC vs 1. FC Magdeburg",
     "category": "Live Event",
     "epg_id": "",
@@ -1561,7 +1591,7 @@
   },
   {
     "event_id": "ev_1788674143562_mhy2il",
-    "serial": 53,
+    "serial": 54,
     "name": "SpVgg Greuther Fürth vs 1. FC Heidenheim",
     "category": "Live Event",
     "epg_id": "",
@@ -1591,7 +1621,7 @@
   },
   {
     "event_id": "ev_1788674143562_h65q5h",
-    "serial": 54,
+    "serial": 55,
     "name": "Birmingham City vs Wolverhampton",
     "category": "Live Event",
     "epg_id": "",
@@ -1621,7 +1651,7 @@
   },
   {
     "event_id": "ev_1788674143562_le0yfi",
-    "serial": 55,
+    "serial": 56,
     "name": "Club Atlético de Madrid vs Deportivo Alavés",
     "category": "Live Event",
     "epg_id": "",
@@ -1651,7 +1681,7 @@
   },
   {
     "event_id": "ev_1788674143561_lzr3fg",
-    "serial": 56,
+    "serial": 57,
     "name": "Real Madrid vs Albacete B",
     "category": "Live Event",
     "epg_id": "",
@@ -1680,7 +1710,7 @@
     "created_at": 1788674143561
   },
   {
-    "serial": 57,
+    "serial": 58,
     "name": "Barbados Tridents vs Saint Lucia Kings",
     "category": "Live Event",
     "epg_id": "",
@@ -1710,7 +1740,7 @@
     "event_id": "ev_1788670114526_h5x29o"
   },
   {
-    "serial": 58,
+    "serial": 59,
     "name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
     "category": "Live Event",
     "epg_id": "",
@@ -1740,7 +1770,7 @@
     "event_id": "ev_1788670114526_x3nmfa"
   },
   {
-    "serial": 59,
+    "serial": 60,
     "name": "Jamaica Empress Women vs Guyana Amazon Warriors Women",
     "category": "Live Event",
     "epg_id": "",
@@ -1770,7 +1800,7 @@
     "event_id": "ev_1788670114526_c1w9vu"
   },
   {
-    "serial": 60,
+    "serial": 61,
     "name": "England Women vs Ireland Women",
     "category": "Live Event",
     "epg_id": "",
@@ -1800,7 +1830,7 @@
     "event_id": "ev_1788670114525_jmkeu1"
   },
   {
-    "serial": 61,
+    "serial": 62,
     "name": "Zimbabwe vs South Africa",
     "category": "Live Event",
     "epg_id": "",
@@ -1830,7 +1860,7 @@
     "event_id": "ev_1788670114525_5fkeig"
   },
   {
-    "serial": 62,
+    "serial": 63,
     "name": "EUROPEAN T20 vs Premier League T20",
     "category": "Live Event",
     "epg_id": "",
