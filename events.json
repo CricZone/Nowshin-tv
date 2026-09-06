@@ -1112,16 +1112,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2688/image",
       "start_time": "2026-09-06 19:00:00",
       "duration": "135",
-      "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT",
+      "stream_url": "http://162.251.160.53:8089/5690/index.m3u8#TV QUALITY $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT",
       "title": "Serie A",
       "team1": "Frosinone",
       "team2": "Venezia",
       "logo1": "https://img.sofascore.com/api/v1/team/2801/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2688/image",
       "time": "07:00 PM 06/09/2026",
-      "streams": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT",
+      "streams": "http://162.251.160.53:8089/5690/index.m3u8#TV QUALITY $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788674271945,
+      "url": "http://162.251.160.53:8089/5690/index.m3u8#TV QUALITY $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT"
     },
     {
       "id": "ev_1788674143562_dzyvr0",
