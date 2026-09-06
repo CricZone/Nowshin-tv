@@ -165,16 +165,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/3653/image",
       "start_time": "2026-09-07 00:35:00",
       "duration": "135",
-      "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
+      "stream_url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "title": "MLB",
       "team1": "Texas Rangers",
       "team2": "Tampa Bay Rays",
       "logo1": "https://img.sofascore.com/api/v1/team/3647/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3653/image",
       "time": "12:35 AM 07/09/2026",
-      "streams": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
+      "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788674271945,
+      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
     },
     {
       "id": "ev_1788674187870_3m92yd",
