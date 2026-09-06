@@ -55,16 +55,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/3645/image",
       "start_time": "2026-09-06 07:40:00",
       "duration": "135",
-      "stream_url": "https://chatgpt.hereisman.net/playlist/55939/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB HD QUALITY $ http://193.47.62.41/hls/bdddQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream7.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + HD",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "title": "MLB",
       "team1": "Seattle Mariners",
       "team2": "Athletics",
       "logo1": "https://img.sofascore.com/api/v1/team/3641/image",
       "logo2": "https://img.sofascore.com/api/v1/team/3645/image",
       "time": "07:40 AM 06/09/2026",
-      "streams": "https://chatgpt.hereisman.net/playlist/55939/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB HD QUALITY $ http://193.47.62.41/hls/bdddQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream7.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + HD",
+      "streams": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788662392638
+      "created_at": 1788662392638,
+      "url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
     },
     {
       "id": "ev_4",
@@ -77,16 +78,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/5930/image",
       "start_time": "2026-09-06 07:10:00",
       "duration": "135",
-      "stream_url": "https://chatgpt.hereisman.net/playlist/55933/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB HD QUALITY $ http://193.47.62.55/hls/sfffsssss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + HD",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "title": "MLB",
       "team1": "Los Angeles Dodgers",
       "team2": "Washington Nationals",
       "logo1": "https://img.sofascore.com/api/v1/team/3638/image",
       "logo2": "https://img.sofascore.com/api/v1/team/5930/image",
       "time": "07:10 AM 06/09/2026",
-      "streams": "https://chatgpt.hereisman.net/playlist/55933/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB HD QUALITY $ http://193.47.62.55/hls/sfffsssss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + HD",
+      "streams": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788662392638
+      "created_at": 1788662392638,
+      "url": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
     },
     {
       "id": "ev_5",
