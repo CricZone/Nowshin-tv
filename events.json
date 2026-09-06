@@ -597,16 +597,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/6070/image",
       "start_time": "2026-09-07 00:45:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "stream_url": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE TV + HD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "title": "Ligue 1",
       "team1": "Olympique de Marseille",
       "team2": "Paris FC",
       "logo1": "https://img.sofascore.com/api/v1/team/1641/image",
       "logo2": "https://img.sofascore.com/api/v1/team/6070/image",
       "time": "12:45 AM 07/09/2026",
-      "streams": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "streams": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE TV + HD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788674271945,
+      "url": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE TV + HD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD"
     },
     {
       "id": "ev_1788674143564_vpj4yw",
@@ -839,16 +840,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/1658/image",
       "start_time": "2026-09-06 21:15:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "stream_url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  TV + HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "title": "Ligue 1",
       "team1": "Angers",
       "team2": "Stade Rennais",
       "logo1": "https://img.sofascore.com/api/v1/team/1684/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1658/image",
       "time": "09:15 PM 06/09/2026",
-      "streams": "https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "streams": "https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  TV + HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788674271945,
+      "url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  TV + HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD"
     },
     {
       "id": "ev_1788674143563_dxkxv7",
@@ -1059,16 +1061,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/1659/image",
       "start_time": "2026-09-06 19:00:00",
       "duration": "135",
-      "stream_url": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "stream_url": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "title": "Ligue 1",
       "team1": "Troyes",
       "team2": "RC Strasbourg",
       "logo1": "https://img.sofascore.com/api/v1/team/1652/image",
       "logo2": "https://img.sofascore.com/api/v1/team/1659/image",
       "time": "07:00 PM 06/09/2026",
-      "streams": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
+      "streams": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788674271945,
+      "url": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD"
     },
     {
       "id": "ev_1788674143562_6bwy55",
