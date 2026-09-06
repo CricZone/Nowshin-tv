@@ -63,68 +63,6 @@
   },
   {
     "serial": 3,
-    "name": "Portland Timbers vs Minnesota United",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/22007/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/41618/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/22007/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/41618/image",
-    "team1": "Portland Timbers",
-    "team2": "Minnesota United",
-    "title": "MLS",
-    "tournament": "MLS",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-    "time": "08:30 AM 06/09/2026",
-    "start_time": "2026-09-06 08:30:00",
-    "duration": "135",
-    "sport_category": "Football",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://chatgpt.hereisman.net/playlist/55947/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.41/hls/idddaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788561512321,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 4,
-    "name": "Vancouver Whitecaps vs St.Louis City",
-    "category": "Live Event",
-    "epg_id": "",
-    "logo": "https://img.sofascore.com/api/v1/team/22010/image",
-    "teamBLogo": "https://img.sofascore.com/api/v1/team/407803/image",
-    "logo1": "https://img.sofascore.com/api/v1/team/22010/image",
-    "logo2": "https://img.sofascore.com/api/v1/team/407803/image",
-    "team1": "Vancouver Whitecaps",
-    "team2": "St.Louis City",
-    "title": "MLS",
-    "tournament": "MLS",
-    "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-    "time": "08:30 AM 06/09/2026",
-    "start_time": "2026-09-06 08:30:00",
-    "duration": "135",
-    "sport_category": "Football",
-    "is_high_voltage": false,
-    "is_event": true,
-    "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55946/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.41/hls/idddaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "created_at": 1788561512321,
-    "failCount": 0,
-    "successCount": 0
-  },
-  {
-    "serial": 5,
     "name": "Junior Barranquilla vs Jaguares de Córdoba",
     "category": "Live Event",
     "epg_id": "",
@@ -155,7 +93,7 @@
     "successCount": 0
   },
   {
-    "serial": 6,
+    "serial": 4,
     "name": "Real Salt Lake vs Los Angeles FC",
     "category": "Live Event",
     "epg_id": "",
@@ -186,7 +124,7 @@
     "successCount": 0
   },
   {
-    "serial": 7,
+    "serial": 5,
     "name": "LA Galaxy vs New England Revolution",
     "category": "Live Event",
     "epg_id": "",
@@ -217,7 +155,7 @@
     "successCount": 0
   },
   {
-    "serial": 8,
+    "serial": 6,
     "name": "FC Dallas vs Sporting Kansas City",
     "category": "Live Event",
     "epg_id": "",
@@ -248,7 +186,7 @@
     "successCount": 0
   },
   {
-    "serial": 9,
+    "serial": 7,
     "name": "Seattle Sounders FC vs New York Red Bulls",
     "category": "Live Event",
     "epg_id": "",
@@ -279,7 +217,7 @@
     "successCount": 0
   },
   {
-    "serial": 10,
+    "serial": 8,
     "name": "Austin FC vs San Jose Earthquakes",
     "category": "Live Event",
     "epg_id": "",
@@ -310,7 +248,7 @@
     "successCount": 0
   },
   {
-    "serial": 11,
+    "serial": 9,
     "name": "Barbados Tridents vs Trinbago Knight Riders",
     "category": "Live Event",
     "epg_id": "",
@@ -378,42 +316,6 @@
   },
   {
     "serial": 3,
-    "name": "Bijoy tv",
-    "category": "Bangladeshi",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s",
-    "url": "https://bdstream.bdstreamhubiptv.workers.dev/BIJOY_TV.m3u8",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0,
-    "duration_mins": 120,
-    "duration": "135"
-  },
-  {
-    "serial": 4,
-    "name": "Asian Tv",
-    "category": "Bangladeshi",
-    "epg_id": "",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10",
-    "url": "https://stream.ottplus.live/live/asian_tv_abr/index.m3u8",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0,
-    "duration_mins": 120,
-    "duration": "135"
-  },
-  {
-    "serial": 5,
     "name": "Ananda Tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -431,7 +333,7 @@
     "duration": "135"
   },
   {
-    "serial": 6,
+    "serial": 4,
     "name": "Massranga tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -449,7 +351,7 @@
     "duration": "135"
   },
   {
-    "serial": 7,
+    "serial": 5,
     "name": "Mohona tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -467,7 +369,7 @@
     "duration": "135"
   },
   {
-    "serial": 8,
+    "serial": 6,
     "name": "Channel 9 tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -485,7 +387,7 @@
     "duration": "135"
   },
   {
-    "serial": 9,
+    "serial": 7,
     "name": "Sa tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -503,7 +405,7 @@
     "duration": "135"
   },
   {
-    "serial": 10,
+    "serial": 8,
     "name": "Bangla tv",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -521,7 +423,7 @@
     "duration": "135"
   },
   {
-    "serial": 11,
+    "serial": 9,
     "name": "Somoy News",
     "category": "BD News",
     "epg_id": "",
@@ -539,7 +441,7 @@
     "duration": "135"
   },
   {
-    "serial": 12,
+    "serial": 10,
     "name": "Star Jalsha HD",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -557,7 +459,7 @@
     "duration": "135"
   },
   {
-    "serial": 13,
+    "serial": 11,
     "name": "Zee Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -575,7 +477,7 @@
     "duration": "135"
   },
   {
-    "serial": 14,
+    "serial": 12,
     "name": "Colours Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -593,7 +495,7 @@
     "duration": "135"
   },
   {
-    "serial": 15,
+    "serial": 13,
     "name": "Colors bangla Cinema",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -611,7 +513,7 @@
     "duration": "135"
   },
   {
-    "serial": 16,
+    "serial": 14,
     "name": "Zee Bangla Sonar",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -629,7 +531,7 @@
     "duration": "135"
   },
   {
-    "serial": 17,
+    "serial": 15,
     "name": "Sony Aath",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -647,7 +549,7 @@
     "duration": "135"
   },
   {
-    "serial": 18,
+    "serial": 16,
     "name": "Jalsha Movies",
     "category": "Kolkata Movie",
     "epg_id": "",
@@ -665,7 +567,7 @@
     "duration": "135"
   },
   {
-    "serial": 19,
+    "serial": 17,
     "name": "Bangla Plues",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -683,7 +585,7 @@
     "duration": "135"
   },
   {
-    "serial": 20,
+    "serial": 18,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -701,7 +603,7 @@
     "duration": "135"
   },
   {
-    "serial": 21,
+    "serial": 19,
     "name": "Sananda tv",
     "category": "BD & Kolkata Movie",
     "epg_id": "",
@@ -719,7 +621,7 @@
     "duration": "135"
   },
   {
-    "serial": 22,
+    "serial": 20,
     "name": "Enter 10 Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -737,7 +639,7 @@
     "duration": "135"
   },
   {
-    "serial": 23,
+    "serial": 21,
     "name": "Sun Bangla",
     "category": "Kolkata Serial",
     "epg_id": "",
@@ -755,7 +657,7 @@
     "duration": "135"
   },
   {
-    "serial": 24,
+    "serial": 22,
     "name": "Gopal bhar tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -773,7 +675,7 @@
     "duration": "135"
   },
   {
-    "serial": 25,
+    "serial": 23,
     "name": "Rangeen tv",
     "category": "Cartoon",
     "epg_id": "",
@@ -791,7 +693,7 @@
     "duration": "135"
   },
   {
-    "serial": 26,
+    "serial": 24,
     "name": "Super Hungma",
     "category": "Cartoon",
     "epg_id": "",
@@ -809,7 +711,7 @@
     "duration": "135"
   },
   {
-    "serial": 27,
+    "serial": 25,
     "name": "Sonic",
     "category": "Cartoon",
     "epg_id": "",
@@ -827,7 +729,7 @@
     "duration": "135"
   },
   {
-    "serial": 28,
+    "serial": 26,
     "name": "Disney",
     "category": "Cartoon",
     "epg_id": "",
@@ -845,7 +747,7 @@
     "duration": "135"
   },
   {
-    "serial": 29,
+    "serial": 27,
     "name": "Discovery kids",
     "category": "Cartoon",
     "epg_id": "",
@@ -863,7 +765,7 @@
     "duration": "135"
   },
   {
-    "serial": 30,
+    "serial": 28,
     "name": "Pogo",
     "category": "Cartoon",
     "epg_id": "",
@@ -881,7 +783,7 @@
     "duration": "135"
   },
   {
-    "serial": 31,
+    "serial": 29,
     "name": "Sony YAY",
     "category": "Cartoon",
     "epg_id": "",
@@ -899,7 +801,7 @@
     "duration": "135"
   },
   {
-    "serial": 32,
+    "serial": 30,
     "name": "Tom & Jery",
     "category": "Cartoon",
     "epg_id": "",
@@ -917,7 +819,7 @@
     "duration": "135"
   },
   {
-    "serial": 33,
+    "serial": 31,
     "name": "Khusboo bangla",
     "category": "Cartoon",
     "epg_id": "",
@@ -935,7 +837,7 @@
     "duration": "135"
   },
   {
-    "serial": 34,
+    "serial": 32,
     "name": "ZB Cartoon",
     "category": "Cartoon",
     "epg_id": "",
@@ -953,7 +855,7 @@
     "duration": "135"
   },
   {
-    "serial": 35,
+    "serial": 33,
     "name": "Jungle Book",
     "category": "Cartoon",
     "epg_id": "",
@@ -971,7 +873,7 @@
     "duration": "135"
   },
   {
-    "serial": 36,
+    "serial": 34,
     "name": "Cartoon Network ",
     "category": "Cartoon",
     "epg_id": "",
@@ -989,7 +891,7 @@
     "duration": "135"
   },
   {
-    "serial": 37,
+    "serial": 35,
     "name": "Star Plus",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1007,7 +909,7 @@
     "duration": "135"
   },
   {
-    "serial": 38,
+    "serial": 36,
     "name": "Star Sports 1",
     "category": "Sports",
     "epg_id": "",
@@ -1025,7 +927,7 @@
     "duration": "135"
   },
   {
-    "serial": 39,
+    "serial": 37,
     "name": "Star Sports 2",
     "category": "Sports",
     "epg_id": "",
@@ -1043,7 +945,7 @@
     "duration": "135"
   },
   {
-    "serial": 40,
+    "serial": 38,
     "name": "STAR SPORTS SELECT 2",
     "category": "Sports",
     "epg_id": "",
@@ -1061,7 +963,7 @@
     "duration": "135"
   },
   {
-    "serial": 41,
+    "serial": 39,
     "name": "Ptv ",
     "category": "Sports",
     "epg_id": "",
@@ -1079,7 +981,7 @@
     "duration": "135"
   },
   {
-    "serial": 42,
+    "serial": 40,
     "name": "A Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1097,7 +999,7 @@
     "duration": "135"
   },
   {
-    "serial": 43,
+    "serial": 41,
     "name": "M Sports",
     "category": "Sports",
     "epg_id": "",
@@ -1115,7 +1017,7 @@
     "duration": "135"
   },
   {
-    "serial": 44,
+    "serial": 42,
     "name": "Sony ten 1",
     "category": "Sports",
     "epg_id": "",
@@ -1133,7 +1035,7 @@
     "duration": "135"
   },
   {
-    "serial": 45,
+    "serial": 43,
     "name": "Sony ten  2",
     "category": "Sports",
     "epg_id": "",
@@ -1151,7 +1053,7 @@
     "duration": "135"
   },
   {
-    "serial": 46,
+    "serial": 44,
     "name": "WILLOW SPORTS",
     "category": "Sports",
     "epg_id": "",
@@ -1169,7 +1071,7 @@
     "duration": "135"
   },
   {
-    "serial": 47,
+    "serial": 45,
     "name": "Ten Sports ",
     "category": "Sports",
     "epg_id": "",
@@ -1187,7 +1089,7 @@
     "duration": "135"
   },
   {
-    "serial": 48,
+    "serial": 46,
     "name": "Caze Tv",
     "category": "Sports",
     "epg_id": "",
@@ -1205,7 +1107,7 @@
     "duration": "135"
   },
   {
-    "serial": 49,
+    "serial": 47,
     "name": "Sony ten 5",
     "category": "Sports",
     "epg_id": "",
@@ -1223,7 +1125,7 @@
     "duration": "135"
   },
   {
-    "serial": 50,
+    "serial": 48,
     "name": "Sony Entertainment",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1241,7 +1143,7 @@
     "duration": "135"
   },
   {
-    "serial": 51,
+    "serial": 49,
     "name": "Clours HD",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1259,7 +1161,7 @@
     "duration": "135"
   },
   {
-    "serial": 52,
+    "serial": 50,
     "name": "Colors Cinplex",
     "category": "Movie's",
     "epg_id": "",
@@ -1277,7 +1179,7 @@
     "duration": "135"
   },
   {
-    "serial": 53,
+    "serial": 51,
     "name": "B4U Movies",
     "category": "Movie's",
     "epg_id": "",
@@ -1295,7 +1197,7 @@
     "duration": "135"
   },
   {
-    "serial": 54,
+    "serial": 52,
     "name": "Zee Cinema",
     "category": "Movie's",
     "epg_id": "",
@@ -1313,7 +1215,7 @@
     "duration": "135"
   },
   {
-    "serial": 55,
+    "serial": 53,
     "name": "Zee Action ",
     "category": "Movie's",
     "epg_id": "",
@@ -1331,7 +1233,7 @@
     "duration": "135"
   },
   {
-    "serial": 56,
+    "serial": 54,
     "name": "South Station Tv",
     "category": "Movie's",
     "epg_id": "",
@@ -1349,7 +1251,7 @@
     "duration": "135"
   },
   {
-    "serial": 57,
+    "serial": 55,
     "name": "Sony Max HD",
     "category": "Movie's",
     "epg_id": "",
@@ -1367,7 +1269,7 @@
     "duration": "135"
   },
   {
-    "serial": 58,
+    "serial": 56,
     "name": "Star Gold Select",
     "category": "Movie's",
     "epg_id": "",
@@ -1385,7 +1287,7 @@
     "duration": "135"
   },
   {
-    "serial": 59,
+    "serial": 57,
     "name": "Sun Tv",
     "category": "Hindi Serial",
     "epg_id": "",
@@ -1403,7 +1305,7 @@
     "duration": "135"
   },
   {
-    "serial": 60,
+    "serial": 58,
     "name": "Discovery",
     "category": "Documentary",
     "epg_id": "",
@@ -1421,7 +1323,7 @@
     "duration": "135"
   },
   {
-    "serial": 61,
+    "serial": 59,
     "name": "Sony BBC Earth",
     "category": "Documentary",
     "epg_id": "",
@@ -1439,7 +1341,7 @@
     "duration": "135"
   },
   {
-    "serial": 62,
+    "serial": 60,
     "name": "Animal Planet",
     "category": "Documentary",
     "epg_id": "",
@@ -1457,7 +1359,7 @@
     "duration": "135"
   },
   {
-    "serial": 63,
+    "serial": 61,
     "name": "National Geography",
     "category": "Documentary",
     "epg_id": "",
@@ -1475,7 +1377,7 @@
     "duration": "135"
   },
   {
-    "serial": 64,
+    "serial": 62,
     "name": "HBO",
     "category": "English Movie",
     "epg_id": "",
@@ -1493,7 +1395,7 @@
     "duration": "135"
   },
   {
-    "serial": 65,
+    "serial": 63,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -1511,7 +1413,7 @@
     "duration": "135"
   },
   {
-    "serial": 66,
+    "serial": 64,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -1529,7 +1431,7 @@
     "duration": "135"
   },
   {
-    "serial": 67,
+    "serial": 65,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -1547,7 +1449,7 @@
     "duration": "135"
   },
   {
-    "serial": 68,
+    "serial": 66,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -1565,7 +1467,7 @@
     "duration": "135"
   },
   {
-    "serial": 69,
+    "serial": 67,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -1583,7 +1485,7 @@
     "duration": "135"
   },
   {
-    "serial": 70,
+    "serial": 68,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -1601,7 +1503,7 @@
     "duration": "135"
   },
   {
-    "serial": 71,
+    "serial": 69,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
@@ -1619,7 +1521,7 @@
     "duration": "135"
   },
   {
-    "serial": 72,
+    "serial": 70,
     "name": "Star Movies Selected ",
     "category": "English Movie",
     "epg_id": "",
@@ -1636,7 +1538,7 @@
     "successCount": 0
   },
   {
-    "serial": 73,
+    "serial": 71,
     "name": "Galaxy TV",
     "category": "Bangladeshi",
     "epg_id": "",
@@ -1653,7 +1555,7 @@
     "duration": "135"
   },
   {
-    "serial": 74,
+    "serial": 72,
     "name": "Nick",
     "category": "Cartoon",
     "epg_id": "",
