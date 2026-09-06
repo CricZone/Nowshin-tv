@@ -2012,7 +2012,21 @@
     "duration": "135"
   },
   {
-    "serial": 103,
+    "name": "Star Movies Selected",
+    "category": "English Movie",
+    "epg_id": "",
+    "logo": "https://exchange4media.gumlet.io/news-photo/101771-Untitleddesign15.jpg",
+    "url": "http://66.102.126.10:8000/play/a020/index.m3u8#Server 1",
+    "user_agent": "",
+    "referer": "",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "serial": 103
+  },
+  {
+    "serial": 104,
     "name": "AXN",
     "category": "English Movie",
     "epg_id": "",
@@ -2030,7 +2044,7 @@
     "duration": "135"
   },
   {
-    "serial": 104,
+    "serial": 105,
     "name": "MoviesNow HD",
     "category": "English Movie",
     "epg_id": "",
@@ -2048,7 +2062,7 @@
     "duration": "135"
   },
   {
-    "serial": 105,
+    "serial": 106,
     "name": "Sangeet Bangla tv",
     "category": "Music",
     "epg_id": "",
@@ -2066,7 +2080,7 @@
     "duration": "135"
   },
   {
-    "serial": 106,
+    "serial": 107,
     "name": "Music India tv",
     "category": "Music",
     "epg_id": "",
@@ -2084,7 +2098,7 @@
     "duration": "135"
   },
   {
-    "serial": 107,
+    "serial": 108,
     "name": "9XM Music tv",
     "category": "Music",
     "epg_id": "",
@@ -2102,7 +2116,7 @@
     "duration": "135"
   },
   {
-    "serial": 108,
+    "serial": 109,
     "name": "8XM Music",
     "category": "Music",
     "epg_id": "",
@@ -2120,30 +2134,12 @@
     "duration": "135"
   },
   {
-    "serial": 109,
+    "serial": 110,
     "name": "Songeet Bhojpuri",
     "category": "Music",
     "epg_id": "",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10",
     "url": "https://cdn-4.pishow.tv/live/1293/master.m3u8",
-    "user_agent": "",
-    "referer": "",
-    "drm_scheme": "",
-    "drm_license": "",
-    "subtitle": "",
-    "status": "Online",
-    "failCount": 0,
-    "successCount": 0,
-    "duration_mins": 120,
-    "duration": "135"
-  },
-  {
-    "serial": 110,
-    "name": "Star Movies Selected",
-    "category": "English Movie",
-    "epg_id": "",
-    "logo": "https://exchange4media.gumlet.io/news-photo/101771-Untitleddesign15.jpg",
-    "url": "http://66.102.126.10:8000/play/a020/index.m3u8#Server 1",
     "user_agent": "",
     "referer": "",
     "drm_scheme": "",
