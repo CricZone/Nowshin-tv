@@ -7,6 +7,28 @@
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
       "team1_name": "Barbados Tridents",
       "team1_logo": "https://img.sofascore.com/api/v1/team/187795/image",
+      "team2_name": "Trinbago Knight Riders",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/187824/image",
+      "start_time": "2026-09-06 06:00:00",
+      "duration": "250",
+      "stream_url": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/y2ocxvr9hn/out/v1/a33866d566f64f52a9c6d460460e64d3/cenc.mpd|drmScheme=clearkey&drmLicense=eddd7bc446b945026204022b6395963f:e75adb7b80da458c13af3a13893bccaa#Willow Cricbuzz - FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8#SKY7 NZ HD",
+      "title": "Caribbean Premier League",
+      "team1": "Barbados Tridents",
+      "team2": "Trinbago Knight Riders",
+      "logo1": "https://img.sofascore.com/api/v1/team/187795/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/187824/image",
+      "time": "06:00 AM 06/09/2026",
+      "streams": "https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/y2ocxvr9hn/out/v1/a33866d566f64f52a9c6d460460e64d3/cenc.mpd|drmScheme=clearkey&drmLicense=eddd7bc446b945026204022b6395963f:e75adb7b80da458c13af3a13893bccaa#Willow Cricbuzz - FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8#SKY7 NZ HD",
+      "is_high_voltage": false,
+      "created_at": 1788670161592
+    },
+    {
+      "id": "ev_2",
+      "category": "Cricket",
+      "tournament": "Caribbean Premier League",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
+      "team1_name": "Barbados Tridents",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/187795/image",
       "team2_name": "Saint Lucia Kings",
       "team2_logo": "https://img.sofascore.com/api/v1/team/187825/image",
       "start_time": "2026-09-07 05:00:00",
@@ -20,10 +42,10 @@
       "time": "05:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788670117979
+      "created_at": 1788670161592
     },
     {
-      "id": "ev_2",
+      "id": "ev_3",
       "category": "Cricket",
       "tournament": "Caribbean Premier League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
@@ -42,10 +64,10 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788670117979
+      "created_at": 1788670161593
     },
     {
-      "id": "ev_3",
+      "id": "ev_4",
       "category": "Cricket",
       "tournament": "Women's Caribbean Premier League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/19389/image/dark",
@@ -64,10 +86,10 @@
       "time": "08:00 PM 06/09/2026",
       "streams": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8#SKY5 NZ HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788670117980
+      "created_at": 1788670161593
     },
     {
-      "id": "ev_4",
+      "id": "ev_5",
       "category": "Cricket",
       "tournament": "T20I Tri-Series in Namibia",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark",
@@ -86,10 +108,10 @@
       "time": "06:00 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD",
       "is_high_voltage": false,
-      "created_at": 1788670117980
+      "created_at": 1788670161593
     },
     {
-      "id": "ev_5",
+      "id": "ev_6",
       "category": "Cricket",
       "tournament": "ICC Women's Championship",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark",
@@ -108,10 +130,10 @@
       "time": "03:30 PM 06/09/2026",
       "streams": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8#SKY CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD",
       "is_high_voltage": false,
-      "created_at": 1788670117980
+      "created_at": 1788670161593
     },
     {
-      "id": "ev_6",
+      "id": "ev_7",
       "category": "Cricket",
       "tournament": "EUROPEAN T20 Premier League",
       "tournament_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10",
@@ -130,7 +152,7 @@
       "time": "03:30 PM 06/09/2026",
       "streams": "http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD",
       "is_high_voltage": false,
-      "created_at": 1788670117980
+      "created_at": 1788670161593
     }
   ]
 }
