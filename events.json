@@ -467,16 +467,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/274650/image",
       "start_time": "2026-09-06 07:30:00",
       "duration": "135",
-      "stream_url": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "stream_url": "https://chatgpt.hereisman.net/playlist/55936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE",
       "title": "MLS",
       "team1": "Real Salt Lake",
       "team2": "Los Angeles FC",
       "logo1": "https://img.sofascore.com/api/v1/team/5133/image",
       "logo2": "https://img.sofascore.com/api/v1/team/274650/image",
       "time": "07:30 AM 06/09/2026",
-      "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
+      "streams": "https://chatgpt.hereisman.net/playlist/55936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788648793980,
+      "url": "https://chatgpt.hereisman.net/playlist/55936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE"
     },
     {
       "id": "ev_22",
@@ -489,17 +490,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/2511/image",
       "start_time": "2026-09-06 07:30:00",
       "duration": "135",
-      "stream_url": "http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+      "stream_url": "https://chatgpt.hereisman.net/playlist/55938/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "title": "MLS",
       "team1": "LA Galaxy",
       "team2": "New England Revolution",
       "logo1": "https://img.sofascore.com/api/v1/team/2513/image",
       "logo2": "https://img.sofascore.com/api/v1/team/2511/image",
       "time": "07:30 AM 06/09/2026",
-      "streams": "http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
+      "streams": "https://chatgpt.hereisman.net/playlist/55938/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
       "created_at": 1788648793980,
-      "url": "http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "url": "https://chatgpt.hereisman.net/playlist/55938/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
     },
     {
       "id": "ev_23",
