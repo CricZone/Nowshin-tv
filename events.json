@@ -20,7 +20,7 @@
       "time": "03:30 PM 06/09/2026",
       "streams": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8#SKY CRICKET HD",
       "is_high_voltage": false,
-      "created_at": 1788648793979
+      "created_at": 1788659082128
     },
     {
       "id": "ev_2",
@@ -42,7 +42,7 @@
       "time": "03:30 PM 06/09/2026",
       "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxo2jociu4/out/v1/6180823d21684900a57e2fa120a6cc58/cenc.mpd|drmScheme=clearkey&drmLicense=1f0d01ac1817a13b581b0144822f4818:bb771380eea40f9a03988d3a95ad64e0#WILLOW FHD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
       "is_high_voltage": false,
-      "created_at": 1788648793979
+      "created_at": 1788659082128
     },
     {
       "id": "ev_3",
@@ -64,8 +64,7 @@
       "time": "07:40 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793979,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_4",
@@ -87,8 +86,7 @@
       "time": "07:10 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_5",
@@ -110,8 +108,7 @@
       "time": "06:10 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_6",
@@ -133,8 +130,7 @@
       "time": "05:15 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_7",
@@ -156,8 +152,7 @@
       "time": "05:15 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_8",
@@ -179,8 +174,7 @@
       "time": "05:10 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_9",
@@ -202,8 +196,7 @@
       "time": "05:10 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_10",
@@ -225,8 +218,7 @@
       "time": "05:05 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_11",
@@ -248,8 +240,7 @@
       "time": "05:05 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_12",
@@ -271,8 +262,7 @@
       "time": "04:40 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_13",
@@ -294,8 +284,7 @@
       "time": "04:40 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_14",
@@ -317,8 +306,7 @@
       "time": "04:10 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_15",
@@ -340,8 +328,7 @@
       "time": "04:05 AM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_16",
@@ -363,7 +350,7 @@
       "time": "06:00 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_17",
@@ -385,7 +372,7 @@
       "time": "06:00 PM 06/09/2026",
       "streams": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_18",
@@ -407,8 +394,7 @@
       "time": "08:30 AM 06/09/2026",
       "streams": "http://193.47.62.41/hls/idddaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "http://193.47.62.41/hls/idddaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_19",
@@ -430,8 +416,7 @@
       "time": "08:30 AM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ http://193.47.62.41/hls/idddaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ http://193.47.62.41/hls/idddaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_20",
@@ -453,8 +438,7 @@
       "time": "07:30 AM 06/09/2026",
       "streams": "http://193.47.62.41/hls/bdddQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "http://193.47.62.41/hls/bdddQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_21",
@@ -476,8 +460,7 @@
       "time": "07:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_22",
@@ -499,8 +482,7 @@
       "time": "07:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55938/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55938/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_23",
@@ -522,8 +504,7 @@
       "time": "06:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55930/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.55/hls/sfffs.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55930/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.55/hls/sfffs.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_24",
@@ -545,8 +526,7 @@
       "time": "06:30 AM 06/09/2026",
       "streams": "http://193.47.62.55/hls/sfffss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "http://193.47.62.55/hls/sfffss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_25",
@@ -568,8 +548,7 @@
       "time": "06:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55931/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55931/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_26",
@@ -591,8 +570,7 @@
       "time": "06:15 AM 06/09/2026",
       "streams": "http://162.251.160.53:8089/2698/index.m3u8#TV QUALITY $ http://193.47.62.55/hls/toooAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "http://162.251.160.53:8089/2698/index.m3u8#TV QUALITY $ http://193.47.62.55/hls/toooAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_27",
@@ -614,8 +592,7 @@
       "time": "06:00 AM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7#PREMIERE2 BR FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b#SPORT TV FHD $ http://193.47.62.55/hls/toooAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7#PREMIERE2 BR FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b#SPORT TV FHD $ http://193.47.62.55/hls/toooAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_28",
@@ -637,8 +614,7 @@
       "time": "05:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55909/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY MLS $ https://live5.ftlcbx.com/live/66299468_4f57292f9502b4502ec8bbdbc095774d_540p.m3u8?auth_key=1788665587-0-0-2e78a902eee044247487837f2d5aa55d#HD QUALITY 2 $ http://193.47.62.50/hls/YPPPQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55909/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY MLS $ https://live5.ftlcbx.com/live/66299468_4f57292f9502b4502ec8bbdbc095774d_540p.m3u8?auth_key=1788665587-0-0-2e78a902eee044247487837f2d5aa55d#HD QUALITY 2 $ http://193.47.62.50/hls/YPPPQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_29",
@@ -660,8 +636,7 @@
       "time": "05:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55917/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55917/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_30",
@@ -683,8 +658,7 @@
       "time": "05:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55903/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55903/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_31",
@@ -706,8 +680,7 @@
       "time": "05:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55910/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55910/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_32",
@@ -729,8 +702,7 @@
       "time": "05:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55916/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55916/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_33",
@@ -752,8 +724,7 @@
       "time": "05:30 AM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55919/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55919/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPPQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_34",
@@ -775,8 +746,7 @@
       "time": "05:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55912/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "https://chatgpt.hereisman.net/playlist/55912/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.50/hls/YPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_35",
@@ -798,8 +768,7 @@
       "time": "05:25 AM 06/09/2026",
       "streams": "http://193.47.62.59/hls/UVVVAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "http://193.47.62.59/hls/UVVVAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_36",
@@ -821,8 +790,7 @@
       "time": "05:10 AM 06/09/2026",
       "streams": "http://193.47.62.59/hls/UVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788648793980,
-      "url": "http://193.47.62.59/hls/UVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788659082128
     },
     {
       "id": "ev_37",
@@ -844,7 +812,7 @@
       "time": "05:00 AM 06/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_38",
@@ -866,7 +834,7 @@
       "time": "04:30 AM 06/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_39",
@@ -888,7 +856,7 @@
       "time": "04:00 AM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|drmScheme=clearkey&drmLicense=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811#FOX DEPORTES FHD $ http://162.251.160.53:8089/2698/index.m3u8#TV QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_40",
@@ -910,7 +878,7 @@
       "time": "03:30 AM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3#PREMIERER1 FHD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_41",
@@ -932,7 +900,7 @@
       "time": "03:00 AM 06/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_42",
@@ -954,7 +922,7 @@
       "time": "05:00 AM 07/09/2026",
       "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_43",
@@ -976,7 +944,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_44",
@@ -998,7 +966,7 @@
       "time": "08:00 PM 06/09/2026",
       "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_45",
@@ -1020,7 +988,7 @@
       "time": "06:00 AM 06/09/2026",
       "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_46",
@@ -1042,7 +1010,7 @@
       "time": "01:00 AM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD $ https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8#SKY9 NZ HD",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     },
     {
       "id": "ev_47",
@@ -1064,7 +1032,7 @@
       "time": "05:00 PM 11/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY F1 HD $ https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7bc44543-8d17-4126-bfaf-b43fe7318e8d/master.m3u8#SPORTSCAST FHD $ https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8#SKY3 NZ HD $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m1krjmivb8/out/v1/d7a4182f5876443db780335c40158814/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=6c2f04ed4663eb65cc9a485df47134fb:c730c81befef6f66e983abd2b7a663b3#SKY ViA APPLE TV $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dv6mgnfk44/out/v1/e1b7e90fd36b43e4abb212f5607c223f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=2931643903051b86cb1da0f2fc7fc452:3c735702318bc3df46242d0e05b07cbc#APPLE TV 4K $ http://193.47.62.41/hls/OZZZAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a#SKY F1 Italia [IT]",
       "is_high_voltage": false,
-      "created_at": 1788648793980
+      "created_at": 1788659082128
     }
   ]
 }
