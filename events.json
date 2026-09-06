@@ -20,7 +20,7 @@
       "time": "07:40 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55939/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB HD QUALITY $ http://193.47.62.41/hls/bdddQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream7.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
       "id": "ev_2",
@@ -42,54 +42,10 @@
       "time": "07:10 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55933/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLB HD QUALITY $ http://193.47.62.55/hls/sfffsssss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + HD",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
       "id": "ev_3",
-      "category": "Football",
-      "tournament": "MLS",
-      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-      "team1_name": "Portland Timbers",
-      "team1_logo": "https://img.sofascore.com/api/v1/team/22007/image",
-      "team2_name": "Minnesota United",
-      "team2_logo": "https://img.sofascore.com/api/v1/team/41618/image",
-      "start_time": "2026-09-06 08:30:00",
-      "duration": "135",
-      "stream_url": "https://chatgpt.hereisman.net/playlist/55947/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.41/hls/idddaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-      "title": "MLS",
-      "team1": "Portland Timbers",
-      "team2": "Minnesota United",
-      "logo1": "https://img.sofascore.com/api/v1/team/22007/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/41618/image",
-      "time": "08:30 AM 06/09/2026",
-      "streams": "https://chatgpt.hereisman.net/playlist/55947/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.41/hls/idddaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-      "is_high_voltage": false,
-      "created_at": 1788669191369
-    },
-    {
-      "id": "ev_4",
-      "category": "Football",
-      "tournament": "MLS",
-      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-      "team1_name": "Vancouver Whitecaps",
-      "team1_logo": "https://img.sofascore.com/api/v1/team/22010/image",
-      "team2_name": "St.Louis City",
-      "team2_logo": "https://img.sofascore.com/api/v1/team/407803/image",
-      "start_time": "2026-09-06 08:30:00",
-      "duration": "135",
-      "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55946/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.41/hls/idddaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-      "title": "MLS",
-      "team1": "Vancouver Whitecaps",
-      "team2": "St.Louis City",
-      "logo1": "https://img.sofascore.com/api/v1/team/22010/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/407803/image",
-      "time": "08:30 AM 06/09/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55946/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.41/hls/idddaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
-      "is_high_voltage": false,
-      "created_at": 1788669191369
-    },
-    {
-      "id": "ev_5",
       "category": "Football",
       "tournament": "Primera A",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
@@ -108,10 +64,10 @@
       "time": "07:30 AM 06/09/2026",
       "streams": "http://193.47.62.41/hls/bdddQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
-      "id": "ev_6",
+      "id": "ev_4",
       "category": "Football",
       "tournament": "MLS",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -130,10 +86,10 @@
       "time": "07:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55936/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
-      "id": "ev_7",
+      "id": "ev_5",
       "category": "Football",
       "tournament": "MLS",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -152,10 +108,10 @@
       "time": "07:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55938/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#MLS TV LIVE $ http://193.47.62.55/hls/sfffsssssQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
-      "id": "ev_8",
+      "id": "ev_6",
       "category": "Football",
       "tournament": "MLS",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -174,10 +130,10 @@
       "time": "06:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55930/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://193.47.62.55/hls/sfffs.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
-      "id": "ev_9",
+      "id": "ev_7",
       "category": "Football",
       "tournament": "MLS",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -196,10 +152,10 @@
       "time": "06:30 AM 06/09/2026",
       "streams": "http://193.47.62.55/hls/sfffss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
-      "id": "ev_10",
+      "id": "ev_8",
       "category": "Football",
       "tournament": "MLS",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
@@ -218,10 +174,10 @@
       "time": "06:30 AM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55931/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     },
     {
-      "id": "ev_11",
+      "id": "ev_9",
       "category": "Cricket",
       "tournament": "Caribbean Premier League",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/11167/image/dark",
@@ -240,7 +196,7 @@
       "time": "06:00 AM 06/09/2026",
       "streams": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788669191369
+      "created_at": 1788669200507
     }
   ]
 }
