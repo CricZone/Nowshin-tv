@@ -1,6 +1,28 @@
 {
   "events": [
     {
+      "id": "ev_1788674143562_6bwy55",
+      "category": "Football",
+      "tournament": "Serie A",
+      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+      "team1_name": "Parma",
+      "team1_logo": "https://img.sofascore.com/api/v1/team/2690/image",
+      "team2_name": "Monza",
+      "team2_logo": "https://img.sofascore.com/api/v1/team/2729/image",
+      "start_time": "2026-09-06 19:00:00",
+      "duration": "135",
+      "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r8zygmfesc/out/v1/2964ba7e1f7e442baa8a5fbcad27a57f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1eaa31e7b42a30b85572de9fdc18ba07:5390f254a13f883c200e51217ca3195b#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55957/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ http://193.47.62.41/hls/HOOOAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/dazn2it.m3u8#DAZN TV IT",
+      "title": "Serie A",
+      "team1": "Parma",
+      "team2": "Monza",
+      "logo1": "https://img.sofascore.com/api/v1/team/2690/image",
+      "logo2": "https://img.sofascore.com/api/v1/team/2729/image",
+      "time": "07:00 PM 06/09/2026",
+      "streams": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r8zygmfesc/out/v1/2964ba7e1f7e442baa8a5fbcad27a57f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1eaa31e7b42a30b85572de9fdc18ba07:5390f254a13f883c200e51217ca3195b#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55957/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ http://193.47.62.41/hls/HOOOAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/dazn2it.m3u8#DAZN TV IT",
+      "is_high_voltage": true,
+      "created_at": 1788756347499
+    },
+    {
       "id": "ev_1788674268084_e8g5ge",
       "category": "Other",
       "tournament": "Cycling",
@@ -20,7 +42,7 @@
       "time": "03:45 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|drmScheme=clearkey&drmLicense=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca#TNT3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd|drmScheme=clearkey&drmLicense=0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7#EUROSPORT FHD $ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd|drmScheme=clearkey&drmLicense=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d#EUROSPORT FHD $ http://193.47.62.41/hls/TNNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674228666_7jxcgq",
@@ -42,8 +64,7 @@
       "time": "04:30 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dk1f1l8kxn/out/v1/8fdd7ebf1ce1424fbc0e37def3626b0d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=c3ba89f1539996a5b52b64e69fc864bd:e206cd1d6b5ce91db2d29096c7a43678#SKY Via APPLE TV $ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zp4xsuzyqi/out/v1/be8a527ca20244fe87668c93e940a16d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=6e1bfce88fb089ef6f1fbf99af7015c6:5e241218e58a0b8238005193f5bea7fc#APPLE TV FHD $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3afw21ghsy/out/v1/33036e3e8a714eb9be05db4bf34af00d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=82efa31e463eed4cf918982412a6fb83:28b06171f8bf729ea95bd928c4bc1936#DRIVER TRACKER $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8povn01gml/out/v1/609aca47eba54637bffae19d2f6c9f38/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=75008b1110e51ef2ee24123878eab025:4c480632ffb6c183e0808cc4c4908db9#DRIVER DATA $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tnolehxzmj/out/v1/f6d1b848d7854d2b81fe1f03ddcb7243/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=e78b4607e420e20e3b5d4fe383ecc3eb:24c1e9c20510bc1a222ac2ee5ca3bac1#Mixed On-Board $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3dwsotbyhz/out/v1/86b82a00fb4944d6969400150c3243b7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dafb3280b05bdd20dc02f0df63277081:1e9ebe71ab631e0a2f1b9f6f838a8a97#P1 DRIVER FHD $ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY F1 HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.55/hls/bababa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD $ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a#SKY F1 Italia [IT] $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qpqfvjjgju/out/v1/1ea00297a76a4435b671c8f31ef2dcdb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=d93d2f49866f2dc1518967ea2a1ecda2:b28786faf0c75e080e677dfb3394b04a#APPLE TV 4K $ https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#SKY SPORTS HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8#TSN5 SPORTS FHD $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dk1f1l8kxn/out/v1/8fdd7ebf1ce1424fbc0e37def3626b0d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=c3ba89f1539996a5b52b64e69fc864bd:e206cd1d6b5ce91db2d29096c7a43678#SKY Via APPLE TV $ https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/zp4xsuzyqi/out/v1/be8a527ca20244fe87668c93e940a16d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=6e1bfce88fb089ef6f1fbf99af7015c6:5e241218e58a0b8238005193f5bea7fc#APPLE TV FHD $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3afw21ghsy/out/v1/33036e3e8a714eb9be05db4bf34af00d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=82efa31e463eed4cf918982412a6fb83:28b06171f8bf729ea95bd928c4bc1936#DRIVER TRACKER $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8povn01gml/out/v1/609aca47eba54637bffae19d2f6c9f38/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=75008b1110e51ef2ee24123878eab025:4c480632ffb6c183e0808cc4c4908db9#DRIVER DATA $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tnolehxzmj/out/v1/f6d1b848d7854d2b81fe1f03ddcb7243/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=e78b4607e420e20e3b5d4fe383ecc3eb:24c1e9c20510bc1a222ac2ee5ca3bac1#Mixed On-Board $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3dwsotbyhz/out/v1/86b82a00fb4944d6969400150c3243b7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dafb3280b05bdd20dc02f0df63277081:1e9ebe71ab631e0a2f1b9f6f838a8a97#P1 DRIVER FHD $ https://chatgpt.hereisman.net/playlist/55739/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY F1 HD $ https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8#SKY1 NZ HD $ http://193.47.62.55/hls/bababa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|drmScheme=clearkey&drmLicense=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3#SPORTS3 TV FHD $ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1788597844_f~0_g~1_s~3f4937a9-3ff1-4569-8ba1-4d71267b77cc_u~fe3b84cbbdf5bc565dd1012e5306ba8dc943c4ee57b1c5b2555a972552c5c85df5468f3aaf797d103da27a492f48c64a_k~A_l~56_x~87c073c87c84cce52658823bcb030cdc/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd|drmScheme=clearkey&drmLicense=1118309a2acda72cfc3cb3cc9e047a3b:a9e90af10faf93b3c935bb0a807d285a#SKY F1 Italia [IT] $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qpqfvjjgju/out/v1/1ea00297a76a4435b671c8f31ef2dcdb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=d93d2f49866f2dc1518967ea2a1ecda2:b28786faf0c75e080e677dfb3394b04a#APPLE TV 4K $ https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#SKY SPORTS HD"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187872_y23tv3",
@@ -65,8 +86,7 @@
       "time": "08:10 AM 07/09/2026",
       "streams": "https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream6.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187872_zga6mj",
@@ -88,8 +108,7 @@
       "time": "04:20 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://edgestream5.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://edgestream5.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187872_x5ew9i",
@@ -111,7 +130,7 @@
       "time": "02:10 AM 07/09/2026",
       "streams": "https://edgestream2.pro/hls/.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187872_ly3msp",
@@ -133,8 +152,7 @@
       "time": "02:10 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://edgestream7.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://edgestream7.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187871_i4eeth",
@@ -156,8 +174,7 @@
       "time": "01:10 AM 07/09/2026",
       "streams": "https://edgestream4.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream4.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187871_dya2hv",
@@ -179,8 +196,7 @@
       "time": "12:35 AM 07/09/2026",
       "streams": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187870_3m92yd",
@@ -202,8 +218,7 @@
       "time": "12:10 AM 07/09/2026",
       "streams": "https://edgestream5.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream5.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187870_651ss7",
@@ -225,8 +240,7 @@
       "time": "12:10 AM 07/09/2026",
       "streams": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187870_wa17o2",
@@ -248,8 +262,7 @@
       "time": "11:40 PM 06/09/2026",
       "streams": "https://edgestream5.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream5.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187870_echv3l",
@@ -271,8 +284,7 @@
       "time": "11:40 PM 06/09/2026",
       "streams": "https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187870_u2k591",
@@ -294,8 +306,7 @@
       "time": "11:40 PM 06/09/2026",
       "streams": "https://edgestream5.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream5.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187869_befsvh",
@@ -317,8 +328,7 @@
       "time": "11:35 PM 06/09/2026",
       "streams": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187869_wywar9",
@@ -340,8 +350,7 @@
       "time": "11:35 PM 06/09/2026",
       "streams": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187869_0gra6v",
@@ -363,8 +372,7 @@
       "time": "11:10 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b#TNT2 SPORTS HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0#TSN2 SPORTS FHD $ https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + LIVE"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674187869_2oaey3",
@@ -386,8 +394,7 @@
       "time": "10:10 PM 06/09/2026",
       "streams": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#STREAM TV + MLB"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_jb1lta",
@@ -409,8 +416,7 @@
       "time": "04:15 AM 07/09/2026",
       "streams": "http://162.251.160.53:8089/1501/index.m3u8#LIGA PROF TV $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://162.251.160.53:8089/1501/index.m3u8#LIGA PROF TV $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_eo9m9p",
@@ -432,7 +438,7 @@
       "time": "03:30 AM 07/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_kcf1xj",
@@ -454,7 +460,7 @@
       "time": "03:30 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|drmScheme=clearkey&drmLicense=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f#PREMIER1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3#PREMIERER1 FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_fdn4ue",
@@ -476,7 +482,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_downzx",
@@ -498,7 +504,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://file.genoads.com/ch1.m3u8#STREAM TV + LIVE",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_2gtjyl",
@@ -520,7 +526,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|drmScheme=clearkey&drmLicense=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3#PREMIERER1 FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_poeu23",
@@ -542,7 +548,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|drmScheme=clearkey&drmLicense=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8#SportDigital Fussball $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|drmScheme=clearkey&drmLicense=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8#PREMIERER3 FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_9f9boy",
@@ -564,8 +570,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281#BeIN1 SPORTSFHD $ http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281#BeIN1 SPORTSFHD $ http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_zf3n5x",
@@ -587,8 +592,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTSFHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LALIGA TV",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTSFHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LALIGA TV"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_nhazg1",
@@ -610,8 +614,7 @@
       "time": "12:45 AM 07/09/2026",
       "streams": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE TV + HD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ http://162.251.160.53:8089/6690/index.m3u8#SD QUALITY $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE TV + HD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ http://162.251.160.53:8089/6690/index.m3u8#SD QUALITY $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143564_vpj4yw",
@@ -633,7 +636,7 @@
       "time": "12:45 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_p7pwqv",
@@ -655,7 +658,7 @@
       "time": "12:30 AM 07/09/2026",
       "streams": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN1 ES HD $ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#RM TV + 🇪🇸 $ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8#RM TV",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_v8yxf0",
@@ -677,7 +680,7 @@
       "time": "11:30 PM 06/09/2026",
       "streams": "",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_g8pw3f",
@@ -699,8 +702,7 @@
       "time": "10:31 PM 06/09/2026",
       "streams": "http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_0x84vq",
@@ -722,7 +724,7 @@
       "time": "10:30 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281#BeIN1 SPORTSFHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8#DAZN1 DE HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_9sz2zp",
@@ -744,7 +746,7 @@
       "time": "10:30 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_92eiwk",
@@ -766,7 +768,7 @@
       "time": "10:00 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv4.m3u8#SPORTS4 TV HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_sfo99r",
@@ -788,8 +790,7 @@
       "time": "09:30 PM 06/09/2026",
       "streams": "http://162.251.160.53:8089/7410/index.m3u8#SD QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://162.251.160.53:8089/7410/index.m3u8#SD QUALITY"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_1q2c81",
@@ -811,8 +812,7 @@
       "time": "09:30 PM 06/09/2026",
       "streams": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - FHD $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - SD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT HD $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ http://c8.vfruitfairy.com/1501/index.m3u8#SD QUALITY $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0|drmScheme=clearkey&drmLicense=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc#FUBO SPORTS FHD $ https://tmaxapp.site/stan4s6c/stan1.m3u8#STAN SPORTS",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - FHD $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - SD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT HD $ https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8#USA NETWROK HD $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ http://c8.vfruitfairy.com/1501/index.m3u8#SD QUALITY $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0|drmScheme=clearkey&drmLicense=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc#FUBO SPORTS FHD $ https://tmaxapp.site/stan4s6c/stan1.m3u8#STAN SPORTS"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_574dpm",
@@ -834,7 +834,7 @@
       "time": "09:15 PM 06/09/2026",
       "streams": "",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_2wo979",
@@ -856,8 +856,7 @@
       "time": "09:15 PM 06/09/2026",
       "streams": "https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  TV + HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ http://162.251.160.53:8089/6690/index.m3u8#SD QUALITY $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://tmaxapp.site/pt658svs/sporttv3.m3u8#SPORTS3 TV HD $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  TV + HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ http://162.251.160.53:8089/6690/index.m3u8#SD QUALITY $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_dxkxv7",
@@ -879,8 +878,7 @@
       "time": "08:16 PM 06/09/2026",
       "streams": "http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_2ihr8a",
@@ -902,8 +900,7 @@
       "time": "08:15 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LALIGA TV",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3#D SPORTS + FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19#PREMIERE2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE FHD $ https://tmaxapp.site/ligue6sc6/mlaliga1.m3u8#M+ LALIGA TV"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_jx1ehp",
@@ -925,7 +922,7 @@
       "time": "08:00 PM 06/09/2026",
       "streams": "",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_0d5m5e",
@@ -947,7 +944,7 @@
       "time": "07:45 PM 06/09/2026",
       "streams": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd|drmScheme=clearkey&drmLicense=e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a#AD1 SPORTS FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_1haqsg",
@@ -969,7 +966,7 @@
       "time": "07:30 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281#BeIN1 SPORTSFHD $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd|drmScheme=clearkey&drmLicense=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d#ESPN3 SPORTS FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_b8mj0b",
@@ -991,8 +988,7 @@
       "time": "07:00 PM 06/09/2026",
       "streams": "http://193.47.62.41/hls/HOOOAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://193.47.62.41/hls/HOOOAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_5baixx",
@@ -1014,8 +1010,7 @@
       "time": "07:00 PM 06/09/2026",
       "streams": "http://193.47.62.41/hls/HOOOAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://193.47.62.41/hls/HOOOAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143563_u94fek",
@@ -1037,8 +1032,7 @@
       "time": "07:00 PM 06/09/2026",
       "streams": "http://193.47.62.41/hls/HOOOAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://193.47.62.41/hls/HOOOAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_j65ddq",
@@ -1060,8 +1054,7 @@
       "time": "07:00 PM 06/09/2026",
       "streams": "http://193.47.62.41/hls/HOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://193.47.62.41/hls/HOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_e4061c",
@@ -1083,31 +1076,7 @@
       "time": "07:00 PM 06/09/2026",
       "streams": "https://chatgpt.hereisman.net/playlist/55961/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://live.vivo200.com/live/hd-en-1-4550868.m3u8?txSecret=942822680411379b3b39c8603c7696b5&txTime=6A9D76CA|Referer=https://player.787200.com/#HD QUALITY 2 $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ http://162.251.160.53:8089/6690/index.m3u8#SD QUALITY $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://chatgpt.hereisman.net/playlist/55961/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://live.vivo200.com/live/hd-en-1-4550868.m3u8?txSecret=942822680411379b3b39c8603c7696b5&txTime=6A9D76CA|Referer=https://player.787200.com/#HD QUALITY 2 $ https://tmaxapp.site/ligue6sc6/ligue1.m3u8#LIGUE  + HD $ https://tmaxapp.site/pt658svs/sporttv5.m3u8#SPORTS5 TV HD $ https://edgestream7.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#LIGUE1 + HD $ http://162.251.160.53:8089/6690/index.m3u8#SD QUALITY $ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#Beix Sports XTRA $ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#beiN ES HD"
-    },
-    {
-      "id": "ev_1788674143562_6bwy55",
-      "category": "Football",
-      "tournament": "Serie A",
-      "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-      "team1_name": "Parma",
-      "team1_logo": "https://img.sofascore.com/api/v1/team/2690/image",
-      "team2_name": "Monza",
-      "team2_logo": "https://img.sofascore.com/api/v1/team/2729/image",
-      "start_time": "2026-09-06 19:00:00",
-      "duration": "135",
-      "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r8zygmfesc/out/v1/2964ba7e1f7e442baa8a5fbcad27a57f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1eaa31e7b42a30b85572de9fdc18ba07:5390f254a13f883c200e51217ca3195b#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55957/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ http://193.47.62.41/hls/HOOOAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/dazn2it.m3u8#DAZN TV IT",
-      "title": "Serie A",
-      "team1": "Parma",
-      "team2": "Monza",
-      "logo1": "https://img.sofascore.com/api/v1/team/2690/image",
-      "logo2": "https://img.sofascore.com/api/v1/team/2729/image",
-      "time": "07:00 PM 06/09/2026",
-      "streams": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r8zygmfesc/out/v1/2964ba7e1f7e442baa8a5fbcad27a57f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1eaa31e7b42a30b85572de9fdc18ba07:5390f254a13f883c200e51217ca3195b#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55957/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ http://193.47.62.41/hls/HOOOAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/dazn2it.m3u8#DAZN TV IT",
-      "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/r8zygmfesc/out/v1/2964ba7e1f7e442baa8a5fbcad27a57f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1eaa31e7b42a30b85572de9fdc18ba07:5390f254a13f883c200e51217ca3195b#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55957/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#CBS SPORTS HD $ https://tmaxapp.site/pt658svs/sporttv2.m3u8#SPORTS2 TV HD $ http://193.47.62.41/hls/HOOOAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/dazn2it.m3u8#DAZN TV IT"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_zjl3ah",
@@ -1129,8 +1098,7 @@
       "time": "07:00 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gxj2dtmh4b/out/v1/0a659a0402534b538692b334006d0562/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=577ea2a4d6c920ee97018fc198ec99c7:8a3c772c44bac738cf789830a7c1b8b1#PARAMOUNT+ (EN/IT) $ https://chatgpt.hereisman.net/playlist/55959/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://162.251.160.53:8089/5690/index.m3u8#TV QUALITY $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ http://193.47.62.41/hls/HOOOAAAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gxj2dtmh4b/out/v1/0a659a0402534b538692b334006d0562/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=577ea2a4d6c920ee97018fc198ec99c7:8a3c772c44bac738cf789830a7c1b8b1#PARAMOUNT+ (EN/IT) $ https://chatgpt.hereisman.net/playlist/55959/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ http://162.251.160.53:8089/5690/index.m3u8#TV QUALITY $ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd|drmScheme=clearkey&drmLicense=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4#ESPN4 SPORTS FHD $ http://193.47.62.41/hls/HOOOAAAAAAQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://tmaxapp.site/8wirwjs76erftg/dazn1it.m3u8#DAZN TV IT"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_dzyvr0",
@@ -1152,8 +1120,7 @@
       "time": "07:00 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0|drmScheme=clearkey&drmLicense=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc#FUBO SPORTS FHD $ https://deniacdn.com/starhub/HubPremier1.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b#HUB PREMIER FHD $ https://chatgpt.hereisman.net/playlist/55958/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - FHD $ https://live.vivo200.com/live/hd-en-1-4558521.m3u8?txSecret=3cdbb851b00bef4515c7768fe47acced&txTime=6A9D7661|Referer=https://player.787200.com/#FAST SERVER $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - SD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT HD $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#USA NETWORK HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN 1 ES $ https://tmaxapp.site/stan4s6c/stan1.m3u8#STAN SPORTS $ http://193.47.62.59/hls/bababaZZz.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd|drmScheme=clearkey&drmLicense=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297#FOX ONE (MX VPN) $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gfk8v1lyav/out/v1/ae6e7128953d4d628b47d02efbeea00c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=be687a725b249f0de35bea50c31a4c4c:2bea5d8ce6e34c5508fbc8541010744c#Kimi Antonelli $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uive9n8fwj/out/v1/0069b1b3631c470da376d89d0745428c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=2f1284382b56090df0a7e40d518b169b:45a7a5aa59fb9d3ebf30190160c2f58b#Lando Norris $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btsk5g1lfh/out/v1/051581ec071f4bff89137cc1cba6d673/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=74f1b97dfe9b1262a399be2d9994f3cb:a1bb1be277b6488baeddabe1be3049ce#Max Verstappen $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfx4irduot/out/v1/d565f7b0d5d141afa16332d0236bf7c2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=cc753b5e91eb85ee26dc1d3e1eaeec52:6dabd222baa4065756ff8eeeff651ca8#Lewis Hamilton $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6g2iuthrrs/out/v1/ab4b9d24ec2f4751ae686d2541a45239/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=6baf74ed15dbce5b93f1a8bccfdc8038:815c11fd34a2c5692166605006cbe7b6#Charles Leclerc $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrx1zpwpp1/out/v1/1d67f93a0de541f0b231e1e1657f7ce8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1c296e57eacd40a50917f25e93af04ff:bff886b5688640ec2599e851bce54135#Pierre Gasly $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7tblxcqwhs/out/v1/c4446f8feb874f50aa263a1f92f20915/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=70f8edbef5c483848d3dd02d08c4cf26:b92ee649402d57331ac69ccaaf5534aa#Oscar Piastri $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3dwsotbyhz/out/v1/86b82a00fb4944d6969400150c3243b7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dafb3280b05bdd20dc02f0df63277081:1e9ebe71ab631e0a2f1b9f6f838a8a97#P1 Driver $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0xlw9wdf9i/out/v1/43ab774c7dc944358eaca58185ae51f3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=3596c5780518996278656ae31b7ebc7f:e2625ca6cc0797e6f796bff6f8ddd97d#P2 Driver $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vi9x8wpdub/out/v1/c82cab8534494181a9da0f5adb43708f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=b4c57442dbad998459464e9bd189b3c5:bac79a2b8332c3cee6da7dc3cf2fdde3#P3 Driver",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u3yyxpyqxr/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0|drmScheme=clearkey&drmLicense=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc#FUBO SPORTS FHD $ https://deniacdn.com/starhub/HubPremier1.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b#HUB PREMIER FHD $ https://chatgpt.hereisman.net/playlist/55958/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#HD QUALITY $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - FHD $ https://live.vivo200.com/live/hd-en-1-4558521.m3u8?txSecret=3cdbb851b00bef4515c7768fe47acced&txTime=6A9D7661|Referer=https://player.787200.com/#FAST SERVER $ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0#SKY SPORTS EPL - SD $ https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8#SKY MAIN EVENT HD $ https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8#SKY8 NZ HD $ https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online#USA NETWORK HD $ https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN 1 ES $ https://tmaxapp.site/stan4s6c/stan1.m3u8#STAN SPORTS $ http://193.47.62.59/hls/bababaZZz.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/worucjnctz/out/v1/20ac5ecdc9b848dc92e7f1188bdf6ff6/cenc.mpd|drmScheme=clearkey&drmLicense=8ec2e6248abe2e10e16e439c9b85ffd8:f121b015c2a5197828355fb6a874c297#FOX ONE (MX VPN) $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gfk8v1lyav/out/v1/ae6e7128953d4d628b47d02efbeea00c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=be687a725b249f0de35bea50c31a4c4c:2bea5d8ce6e34c5508fbc8541010744c#Kimi Antonelli $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uive9n8fwj/out/v1/0069b1b3631c470da376d89d0745428c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=2f1284382b56090df0a7e40d518b169b:45a7a5aa59fb9d3ebf30190160c2f58b#Lando Norris $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btsk5g1lfh/out/v1/051581ec071f4bff89137cc1cba6d673/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=74f1b97dfe9b1262a399be2d9994f3cb:a1bb1be277b6488baeddabe1be3049ce#Max Verstappen $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfx4irduot/out/v1/d565f7b0d5d141afa16332d0236bf7c2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=cc753b5e91eb85ee26dc1d3e1eaeec52:6dabd222baa4065756ff8eeeff651ca8#Lewis Hamilton $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6g2iuthrrs/out/v1/ab4b9d24ec2f4751ae686d2541a45239/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=6baf74ed15dbce5b93f1a8bccfdc8038:815c11fd34a2c5692166605006cbe7b6#Charles Leclerc $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrx1zpwpp1/out/v1/1d67f93a0de541f0b231e1e1657f7ce8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=1c296e57eacd40a50917f25e93af04ff:bff886b5688640ec2599e851bce54135#Pierre Gasly $ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7tblxcqwhs/out/v1/c4446f8feb874f50aa263a1f92f20915/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=70f8edbef5c483848d3dd02d08c4cf26:b92ee649402d57331ac69ccaaf5534aa#Oscar Piastri $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3dwsotbyhz/out/v1/86b82a00fb4944d6969400150c3243b7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=dafb3280b05bdd20dc02f0df63277081:1e9ebe71ab631e0a2f1b9f6f838a8a97#P1 Driver $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0xlw9wdf9i/out/v1/43ab774c7dc944358eaca58185ae51f3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=3596c5780518996278656ae31b7ebc7f:e2625ca6cc0797e6f796bff6f8ddd97d#P2 Driver $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vi9x8wpdub/out/v1/c82cab8534494181a9da0f5adb43708f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=b4c57442dbad998459464e9bd189b3c5:bac79a2b8332c3cee6da7dc3cf2fdde3#P3 Driver"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_vvv4rh",
@@ -1175,8 +1142,7 @@
       "time": "06:00 PM 06/09/2026",
       "streams": "http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV $ http://193.47.62.41/hls/AJJJ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "http://162.251.160.53:8089/1400/index.m3u8#LALIGA TV $ http://193.47.62.41/hls/AJJJ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd|drmScheme=clearkey&drmLicense=a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a#LaLiga Hypermotion"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_du9sb3",
@@ -1198,8 +1164,7 @@
       "time": "05:30 PM 06/09/2026",
       "streams": "https://live.vivo200.com/live/sd-1-4566630.m3u8?txSecret=daf0df711ab4a8924d6a8b9b9dfb172e&txTime=6A9D619C|Referer=https://player.787200.com/#HD QUALITY $ http://162.251.160.53:8089/9985/index.m3u8#SD QUALITY $ http://193.47.62.41/hls/OSSSQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://live.vivo200.com/live/sd-1-4566630.m3u8?txSecret=daf0df711ab4a8924d6a8b9b9dfb172e&txTime=6A9D619C|Referer=https://player.787200.com/#HD QUALITY $ http://162.251.160.53:8089/9985/index.m3u8#SD QUALITY $ http://193.47.62.41/hls/OSSSQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_1cs0lg",
@@ -1221,8 +1186,7 @@
       "time": "05:30 PM 06/09/2026",
       "streams": "https://live.vivo200.com/live/sd-1-4566563.m3u8?txSecret=3835c34ca757f3c06f03e53e4a7590c7&txTime=6A9D6160|Referer=https://player.787200.com/#HD QUALITY $ http://162.251.160.53:8089/8952/index.m3u8#SD QUALITY $ http://193.47.62.41/hls/OSSSQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://live.vivo200.com/live/sd-1-4566563.m3u8?txSecret=3835c34ca757f3c06f03e53e4a7590c7&txTime=6A9D6160|Referer=https://player.787200.com/#HD QUALITY $ http://162.251.160.53:8089/8952/index.m3u8#SD QUALITY $ http://193.47.62.41/hls/OSSSQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_mhy2il",
@@ -1244,8 +1208,7 @@
       "time": "05:30 PM 06/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://live.vivo200.com/live/sd-1-4566575.m3u8?txSecret=3d6fcc0fef2d6941206cc8718a2a4a2c&txTime=6A9D6182|Referer=https://player.787200.com/#HD QUALITY $ http://193.47.62.41/hls/OSSSQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|drmScheme=clearkey&drmLicense=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8#BeIN2 SPORTS FHD $ https://live.vivo200.com/live/sd-1-4566575.m3u8?txSecret=3d6fcc0fef2d6941206cc8718a2a4a2c&txTime=6A9D6182|Referer=https://player.787200.com/#HD QUALITY $ http://193.47.62.41/hls/OSSSQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_h65q5h",
@@ -1267,8 +1230,7 @@
       "time": "05:00 PM 06/09/2026",
       "streams": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o5pn4cun0x/out/v1/7305bef862f54427b6be03fa317b0320/9f20286c-63bf-46a9-a5d4-aafdf2e98258-cenc.mpd?aws_sessionId=87325731-052f-4efd-905f-364fd595c8dd|drmScheme=clearkey&drmLicense=40a7587dea979364b9c75cf72ae17270:a5bdafdfa5b39e273db730600938917a#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281#BeIN1 SPORTSFHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55951/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY FOOTBALL HD $ https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8#SKY FOOTBALL HD $ http://193.47.62.59/hls/ZXXX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://193.47.62.59/hls/ZXXX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://live1.ftlcbx.com/live/72339768_14f02e5124148e259914aace88cc9b25_540p.m3u8?auth_key=1788706703-0-0-57a8e62b3e6f030e28df8b4b28a268f6#HD QUALITY",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o5pn4cun0x/out/v1/7305bef862f54427b6be03fa317b0320/9f20286c-63bf-46a9-a5d4-aafdf2e98258-cenc.mpd?aws_sessionId=87325731-052f-4efd-905f-364fd595c8dd|drmScheme=clearkey&drmLicense=40a7587dea979364b9c75cf72ae17270:a5bdafdfa5b39e273db730600938917a#PARAMOUNT+ FHD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|drmScheme=clearkey&drmLicense=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281#BeIN1 SPORTSFHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|drmScheme=clearkey&drmLicense=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861#CBS SPORTS FHD $ https://chatgpt.hereisman.net/playlist/55951/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net#SKY FOOTBALL HD $ https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8#SKY FOOTBALL HD $ http://193.47.62.59/hls/ZXXX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ http://193.47.62.59/hls/ZXXX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN) $ https://live1.ftlcbx.com/live/72339768_14f02e5124148e259914aace88cc9b25_540p.m3u8?auth_key=1788706703-0-0-57a8e62b3e6f030e28df8b4b28a268f6#HD QUALITY"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143562_le0yfi",
@@ -1290,8 +1252,7 @@
       "time": "04:00 PM 06/09/2026",
       "streams": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN1 ES HD $ http://193.47.62.41/hls/FPPPAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://tmaxapp.site/8wirwjs76erftg/dazn1es.m3u8#DAZN1 ES HD $ http://193.47.62.41/hls/FPPPAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788674143561_lzr3fg",
@@ -1313,7 +1274,7 @@
       "time": "03:00 PM 06/09/2026",
       "streams": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8#RM TV + 🇪🇸 $ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8#RM TV",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788670114526_h5x29o",
@@ -1335,7 +1296,7 @@
       "time": "05:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788670114526_x3nmfa",
@@ -1357,7 +1318,7 @@
       "time": "01:00 AM 07/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749#TNT1 SPORTS FHD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347500
     },
     {
       "id": "ev_1788670114526_c1w9vu",
@@ -1379,7 +1340,7 @@
       "time": "08:00 PM 06/09/2026",
       "streams": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz8cas5df.m3u8#SKY5 NZ HD $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW HD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347501
     },
     {
       "id": "ev_1788670114525_jmkeu1",
@@ -1401,8 +1362,7 @@
       "time": "03:30 PM 06/09/2026",
       "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/boklt7ko2t/out/v1/05900e63d3f34094885df3060a208099/cenc.mpd|drmScheme=clearkey&drmLicense=0ee7f6ce967d4af1d584f8c25a3efddb:58976090849462fb9dc92e65cf1d9864#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/boklt7ko2t/out/v1/05900e63d3f34094885df3060a208099/cenc.mpd|drmScheme=clearkey&drmLicense=0ee7f6ce967d4af1d584f8c25a3efddb:58976090849462fb9dc92e65cf1d9864#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8#SKY CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ http://193.47.62.41/hls/FPPPAAAAAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/boklt7ko2t/out/v1/05900e63d3f34094885df3060a208099/cenc.mpd|drmScheme=clearkey&drmLicense=0ee7f6ce967d4af1d584f8c25a3efddb:58976090849462fb9dc92e65cf1d9864#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/boklt7ko2t/out/v1/05900e63d3f34094885df3060a208099/cenc.mpd|drmScheme=clearkey&drmLicense=0ee7f6ce967d4af1d584f8c25a3efddb:58976090849462fb9dc92e65cf1d9864#WILLOW ALT $ https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8#SKY CRICKET HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ http://193.47.62.41/hls/FPPPAAAAAQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788756347501
     },
     {
       "id": "ev_1788670114525_5fkeig",
@@ -1424,8 +1384,7 @@
       "time": "06:00 PM 06/09/2026",
       "streams": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788722118~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c26d0f6179ed08ff010f108ff5d77ca038d8bc744945118547444752720d1409/manifest.mpd?vcfilter=6ac27684-74f9-4b4f-80da-291bec7b471c&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A155.0)%20Gecko%2F20100101%20Firefox%2F155.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c#ICC TV FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945,
-      "url": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788722118~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c26d0f6179ed08ff010f108ff5d77ca038d8bc744945118547444752720d1409/manifest.mpd?vcfilter=6ac27684-74f9-4b4f-80da-291bec7b471c&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A155.0)%20Gecko%2F20100101%20Firefox%2F155.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com|drmScheme=clearkey&drmLicense=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c#ICC TV FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|drmScheme=clearkey&drmLicense=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca#FANCODE1 FHD $ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|drmScheme=clearkey&drmLicense=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835#FANCODE FHD"
+      "created_at": 1788756347501
     },
     {
       "id": "ev_1788670114525_4lzyge",
@@ -1447,7 +1406,7 @@
       "time": "03:30 PM 06/09/2026",
       "streams": "http://tvsen5.aynascope.net/willowhd/index.m3u8#Willow Cricbuzz - HD $ https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247#WILLOW SPORTS $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD $ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408#TNT4 SPORTS FHD",
       "is_high_voltage": false,
-      "created_at": 1788674271945
+      "created_at": 1788756347501
     }
   ]
 }
