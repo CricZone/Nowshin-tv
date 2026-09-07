@@ -1,8 +1,8 @@
 {
   "version_code": 1,
-  "version_name": "2.6",
-  "title": " দ্রুত আপডেট করুন",
-  "changelog": "দয়া করে সবাই এপসটি আপডেট করে ফেলুন তা না হলে 2.6 ভার্সন এ কিছু দেখতে পারবেন না ",
+  "version_name": "2.7",
+  "title": "Apps Updated Available ",
+  "changelog": "Old App Discontinued!\n\n Download New App",
   "download_url": "https://github.com/CricZone/Apps-Downloder/releases/download/v2.7/BDStreamHub-debug.apk",
   "force_update": true
 }
