@@ -1,19 +1,20 @@
 [
-{
-  "serial": 1,
-  "name": "⚠️ Old App Discontinued! Download New App Notice",
-  "category": "Announcement",
-  "epg_id": "",
-  "logo": "https://i.postimg.cc/0Qs5rKL8/app-logo.png",
-  "url": "https://files.catbox.moe/65jb4w.mp4",
-  "user_agent": "Mozilla/5.0 (Iphone by BDStreamHub)",
-  "referer": "https://files.catbox.moe/",
-  "drm_scheme": "",
-  "drm_license": "",
-  "subtitle": "",
-  "status": "Online",
-  "failCount": 0,
-  "successCount": 0,
-  "duration_mins": 1,
-  "duration": "15s"
-}
+  {
+    "serial": 1,
+    "name": "⚠️ Old App Discontinued! Download New App Notice",
+    "category": "Announcement",
+    "epg_id": "",
+    "logo": "https://i.postimg.cc/0Qs5rKL8/app-logo.png",
+    "url": "https://files.catbox.moe/65jb4w.mp4",
+    "user_agent": "Mozilla/5.0 (Iphone by BDStreamHub)",
+    "referer": "https://files.catbox.moe/",
+    "drm_scheme": "",
+    "drm_license": "",
+    "subtitle": "",
+    "status": "Online",
+    "failCount": 0,
+    "successCount": 0,
+    "duration_mins": 1,
+    "duration": "15s"
+  }
+]
