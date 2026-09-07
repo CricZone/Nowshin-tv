@@ -1,10 +1,8 @@
-#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Old App Discontinued! Download New App Notice vs Old App Discontinued! Download New App Notice" tvg-logo="https://i.postimg.cc/0Qs5rKL8/app-logo.png" group-title="Live Event",Old App Discontinued! Download New App Notice vs Old App Discontinued! Download New App Notice
 https://files.catbox.moe/65jb4w.mp4|referer=https://files.catbox.moe/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1
 
 #EXTINF:-1 tvg-id="1" tvg-name="⚠️ Old App Discontinued! Download New App Notice" tvg-logo="https://i.postimg.cc/0Qs5rKL8/app-logo.png" group-title="Announcement",⚠️ Old App Discontinued! Download New App Notice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Iphone by BDStreamHub)
-#EXTVLCOPT:http-referrer=https://files.catbox.moe/
 https://files.catbox.moe/65jb4w.mp4
 

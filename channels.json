@@ -21,7 +21,9 @@
     "is_high_voltage": false,
     "is_event": true,
     "status": "Online",
-    "created_at": 1788772886960
+    "created_at": 1788772886960,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 1,
