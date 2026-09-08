@@ -21,7 +21,9 @@
     "is_event": true,
     "url": "https://files.catbox.moe/65jb4w.mp4|referer=https://files.catbox.moe/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1",
     "status": "Online",
-    "created_at": 1788835999079
+    "created_at": 1788835999079,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 2,
@@ -45,7 +47,9 @@
     "is_event": true,
     "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD",
     "status": "Online",
-    "created_at": 1788835999079
+    "created_at": 1788835999079,
+    "failCount": 0,
+    "successCount": 0
   },
   {
     "serial": 3,
@@ -904,7 +908,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0,
     "duration_mins": 120,
@@ -922,7 +926,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0,
     "duration_mins": 120,
@@ -1588,7 +1592,7 @@
     "drm_scheme": "",
     "drm_license": "",
     "subtitle": "",
-    "status": "Offline",
+    "status": "Online",
     "failCount": 0,
     "successCount": 0,
     "duration_mins": 120,

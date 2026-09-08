@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.stream.com/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="1" tvg-name="Old App Discontinued! Download New App Notice vs Old App Discontinued! Download New App Notice" tvg-logo="https://i.postimg.cc/0Qs5rKL8/app-logo.png" group-title="Live Event",Old App Discontinued! Download New App Notice vs Old App Discontinued! Download New App Notice
 https://files.catbox.moe/65jb4w.mp4|referer=https://files.catbox.moe/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1
@@ -19,8 +19,6 @@ https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/BTV_NEWS.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-name="Alpona Tv" tvg-logo="https://alponatvbd.com/storage/logo//alpona-tv-6/alpona-tv_large.webp" group-title="Bangladeshi",Alpona Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Iphone by BDStreamHub)
-#EXTVLCOPT:http-referrer=https://statiics.ncare.live/
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="8" tvg-name="Sonsad Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x95285" group-title="Bangladeshi",Sonsad Tv
@@ -54,8 +52,6 @@ https://bdstream.bdstreamhubiptv.workers.dev/Nagorik_Tv.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-name="My Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8IBPtcC5GG1ZY5E7msRoUdKQ40Alc86zcZUbawHdkwnbAiA40NWjuRk&s" group-title="Bangladeshi",My Tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Iphone by BDStreamHub)
-#EXTVLCOPT:http-referrer=https://statiics.ncare.live/
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="19" tvg-name="Ntv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0dzUpms_uw0Iw1JEYdh6u_k15hM8UOtU6g6jIYgoNMA&s=10" group-title="BD News",Ntv
@@ -63,9 +59,6 @@ https://bdstream.bdstreamhubiptv.workers.dev/NTV.m3u8
 
 #EXTINF:-1 tvg-id="20" tvg-name="Bijoy tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_rCL8KlZ4-KQq3bOdExcfV82AIcDmTtSw-UxXdk1ZshQ-EDpbopjq0P4&s" group-title="Bangladeshi",Bijoy tv
 https://bdstream.bdstreamhubiptv.workers.dev/BIJOY_TV.m3u8
-
-#EXTINF:-1 tvg-id="21" tvg-name="Asian Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5IWKBiXxlmlhmmxZS_Ewp30mNPKuzudblFHz6GKby5g&s=10" group-title="Bangladeshi",Asian Tv
-https://stream.ottplus.live/live/asian_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="22" tvg-name="Ananda Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GALRgbGLv4sTqIh4wcLUSPYjXDubii6JKASGqmX77-R1rAlQZv0AS7A&s" group-title="Bangladeshi",Ananda Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
@@ -95,8 +88,6 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://srkapp.ncare.live/flixhls/flixsrktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="31" tvg-name="Shikor tv" tvg-logo="https://shikortvcanada.com/wp-content/uploads/2025/07/Shikor-TV-Final-logo-02-1536x650.png" group-title="Bangladeshi",Shikor tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Iphone by BDStreamHub)
-#EXTVLCOPT:http-referrer=https://statiics.ncare.live/
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)
 
 #EXTINF:-1 tvg-id="32" tvg-name="G Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY_uVquVqp_sLvnRwD3F8AgqTCeOiE-iWgoepWBST-LQ&s=10" group-title="BD 24/7",G Series
@@ -109,15 +100,10 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="35" tvg-name="Galaxy TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd.png" group-title="Bangladeshi",Galaxy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Iphone by BDStreamHub)
-#EXTVLCOPT:http-referrer=https://statiics.ncare.live/
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8|referer=https://statiics.ncare.live/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1
 
 #EXTINF:-1 tvg-id="36" tvg-name="Desh tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsRG-arqZmA8Fv-M0TyIVH58XbYxLKg9z6YBoulA1b8P_ZQb9WEGKxXls&s" group-title="BD News",Desh tv
 https://bdstream.bdstreamhubiptv.workers.dev/DESH_TV.m3u8
-
-#EXTINF:-1 tvg-id="37" tvg-name="Channel 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMr5Vso0imMvRabkLuRt3mzrpnx8ZMsUGqm8OnV4XUDA&s=10" group-title="BD News",Channel 1
-https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="38" tvg-name="Jago News Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="BD News",Jago News Tv
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
@@ -130,9 +116,6 @@ https://bdstream.bdstreamhubiptv.workers.dev/ATN_NEWS.m3u8
 
 #EXTINF:-1 tvg-id="41" tvg-name="Atn Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSoDCAayRZYYLdJ3Mpb2IxX1LcHo0u2E-X7VuP_PtmzQ&s=10" group-title="BD News",Atn Bangla
 https://bdstream.bdstreamhubiptv.workers.dev/ATN_BANGLA.m3u8
-
-#EXTINF:-1 tvg-id="42" tvg-name="Independent News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWGPHZGAcFNW5XonE9sCDgnu6bxRDd3egUIDvsJeNLg&s=10" group-title="BD News",Independent News
-https://stream.ottplus.live/live/independent_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-id="43" tvg-name="Ekttor Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjE7f0aJxSS-mAtRUplbznzz2N6ECwgMpxvsyCe-9ig&s=10" group-title="BD News",Ekttor Tv
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/tracks-v1a1/mono.ts.m3u8
@@ -224,9 +207,6 @@ https://bdstream.bdstreamhubiptv.workers.dev/SONY_YAY.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="Tom & Jery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX-zUOCN3IoPH58lgtqzn8x-Ughm4JNYWANnpNKCbaYA&s=10" group-title="Cartoon",Tom & Jery
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-name="Khusboo bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrncxVfeDcln2d4eHI5XL4tXkIP64M6OBtkYjslCPA-Q&s=10" group-title="Cartoon",Khusboo bangla
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-
 #EXTINF:-1 tvg-id="74" tvg-name="ZB Cartoon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfyoiK0AGw4_tmNbbk1DVh0OD_DcCRGXQ45dNkYfD8Mw&s=10" group-title="Cartoon",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 
@@ -234,8 +214,6 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/Jungli_Book.m3u8
 
 #EXTINF:-1 tvg-id="76" tvg-name="Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnNSCsHTEBwPxabFaYYdTo1980tTIgl_SPug&s" group-title="Cartoon",Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 
 #EXTINF:-1 tvg-id="77" tvg-name="Star Plus" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1silPFWva7RrfczizfAKhJVVumBHxHohCevEJMXUmg&s" group-title="Hindi Serial",Star Plus
@@ -305,8 +283,6 @@ https://bdstream.bdstreamhubiptv.workers.dev/Sony_Max.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/GOLOD_SELECT.m3u8
 
 #EXTINF:-1 tvg-id="99" tvg-name="Sun Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWSZxtLwZ_v9QTjQH7zx0xqfLyDxUswmjTf7ZCZ-AU3A&s=10" group-title="Hindi Serial",Sun Tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd?|drmScheme=clearkey&drmLicense=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 
 #EXTINF:-1 tvg-id="100" tvg-name="Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmjwfxVfDXFVUVhzUzaEfWqI_uw9xzP-BLJMnrxlqGXw&s=10" group-title="Documentary",Discovery
@@ -322,23 +298,16 @@ https://bdstream.bdstreamhubiptv.workers.dev/ANIMAL_PLANET.m3u8
 https://bdstream.bdstreamhubiptv.workers.dev/155772 NAT-GEO.m3u8
 
 #EXTINF:-1 tvg-id="104" tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2bv3niBb4yER2BgqF03b30m3FaHlRzoHtocCymX9Zw&s=10" group-title="English Movie",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 
 #EXTINF:-1 tvg-id="105" tvg-name="Star Movies Selected" tvg-logo="https://exchange4media.gumlet.io/news-photo/101771-Untitleddesign15.jpg" group-title="English Movie",Star Movies Selected
 http://66.102.126.10:8000/play/a020/index.m3u8#Server 1
 
 #EXTINF:-1 tvg-id="106" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/AXN_HD_Logo_2015.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="English Movie",AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 
 #EXTINF:-1 tvg-id="107" tvg-name="MoviesNow HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqcB1cudTC4GPZVQWuDnYrm2Bi110L6IVRPC4rm2HWLU6OQC_OOQlFVgA&s" group-title="English Movie",MoviesNow HD
 https://bdstream.bdstreamhubiptv.workers.dev/MoviewsNow.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="Sangeet Bangla tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIToTCGsL6T4O9qtFnwiSCSFL178Kmb85nkrrXFli7A&s=10" group-title="Music",Sangeet Bangla tv
-https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 #EXTINF:-1 tvg-id="109" tvg-name="Music India tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfbZBiX-2AZHX2MvJSII4mTZTM7d-oaRhZC4O5nL0xtg&s=10" group-title="Music",Music India tv
 http://103.175.73.12:8080/live/158/158_0.m3u8
@@ -348,7 +317,4 @@ http://103.175.73.12:8080/live/155/155_0.m3u8
 
 #EXTINF:-1 tvg-id="111" tvg-name="8XM Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYRDUzcjIFlBxQyRpcrg_pgvfbV4JQ8ayNRALEDAqFcw&s=10" group-title="Music",8XM Music
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8
-
-#EXTINF:-1 tvg-id="112" tvg-name="Songeet Bhojpuri" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtFbQ6cs3iakeeLahW7ZYXXYvUxG8-S30V1pete2z5hA&s=10" group-title="Music",Songeet Bhojpuri
-https://cdn-4.pishow.tv/live/1293/master.m3u8
 
