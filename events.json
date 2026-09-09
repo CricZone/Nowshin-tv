@@ -2,28 +2,6 @@
   "events": [
     {
       "id": "ev_1",
-      "category": "Announcement",
-      "tournament": "Old App Discontinued! Download New App Notice",
-      "tournament_logo": "",
-      "team1_name": "Old App Discontinued! Download New App Notice",
-      "team1_logo": "https://i.postimg.cc/0Qs5rKL8/app-logo.png",
-      "team2_name": "Old App Discontinued! Download New App Notice",
-      "team2_logo": "https://i.postimg.cc/0Qs5rKL8/app-logo.png",
-      "start_time": "2026-09-07 01:00:00",
-      "duration": "8758",
-      "stream_url": "https://files.catbox.moe/65jb4w.mp4|referer=https://files.catbox.moe/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1",
-      "title": "Old App Discontinued! Download New App Notice",
-      "team1": "Old App Discontinued! Download New App Notice",
-      "team2": "Old App Discontinued! Download New App Notice",
-      "logo1": "https://i.postimg.cc/0Qs5rKL8/app-logo.png",
-      "logo2": "https://i.postimg.cc/0Qs5rKL8/app-logo.png",
-      "time": "01:00 AM 07/09/2026",
-      "streams": "https://files.catbox.moe/65jb4w.mp4|referer=https://files.catbox.moe/&User-Agent=Mozilla/5.0 (Iphone by BDStreamHub)#Server 1",
-      "is_high_voltage": false,
-      "created_at": 1788836136483
-    },
-    {
-      "id": "ev_2",
       "category": "Football",
       "tournament": "CONMEBOL Libertadores",
       "tournament_logo": "http://api.sofascore.com/api/v1/unique-tournament/384/image/dark",
@@ -42,8 +20,7 @@
       "time": "04:00 AM 09/09/2026",
       "streams": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8#BEIN2 ARABIC HD $ http://193.47.62.41/hls/YMMMAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)",
       "is_high_voltage": false,
-      "created_at": 1788836136483,
-      "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36|drmScheme=clearkey&drmLicense=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e#BEIN3 SPORTS FHD $ https://tmaxapp.site/pt658svs/sporttv1.m3u8#SPORT TV HD $ https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8#BEIN2 ARABIC HD $ http://193.47.62.41/hls/YMMMAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/#LOW QUALITY (USE VPN)"
+      "created_at": 1788912274438
     }
   ]
 }
