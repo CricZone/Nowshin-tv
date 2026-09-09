@@ -100,16 +100,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/187754/image",
       "start_time": "2026-09-09 16:00:00",
       "duration": "495",
-      "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD",
+      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd|drmScheme=clearkey&drmLicense=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd|drmScheme=clearkey&drmLicense=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e#WILLOW ALT $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
       "title": "ICC World Test Championship",
       "team1": "England",
       "team2": "Pakistan",
       "logo1": "https://img.sofascore.com/api/v1/team/187757/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187754/image",
       "time": "04:00 PM 09/09/2026",
-      "streams": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD",
+      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd|drmScheme=clearkey&drmLicense=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd|drmScheme=clearkey&drmLicense=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e#WILLOW ALT $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD",
       "is_high_voltage": false,
-      "created_at": 1788923923397
+      "created_at": 1788923923397,
+      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd|drmScheme=clearkey&drmLicense=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e#WILLOW FHD $ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla#SKY CRICKET FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/el49ilt2iv/out/v1/262729d2402a49c081a83d907e33166c/cenc.mpd|drmScheme=clearkey&drmLicense=690201218ff23b214db738b4f9dbd0e5:3cc4af4885d71ac3cf41ed1de010156e#WILLOW ALT $ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8#FOX CRICKET HD"
     },
     {
       "id": "ev_6",
