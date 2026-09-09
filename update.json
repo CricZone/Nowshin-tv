@@ -1,8 +1,19 @@
 {
   "version_code": 1,
   "version_name": "2.7",
-  "title": "Apps Updated Available ",
+  "title": "Apps Updated Available",
   "changelog": "Old App Discontinued!\n\n Download New App",
   "download_url": "https://github.com/CricZone/Apps-Downloder/releases/download/v2.7/BDStreamHub-debug.apk",
-  "force_update": false
+  "force_update": false,
+  "app_name": "BDStreamHub",
+  "app_size": "12.41 MB",
+  "developer": "BDS TEAM",
+  "pricing": "Free",
+  "requirement": "Android 5.0+",
+  "category": "Entertainment",
+  "release_date": "2025-06-25",
+  "last_update_text": "07/09/2026",
+  "mod_features": "Ads Free / Ultra HD",
+  "base_downloads": 10600,
+  "updated_at": 1788913324482
 }
