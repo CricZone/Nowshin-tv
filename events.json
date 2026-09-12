@@ -34,17 +34,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/187809/image",
       "start_time": "2026-09-10 20:30:00",
       "duration": "250",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|drmScheme=clearkey&drmLicense=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|drmScheme=clearkey&drmLicense=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV",
       "title": "Womens Asia Cup",
       "team1": "India Women",
       "team2": "Bangladesh Women",
       "logo1": "https://img.sofascore.com/api/v1/team/213119/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187809/image",
       "time": "08:30 PM 10/09/2026",
-      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|drmScheme=clearkey&drmLicense=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|drmScheme=clearkey&drmLicense=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD",
+      "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV",
       "is_high_voltage": false,
       "created_at": 1788923923397,
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|drmScheme=clearkey&drmLicense=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qdjwigiywh/out/v1/f524d603272e4527b06aef18e80d9404/cenc.mpd|drmScheme=clearkey&drmLicense=003c72c63c86f868ef211119981e5046:ca3cf9655b3dfa0a6b1d353ae7527bb0#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD"
+      "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#SERVER + TV"
     },
     {
       "id": "ev_3",
