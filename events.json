@@ -11,17 +11,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/187808/image",
       "start_time": "2026-09-11 20:30:00",
       "duration": "250",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd|drmScheme=clearkey&drmLicense=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd|drmScheme=clearkey&drmLicense=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
       "title": "Womens Asia Cup",
       "team1": "Sri Lanka Women",
       "team2": "Pakistan Women",
       "logo1": "https://img.sofascore.com/api/v1/team/187806/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187808/image",
       "time": "08:30 PM 11/09/2026",
-      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd|drmScheme=clearkey&drmLicense=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd|drmScheme=clearkey&drmLicense=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD",
+      "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
       "is_high_voltage": false,
       "created_at": 1788923923397,
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd|drmScheme=clearkey&drmLicense=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd|drmScheme=clearkey&drmLicense=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD"
+      "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD"
     },
     {
       "id": "ev_2",
@@ -34,17 +34,17 @@
       "team2_logo": "https://img.sofascore.com/api/v1/team/187809/image",
       "start_time": "2026-09-10 20:30:00",
       "duration": "250",
-      "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd|drmScheme=clearkey&drmLicense=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd|drmScheme=clearkey&drmLicense=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD",
+      "stream_url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
       "title": "Womens Asia Cup",
       "team1": "India Women",
       "team2": "Bangladesh Women",
       "logo1": "https://img.sofascore.com/api/v1/team/213119/image",
       "logo2": "https://img.sofascore.com/api/v1/team/187809/image",
       "time": "08:30 PM 10/09/2026",
-      "streams": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd|drmScheme=clearkey&drmLicense=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd|drmScheme=clearkey&drmLicense=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD",
+      "streams": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD",
       "is_high_voltage": false,
       "created_at": 1788923923397,
-      "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd|drmScheme=clearkey&drmLicense=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2#WILLOW FHD $ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gmdaariqsc/out/v1/c6c30912e8c34d69990e658646403931/cenc.mpd|drmScheme=clearkey&drmLicense=65a3c62b676acff463b432c3d09ee266:5436e81a463d838a391634f9552140f2#WILLOW ALT $ https://tvsen7.aynascope.net/Sports1/index.m3u8#T SPORTS HD $ http://tvsen5.aynascope.net/willowhd/index.m3u8#WILLOW2 HD"
+      "url": "https://edgestream2.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center#STREAM TV + HD"
     },
     {
       "id": "ev_3",
